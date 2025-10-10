@@ -1,0 +1,55 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    "#ProductPageProductList .ItemOrj .productItem": {
+      "count": 8,
+      "usedFor": {}
+    },
+    ".productName a": {
+      "count": 8,
+      "usedFor": {}
+    },
+    "[data-original]": {
+      "count": 8,
+      "usedFor": {}
+    },
+    ".discountPrice .discountPriceSpan": {
+      "count": 8,
+      "usedFor": {}
+    }
+  },
+  "summary": {
+    "totalObjects": 8,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": "#ProductPageProductList .ItemOrj .productItem",
+        "count": 8,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".productName a",
+        "count": 8,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[data-original]",
+        "count": 8,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".discountPrice .discountPriceSpan",
+        "count": 8,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
