@@ -1,0 +1,55 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product_single": {
+      "count": 26,
+      "usedFor": {}
+    },
+    ".product_singlebody a": {
+      "count": 26,
+      "usedFor": {}
+    },
+    ".product_single img": {
+      "count": 26,
+      "usedFor": {}
+    },
+    ".priceone": {
+      "count": 26,
+      "usedFor": {}
+    }
+  },
+  "summary": {
+    "totalObjects": 26,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product_single",
+        "count": 26,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".product_singlebody a",
+        "count": 26,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".product_single img",
+        "count": 26,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".priceone",
+        "count": 26,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
