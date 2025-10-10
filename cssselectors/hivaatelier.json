@@ -1,0 +1,70 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product-card": {
+      "count": 60,
+      "usedFor": {}
+    },
+    "a.product-title": {
+      "count": 60,
+      "usedFor": {}
+    },
+    "[srcset]": {
+      "count": 60,
+      "usedFor": {}
+    },
+    ".price-list .h6.text-subdued": {
+      "count": 54,
+      "usedFor": {}
+    },
+    "span.transcy-money.b4b-vprice": {
+      "count": 1,
+      "usedFor": {}
+    },
+    ".price-list .h6.text-on-sale": {
+      "count": 5,
+      "usedFor": {}
+    }
+  },
+  "summary": {
+    "totalObjects": 60,
+    "selectorsFound": 6,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product-card",
+        "count": 60,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "a.product-title",
+        "count": 60,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[srcset]",
+        "count": 60,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".price-list .h6.text-subdued",
+        "count": 54,
+        "usedFor": [
+          "price"
+        ]
+      },
+      {
+        "selector": ".price-list .h6.text-on-sale",
+        "count": 5,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
