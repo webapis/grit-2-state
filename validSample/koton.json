@@ -1,5 +1,100 @@
 [
   {
+    "id": "51c2809d279560f92a170f6dbee45ab33fa621a28e46ec4e6f05de9e8a38a0d1",
+    "title": "Kadın Kroko Desenli Metal Aksesuarlı Suni Deri Omuz Çantası",
+    "img": [
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3140201/e6f81cfc-75fb-4854-8891-e268f3bfe6a2_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3140201/e6f81cfc-75fb-4854-8891-e268f3bfe6a2_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3140201/69744556-f7bc-48d2-9ef2-c35778c249d0_size354x464.jpg"
+    ],
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/10/10/3140201/e6f81cfc-75fb-4854-8891-e268f3bfe6a2_size354x464.jpg",
+    "link": "https://www.koton.com/kroko-desenli-metal-aksesuarli-suni-deri-omuz-cantasi-kirmizi-4080326/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2 .js-product-link.product-link",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
+    "pageURL": "https://www.koton.com/kadin-canta/",
+    "timestamp": "2025-10-11T06:19:08.442Z",
+    "processId": "mglvxivrycksd",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "suni deri çanta",
+        "metal aksesuarlı çanta",
+        "floater deri çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "metal aksesuarlı çanta",
+        "metal aksesuarlı",
+        "floater deri çanta",
+        "floater",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "999,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 999.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺999,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "a152114c0c00a9eb62c4fecd0bfe588b27641980b41f94bded71a89f2cf91d91",
     "title": "Kadın Suni Deri Düğüm Detaylı Fermuarlı Omuz Çantası",
     "img": [
@@ -22,9 +117,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.528Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 0,
+    "timestamp": "2025-10-11T06:19:08.481Z",
+    "processId": "mglvxivrycksd",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -124,9 +219,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.566Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 1,
+    "timestamp": "2025-10-11T06:19:08.515Z",
+    "processId": "mglvxivrycksd",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -230,9 +325,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.605Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 2,
+    "timestamp": "2025-10-11T06:19:08.554Z",
+    "processId": "mglvxivrycksd",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -317,11 +412,12 @@
     "id": "e558a034faf7d148ac0539a7688653e5c4b33d41c9ed75837ecdccb2da958c9f",
     "title": "Kadın Kroko Görünümlü Omuz Askılı Çapraz Çanta",
     "img": [
+      "https://ktnimg2.mncdn.com/products/2025/10/01/3138272/dc8f0b5d-3cd0-4b85-a35f-baee94e0e16e_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2025/10/01/3138272/731d2b02-8f6e-49f2-bf4a-7cd24d647d62_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/10/01/3138272/731d2b02-8f6e-49f2-bf4a-7cd24d647d62_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/10/01/3138272/dc8f0b5d-3cd0-4b85-a35f-baee94e0e16e_size354x464.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/10/01/3138272/dc8f0b5d-3cd0-4b85-a35f-baee94e0e16e_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/01/3138272/731d2b02-8f6e-49f2-bf4a-7cd24d647d62_size708x930.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/10/01/3138272/731d2b02-8f6e-49f2-bf4a-7cd24d647d62_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/10/01/3138272/dc8f0b5d-3cd0-4b85-a35f-baee94e0e16e_size354x464.jpg",
     "link": "https://www.koton.com/kroko-gorunumlu-omuz-askili-capraz-canta-siyah-4078227/",
     "videos": [],
     "productNotInStock": false,
@@ -336,9 +432,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.646Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 3,
+    "timestamp": "2025-10-11T06:19:08.596Z",
+    "processId": "mglvxivrycksd",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -437,9 +533,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.688Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 4,
+    "timestamp": "2025-10-11T06:19:08.639Z",
+    "processId": "mglvxivrycksd",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -512,12 +608,12 @@
     "id": "9fb95a64cc58afae5f8add9c724b55108cd18aafd923d918a07f1dbd3e28e12f",
     "title": "Kadın Saplı Askılı Fermuarlı Suni Deri Çapraz Çanta",
     "img": [
-      "https://ktnimg2.mncdn.com/products/2025/09/30/3137840/676fd430-f4e6-4e26-aa2a-420ba8c9c312_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/09/30/3137840/30626351-7654-4833-9d46-bd3216656a67_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/09/30/3137840/676fd430-f4e6-4e26-aa2a-420ba8c9c312_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/09/30/3137840/30626351-7654-4833-9d46-bd3216656a67_size708x930.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3137840/8dc34698-cdaa-4ad2-aaad-8145ed039f42_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3137840/f10fdf2a-2f65-45b4-a2ab-7ab1b7571e66_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3137840/8dc34698-cdaa-4ad2-aaad-8145ed039f42_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3137840/f10fdf2a-2f65-45b4-a2ab-7ab1b7571e66_size708x930.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/09/30/3137840/676fd430-f4e6-4e26-aa2a-420ba8c9c312_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/10/10/3137840/8dc34698-cdaa-4ad2-aaad-8145ed039f42_size354x464.jpg",
     "link": "https://www.koton.com/sapli-askili-fermuarli-suni-deri-capraz-canta-haki-4081922/",
     "videos": [],
     "productNotInStock": false,
@@ -532,9 +628,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.730Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 5,
+    "timestamp": "2025-10-11T06:19:08.681Z",
+    "processId": "mglvxivrycksd",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -621,12 +717,12 @@
     "id": "c3fbda11c6a870c7577e306283061d4cb132f2a5abb8e2cffdaa052993c1e877",
     "title": "Kadın Suni Deri Çapraz Çanta",
     "img": [
-      "https://ktnimg2.mncdn.com/products/2025/09/30/3137841/6029aeee-cfc3-432d-867f-03bae0b59250_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/09/30/3137841/a4719085-dc52-4d11-baa4-097acb2d480e_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/09/30/3137841/6029aeee-cfc3-432d-867f-03bae0b59250_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/09/30/3137841/a4719085-dc52-4d11-baa4-097acb2d480e_size708x930.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3137841/889a3ce1-b420-454d-a4ec-195ab457f300_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3137841/1a452ed7-587f-4305-8b23-90300147f17f_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3137841/889a3ce1-b420-454d-a4ec-195ab457f300_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/10/10/3137841/1a452ed7-587f-4305-8b23-90300147f17f_size708x930.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/09/30/3137841/6029aeee-cfc3-432d-867f-03bae0b59250_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/10/10/3137841/889a3ce1-b420-454d-a4ec-195ab457f300_size354x464.jpg",
     "link": "https://www.koton.com/suni-deri-capraz-canta-kahve-4073258/",
     "videos": [],
     "productNotInStock": false,
@@ -641,9 +737,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.772Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 6,
+    "timestamp": "2025-10-11T06:19:08.722Z",
+    "processId": "mglvxivrycksd",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -713,6 +809,400 @@
     }
   },
   {
+    "id": "35adcc401b8f0133518c3978920967760f16e43cdce204b1618c17538507b8c8",
+    "title": "Kadın Suni Deri Bölmeli Saplı Askılı Tote Çanta",
+    "img": [
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135719/779751e0-e984-4f0d-b9fc-28623245a3df_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135719/e4a051d2-3624-440d-897a-e2b3f82f8718_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135719/779751e0-e984-4f0d-b9fc-28623245a3df_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135719/e4a051d2-3624-440d-897a-e2b3f82f8718_size708x930.jpg"
+    ],
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/09/18/3135719/779751e0-e984-4f0d-b9fc-28623245a3df_size354x464.jpg",
+    "link": "https://www.koton.com/suni-deri-bolmeli-sapli-askili-tote-canta-taba-4070267/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2 .js-product-link.product-link",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
+    "pageURL": "https://www.koton.com/kadin-canta/",
+    "timestamp": "2025-10-11T06:19:08.763Z",
+    "processId": "mglvxivrycksd",
+    "index": 8,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "suni deri çanta",
+        "tote çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "floater deri çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "tote çanta",
+        "tote",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "floater deri çanta",
+        "floater",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "999,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 999.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺999,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "8f36eac7828a229559c8a9b74a469c3b24c5d1555b99dc72718219537c35beef",
+    "title": "Kadın Örgü Dokulu Metal Tokalı Saplı Askılı Omuz Çantası",
+    "img": [
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135699/71e824d8-4cb0-4bd5-9cfe-2931d7926740_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135699/b90e8dff-14cb-4394-9b59-f51dfa7593e4_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135699/71e824d8-4cb0-4bd5-9cfe-2931d7926740_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135699/b90e8dff-14cb-4394-9b59-f51dfa7593e4_size708x930.jpg"
+    ],
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/09/18/3135699/71e824d8-4cb0-4bd5-9cfe-2931d7926740_size354x464.jpg",
+    "link": "https://www.koton.com/orgu-dokulu-metal-tokali-sapli-askili-omuz-cantasi-kahve-4078236/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2 .js-product-link.product-link",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
+    "pageURL": "https://www.koton.com/kadin-canta/",
+    "timestamp": "2025-10-11T06:19:08.805Z",
+    "processId": "mglvxivrycksd",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta",
+        "okul çantası",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "okul çantası",
+        "okul",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5fb83fb7c2b888ec33988ba90440ade28153fd2d693551cad2d8ae1d9ecd79ac",
+    "title": "Kadın Metal Aksesuarlı Saplı Suni Deri Büyük Tote Çanta",
+    "img": [
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135716/ff2315d4-8a42-4894-ab91-58b5f7052bd6_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135716/7a9c6e75-dded-44fc-af08-07052d39c629_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135716/ff2315d4-8a42-4894-ab91-58b5f7052bd6_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/09/18/3135716/7a9c6e75-dded-44fc-af08-07052d39c629_size708x930.jpg"
+    ],
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/09/18/3135716/ff2315d4-8a42-4894-ab91-58b5f7052bd6_size354x464.jpg",
+    "link": "https://www.koton.com/metal-aksesuarli-sapli-suni-deri-buyuk-tote-canta-siyah-4077647/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2 .js-product-link.product-link",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
+    "pageURL": "https://www.koton.com/kadin-canta/",
+    "timestamp": "2025-10-11T06:19:08.848Z",
+    "processId": "mglvxivrycksd",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "büyük çanta",
+        "deri çanta",
+        "suni deri çanta",
+        "metal aksesuarlı çanta",
+        "tote çanta",
+        "floater deri çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "metal aksesuarlı çanta",
+        "metal aksesuarlı",
+        "tote çanta",
+        "tote",
+        "floater deri çanta",
+        "floater",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.199,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1199.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.199,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ef989bd3fd57cfd7058a765a123cd0b3bb6d874dd055b829fba3668074b9528a",
+    "title": "Kadın Suni Deri Yılan Derisi Desenli Omuz Çantası",
+    "img": [
+      "https://ktnimg2.mncdn.com/products/2025/08/18/3125054/974460ae-52e8-425b-95ad-e4f4ba46411f_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/08/18/3125054/def69932-d6e6-402f-83b6-d4cbe2522bfa_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/08/18/3125054/974460ae-52e8-425b-95ad-e4f4ba46411f_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/08/18/3125054/def69932-d6e6-402f-83b6-d4cbe2522bfa_size708x930.jpg"
+    ],
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/08/18/3125054/974460ae-52e8-425b-95ad-e4f4ba46411f_size354x464.jpg",
+    "link": "https://www.koton.com/suni-deri-yilan-derisi-desenli-omuz-cantasi-ekru-4082111/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2 .js-product-link.product-link",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
+    "pageURL": "https://www.koton.com/kadin-canta/",
+    "timestamp": "2025-10-11T06:19:08.882Z",
+    "processId": "mglvxivrycksd",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "suni deri çanta",
+        "yılan derisi desenli çanta",
+        "floater deri çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "yılan derisi desenli çanta",
+        "yılan derisi desenli",
+        "floater deri çanta",
+        "floater",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "1325aee01558d6753275c5726db0614a7c4ca3aff58fe5159e1acb72108976a2",
     "title": "Kadın Suni Deri Saplı Metal Tokalı Omuz Çantası",
     "img": [
@@ -736,9 +1226,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.813Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 7,
+    "timestamp": "2025-10-11T06:19:08.924Z",
+    "processId": "mglvxivrycksd",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -788,16 +1278,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.199,99 TL",
+          "value": "1.299,99 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1199.99,
+          "numericValue": 1299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.199,99"
+          "displayPrice": "₺1.299,99"
         }
       ],
       "priceValid": true,
@@ -829,9 +1319,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.855Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 8,
+    "timestamp": "2025-10-11T06:19:08.964Z",
+    "processId": "mglvxivrycksd",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -924,9 +1414,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.897Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 9,
+    "timestamp": "2025-10-11T06:19:09.004Z",
+    "processId": "mglvxivrycksd",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1011,9 +1501,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.936Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 10,
+    "timestamp": "2025-10-11T06:19:09.059Z",
+    "processId": "mglvxivrycksd",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -1120,9 +1610,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:26.979Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 11,
+    "timestamp": "2025-10-11T06:19:09.101Z",
+    "processId": "mglvxivrycksd",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1214,9 +1704,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.021Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 12,
+    "timestamp": "2025-10-11T06:19:09.146Z",
+    "processId": "mglvxivrycksd",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1306,9 +1796,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.059Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 13,
+    "timestamp": "2025-10-11T06:19:09.188Z",
+    "processId": "mglvxivrycksd",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1402,9 +1892,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.099Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 14,
+    "timestamp": "2025-10-11T06:19:09.230Z",
+    "processId": "mglvxivrycksd",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1492,9 +1982,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.143Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 15,
+    "timestamp": "2025-10-11T06:19:09.274Z",
+    "processId": "mglvxivrycksd",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1584,9 +2074,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.185Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 16,
+    "timestamp": "2025-10-11T06:19:09.317Z",
+    "processId": "mglvxivrycksd",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1680,9 +2170,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.230Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 17,
+    "timestamp": "2025-10-11T06:19:09.355Z",
+    "processId": "mglvxivrycksd",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1761,9 +2251,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.273Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 18,
+    "timestamp": "2025-10-11T06:19:09.396Z",
+    "processId": "mglvxivrycksd",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1841,12 +2331,11 @@
     "id": "bf386119db9e4e2ecc7301b5b5c3bb84b5484cd7ad8073551aa1807f327f7a15",
     "title": "Kadın Metal Tokalı File Detaylı Saplı Tote Çanta",
     "img": [
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/84952e9b-93d5-49d2-b4f1-de2fd78ff921_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/6a662c54-b941-4139-b2ad-18bdf380f1f8_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/84952e9b-93d5-49d2-b4f1-de2fd78ff921_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/6a662c54-b941-4139-b2ad-18bdf380f1f8_size708x930.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/6a662c54-b941-4139-b2ad-18bdf380f1f8_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/84952e9b-93d5-49d2-b4f1-de2fd78ff921_size354x464.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/84952e9b-93d5-49d2-b4f1-de2fd78ff921_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/6a662c54-b941-4139-b2ad-18bdf380f1f8_size354x464.jpg",
     "link": "https://www.koton.com/metal-tokali-file-detayli-sapli-tote-canta-ekru-4043247/",
     "videos": [],
     "productNotInStock": false,
@@ -1860,10 +2349,10 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.321Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 19,
+    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
+    "timestamp": "2025-10-11T06:19:19.081Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -1926,12 +2415,11 @@
     "id": "e470c9c2f00de9e6f28c2dcf8572d9179b326a0d58c25806fce3b050caa0e95d",
     "title": "Kadın Saplı Fermuarlı Suni Deri Omuz Çantası",
     "img": [
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/d79c98a5-05cb-4794-bc73-c9b07a0af25a_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/7f4a1093-e868-4155-be63-49586b7dbb33_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/d79c98a5-05cb-4794-bc73-c9b07a0af25a_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/7f4a1093-e868-4155-be63-49586b7dbb33_size708x930.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/7f4a1093-e868-4155-be63-49586b7dbb33_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/d79c98a5-05cb-4794-bc73-c9b07a0af25a_size354x464.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/d79c98a5-05cb-4794-bc73-c9b07a0af25a_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/7f4a1093-e868-4155-be63-49586b7dbb33_size354x464.jpg",
     "link": "https://www.koton.com/sapli-fermuarli-suni-deri-omuz-cantasi-mavi-4051043/",
     "videos": [],
     "productNotInStock": false,
@@ -1945,10 +2433,10 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.364Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 20,
+    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
+    "timestamp": "2025-10-11T06:19:19.121Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -2022,12 +2510,11 @@
     "id": "90f4907b61e5800f6960882080108f50fd9567cf0aaf2b722cfeb5644bb2150c",
     "title": "Kadın Etnik Desenli Tote Çanta",
     "img": [
-      "https://ktnimg2.mncdn.com/products/2025/04/21/3080013/daccda2f-78d7-48bf-a8ca-e9126ab2be3a_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2025/04/21/3080013/c4f0466d-da86-48ba-b243-89ae98a6a0db_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/21/3080013/daccda2f-78d7-48bf-a8ca-e9126ab2be3a_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/21/3080013/c4f0466d-da86-48ba-b243-89ae98a6a0db_size708x930.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/04/21/3080013/c4f0466d-da86-48ba-b243-89ae98a6a0db_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/04/21/3080013/daccda2f-78d7-48bf-a8ca-e9126ab2be3a_size354x464.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/21/3080013/daccda2f-78d7-48bf-a8ca-e9126ab2be3a_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/21/3080013/c4f0466d-da86-48ba-b243-89ae98a6a0db_size354x464.jpg",
     "link": "https://www.koton.com/etnik-desenli-tote-canta-mavi-4040003/",
     "videos": [],
     "productNotInStock": false,
@@ -2041,10 +2528,10 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.405Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 21,
+    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
+    "timestamp": "2025-10-11T06:19:19.156Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -2103,12 +2590,11 @@
     "id": "89c473316354d143cdf5b337e42f90576bc3a96e2e7e6138c9f2fbe2beec95be",
     "title": "Kadın Cep Detaylı Fermuarlı Çizgili Ayarlanabilir Askılı Omuz Çantası",
     "img": [
-      "https://ktnimg2.mncdn.com/products/2025/04/11/3077466/48c9d0a2-cda0-4c5a-ab2e-9e0db9ec4b5e_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2025/04/11/3077466/a672a69a-e35c-4d30-a00b-b9a30c9daf2f_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/11/3077466/48c9d0a2-cda0-4c5a-ab2e-9e0db9ec4b5e_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/11/3077466/a672a69a-e35c-4d30-a00b-b9a30c9daf2f_size708x930.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/04/11/3077466/a672a69a-e35c-4d30-a00b-b9a30c9daf2f_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/04/11/3077466/48c9d0a2-cda0-4c5a-ab2e-9e0db9ec4b5e_size354x464.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/11/3077466/48c9d0a2-cda0-4c5a-ab2e-9e0db9ec4b5e_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/11/3077466/a672a69a-e35c-4d30-a00b-b9a30c9daf2f_size354x464.jpg",
     "link": "https://www.koton.com/cep-detayli-fermuarli-cizgili-ayarlanabilir-askili-omuz-cantasi-mavi-4041713/",
     "videos": [],
     "productNotInStock": false,
@@ -2122,10 +2608,10 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.447Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 22,
+    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
+    "timestamp": "2025-10-11T06:19:19.198Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -2222,10 +2708,10 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-10-10T08:58:27.482Z",
-    "processId": "mgkm6ja5bgg4z",
-    "index": 23,
+    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
+    "timestamp": "2025-10-11T06:19:19.240Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -2310,11 +2796,12 @@
     "id": "ceb50c958950968a5bd0a1330120d23d79d279fc13cac1a440681482ebec5bda",
     "title": "Kadın Çiçekli Fermuarlı Saplı Askılı Çapraz Çanta",
     "img": [
+      "https://ktnimg2.mncdn.com/products/2025/04/17/3073122/b675d672-7895-4f58-91d1-d739693d69f4_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2025/04/17/3073122/2f22a980-046e-4408-ad39-934b654ae775_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/17/3073122/2f22a980-046e-4408-ad39-934b654ae775_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/17/3073122/b675d672-7895-4f58-91d1-d739693d69f4_size354x464.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/04/17/3073122/b675d672-7895-4f58-91d1-d739693d69f4_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/04/17/3073122/2f22a980-046e-4408-ad39-934b654ae775_size708x930.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/17/3073122/2f22a980-046e-4408-ad39-934b654ae775_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/17/3073122/b675d672-7895-4f58-91d1-d739693d69f4_size354x464.jpg",
     "link": "https://www.koton.com/cicekli-fermuarli-sapli-askili-capraz-canta-mavi-4045714/",
     "videos": [],
     "productNotInStock": false,
@@ -2329,9 +2816,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-10-10T08:58:37.082Z",
-    "processId": "mgkm6qw4picyj",
-    "index": 0,
+    "timestamp": "2025-10-11T06:19:19.272Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -2408,11 +2895,12 @@
     "id": "fcb2fb144ce1ede959f891032b713a5741f68cd39f3c864458fc50f794628272",
     "title": "Kadın Suni Deri Kapaklı Askılı Çapraz Çanta",
     "img": [
+      "https://ktnimg2.mncdn.com/products/2025/02/06/3055741/82884876-1e51-4f97-8bf1-3a6b5914a5e7_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2025/02/06/3055741/5db95361-2bde-40e8-80dc-c1a5d11022d0_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/02/06/3055741/5db95361-2bde-40e8-80dc-c1a5d11022d0_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/02/06/3055741/82884876-1e51-4f97-8bf1-3a6b5914a5e7_size354x464.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/02/06/3055741/82884876-1e51-4f97-8bf1-3a6b5914a5e7_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/02/06/3055741/5db95361-2bde-40e8-80dc-c1a5d11022d0_size708x930.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/02/06/3055741/5db95361-2bde-40e8-80dc-c1a5d11022d0_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/02/06/3055741/82884876-1e51-4f97-8bf1-3a6b5914a5e7_size354x464.jpg",
     "link": "https://www.koton.com/suni-deri-kapakli-askili-capraz-canta-vizon-4035185/",
     "videos": [],
     "productNotInStock": false,
@@ -2427,9 +2915,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-10-10T08:58:37.124Z",
-    "processId": "mgkm6qw4picyj",
-    "index": 1,
+    "timestamp": "2025-10-11T06:19:19.318Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -2510,119 +2998,15 @@
     }
   },
   {
-    "id": "8fc359b68d2525619db35516fff971a287d30902a922508ac8687c4d49f4f67c",
-    "title": "Kadın Suni Deri Büzgülü Askılı Çapraz Çanta",
-    "img": [
-      "https://ktnimg2.mncdn.com/products/2024/11/01/3007297/dcbee36e-85fe-4a02-95b4-a09a181bc086_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2024/11/01/3007297/dcbee36e-85fe-4a02-95b4-a09a181bc086_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2024/11/01/3007297/138d8fe7-18fd-4f7e-871a-6e5314bda627_size354x464.jpg"
-    ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2024/11/01/3007297/dcbee36e-85fe-4a02-95b4-a09a181bc086_size354x464.jpg",
-    "link": "https://www.koton.com/suni-deri-buzgulu-askili-capraz-canta-ekru-3980956/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "h2 .js-product-link.product-link",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-10-10T08:58:37.165Z",
-    "processId": "mgkm6qw4picyj",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "deri çanta",
-        "suni deri çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "floater deri çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "deri çanta",
-        "leather",
-        "deri",
-        "suni deri çanta",
-        "suni",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "floater deri çanta",
-        "floater",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "699,99 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 699.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺699,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "40a32063f307b834bfd491e6c813afee6d7248ee9e8602a21af303220031ea8f",
     "title": "Kadın Fermuarlı Mini El Çantası - Koton X Sima Tarkan",
     "img": [
+      "https://ktnimg2.mncdn.com/products/2024/08/09/2938840/36d607ca-a5c0-4556-a0ef-322d85686a96_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2024/08/09/2938634/d261ec62-134c-4c1c-9b07-ec04f07cf78e_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2024/08/09/2938634/d261ec62-134c-4c1c-9b07-ec04f07cf78e_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2024/08/09/2938840/36d607ca-a5c0-4556-a0ef-322d85686a96_size354x464.jpg"
+      "https://ktnimg2.mncdn.com/products/2024/08/09/2938840/36d607ca-a5c0-4556-a0ef-322d85686a96_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2024/08/09/2938634/d261ec62-134c-4c1c-9b07-ec04f07cf78e_size708x930.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2024/08/09/2938634/d261ec62-134c-4c1c-9b07-ec04f07cf78e_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2024/08/09/2938840/36d607ca-a5c0-4556-a0ef-322d85686a96_size354x464.jpg",
     "link": "https://www.koton.com/fermuarli-mini-el-cantasi-koton-x-sima-tarkan-kirmizi-3950669/",
     "videos": [],
     "productNotInStock": false,
@@ -2637,9 +3021,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-10-10T08:58:37.215Z",
-    "processId": "mgkm6qw4picyj",
-    "index": 3,
+    "timestamp": "2025-10-11T06:19:19.360Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -2724,9 +3108,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-10-10T08:58:37.262Z",
-    "processId": "mgkm6qw4picyj",
-    "index": 4,
+    "timestamp": "2025-10-11T06:19:19.404Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -2811,9 +3195,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-10-10T08:58:37.306Z",
-    "processId": "mgkm6qw4picyj",
-    "index": 5,
+    "timestamp": "2025-10-11T06:19:19.448Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -2917,9 +3301,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-10-10T08:58:37.347Z",
-    "processId": "mgkm6qw4picyj",
-    "index": 6,
+    "timestamp": "2025-10-11T06:19:19.491Z",
+    "processId": "mglvxqo51x9ot",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
