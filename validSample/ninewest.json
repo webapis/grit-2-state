@@ -1,5 +1,90 @@
 [
   {
+    "id": "b0c101976d51dc6b332251c8ac024f99c1c73b20c3279f71397e096518052d2a",
+    "title": "ENCOBAG 5PR Siyah Kadın Kol Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-08/04/102242020_f1.jpg?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-08/04/102242020_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-encobag-5pr-siyah-kadin-kol-cantasi-102242020",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-one__price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:19.236Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.299,00 TL",
+          "selector": ".product-pricing-one__price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2299,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.299,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "8281d4b81c46a7de6d7407116e835d08afce007fa20fd5d72755f149adffbe50",
     "title": "DUOBLY 5PR Leopar Kadın Omuz Çantası",
     "img": [
@@ -20,9 +105,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.094Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 0,
+    "timestamp": "2025-10-11T06:33:19.244Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -100,9 +185,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.101Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 1,
+    "timestamp": "2025-10-11T06:33:19.253Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -164,91 +249,6 @@
     }
   },
   {
-    "id": "b0c101976d51dc6b332251c8ac024f99c1c73b20c3279f71397e096518052d2a",
-    "title": "ENCOBAG 5PR Siyah Kadın Kol Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-08/04/102242020_f1.jpg?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-08/04/102242020_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-encobag-5pr-siyah-kadin-kol-cantasi-102242020",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-one__price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.109Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.299,00 TL",
-          "selector": ".product-pricing-one__price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.299,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "27acef7429d2fa840e456b9e8c3a612b25f483de5335241dc7f240387cdf900e",
     "title": "BISTRITA 5PR Taba Kadın Omuz Çantası",
     "img": [
@@ -269,8 +269,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.117Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.261Z",
+    "processId": "mglwfrnqqtvug",
     "index": 3,
     "categories": {
       "productType": [
@@ -357,8 +357,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.124Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.269Z",
+    "processId": "mglwfrnqqtvug",
     "index": 4,
     "categories": {
       "productType": [
@@ -416,13 +416,13 @@
     }
   },
   {
-    "id": "1ad7d73095ae744a780eb9e90e50272abcf8323668a7fa75f74cb06e7da17d6d",
-    "title": "LULUXBODY 5FX A VIZON Kadın Çapraz Çanta",
+    "id": "fbe46f6f2bdc4db5622bab4d490427e6abd6a6bb840487394584bab8039afd6a",
+    "title": "LULUXBODY 5FX Vizon Kadın Çapraz Çanta",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/27/101986206_f1.JPG?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/27/101986206_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-luluxbody-5fx-a-vizon-kadin-capraz-canta-101986206",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-luluxbody-5fx-vizon-kadin-capraz-canta-101986206",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -436,8 +436,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.132Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.276Z",
+    "processId": "mglwfrnqqtvug",
     "index": 5,
     "categories": {
       "productType": [
@@ -522,8 +522,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.140Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.284Z",
+    "processId": "mglwfrnqqtvug",
     "index": 6,
     "categories": {
       "productType": [
@@ -587,93 +587,6 @@
     }
   },
   {
-    "id": "62a77ba9a17bf7a5c9dc265234cacef07fd1ce4c7d955aae80870a479f7f6b3e",
-    "title": "BANDELLO 5FX Siyah Kadın Çapraz Çanta",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976889_f1.jpg?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976889_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-bandello-5fx-siyah-kadin-capraz-canta-101976889",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-one__price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.147Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.599,00 TL",
-          "selector": ".product-pricing-one__price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3599,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.599,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "b4d00779bec102e938955de8b16912627d60e7b965735dab47407786c8794dd0",
     "title": "BRIGA 5FX Gri Kadın Çapraz Çanta",
     "img": [
@@ -694,9 +607,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.154Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 8,
+    "timestamp": "2025-10-11T06:33:19.291Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -762,6 +675,93 @@
     }
   },
   {
+    "id": "62a77ba9a17bf7a5c9dc265234cacef07fd1ce4c7d955aae80870a479f7f6b3e",
+    "title": "BANDELLO 5FX Siyah Kadın Çapraz Çanta",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976889_f1.jpg?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976889_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-bandello-5fx-siyah-kadin-capraz-canta-101976889",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-one__price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:19.299Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 8,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.599,00 TL",
+          "selector": ".product-pricing-one__price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3599,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.599,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "dd50e832e99c7730987143475b90c4bf22deb9463bffdd0c5f7fe17a387664ef",
     "title": "KKFAVY 5PR Füme Kadın El Çantası",
     "img": [
@@ -782,8 +782,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.161Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.307Z",
+    "processId": "mglwfrnqqtvug",
     "index": 9,
     "categories": {
       "productType": [
@@ -866,8 +866,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.169Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.314Z",
+    "processId": "mglwfrnqqtvug",
     "index": 10,
     "categories": {
       "productType": [
@@ -930,6 +930,93 @@
     }
   },
   {
+    "id": "bde24f2e62562ce937aa3ba4c763165241aba57f1621e823556e34ad15b8e73a",
+    "title": "MORDEN NML128606 5FX Bej Kadın El Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952839_f1.jpg?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952839_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-morden-nml128606-5fx-bej-kadin-el-cantasi-101952839",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-one__price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:19.322Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "mor/lila",
+        "bej"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "mor/lila",
+        "mor",
+        "lila",
+        "bej",
+        "ten",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "4.999,00 TL",
+          "selector": ".product-pricing-one__price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 4999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺4.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "cf304bdf4e88f45d51de7c9f56c81034c6579acdfabdbfa2d11535048fdad724",
     "title": "NWCHIC 5PR Siyah Kadın Kol Çantası",
     "img": [
@@ -950,9 +1037,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.177Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 11,
+    "timestamp": "2025-10-11T06:33:19.329Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -1015,13 +1102,13 @@
     }
   },
   {
-    "id": "dc371731948b35ab854d7a39ea3ef8088e4e9f0a9b21b3396dc50402ff35a98e",
-    "title": "BANDEBIG 5FX Siyah Kadın Omuz Çantası",
+    "id": "30ff7ee60f9515d3abf291c25fbac1eee394a8211b5bb71cae968fc9c4868b30",
+    "title": "BACAU 5PR Siyah Kadın Omuz Çantası",
     "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976886_f1.jpg?w=500"
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-07/23/102242017_f1.jpg?w=500"
     ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976886_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-bandebig-5fx-siyah-kadin-omuz-cantasi-101976886",
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-07/23/102242017_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-bacau-5pr-siyah-kadin-omuz-cantasi-102242017",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1035,14 +1122,13 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.183Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 12,
+    "timestamp": "2025-10-11T06:33:19.335Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası",
-        "büyük çanta"
+        "omuz çantası"
       ],
       "color": [
         "siyah"
@@ -1061,10 +1147,6 @@
         "omuz",
         "shoulder",
         "kol",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
         "siyah",
         "black",
         "kadın",
@@ -1087,16 +1169,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "4.799,00 TL",
+          "value": "2.999,00 TL",
           "selector": ".product-pricing-one__price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 4799,
+          "numericValue": 2999,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺4.799,00"
+          "displayPrice": "₺2.999,00"
         }
       ],
       "priceValid": true,
@@ -1125,9 +1207,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.191Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 13,
+    "timestamp": "2025-10-11T06:33:19.343Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1208,9 +1290,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.199Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 14,
+    "timestamp": "2025-10-11T06:33:19.351Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -1298,9 +1380,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.207Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 15,
+    "timestamp": "2025-10-11T06:33:19.359Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1383,9 +1465,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.215Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 16,
+    "timestamp": "2025-10-11T06:33:19.365Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1450,6 +1532,96 @@
     }
   },
   {
+    "id": "dc371731948b35ab854d7a39ea3ef8088e4e9f0a9b21b3396dc50402ff35a98e",
+    "title": "BANDEBIG 5FX Siyah Kadın Omuz Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976886_f1.jpg?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976886_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-bandebig-5fx-siyah-kadin-omuz-cantasi-101976886",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-one__price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:19.373Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 18,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "büyük çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "4.799,00 TL",
+          "selector": ".product-pricing-one__price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 4799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺4.799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "02b9a75abad7b8f5cb059e2b1a48b83ea7faafa33ad8fb4d92e207cb2987aae5",
     "title": "VIENNEE 5FX Füme Kadın Omuz Çantası",
     "img": [
@@ -1470,9 +1642,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.222Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 17,
+    "timestamp": "2025-10-11T06:33:19.381Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1556,9 +1728,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.230Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 18,
+    "timestamp": "2025-10-11T06:33:19.389Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1644,9 +1816,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.237Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 19,
+    "timestamp": "2025-10-11T06:33:19.397Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1727,9 +1899,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.246Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 20,
+    "timestamp": "2025-10-11T06:33:19.404Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 22,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -1806,9 +1978,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.253Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 21,
+    "timestamp": "2025-10-11T06:33:19.412Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1871,79 +2043,6 @@
     }
   },
   {
-    "id": "aeb2096b824db53405c94904e4a6bc3f405a78b98de55e53937d87dacc9bc9db",
-    "title": "BRIGANACLTCH 5FX Naturel Kadın Clutch",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/05/102014024_f1.JPG?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/05/102014024_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-briganacltch-5fx-naturel-kadin-clutch-102014024",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.261Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 22,
-    "categories": {
-      "productType": [
-        "debriyaj çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "debriyaj çanta",
-        "clutch",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.299,00 TL",
-          "selector": ".product-pricing-two span",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.299,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "13a8609f58b260b3628ec4bf5438ecaeb64f86d5991004509eaadeef01523f1b",
     "title": "LYSANDERNEW 5PR Kahverengi Kadın Omuz Çantası",
     "img": [
@@ -1964,9 +2063,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.268Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 23,
+    "timestamp": "2025-10-11T06:33:19.419Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -2052,9 +2151,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.276Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 24,
+    "timestamp": "2025-10-11T06:33:19.426Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -2139,9 +2238,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.283Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 25,
+    "timestamp": "2025-10-11T06:33:19.433Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -2223,9 +2322,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.291Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 26,
+    "timestamp": "2025-10-11T06:33:19.440Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -2308,9 +2407,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.299Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 27,
+    "timestamp": "2025-10-11T06:33:19.448Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -2393,9 +2492,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.306Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 28,
+    "timestamp": "2025-10-11T06:33:19.454Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -2478,9 +2577,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.314Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 29,
+    "timestamp": "2025-10-11T06:33:19.461Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -2568,9 +2667,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.322Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 30,
+    "timestamp": "2025-10-11T06:33:19.468Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -2655,9 +2754,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.329Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 31,
+    "timestamp": "2025-10-11T06:33:19.475Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -2742,9 +2841,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.337Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 32,
+    "timestamp": "2025-10-11T06:33:19.483Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta",
@@ -2824,9 +2923,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.344Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 33,
+    "timestamp": "2025-10-11T06:33:19.491Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -2912,9 +3011,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.352Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 34,
+    "timestamp": "2025-10-11T06:33:19.498Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -2998,9 +3097,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.360Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 35,
+    "timestamp": "2025-10-11T06:33:19.505Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
@@ -3083,9 +3182,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.370Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 36,
+    "timestamp": "2025-10-11T06:33:19.513Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta",
@@ -3165,9 +3264,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.382Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 37,
+    "timestamp": "2025-10-11T06:33:19.521Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 38,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -3243,9 +3342,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.392Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 38,
+    "timestamp": "2025-10-11T06:33:19.531Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 39,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -3322,9 +3421,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.401Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 39,
+    "timestamp": "2025-10-11T06:33:19.541Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 40,
     "categories": {
       "productType": [
         "çanta",
@@ -3411,9 +3510,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.409Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 40,
+    "timestamp": "2025-10-11T06:33:19.551Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 41,
     "categories": {
       "productType": [
         "çanta",
@@ -3495,9 +3594,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.416Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 41,
+    "timestamp": "2025-10-11T06:33:19.559Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 42,
     "categories": {
       "productType": [
         "çanta",
@@ -3581,9 +3680,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.424Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 42,
+    "timestamp": "2025-10-11T06:33:19.571Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 43,
     "categories": {
       "productType": [
         "çanta",
@@ -3672,9 +3771,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.431Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 43,
+    "timestamp": "2025-10-11T06:33:19.579Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 44,
     "categories": {
       "productType": [
         "çanta",
@@ -3757,9 +3856,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.436Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 44,
+    "timestamp": "2025-10-11T06:33:19.587Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 45,
     "categories": {
       "productType": [
         "çanta",
@@ -3820,91 +3919,6 @@
     }
   },
   {
-    "id": "30ff7ee60f9515d3abf291c25fbac1eee394a8211b5bb71cae968fc9c4868b30",
-    "title": "BACAU 5PR Siyah Kadın Omuz Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-07/23/102242017_f1.jpg?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-07/23/102242017_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-bacau-5pr-siyah-kadin-omuz-cantasi-102242017",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-one__price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.442Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 45,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,00 TL",
-          "selector": ".product-pricing-one__price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "c225f76758c7d68e1200197138f1d19e7893150b0cf5adae8b86f32861eb746a",
     "title": "BACAU 5PR Taba Kadın Omuz Çantası",
     "img": [
@@ -3925,8 +3939,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.449Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.595Z",
+    "processId": "mglwfrnqqtvug",
     "index": 46,
     "categories": {
       "productType": [
@@ -4013,8 +4027,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.456Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.603Z",
+    "processId": "mglwfrnqqtvug",
     "index": 47,
     "categories": {
       "productType": [
@@ -4097,8 +4111,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.464Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.611Z",
+    "processId": "mglwfrnqqtvug",
     "index": 48,
     "categories": {
       "productType": [
@@ -4184,8 +4198,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.472Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.618Z",
+    "processId": "mglwfrnqqtvug",
     "index": 49,
     "categories": {
       "productType": [
@@ -4271,8 +4285,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.479Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.626Z",
+    "processId": "mglwfrnqqtvug",
     "index": 50,
     "categories": {
       "productType": [
@@ -4358,8 +4372,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.486Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.634Z",
+    "processId": "mglwfrnqqtvug",
     "index": 51,
     "categories": {
       "productType": [
@@ -4445,8 +4459,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.494Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.642Z",
+    "processId": "mglwfrnqqtvug",
     "index": 52,
     "categories": {
       "productType": [
@@ -4528,8 +4542,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.502Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.650Z",
+    "processId": "mglwfrnqqtvug",
     "index": 53,
     "categories": {
       "productType": [
@@ -4610,8 +4624,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.509Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.657Z",
+    "processId": "mglwfrnqqtvug",
     "index": 54,
     "categories": {
       "productType": [
@@ -4673,6 +4687,93 @@
     }
   },
   {
+    "id": "c8f9e35e9905af260b9e6b711bb5c0a9808e72fe1aa433d17ef3bbb7f9d252c6",
+    "title": "CABELLABAGY 5FX Beyaz Kadın Çapraz Çanta",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-03/24/102011957_f1-1742807586.jpg?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-03/24/102011957_f1-1742807586.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-cabellabagy-5fx-beyaz-kadin-capraz-canta-102011957",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-one__price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:19.665Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 55,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta"
+      ],
+      "color": [
+        "beyaz"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "beyaz",
+        "white",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.499,00 TL",
+          "selector": ".product-pricing-one__price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2499,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.499,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "71e0891abd1edb872c10ee9abd49dd648bb225a094bb8026e4365f000df67768",
     "title": "CABELLABAGY 5FX Bej Kadın Çapraz Çanta",
     "img": [
@@ -4693,9 +4794,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.517Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 55,
+    "timestamp": "2025-10-11T06:33:19.672Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 56,
     "categories": {
       "productType": [
         "çanta",
@@ -4780,9 +4881,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.524Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 56,
+    "timestamp": "2025-10-11T06:33:19.680Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 57,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -4859,9 +4960,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.530Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 57,
+    "timestamp": "2025-10-11T06:33:19.688Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 58,
     "categories": {
       "productType": [
         "çanta",
@@ -4945,9 +5046,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.538Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 58,
+    "timestamp": "2025-10-11T06:33:19.696Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 59,
     "categories": {
       "productType": [
         "çanta",
@@ -5010,13 +5111,13 @@
     }
   },
   {
-    "id": "b7f7e05dfae7fba3975339ec6e916f47f59ce0586c9933a0d5b235b0da0434c5",
-    "title": "GRADY NGS115175 5FX Krem Kadın Çapraz Çanta",
+    "id": "3099ee84224b1a4a00fe9d345592a8af2031d23e7b66e319bb726a9fd719de99",
+    "title": "GRADY NGS115175 5FX Bej Kadın Çapraz Çanta",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101970980_f1.jpg?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101970980_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-grady-ngs115175-5fx-krem-kadin-capraz-canta-101970980",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-grady-ngs115175-5fx-bej-kadin-capraz-canta-101970980",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -5030,13 +5131,16 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.545Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 59,
+    "timestamp": "2025-10-11T06:33:19.704Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 60,
     "categories": {
       "productType": [
         "çanta",
         "çapraz çanta"
+      ],
+      "color": [
+        "bej"
       ],
       "gender": [
         "kadın"
@@ -5054,6 +5158,8 @@
         "crossbody",
         "cross body",
         "cross-body",
+        "bej",
+        "ten",
         "kadın",
         "kadin",
         "bayan",
@@ -5112,9 +5218,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.551Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 60,
+    "timestamp": "2025-10-11T06:33:19.712Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 61,
     "categories": {
       "productType": [
         "çanta",
@@ -5175,93 +5281,6 @@
     }
   },
   {
-    "id": "bde24f2e62562ce937aa3ba4c763165241aba57f1621e823556e34ad15b8e73a",
-    "title": "MORDEN NML128606 5FX Bej Kadın El Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952839_f1.jpg?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952839_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-morden-nml128606-5fx-bej-kadin-el-cantasi-101952839",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-one__price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.559Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 61,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası"
-      ],
-      "color": [
-        "mor/lila",
-        "bej"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "mor/lila",
-        "mor",
-        "lila",
-        "bej",
-        "ten",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "4.999,00 TL",
-          "selector": ".product-pricing-one__price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 4999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺4.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "6f55f03dd3619c9b7e86020c87656e8db8f2b5f8acff0320697dfadbfa763f68",
     "title": "SOMI NYR128973 5FX Siyah Kadın Kol Çantası",
     "img": [
@@ -5282,8 +5301,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.566Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.720Z",
+    "processId": "mglwfrnqqtvug",
     "index": 62,
     "categories": {
       "productType": [
@@ -5367,8 +5386,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.573Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.727Z",
+    "processId": "mglwfrnqqtvug",
     "index": 63,
     "categories": {
       "productType": [
@@ -5454,8 +5473,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.580Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.735Z",
+    "processId": "mglwfrnqqtvug",
     "index": 64,
     "categories": {
       "productType": [
@@ -5521,13 +5540,13 @@
     }
   },
   {
-    "id": "7307ac6d76749fe8414fbe77a35da0b424fa894d48821b42bba6babfb92811ba",
-    "title": "PEYTON NGB132423 5FX A VIZON Kadın Omuz Çantası",
+    "id": "08b15588f67551de743625f009751a4b88aaa7347e69ac4e5f0610dd927a8137",
+    "title": "PEYTON NGB132423 5FX Vizon Kadın Omuz Çantası",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952874_f1.jpg?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952874_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-peyton-ngb132423-5fx-a-vizon-kadin-omuz-cantasi-101952874",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-peyton-ngb132423-5fx-vizon-kadin-omuz-cantasi-101952874",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -5541,8 +5560,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.587Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.742Z",
+    "processId": "mglwfrnqqtvug",
     "index": 65,
     "categories": {
       "productType": [
@@ -5625,8 +5644,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.595Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.750Z",
+    "processId": "mglwfrnqqtvug",
     "index": 66,
     "categories": {
       "productType": [
@@ -5711,8 +5730,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.602Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.758Z",
+    "processId": "mglwfrnqqtvug",
     "index": 67,
     "categories": {
       "productType": [
@@ -5795,8 +5814,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.610Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.765Z",
+    "processId": "mglwfrnqqtvug",
     "index": 68,
     "categories": {
       "productType": [
@@ -5877,8 +5896,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.617Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.773Z",
+    "processId": "mglwfrnqqtvug",
     "index": 69,
     "categories": {
       "productType": [
@@ -5964,8 +5983,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.624Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.779Z",
+    "processId": "mglwfrnqqtvug",
     "index": 70,
     "categories": {
       "productType": [
@@ -6054,8 +6073,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.632Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.787Z",
+    "processId": "mglwfrnqqtvug",
     "index": 71,
     "categories": {
       "productType": [
@@ -6133,8 +6152,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.639Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.795Z",
+    "processId": "mglwfrnqqtvug",
     "index": 72,
     "categories": {
       "productType": [
@@ -6211,8 +6230,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.646Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.803Z",
+    "processId": "mglwfrnqqtvug",
     "index": 73,
     "categories": {
       "productType": [
@@ -6293,8 +6312,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.653Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.810Z",
+    "processId": "mglwfrnqqtvug",
     "index": 74,
     "categories": {
       "productType": [
@@ -6379,8 +6398,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.660Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.817Z",
+    "processId": "mglwfrnqqtvug",
     "index": 75,
     "categories": {
       "productType": [
@@ -6459,8 +6478,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.668Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.825Z",
+    "processId": "mglwfrnqqtvug",
     "index": 76,
     "categories": {
       "productType": [
@@ -6549,8 +6568,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.675Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.832Z",
+    "processId": "mglwfrnqqtvug",
     "index": 77,
     "categories": {
       "productType": [
@@ -6638,8 +6657,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.682Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.840Z",
+    "processId": "mglwfrnqqtvug",
     "index": 78,
     "categories": {
       "productType": [
@@ -6725,8 +6744,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.689Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.847Z",
+    "processId": "mglwfrnqqtvug",
     "index": 79,
     "categories": {
       "productType": [
@@ -6815,8 +6834,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.696Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.855Z",
+    "processId": "mglwfrnqqtvug",
     "index": 80,
     "categories": {
       "productType": [
@@ -6903,8 +6922,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.703Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.862Z",
+    "processId": "mglwfrnqqtvug",
     "index": 81,
     "categories": {
       "productType": [
@@ -6990,8 +7009,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.710Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.870Z",
+    "processId": "mglwfrnqqtvug",
     "index": 82,
     "categories": {
       "productType": [
@@ -7074,8 +7093,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.717Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.878Z",
+    "processId": "mglwfrnqqtvug",
     "index": 83,
     "categories": {
       "productType": [
@@ -7158,8 +7177,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.724Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.885Z",
+    "processId": "mglwfrnqqtvug",
     "index": 84,
     "categories": {
       "productType": [
@@ -7241,8 +7260,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.732Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.892Z",
+    "processId": "mglwfrnqqtvug",
     "index": 85,
     "categories": {
       "productType": [
@@ -7304,13 +7323,13 @@
     }
   },
   {
-    "id": "5d83ec3473ed650c8516287f6b967020855201565e9d86a3be7a6a3dd6b20c34",
-    "title": "WESSON NGN123807 5FX Gül Kurusu Kadın El Çantası",
+    "id": "5a6c63df6a68b98df45280792db6ab32edfaed6cb73db4376910cf8ef23b90c8",
+    "title": "WESSON NGN123807 5FX Pembe Kadın El Çantası",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952888_f1.jpg?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952888_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-wesson-ngn123807-5fx-gul-kurusu-kadin-el-cantasi-101952888",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-wesson-ngn123807-5fx-pembe-kadin-el-cantasi-101952888",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -7324,13 +7343,16 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.738Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.900Z",
+    "processId": "mglwfrnqqtvug",
     "index": 86,
     "categories": {
       "productType": [
         "çanta",
         "el çantası"
+      ],
+      "color": [
+        "pembe"
       ],
       "gender": [
         "kadın"
@@ -7344,6 +7366,7 @@
         "çantasi",
         "el çantası",
         "el",
+        "pembe",
         "kadın",
         "kadin",
         "bayan",
@@ -7402,8 +7425,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.745Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.907Z",
+    "processId": "mglwfrnqqtvug",
     "index": 87,
     "categories": {
       "productType": [
@@ -7486,8 +7509,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.753Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.914Z",
+    "processId": "mglwfrnqqtvug",
     "index": 88,
     "categories": {
       "productType": [
@@ -7556,13 +7579,13 @@
     }
   },
   {
-    "id": "9b61d1957e7dff0954867898da445bc55c72f554b7e9b4c06da09adc4e695251",
-    "title": "WESSON NGN123873 5FX Gül Kurusu Kadın Kol Çantası",
+    "id": "6a266b4f05f877dc57953d5da78dbbbd1f71768e5548b7cabea4a2f26dc60c46",
+    "title": "WESSON NGN123873 5FX Pembe Kadın Kol Çantası",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952890_f1.jpg?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952890_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-wesson-ngn123873-5fx-gul-kurusu-kadin-kol-cantasi-101952890",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-wesson-ngn123873-5fx-pembe-kadin-kol-cantasi-101952890",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -7576,13 +7599,16 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.760Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.921Z",
+    "processId": "mglwfrnqqtvug",
     "index": 89,
     "categories": {
       "productType": [
         "çanta",
         "omuz çantası"
+      ],
+      "color": [
+        "pembe"
       ],
       "gender": [
         "kadın"
@@ -7598,6 +7624,7 @@
         "omuz",
         "shoulder",
         "kol",
+        "pembe",
         "kadın",
         "kadin",
         "bayan",
@@ -7656,8 +7683,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.766Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.930Z",
+    "processId": "mglwfrnqqtvug",
     "index": 90,
     "categories": {
       "productType": [
@@ -7743,8 +7770,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.774Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.937Z",
+    "processId": "mglwfrnqqtvug",
     "index": 91,
     "categories": {
       "productType": [
@@ -7829,8 +7856,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.781Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.944Z",
+    "processId": "mglwfrnqqtvug",
     "index": 92,
     "categories": {
       "productType": [
@@ -7914,8 +7941,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.788Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.952Z",
+    "processId": "mglwfrnqqtvug",
     "index": 93,
     "categories": {
       "productType": [
@@ -7996,8 +8023,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.796Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.959Z",
+    "processId": "mglwfrnqqtvug",
     "index": 94,
     "categories": {
       "productType": [
@@ -8075,8 +8102,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.803Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.967Z",
+    "processId": "mglwfrnqqtvug",
     "index": 95,
     "categories": {
       "productType": [
@@ -8166,8 +8193,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.810Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.975Z",
+    "processId": "mglwfrnqqtvug",
     "index": 96,
     "categories": {
       "productType": [
@@ -8252,8 +8279,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.817Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:19.982Z",
+    "processId": "mglwfrnqqtvug",
     "index": 97,
     "categories": {
       "productType": [
@@ -8315,92 +8342,6 @@
     }
   },
   {
-    "id": "1e0958a5854eb4a7206c5c2fc22e73bd31e993e0612b9fba4ff8f1d6dd62e8d1",
-    "title": "PERLO 4PR BORDO MULTI Kadın Çapraz Çanta",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-07/18/101902193_f1.JPG?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-07/18/101902193_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-perlo-4pr-bordo-multi-kadin-capraz-canta-101902193",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-one__price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.824Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 98,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "bordo"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "bordo",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.799,00 TL",
-          "selector": ".product-pricing-one__price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.799,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "663b1fbae5be43ce661039245208d5d364411b1f3015ba20955ba433bd0aa0c6",
     "title": "WANDA 4PR Altın Kadın Clutch",
     "img": [
@@ -8421,9 +8362,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.831Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 99,
+    "timestamp": "2025-10-11T06:33:19.990Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 98,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -8500,9 +8441,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.839Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 100,
+    "timestamp": "2025-10-11T06:33:19.998Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 99,
     "categories": {
       "productType": [
         "çanta",
@@ -8567,6 +8508,79 @@
     }
   },
   {
+    "id": "aeb2096b824db53405c94904e4a6bc3f405a78b98de55e53937d87dacc9bc9db",
+    "title": "BRIGANACLTCH 5FX Naturel Kadın Clutch",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/05/102014024_f1.JPG?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/05/102014024_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-briganacltch-5fx-naturel-kadin-clutch-102014024",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.006Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 100,
+    "categories": {
+      "productType": [
+        "debriyaj çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "debriyaj çanta",
+        "clutch",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.299,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2299,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.299,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "a051de5448595e74ff55d50dd65eaa4c62e1e8adc207eb089073361f0609a778",
     "title": "BRIGANACLTCH 5FX Siyah Kadın Clutch",
     "img": [
@@ -8587,8 +8601,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.846Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:20.014Z",
+    "processId": "mglwfrnqqtvug",
     "index": 101,
     "categories": {
       "productType": [
@@ -8645,85 +8659,6 @@
     }
   },
   {
-    "id": "847a760ff693e0d1447e6424bcfd4979452307c0a356813283c5dd43e1d5170a",
-    "title": "SUNNYBAGY2 5FX Naturel Kadın Plaj Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014036_f1.JPG?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014036_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-sunnybagy2-5fx-naturel-kadin-plaj-cantasi-102014036",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.853Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 102,
-    "categories": {
-      "productType": [
-        "çanta",
-        "plaj çantası"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "plaj çantası",
-        "plaj",
-        "beach",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.799,00 TL",
-          "selector": ".product-pricing-two span",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.799,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "ecae7c8b65b5318875e95d450ecb94f3d3fca107faf203ee3acdc4c626c97e42",
     "title": "ROSSVILLE 4PR Siyah Kadın Kol Çantası",
     "img": [
@@ -8744,9 +8679,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.861Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 103,
+    "timestamp": "2025-10-11T06:33:20.022Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 102,
     "categories": {
       "productType": [
         "çanta",
@@ -8809,6 +8744,261 @@
     }
   },
   {
+    "id": "847a760ff693e0d1447e6424bcfd4979452307c0a356813283c5dd43e1d5170a",
+    "title": "SUNNYBAGY2 5FX Naturel Kadın Plaj Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014036_f1.JPG?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014036_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-sunnybagy2-5fx-naturel-kadin-plaj-cantasi-102014036",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.029Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 103,
+    "categories": {
+      "productType": [
+        "çanta",
+        "plaj çantası"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "plaj çantası",
+        "plaj",
+        "beach",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.799,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "6390c5e94c647d80e8619fb21828ab9ce2ea4288012cd59631e4dba09572b48c",
+    "title": "PONTIDATOTE 4PR Taba Kadın El Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-08/21/101900986_f1.JPG?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-08/21/101900986_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-pontidatote-4pr-taba-kadin-el-cantasi-101900986",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.037Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 104,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "tote çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "tote çanta",
+        "tote",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.899,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ecaa64a2d257c3c34893ed3d40a209a10a195c8a7f24503267b8021f2d79cf5e",
+    "title": "DIANDRA 5FX Siyah Kadın Çapraz Çanta",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102007235_f1-1737624153.JPG?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102007235_f1-1737624153.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-diandra-5fx-siyah-kadin-capraz-canta-102007235",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.044Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 105,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.299,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2299,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.299,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "001d5e3c8ab18d6c02153f0298978925a9b8807de1af1830a7399e96db409be1",
     "title": "BRIGANABIG 5FX Siyah Kadın Omuz Çantası",
     "img": [
@@ -8829,9 +9019,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.868Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 104,
+    "timestamp": "2025-10-11T06:33:20.052Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 106,
     "categories": {
       "productType": [
         "çanta",
@@ -8899,353 +9089,6 @@
     }
   },
   {
-    "id": "6390c5e94c647d80e8619fb21828ab9ce2ea4288012cd59631e4dba09572b48c",
-    "title": "PONTIDATOTE 4PR Taba Kadın El Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-08/21/101900986_f1.JPG?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-08/21/101900986_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-pontidatote-4pr-taba-kadin-el-cantasi-101900986",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.875Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 105,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "tote çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "tote çanta",
-        "tote",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.899,00 TL",
-          "selector": ".product-pricing-two span",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "820c216bc988180a19b8cdc5c1e1844a1a7ef9c3791d7bf784bc17f05f95661f",
-    "title": "MELZO 5FX Kahverengi Kadın Kol Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-08/29/101983366_f1.jpg?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-08/29/101983366_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-melzo-5fx-kahverengi-kadin-kol-cantasi-101983366",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.883Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 106,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.299,00 TL",
-          "selector": ".product-pricing-two span",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.299,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d5699ca29eaab4fba3a6b9a9a97ec7b7d5618e24cdb0f30160bac8065d1ddc2a",
-    "title": "BRENDOHANDY 5FX Siyah Kadın El Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986176_f1.jpg?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986176_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-brendohandy-5fx-siyah-kadin-el-cantasi-101986176",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.890Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 107,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.799,00 TL",
-          "selector": ".product-pricing-two span",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.799,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "ecaa64a2d257c3c34893ed3d40a209a10a195c8a7f24503267b8021f2d79cf5e",
-    "title": "DIANDRA 5FX Siyah Kadın Çapraz Çanta",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102007235_f1-1737624153.JPG?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102007235_f1-1737624153.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-diandra-5fx-siyah-kadin-capraz-canta-102007235",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.897Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 108,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.299,00 TL",
-          "selector": ".product-pricing-two span",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.299,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "65790541f0a6e207d77e41e463b2d470852cd1929694422ff7f16bbe01f3c004",
     "title": "BRENDOHANDY 5FX Bej Kadın El Çantası",
     "img": [
@@ -9266,9 +9109,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.904Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 109,
+    "timestamp": "2025-10-11T06:33:20.060Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 107,
     "categories": {
       "productType": [
         "çanta",
@@ -9329,94 +9172,6 @@
     }
   },
   {
-    "id": "6f0250a85ec59a7ae660dcdf461d715fa9209e73db6cc881113a6558b62b6797",
-    "title": "LESINABIG 4PR Siyah Kadın El Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-08/21/101900834_f1.JPG?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-08/21/101900834_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-lesinabig-4pr-siyah-kadin-el-cantasi-101900834",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.911Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 110,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "büyük çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.299,00 TL",
-          "selector": ".product-pricing-two span",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.299,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "6ffd21ea08b0a9a9536d7d9d6ac0fb0b309c2fbd06730b945cf783d594bc50d4",
     "title": "CAPORRAMINI 5FX Mavi Kadın El Çantası",
     "img": [
@@ -9437,9 +9192,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.919Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 111,
+    "timestamp": "2025-10-11T06:33:20.068Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 108,
     "categories": {
       "productType": [
         "çanta",
@@ -9502,6 +9257,89 @@
     }
   },
   {
+    "id": "d5699ca29eaab4fba3a6b9a9a97ec7b7d5618e24cdb0f30160bac8065d1ddc2a",
+    "title": "BRENDOHANDY 5FX Siyah Kadın El Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986176_f1.jpg?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986176_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-brendohandy-5fx-siyah-kadin-el-cantasi-101986176",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.076Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 109,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.799,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "93129b3ce82506b3a6af0dbac2b2e7646f7bf0de74a9267a355a138dc7949278",
     "title": "BISCIABIG 4PR Vizon Kadın Çapraz Çanta",
     "img": [
@@ -9522,9 +9360,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.927Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 112,
+    "timestamp": "2025-10-11T06:33:20.083Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 110,
     "categories": {
       "productType": [
         "çanta",
@@ -9593,6 +9431,94 @@
     }
   },
   {
+    "id": "6f0250a85ec59a7ae660dcdf461d715fa9209e73db6cc881113a6558b62b6797",
+    "title": "LESINABIG 4PR Siyah Kadın El Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-08/21/101900834_f1.JPG?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-08/21/101900834_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-lesinabig-4pr-siyah-kadin-el-cantasi-101900834",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.091Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 111,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "büyük çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.299,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2299,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.299,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "41783459ccd058872be5d57f51c5a4218132f3cd86011c586e257bb9cb44efab",
     "title": "DUOTOKY 4PR Vizon Kadın El Çantası",
     "img": [
@@ -9613,9 +9539,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.935Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 113,
+    "timestamp": "2025-10-11T06:33:20.099Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 112,
     "categories": {
       "productType": [
         "çanta",
@@ -9695,9 +9621,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.942Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 114,
+    "timestamp": "2025-10-11T06:33:20.106Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 113,
     "categories": {
       "productType": [
         "çanta",
@@ -9785,9 +9711,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.949Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 115,
+    "timestamp": "2025-10-11T06:33:20.114Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 114,
     "categories": {
       "productType": [
         "çanta",
@@ -9852,8 +9778,87 @@
     }
   },
   {
+    "id": "c1e881d3f18357388470a2d544fc4b565e633cff188f69b67c478b0bca402ef1",
+    "title": "SENNY 5FX Gümüş Kadın Clutch",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102006622_f1.JPG?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102006622_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-senny-5fx-gumus-kadin-clutch-102006622",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.121Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 115,
+    "categories": {
+      "productType": [
+        "debriyaj çanta"
+      ],
+      "color": [
+        "gümüş/silver"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "debriyaj çanta",
+        "clutch",
+        "gümüş/silver",
+        "gümüş",
+        "silver",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.299,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2299,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.299,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "77225bc94f7d8fd10e4b91779a687e0053066f6d6396eae6afbca03d9d45dbcd",
-    "title": "MURCIAA 5FX Gri Kadın Omuz Çantası",
+    "title": "MURCIAA 5FX GRI Kadın Omuz Çantası",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102014029_f1-1737624179.JPG?w=500"
     ],
@@ -9872,8 +9877,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.956Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:20.128Z",
+    "processId": "mglwfrnqqtvug",
     "index": 116,
     "categories": {
       "productType": [
@@ -9938,85 +9943,6 @@
     }
   },
   {
-    "id": "c1e881d3f18357388470a2d544fc4b565e633cff188f69b67c478b0bca402ef1",
-    "title": "SENNY 5FX Gümüş Kadın Clutch",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102006622_f1.JPG?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102006622_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-senny-5fx-gumus-kadin-clutch-102006622",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.963Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 117,
-    "categories": {
-      "productType": [
-        "debriyaj çanta"
-      ],
-      "color": [
-        "gümüş/silver"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "debriyaj çanta",
-        "clutch",
-        "gümüş/silver",
-        "gümüş",
-        "silver",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.299,00 TL",
-          "selector": ".product-pricing-two span",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.299,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "db39b1b0d6a4c05020cb04d7cb4daa39a7f300f886794aa85a743b9edb9bf46f",
     "title": "CAPORRAMINI 5FX Pembe Kadın El Çantası",
     "img": [
@@ -10037,9 +9963,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.971Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 118,
+    "timestamp": "2025-10-11T06:33:20.136Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 117,
     "categories": {
       "productType": [
         "çanta",
@@ -10102,6 +10028,93 @@
     }
   },
   {
+    "id": "42c4bcd1e37e77313a6f3fa34e4e6ca1294bd9dba3a3a64538e55e972f388985",
+    "title": "SARRACY 4PR Siyah Kadın Çapraz Çanta",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-09/23/101913141_f1.JPG?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-09/23/101913141_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-sarracy-4pr-siyah-kadin-capraz-canta-101913141",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.144Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 118,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.199,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2199,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.199,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "e862706d10108402ebf80c036f283522c03ad267cf5e9b5e5722f3cc8c8882aa",
     "title": "FUNSUNYBIG 5FX Naturel Kadın Plaj Çantası",
     "img": [
@@ -10122,8 +10135,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.978Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:20.151Z",
+    "processId": "mglwfrnqqtvug",
     "index": 119,
     "categories": {
       "productType": [
@@ -10206,8 +10219,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.985Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:20.159Z",
+    "processId": "mglwfrnqqtvug",
     "index": 120,
     "categories": {
       "productType": [
@@ -10268,13 +10281,13 @@
     }
   },
   {
-    "id": "f58d1280d20712be1b1e526014f00b5b67f030e91e1196e5a90b115d3f2f48a4",
-    "title": "CAPORRAMINI 5FX Bej Kadın El Çantası",
+    "id": "1e69e823c94aec1b42d9156c14826c51cad2be7fa7f0200aec92de0515e60187",
+    "title": "CAPORRAMINI 5FX Krem Kadın El Çantası",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/101986820_f1.JPG?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/101986820_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-caporramini-5fx-bej-kadin-el-cantasi-101986820",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-caporramini-5fx-krem-kadin-el-cantasi-101986820",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -10288,17 +10301,14 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:01.992Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:20.166Z",
+    "processId": "mglwfrnqqtvug",
     "index": 121,
     "categories": {
       "productType": [
         "çanta",
         "el çantası",
         "mini çanta"
-      ],
-      "color": [
-        "bej"
       ],
       "gender": [
         "kadın"
@@ -10314,8 +10324,6 @@
         "el",
         "mini çanta",
         "mini",
-        "bej",
-        "ten",
         "kadın",
         "kadin",
         "bayan",
@@ -10374,8 +10382,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.000Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:20.173Z",
+    "processId": "mglwfrnqqtvug",
     "index": 122,
     "categories": {
       "productType": [
@@ -10452,8 +10460,8 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.008Z",
-    "processId": "mgkmo02lpzyf3",
+    "timestamp": "2025-10-11T06:33:20.181Z",
+    "processId": "mglwfrnqqtvug",
     "index": 123,
     "categories": {
       "productType": [
@@ -10514,6 +10522,92 @@
     }
   },
   {
+    "id": "e8894d68765437cd199822b30b99efc619a7bd1d34fcea9eae5641f6667a7eb6",
+    "title": "NATHALIENATURL 5FX TABA MULTI Kadın El Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/27/101977018_f1.JPG?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/27/101977018_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-nathalienaturl-5fx-taba-multi-kadin-el-cantasi-101977018",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.188Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 124,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.999,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "f933ff0f8b7b3cd1435ca9f216eb182745c0669882e54de0b195dca5ddb5a4bd",
     "title": "NATHALIENATUREL 5FX Siyah Kadın El Çantası",
     "img": [
@@ -10534,9 +10628,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.015Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 124,
+    "timestamp": "2025-10-11T06:33:20.195Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 125,
     "categories": {
       "productType": [
         "çanta",
@@ -10617,9 +10711,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.023Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 125,
+    "timestamp": "2025-10-11T06:33:20.203Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 126,
     "categories": {
       "productType": [
         "çanta",
@@ -10703,9 +10797,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.030Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 126,
+    "timestamp": "2025-10-11T06:33:20.211Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 127,
     "categories": {
       "productType": [
         "çanta",
@@ -10787,9 +10881,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.037Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 127,
+    "timestamp": "2025-10-11T06:33:20.218Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 128,
     "categories": {
       "productType": [
         "çanta",
@@ -10869,9 +10963,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.045Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 128,
+    "timestamp": "2025-10-11T06:33:20.226Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 129,
     "categories": {
       "productType": [
         "çanta",
@@ -10953,9 +11047,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.053Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 129,
+    "timestamp": "2025-10-11T06:33:20.233Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 130,
     "categories": {
       "productType": [
         "çanta",
@@ -11042,9 +11136,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.060Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 130,
+    "timestamp": "2025-10-11T06:33:20.240Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 131,
     "categories": {
       "productType": [
         "çanta",
@@ -11128,9 +11222,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.068Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 131,
+    "timestamp": "2025-10-11T06:33:20.247Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 132,
     "categories": {
       "productType": [
         "çanta",
@@ -11191,13 +11285,13 @@
     }
   },
   {
-    "id": "8aa4c3850b584f33e3a84c5bd244ea7c4998e984010aaa0f2722b8d16e99e0c8",
-    "title": "VOIRON 5FX Bej Kadın El Çantası",
+    "id": "25e64c7e647aba0dc5dfcdf4e3d50c26a18acbcf6290a105c93b78f136dad10f",
+    "title": "VOIRON 5FX Krem Kadın El Çantası",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101977091_f1.jpg?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101977091_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-voiron-5fx-bej-kadin-el-cantasi-101977091",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-voiron-5fx-krem-kadin-el-cantasi-101977091",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -11211,16 +11305,13 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.075Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 132,
+    "timestamp": "2025-10-11T06:33:20.254Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 133,
     "categories": {
       "productType": [
         "çanta",
         "el çantası"
-      ],
-      "color": [
-        "bej"
       ],
       "gender": [
         "kadın"
@@ -11234,8 +11325,6 @@
         "çantasi",
         "el çantası",
         "el",
-        "bej",
-        "ten",
         "kadın",
         "kadin",
         "bayan",
@@ -11274,13 +11363,13 @@
     }
   },
   {
-    "id": "731f2a7de41636029bd0bd45cd505ceb43f5b1a957f9f22eb3a401e3dce8a4c8",
-    "title": "NWDAISY 5FX Krem Kadın Çapraz Çanta",
+    "id": "24d59bc14dd44f5efbbfeb4a2f56514e0984ff9793c0d468af60bd00bf941bee",
+    "title": "NWDAISY 5FX Bej Kadın Çapraz Çanta",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102006626_f1-1737624132.JPG?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102006626_f1-1737624132.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-nwdaisy-5fx-krem-kadin-capraz-canta-102006626",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-nwdaisy-5fx-bej-kadin-capraz-canta-102006626",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -11294,13 +11383,16 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.083Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 133,
+    "timestamp": "2025-10-11T06:33:20.262Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 134,
     "categories": {
       "productType": [
         "çanta",
         "çapraz çanta"
+      ],
+      "color": [
+        "bej"
       ],
       "gender": [
         "kadın"
@@ -11318,6 +11410,8 @@
         "crossbody",
         "cross body",
         "cross-body",
+        "bej",
+        "ten",
         "kadın",
         "kadin",
         "bayan",
@@ -11376,9 +11470,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.090Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 134,
+    "timestamp": "2025-10-11T06:33:20.270Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 135,
     "categories": {
       "productType": [
         "çanta",
@@ -11469,9 +11563,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.098Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 135,
+    "timestamp": "2025-10-11T06:33:20.277Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 136,
     "categories": {
       "productType": [
         "çanta",
@@ -11556,9 +11650,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.106Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 136,
+    "timestamp": "2025-10-11T06:33:20.285Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 137,
     "categories": {
       "productType": [
         "çanta",
@@ -11644,9 +11738,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.113Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 137,
+    "timestamp": "2025-10-11T06:33:20.293Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 138,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -11722,9 +11816,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.121Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 138,
+    "timestamp": "2025-10-11T06:33:20.300Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 139,
     "categories": {
       "productType": [
         "çanta",
@@ -11788,13 +11882,13 @@
     }
   },
   {
-    "id": "b3c19418f55f717652717c0116d5ca3a36013973653e357c03565386a09ac719",
-    "title": "BRENCROSS 5FX Bej Kadın Çapraz Çanta",
+    "id": "690d370aab917c378e1a8bdc0532d245f8bdff91197b35a029e1f944842b7a34",
+    "title": "BRENCROSS 5FX Krem Kadın Çapraz Çanta",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102006605_f1.JPG?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102006605_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-brencross-5fx-bej-kadin-capraz-canta-102006605",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-brencross-5fx-krem-kadin-capraz-canta-102006605",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -11808,16 +11902,13 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.128Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 139,
+    "timestamp": "2025-10-11T06:33:20.307Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 140,
     "categories": {
       "productType": [
         "çanta",
         "çapraz çanta"
-      ],
-      "color": [
-        "bej"
       ],
       "gender": [
         "kadın"
@@ -11835,8 +11926,6 @@
         "crossbody",
         "cross body",
         "cross-body",
-        "bej",
-        "ten",
         "kadın",
         "kadin",
         "bayan",
@@ -11895,9 +11984,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.136Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 140,
+    "timestamp": "2025-10-11T06:33:20.315Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 141,
     "categories": {
       "productType": [
         "çanta",
@@ -11958,6 +12047,93 @@
     }
   },
   {
+    "id": "759a40e6b24449cdf708fd1cabe8cc7a38583145b163fb46cb0d20bff423387d",
+    "title": "MYLAH NGW128721 5FX Beyaz Kadın Çapraz Çanta",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952845_f1.jpg?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952845_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-mylah-ngw128721-5fx-beyaz-kadin-capraz-canta-101952845",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.322Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 142,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta"
+      ],
+      "color": [
+        "beyaz"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "beyaz",
+        "white",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.499,00 TL",
+          "selector": ".product-pricing-two span",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3499,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.499,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "8313fe90803bc6d9f847ff43ee089185097dfadf1e2e36eb42ae4615bb9f2573",
     "title": "TOKKYSHOULDER 4PR Bej Kadın Omuz Çantası",
     "img": [
@@ -11978,9 +12154,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.144Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 141,
+    "timestamp": "2025-10-11T06:33:20.330Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 143,
     "categories": {
       "productType": [
         "çanta",
@@ -12043,13 +12219,13 @@
     }
   },
   {
-    "id": "42c4bcd1e37e77313a6f3fa34e4e6ca1294bd9dba3a3a64538e55e972f388985",
-    "title": "SARRACY 4PR Siyah Kadın Çapraz Çanta",
+    "id": "d5ae1a8d1291b0964c34cc4700a479ab7b98971f26c2dd3fafcaaae89cd6d4ec",
+    "title": "PONTIDA 4PR Siyah Kadın Çapraz Çanta",
     "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-09/23/101913141_f1.JPG?w=500"
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-07/02/101900984_f1.JPG?w=500"
     ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-09/23/101913141_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-sarracy-4pr-siyah-kadin-capraz-canta-101913141",
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/24-07/02/101900984_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-pontida-4pr-siyah-kadin-capraz-canta-101900984",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -12063,9 +12239,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.151Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 142,
+    "timestamp": "2025-10-11T06:33:20.338Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 144,
     "categories": {
       "productType": [
         "çanta",
@@ -12112,16 +12288,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.199,00 TL",
+          "value": "1.799,00 TL",
           "selector": ".product-pricing-two span",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2199,
+          "numericValue": 1799,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.199,00"
+          "displayPrice": "₺1.799,00"
         }
       ],
       "priceValid": true,
@@ -12150,9 +12326,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.158Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 143,
+    "timestamp": "2025-10-11T06:33:20.345Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 145,
     "categories": {
       "productType": [
         "çanta",
@@ -12237,9 +12413,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.166Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 144,
+    "timestamp": "2025-10-11T06:33:20.354Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 146,
     "categories": {
       "productType": [
         "çanta",
@@ -12304,82 +12480,6 @@
     }
   },
   {
-    "id": "08e07f0cd3628dc6715fae1cc3943d0f5e15ff659e4dd3997d4fd9a7e08081da",
-    "title": "LOCKUP 9 GX1403152 5FX Siyah Kadın Cüzdan",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952862_f1.jpg?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952862_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-lockup-9-gx1403152-5fx-siyah-kadin-cuzdan-101952862",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-one__price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.174Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 145,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,00 TL",
-          "selector": ".product-pricing-one__price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "6441bae0bd8a751f4d84754b31728e73caed88abda1de690aa5ba176144c262b",
     "title": "MEZZOLA 5FX Kahverengi Kadın Cüzdan",
     "img": [
@@ -12400,9 +12500,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.181Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 146,
+    "timestamp": "2025-10-11T06:33:20.362Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 147,
     "categories": {
       "productType": [
         "none"
@@ -12479,9 +12579,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.189Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 147,
+    "timestamp": "2025-10-11T06:33:20.370Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 148,
     "categories": {
       "productType": [
         "none"
@@ -12535,7 +12635,7 @@
   },
   {
     "id": "fd8d65ef4cc638e28ae16131f9fd711423ae5384fd6e9d0f92650d0db96d9b1e",
-    "title": "REJINACLT 5FX Gri Kadın Cüzdan",
+    "title": "REJINACLT 5FX GRI Kadın Cüzdan",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-03/24/102014032_f1-1742807599.jpg?w=500"
     ],
@@ -12554,9 +12654,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.197Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 148,
+    "timestamp": "2025-10-11T06:33:20.377Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 149,
     "categories": {
       "productType": [
         "none"
@@ -12631,9 +12731,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.204Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 149,
+    "timestamp": "2025-10-11T06:33:20.385Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 150,
     "categories": {
       "productType": [
         "none"
@@ -12687,13 +12787,13 @@
     }
   },
   {
-    "id": "fdf409fffb280506b73a7f192ff7b79e6088502ea9f2a32865b3e57da182b3c7",
-    "title": "CARIWA 5FX Gri Kadın Cüzdan",
+    "id": "d1e1028741c870a080282e09ca30f73025f283a43e54730ce25bd4256712dabb",
+    "title": "CARIWA 5FX Vizon Kadın Cüzdan",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101983115_f1.jpg?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101983115_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-cariwa-5fx-gri-kadin-cuzdan-101983115",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-cariwa-5fx-vizon-kadin-cuzdan-101983115",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -12707,15 +12807,15 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.212Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 150,
+    "timestamp": "2025-10-11T06:33:20.393Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 151,
     "categories": {
       "productType": [
         "none"
       ],
       "color": [
-        "gri/füme"
+        "vizon"
       ],
       "gender": [
         "kadın"
@@ -12723,9 +12823,7 @@
     },
     "seo": {
       "keywords": [
-        "gri/füme",
-        "gri",
-        "füme",
+        "vizon",
         "kadın",
         "kadin",
         "bayan",
@@ -12764,13 +12862,13 @@
     }
   },
   {
-    "id": "b49d715cebb67ce00c23a975246d57fd3c39ad9d7484c09d4d71862177a68409",
-    "title": "LOCKUP 9 GV1403147 5FX Gül Kurusu Kadın Cüzdan",
+    "id": "bc07dc7083a5d5fb7e0a52f16727e0bb269046150bff453cd4dd8d5aa5544481",
+    "title": "LOCKUP 9 GV1403147 5FX Pembe Kadın Cüzdan",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952857_f1.jpg?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952857_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-lockup-9-gv1403147-5fx-gul-kurusu-kadin-cuzdan-101952857",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-lockup-9-gv1403147-5fx-pembe-kadin-cuzdan-101952857",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -12784,12 +12882,15 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.219Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 151,
+    "timestamp": "2025-10-11T06:33:20.401Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 152,
     "categories": {
       "productType": [
         "none"
+      ],
+      "color": [
+        "pembe"
       ],
       "gender": [
         "kadın"
@@ -12797,6 +12898,7 @@
     },
     "seo": {
       "keywords": [
+        "pembe",
         "kadın",
         "kadin",
         "bayan",
@@ -12835,13 +12937,13 @@
     }
   },
   {
-    "id": "f5fbac2a0f4d020e05aa3f392c65f2171b08c6045a8ec56fc6057071306c264c",
-    "title": "LOCKUP 9 GV1403146 5FX Pembe Kadın Cüzdan",
+    "id": "3420c260afafdb3e293825515303b7d44b4bae52d41fa9328819baa055176ac4",
+    "title": "LOCKUP 9 GV1403146 5FX Gül Kurusu Kadın Cüzdan",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952856_f1.jpg?w=500"
     ],
     "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952856_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-lockup-9-gv1403146-5fx-pembe-kadin-cuzdan-101952856",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-lockup-9-gv1403146-5fx-gul-kurusu-kadin-cuzdan-101952856",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -12855,15 +12957,12 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.226Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 152,
+    "timestamp": "2025-10-11T06:33:20.408Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 153,
     "categories": {
       "productType": [
         "none"
-      ],
-      "color": [
-        "pembe"
       ],
       "gender": [
         "kadın"
@@ -12871,7 +12970,6 @@
     },
     "seo": {
       "keywords": [
-        "pembe",
         "kadın",
         "kadin",
         "bayan",
@@ -12930,9 +13028,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.233Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 153,
+    "timestamp": "2025-10-11T06:33:20.415Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 154,
     "categories": {
       "productType": [
         "none"
@@ -13006,9 +13104,85 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.239Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 154,
+    "timestamp": "2025-10-11T06:33:20.422Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 155,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,00 TL",
+          "selector": ".product-pricing-one__price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "08e07f0cd3628dc6715fae1cc3943d0f5e15ff659e4dd3997d4fd9a7e08081da",
+    "title": "LOCKUP 9 GX1403152 5FX Siyah Kadın Cüzdan",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952862_f1.jpg?w=500"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101952862_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-lockup-9-gx1403152-5fx-siyah-kadin-cuzdan-101952862",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-one__price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
+    "timestamp": "2025-10-11T06:33:20.430Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 156,
     "categories": {
       "productType": [
         "none"
@@ -13082,9 +13256,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.247Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 155,
+    "timestamp": "2025-10-11T06:33:20.438Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 157,
     "categories": {
       "productType": [
         "none"
@@ -13158,9 +13332,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.254Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 156,
+    "timestamp": "2025-10-11T06:33:20.445Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 158,
     "categories": {
       "productType": [
         "none"
@@ -13234,9 +13408,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.261Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 157,
+    "timestamp": "2025-10-11T06:33:20.453Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 159,
     "categories": {
       "productType": [
         "none"
@@ -13305,9 +13479,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.269Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 158,
+    "timestamp": "2025-10-11T06:33:20.460Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 160,
     "categories": {
       "productType": [
         "none"
@@ -13381,9 +13555,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.276Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 159,
+    "timestamp": "2025-10-11T06:33:20.467Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 161,
     "categories": {
       "productType": [
         "none"
@@ -13456,9 +13630,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.284Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 160,
+    "timestamp": "2025-10-11T06:33:20.475Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 162,
     "categories": {
       "productType": [
         "none"
@@ -13532,9 +13706,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.291Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 161,
+    "timestamp": "2025-10-11T06:33:20.482Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 163,
     "categories": {
       "productType": [
         "none"
@@ -13608,9 +13782,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.298Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 162,
+    "timestamp": "2025-10-11T06:33:20.490Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 164,
     "categories": {
       "productType": [
         "none"
@@ -13683,9 +13857,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.306Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 163,
+    "timestamp": "2025-10-11T06:33:20.498Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 165,
     "categories": {
       "productType": [
         "none"
@@ -13760,9 +13934,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.313Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 164,
+    "timestamp": "2025-10-11T06:33:20.505Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 166,
     "categories": {
       "productType": [
         "none"
@@ -13835,9 +14009,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.321Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 165,
+    "timestamp": "2025-10-11T06:33:20.513Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 167,
     "categories": {
       "productType": [
         "none"
@@ -13912,9 +14086,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.328Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 166,
+    "timestamp": "2025-10-11T06:33:20.520Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 168,
     "categories": {
       "productType": [
         "none"
@@ -13988,9 +14162,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.335Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 167,
+    "timestamp": "2025-10-11T06:33:20.527Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 169,
     "categories": {
       "productType": [
         "none"
@@ -14063,9 +14237,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.342Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 168,
+    "timestamp": "2025-10-11T06:33:20.534Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 170,
     "categories": {
       "productType": [
         "none"
@@ -14138,9 +14312,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.350Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 169,
+    "timestamp": "2025-10-11T06:33:20.542Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 171,
     "categories": {
       "productType": [
         "none"
@@ -14209,9 +14383,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.358Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 170,
+    "timestamp": "2025-10-11T06:33:20.549Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 172,
     "categories": {
       "productType": [
         "none"
@@ -14288,9 +14462,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.365Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 171,
+    "timestamp": "2025-10-11T06:33:20.557Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 173,
     "categories": {
       "productType": [
         "none"
@@ -14364,9 +14538,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.373Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 172,
+    "timestamp": "2025-10-11T06:33:20.564Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 174,
     "categories": {
       "productType": [
         "none"
@@ -14441,9 +14615,9 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.381Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 173,
+    "timestamp": "2025-10-11T06:33:20.572Z",
+    "processId": "mglwfrnqqtvug",
+    "index": 175,
     "categories": {
       "productType": [
         "none"
@@ -14492,93 +14666,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.499,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "c8f9e35e9905af260b9e6b711bb5c0a9808e72fe1aa433d17ef3bbb7f9d252c6",
-    "title": "CABELLABAGY 5FX Beyaz Kadın Çapraz Çanta",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-03/24/102011957_f1-1742807586.jpg?w=500"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-03/24/102011957_f1-1742807586.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-cabellabagy-5fx-beyaz-kadin-capraz-canta-102011957",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.product-image-wrapp...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-one__price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=5",
-    "timestamp": "2025-10-10T09:12:02.388Z",
-    "processId": "mgkmo02lpzyf3",
-    "index": 174,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "beyaz"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "beyaz",
-        "white",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.499,00 TL",
-          "selector": ".product-pricing-one__price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2499,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.499,00"
         }
       ],
       "priceValid": true,
