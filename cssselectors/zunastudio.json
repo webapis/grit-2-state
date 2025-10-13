@@ -2,15 +2,15 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".category__list__main div.grid a": {
-      "count": 75,
+      "count": 51,
       "usedFor": {}
     },
     "p.product-name": {
-      "count": 75,
+      "count": 51,
       "usedFor": {}
     },
     "img.category-products-image": {
-      "count": 75,
+      "count": 51,
       "usedFor": {}
     },
     ".discount-price span:nth-child(2)": {
@@ -19,26 +19,26 @@
     }
   },
   "summary": {
-    "totalObjects": 75,
+    "totalObjects": 51,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".category__list__main div.grid a",
-        "count": 75,
+        "count": 51,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "p.product-name",
-        "count": 75,
+        "count": 51,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "img.category-products-image",
-        "count": 75,
+        "count": 51,
         "usedFor": [
           "image"
         ]
