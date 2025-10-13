@@ -2,65 +2,61 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".product-card": {
-      "count": 60,
+      "count": 58,
       "usedFor": {}
     },
     "a.product-title": {
-      "count": 60,
+      "count": 58,
       "usedFor": {}
     },
     "[srcset]": {
-      "count": 60,
+      "count": 58,
       "usedFor": {}
     },
     ".price-list .h6.text-subdued": {
-      "count": 54,
-      "usedFor": {}
-    },
-    "span.transcy-money.b4b-vprice": {
-      "count": 1,
+      "count": 56,
       "usedFor": {}
     },
     ".price-list .h6.text-on-sale": {
-      "count": 5,
+      "count": 2,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 60,
-    "selectorsFound": 6,
+    "totalObjects": 58,
+    "selectorsFound": 5,
     "mostCommonSelectors": [
       {
         "selector": ".product-card",
-        "count": 60,
+        "count": 58,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "a.product-title",
-        "count": 60,
+        "count": 58,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[srcset]",
-        "count": 60,
+        "count": 58,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".price-list .h6.text-subdued",
-        "count": 54,
+        "count": 56,
         "usedFor": [
           "price"
         ]
       },
       {
         "selector": ".price-list .h6.text-on-sale",
-        "count": 5,
+        "count": 2,
         "usedFor": [
           "price"
         ]
