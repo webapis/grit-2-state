@@ -1,5 +1,91 @@
 [
   {
+    "id": "7a15b81fec00b8d9ff1198de97d602b6771021cfeddf42710e40c2abfd91572b",
+    "title": "Kadın Siyah %100 Koton The Beatles Tote Çanta",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638958299306870868.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638958299257339156.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638958299306870868.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638958299257339156.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638958299306870868.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-siyah-100-koton-the-beatles-tote-canta_168419",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-10-15T09:22:11.255Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.699,99 TL",
+          "selector": ".p-price .one-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "2737b440d42cf60b64697eab4b07cf228d29cbfa6b4882e6d48a113696b011f8",
     "title": "Kadın Haki Yeşili Metal Detaylı Cepli Askılı Omuz Çantası",
     "img": [
@@ -23,9 +109,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.039Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 0,
+    "timestamp": "2025-10-15T09:22:11.290Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -98,105 +184,6 @@
     }
   },
   {
-    "id": "4c75f3730c74d4daf0d50b459310b793637005dded75b39245d988cdfbe5eeb2",
-    "title": "Kadın Siyah Metal Detaylı Cepli Askılı Omuz Çantası",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615392421411.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943615351796350.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943615392421411.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615351796350.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615392421411.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-siyah-metal-detayli-cepli-askili-omuz-cantasi_168327",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".product-list.js-customize .p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.074Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,99 TL",
-          "selector": ".p-price .one-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "85c115899a617e2554ed2ee3e9d320ef6c01d835400ff85d28cee592abda0067",
     "title": "Kadın Haki Yeşili Çok Cepli Ayarlanabilir Askılı Fermuarlı Omuz Çantası",
     "img": [
@@ -220,8 +207,8 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.108Z",
-    "processId": "mgoov6m3cus9y",
+    "timestamp": "2025-10-15T09:22:11.329Z",
+    "processId": "mgrs8bip85gcn",
     "index": 2,
     "categories": {
       "productType": [
@@ -298,6 +285,105 @@
     }
   },
   {
+    "id": "4c75f3730c74d4daf0d50b459310b793637005dded75b39245d988cdfbe5eeb2",
+    "title": "Kadın Siyah Metal Detaylı Cepli Askılı Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615392421411.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943615351796350.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943615392421411.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615351796350.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615392421411.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-siyah-metal-detayli-cepli-askili-omuz-cantasi_168327",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-10-15T09:22:11.364Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,99 TL",
+          "selector": ".p-price .one-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "23319e77e0c0bc11da590b2066b435f078b5b7ad1c7a162d56634d351ef6ad36",
     "title": "Kadın Siyah Çok Cepli Ayarlanabilir Askılı Fermuarlı Omuz Çantası",
     "img": [
@@ -321,9 +407,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.145Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 3,
+    "timestamp": "2025-10-15T09:22:11.403Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -400,15 +486,104 @@
     }
   },
   {
+    "id": "adc8aaeaf9031ddae77a4f774a578c0cc67b56ed653ea50eca36e022588a512b",
+    "title": "Kadın Krem Logo Detaylı Metal Tokalı Ayarlanabilir Askılı Kroko Çanta",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611947898767.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943611902586530.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943611947898767.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611902586530.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611947898767.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-krem-logo-detayli-metal-tokali-ayarlanabilir-askili-kroko-canta_168158",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-10-15T09:22:11.440Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "4.499,99 TL",
+          "selector": ".p-price .one-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 4499.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺4.499,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "877652c26d76ac4108eec1de1df13417324a009954f4fc83b0b4399fd3d9945f",
     "title": "Kadın Siyah Logo Detaylı Metal Tokalı Ayarlanabilir Askılı Kroko Çanta",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935843954397120.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935844003146283.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935843954397120.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935844003146283.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935844003146283.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935843954397120.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935843954397120.jpeg",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935844003146283.jpeg",
     "link": "https://tr.benetton.com/kadin/kadin-siyah-logo-detayli-metal-tokali-ayarlanabilir-askili-kroko-canta_168159",
     "videos": [],
     "productNotInStock": false,
@@ -423,9 +598,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.180Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 4,
+    "timestamp": "2025-10-15T09:22:11.479Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -494,104 +669,15 @@
     }
   },
   {
-    "id": "adc8aaeaf9031ddae77a4f774a578c0cc67b56ed653ea50eca36e022588a512b",
-    "title": "Kadın Krem Logo Detaylı Metal Tokalı Ayarlanabilir Askılı Kroko Çanta",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611902586530.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611947898767.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943611902586530.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943611947898767.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611902586530.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-krem-logo-detayli-metal-tokali-ayarlanabilir-askili-kroko-canta_168158",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".product-list.js-customize .p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.215Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 5,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "4.499,99 TL",
-          "selector": ".p-price .one-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 4499.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺4.499,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "5f0b7fc493e1b7375138509dc41fb92c607e04b94e130c3eb8fb8f155c4e6077",
     "title": "Kadın Siyah Logo Detaylı Metal Tokalı Zincirli Askılı Kroko Çanta",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611191496504.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611242434467.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943611191496504.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943611242434467.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943611242434467.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611191496504.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611191496504.jpeg",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943611242434467.jpeg",
     "link": "https://tr.benetton.com/kadin/kadin-siyah-logo-detayli-metal-tokali-zincirli-askili-kroko-canta_168154",
     "videos": [],
     "productNotInStock": false,
@@ -606,9 +692,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.251Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 6,
+    "timestamp": "2025-10-15T09:22:11.506Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -680,12 +766,12 @@
     "id": "74255475f91a663dc00481c822f1cab4b2910a9ca5d872fd05488240f57d32ca",
     "title": "Kadın Krem Logo Detaylı Metal Tokalı Zincirli Askılı Kroko Çanta",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935842860820118.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935842909101804.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935842860820118.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935842909101804.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935842909101804.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935842860820118.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935842909101804.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935842860820118.jpeg",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935842860820118.jpeg",
     "link": "https://tr.benetton.com/kadin/kadin-krem-logo-detayli-metal-tokali-zincirli-askili-kroko-canta_168153",
     "videos": [],
     "productNotInStock": false,
@@ -693,16 +779,16 @@
       "linkSource": "titleElement (matched: .p-name a)",
       "matchedSelector": ".product-list.js-customize .p-item.col",
       "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".p-price .one-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.287Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 7,
+    "timestamp": "2025-10-15T09:22:11.544Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -766,112 +852,6 @@
     }
   },
   {
-    "id": "4219658ac809a2064db618cb44d9f47702197fdb1458ad652e07c640a378e106",
-    "title": "Kadın Bordo Logo Baskılı Fermuarlı Ayarlanabilir Askılı Spor Çanta",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833906273120.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833957680797.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833906273120.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833957680797.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833906273120.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-bordo-logo-baskili-fermuarli-ayarlanabilir-askili-spor-canta_168027",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".product-list.js-customize .p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.323Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "çanta",
-        "baskılı çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "spor çantası",
-        "fermuarlı çanta"
-      ],
-      "color": [
-        "bordo"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "baskılı çanta",
-        "baskılı",
-        "baskili",
-        "baskı",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "spor çantası",
-        "spor",
-        "sport",
-        "sports",
-        "fermuarlı çanta",
-        "fermuarlı",
-        "bordo",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.999,99 TL",
-          "selector": ".p-price .one-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3999.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.999,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "0fa5c57a55b18cc34f1af84549434f2db11a00921ad793789b0b09dfa251127e",
     "title": "Kadın Siyah Logo Baskılı Fermuarlı Ayarlanabilir Askılı Spor Çanta",
     "img": [
@@ -895,8 +875,8 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.361Z",
-    "processId": "mgoov6m3cus9y",
+    "timestamp": "2025-10-15T09:22:11.584Z",
+    "processId": "mgrs8bip85gcn",
     "index": 9,
     "categories": {
       "productType": [
@@ -979,6 +959,112 @@
     }
   },
   {
+    "id": "4219658ac809a2064db618cb44d9f47702197fdb1458ad652e07c640a378e106",
+    "title": "Kadın Bordo Logo Baskılı Fermuarlı Ayarlanabilir Askılı Spor Çanta",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833906273120.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833957680797.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833906273120.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833957680797.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833906273120.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-bordo-logo-baskili-fermuarli-ayarlanabilir-askili-spor-canta_168027",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-10-15T09:22:11.625Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "baskılı çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "spor çantası",
+        "fermuarlı çanta"
+      ],
+      "color": [
+        "bordo"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "baskılı çanta",
+        "baskılı",
+        "baskili",
+        "baskı",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "spor çantası",
+        "spor",
+        "sport",
+        "sports",
+        "fermuarlı çanta",
+        "fermuarlı",
+        "bordo",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.999,99 TL",
+          "selector": ".p-price .one-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3999.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.999,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "479443fb7fd3d0a04f29d6202911e68f8fd753582cdb83ed16d927c60fb8cb64",
     "title": "Unisex Siyah Benetton Logolu Sırt Çantası",
     "img": [
@@ -1002,9 +1088,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-10-13T05:24:41.401Z",
-    "processId": "mgoov6m3cus9y",
-    "index": 10,
+    "timestamp": "2025-10-15T09:22:11.664Z",
+    "processId": "mgrs8bip85gcn",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
