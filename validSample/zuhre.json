@@ -1,5 +1,89 @@
 [
   {
+    "id": "82c761cdd70b009522ee1bc73d2c531d1dc8422d84066fe0d96f069af2c2f049",
+    "title": "Zincir Askı Detaylı Beyaz Çanta Z0512",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-7-61ce.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-336dd1.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512--44ea-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-380080.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-ddf9a2.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-7-61ce.jpg",
+    "link": "https://www.zuhre.com.tr/zincir-aski-detayli-beyaz-canta-z0512",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.zuhre.com.tr/canta",
+    "timestamp": "2025-10-15T09:54:44.390Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "beyaz"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "beyaz",
+        "white"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$59.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 59,
+          "unsetPrice": false,
+          "convertedPrice": 59,
+          "displayPrice": "₺59,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "32e86d38d6b5e294fd7ceb3dabf2cddb29330e36a789c735eba77f3971b15241",
     "title": "Zincir Askı Detaylı Saks Çanta Z0512",
     "img": [
@@ -24,9 +108,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:49.970Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 0,
+    "timestamp": "2025-10-15T09:54:44.399Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -103,9 +187,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:49.979Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 1,
+    "timestamp": "2025-10-15T09:54:44.408Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -190,9 +274,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:49.988Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 2,
+    "timestamp": "2025-10-15T09:54:44.417Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -278,9 +362,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:49.996Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 3,
+    "timestamp": "2025-10-15T09:54:44.426Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -374,9 +458,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.005Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 4,
+    "timestamp": "2025-10-15T09:54:44.434Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -465,9 +549,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.016Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 5,
+    "timestamp": "2025-10-15T09:54:44.443Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -551,9 +635,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.026Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 6,
+    "timestamp": "2025-10-15T09:54:44.452Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -637,9 +721,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.036Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 7,
+    "timestamp": "2025-10-15T09:54:44.459Z",
+    "processId": "mgrte6eqyd5s2",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -709,99 +793,6 @@
     }
   },
   {
-    "id": "d4150736688f05e4bd9fea7aa49ebe6c620b7f4118108b994e1d02e30677dd2b",
-    "title": "Zincir Askılı Boncuk Detaylı Lacivert El ve Omuz Çantası Z0030",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0030-zuhre-canta-a03c39.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0030-zuhre-canta-0a4fdb.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0030-zuhre-canta--2457f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0030-zuhre-canta-9ec300.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0030-zuhre-canta-a03c39.jpg",
-    "link": "https://www.zuhre.com.tr/zincir-askili-boncuk-detayli-lacivert-el-ve-omuz-cantasi-z0030",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.045Z",
-    "processId": "mgopz8ktxqbad",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "el çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "lacivert"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "el çantası",
-        "el",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "lacivert"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$79.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 79,
-          "unsetPrice": false,
-          "convertedPrice": 79,
-          "displayPrice": "₺79,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "651716287f04634db07336875de1c5b5107ca7c9c5ce8fb415caf1b30d43bf2b",
     "title": "Zincir Askılı Boncuk Detaylı Haki El ve Omuz Çantası Z0030",
     "img": [
@@ -825,8 +816,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.054Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.467Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 9,
     "categories": {
       "productType": [
@@ -914,8 +905,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.063Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.479Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 10,
     "categories": {
       "productType": [
@@ -996,8 +987,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.074Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.488Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 11,
     "categories": {
       "productType": [
@@ -1079,8 +1070,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.086Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.496Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 12,
     "categories": {
       "productType": [
@@ -1158,8 +1149,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.094Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.504Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 13,
     "categories": {
       "productType": [
@@ -1242,8 +1233,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.104Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.511Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 14,
     "categories": {
       "productType": [
@@ -1326,8 +1317,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.114Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.520Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 15,
     "categories": {
       "productType": [
@@ -1410,8 +1401,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.124Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.529Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 16,
     "categories": {
       "productType": [
@@ -1493,8 +1484,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.134Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.540Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 17,
     "categories": {
       "productType": [
@@ -1578,8 +1569,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.142Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.549Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 18,
     "categories": {
       "productType": [
@@ -1661,8 +1652,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.151Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.557Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 19,
     "categories": {
       "productType": [
@@ -1745,8 +1736,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.161Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.566Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 20,
     "categories": {
       "productType": [
@@ -1831,8 +1822,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.169Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.574Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 21,
     "categories": {
       "productType": [
@@ -1920,8 +1911,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.178Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.583Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 22,
     "categories": {
       "productType": [
@@ -2004,8 +1995,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-13T05:55:50.187Z",
-    "processId": "mgopz8ktxqbad",
+    "timestamp": "2025-10-15T09:54:44.592Z",
+    "processId": "mgrte6eqyd5s2",
     "index": 23,
     "categories": {
       "productType": [
@@ -2087,8 +2078,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.767Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.767Z",
+    "processId": "mgrtehi6k70ih",
     "index": 0,
     "categories": {
       "productType": [
@@ -2169,8 +2160,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.776Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.775Z",
+    "processId": "mgrtehi6k70ih",
     "index": 1,
     "categories": {
       "productType": [
@@ -2254,8 +2245,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.786Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.784Z",
+    "processId": "mgrtehi6k70ih",
     "index": 2,
     "categories": {
       "productType": [
@@ -2340,8 +2331,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.794Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.793Z",
+    "processId": "mgrtehi6k70ih",
     "index": 3,
     "categories": {
       "productType": [
@@ -2424,8 +2415,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.802Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.801Z",
+    "processId": "mgrtehi6k70ih",
     "index": 4,
     "categories": {
       "productType": [
@@ -2510,8 +2501,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.811Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.810Z",
+    "processId": "mgrtehi6k70ih",
     "index": 5,
     "categories": {
       "productType": [
@@ -2589,8 +2580,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.820Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.820Z",
+    "processId": "mgrtehi6k70ih",
     "index": 6,
     "categories": {
       "productType": [
@@ -2668,8 +2659,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.829Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.828Z",
+    "processId": "mgrtehi6k70ih",
     "index": 7,
     "categories": {
       "productType": [
@@ -2739,8 +2730,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.842Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.837Z",
+    "processId": "mgrtehi6k70ih",
     "index": 8,
     "categories": {
       "productType": [
@@ -2815,8 +2806,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.852Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.843Z",
+    "processId": "mgrtehi6k70ih",
     "index": 9,
     "categories": {
       "productType": [
@@ -2890,8 +2881,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.862Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.856Z",
+    "processId": "mgrtehi6k70ih",
     "index": 10,
     "categories": {
       "productType": [
@@ -2961,8 +2952,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.876Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.865Z",
+    "processId": "mgrtehi6k70ih",
     "index": 11,
     "categories": {
       "productType": [
@@ -3044,8 +3035,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.887Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.872Z",
+    "processId": "mgrtehi6k70ih",
     "index": 12,
     "categories": {
       "productType": [
@@ -3124,8 +3115,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.896Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.881Z",
+    "processId": "mgrtehi6k70ih",
     "index": 13,
     "categories": {
       "productType": [
@@ -3205,8 +3196,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.905Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.888Z",
+    "processId": "mgrtehi6k70ih",
     "index": 14,
     "categories": {
       "productType": [
@@ -3282,8 +3273,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.915Z",
-    "processId": "mgopzg59exudz",
+    "timestamp": "2025-10-15T09:54:58.896Z",
+    "processId": "mgrtehi6k70ih",
     "index": 15,
     "categories": {
       "productType": [
@@ -3339,89 +3330,6 @@
     }
   },
   {
-    "id": "ab56bc1cb9c8e6ad7fe724cfdc12ed5bf82090ce4eb087d21715e2a32787084c",
-    "title": "Şerit Detaylı Taba Çanta Z0009",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/serit-detayli-taba-canta-z0009-0466fe.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/serit-detayli-taba-canta-z0009-dd286c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/serit-detayli-taba-canta-z0009-67e-34.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/serit-detayli-taba-canta-z0009-b-873c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/serit-detayli-taba-canta-z0009-0c5f3c.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/serit-detayli-taba-canta-z0009-0466fe.jpg",
-    "link": "https://www.zuhre.com.tr/serit-detayli-taba-canta-z0009",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.924Z",
-    "processId": "mgopzg59exudz",
-    "index": 16,
-    "categories": {
-      "productType": [
-        "çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$69.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 69,
-          "unsetPrice": false,
-          "convertedPrice": 69,
-          "displayPrice": "₺69,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "94d8f23465c02c2eeb9eecc50f980f39eb14868b40c1030ee93a54ddf4b90f23",
     "title": "Fuşya Kapitone El ve Omuz Çanta Z0006",
     "img": [
@@ -3446,9 +3354,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.934Z",
-    "processId": "mgopzg59exudz",
-    "index": 17,
+    "timestamp": "2025-10-15T09:54:58.906Z",
+    "processId": "mgrtehi6k70ih",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -3525,9 +3433,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.944Z",
-    "processId": "mgopzg59exudz",
-    "index": 18,
+    "timestamp": "2025-10-15T09:54:58.916Z",
+    "processId": "mgrtehi6k70ih",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -3601,9 +3509,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.956Z",
-    "processId": "mgopzg59exudz",
-    "index": 19,
+    "timestamp": "2025-10-15T09:54:58.925Z",
+    "processId": "mgrtehi6k70ih",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -3686,9 +3594,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.965Z",
-    "processId": "mgopzg59exudz",
-    "index": 20,
+    "timestamp": "2025-10-15T09:54:58.934Z",
+    "processId": "mgrtehi6k70ih",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -3766,9 +3674,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.974Z",
-    "processId": "mgopzg59exudz",
-    "index": 21,
+    "timestamp": "2025-10-15T09:54:58.943Z",
+    "processId": "mgrtehi6k70ih",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -3848,9 +3756,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.984Z",
-    "processId": "mgopzg59exudz",
-    "index": 22,
+    "timestamp": "2025-10-15T09:54:58.952Z",
+    "processId": "mgrtehi6k70ih",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -3934,9 +3842,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-13T05:55:59.994Z",
-    "processId": "mgopzg59exudz",
-    "index": 23,
+    "timestamp": "2025-10-15T09:54:58.962Z",
+    "processId": "mgrtehi6k70ih",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -4012,11 +3920,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.319Z",
-    "processId": "mgopznhuidhpn",
-    "index": 0,
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
+    "timestamp": "2025-10-15T09:54:58.972Z",
+    "processId": "mgrtehi6k70ih",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -4097,9 +4005,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.327Z",
-    "processId": "mgopznhuidhpn",
-    "index": 1,
+    "timestamp": "2025-10-15T09:55:08.637Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -4176,9 +4084,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.335Z",
-    "processId": "mgopznhuidhpn",
-    "index": 2,
+    "timestamp": "2025-10-15T09:55:08.645Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -4255,9 +4163,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.344Z",
-    "processId": "mgopznhuidhpn",
-    "index": 3,
+    "timestamp": "2025-10-15T09:55:08.653Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -4339,9 +4247,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.355Z",
-    "processId": "mgopznhuidhpn",
-    "index": 4,
+    "timestamp": "2025-10-15T09:55:08.661Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -4422,9 +4330,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.365Z",
-    "processId": "mgopznhuidhpn",
-    "index": 5,
+    "timestamp": "2025-10-15T09:55:08.669Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -4501,9 +4409,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.374Z",
-    "processId": "mgopznhuidhpn",
-    "index": 6,
+    "timestamp": "2025-10-15T09:55:08.677Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -4581,9 +4489,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.384Z",
-    "processId": "mgopznhuidhpn",
-    "index": 7,
+    "timestamp": "2025-10-15T09:55:08.687Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -4661,9 +4569,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.394Z",
-    "processId": "mgopznhuidhpn",
-    "index": 8,
+    "timestamp": "2025-10-15T09:55:08.696Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -4740,9 +4648,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.403Z",
-    "processId": "mgopznhuidhpn",
-    "index": 9,
+    "timestamp": "2025-10-15T09:55:08.705Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -4815,9 +4723,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.412Z",
-    "processId": "mgopznhuidhpn",
-    "index": 10,
+    "timestamp": "2025-10-15T09:55:08.714Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -4901,9 +4809,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.421Z",
-    "processId": "mgopznhuidhpn",
-    "index": 11,
+    "timestamp": "2025-10-15T09:55:08.722Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -4963,6 +4871,85 @@
     }
   },
   {
+    "id": "ba40dcb09ab498d87c8ee85e0fe78f3bf13ce20a320b8ec153b223e0e48847b8",
+    "title": "Büzgü Detaylı Vizon Çanta Z0031",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-a39728.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-4f89-b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-6bf9ab.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-3-44bb.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-c4-4bc.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-a39728.jpg",
+    "link": "https://www.zuhre.com.tr/buzgu-detayli-vizon-canta-z0031",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
+    "timestamp": "2025-10-15T09:55:08.731Z",
+    "processId": "mgrtep4p5y9o9",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "vizon"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "vizon"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$79.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 79,
+          "unsetPrice": false,
+          "convertedPrice": 79,
+          "displayPrice": "₺79,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "ef312d2934f6822a2e93faffdc11f641eb49254e19c83e105215beba82ba89f0",
     "title": "Metal Toka Detaylı Bej Çanta Z0028",
     "img": [
@@ -4987,8 +4974,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.430Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.740Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 12,
     "categories": {
       "productType": [
@@ -5070,8 +5057,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.438Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.748Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 13,
     "categories": {
       "productType": [
@@ -5153,8 +5140,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.448Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.756Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 14,
     "categories": {
       "productType": [
@@ -5232,8 +5219,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.457Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.765Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 15,
     "categories": {
       "productType": [
@@ -5314,8 +5301,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.466Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.774Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 16,
     "categories": {
       "productType": [
@@ -5397,8 +5384,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.475Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.782Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 17,
     "categories": {
       "productType": [
@@ -5475,8 +5462,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.490Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.797Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 18,
     "categories": {
       "productType": [
@@ -5555,8 +5542,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.501Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.811Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 19,
     "categories": {
       "productType": [
@@ -5636,8 +5623,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.510Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.819Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 20,
     "categories": {
       "productType": [
@@ -5719,8 +5706,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-13T05:56:09.520Z",
-    "processId": "mgopznhuidhpn",
+    "timestamp": "2025-10-15T09:55:08.836Z",
+    "processId": "mgrtep4p5y9o9",
     "index": 21,
     "categories": {
       "productType": [
