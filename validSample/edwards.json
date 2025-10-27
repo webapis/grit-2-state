@@ -1,5 +1,67 @@
 [
   {
+    "id": "3b94a48fa2e2be31f53d8b6b9696b618b35ad46c0b6bfa679e9d091329cf03ab",
+    "title": "OTRERA\nMini Leda Blue",
+    "img": [
+      "https://a88cb3.cdn.akinoncloud.com/products/2023/04/18/175972/cb3671a3-a33d-445e-b0b5-64c865c4bee4_size290x376_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a88cb3.cdn.akinoncloud.com/products/2023/04/18/175972/cb3671a3-a33d-445e-b0b5-64c865c4bee4_size290x376_cropCenter.jpg",
+    "link": "https://www.edwards.com.tr/otrera-mini-leda-blue-ss22otrera079/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info  p.product-name a)",
+      "matchedSelector": ".list-content-product-item:has(.product-name a)",
+      "titleSelectorMatched": ".product-item-info  p.product-name a",
+      "imgSelectorMatched": ".product-item-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price .product-sale-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
+    "pageURL": "https://www.edwards.com.tr/canta/",
+    "timestamp": "2025-10-27T05:19:30.237Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": []
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "10300 TL",
+          "selector": ".product-price .product-sale-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 10300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺10.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "0934a9c5d1d11ae095a501dfdbfef63869aeed2eddb522922b2158d4f94345d6",
     "title": "OTRERA\nTan Flotter Card Case",
     "img": [
@@ -20,9 +82,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.201Z",
-    "processId": "mgyorcf3kejju",
-    "index": 0,
+    "timestamp": "2025-10-27T05:19:30.271Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 1,
     "categories": {
       "productType": [
         "none"
@@ -82,9 +144,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.228Z",
-    "processId": "mgyorcf3kejju",
-    "index": 1,
+    "timestamp": "2025-10-27T05:19:30.305Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 2,
     "categories": {
       "productType": [
         "none"
@@ -144,9 +206,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.260Z",
-    "processId": "mgyorcf3kejju",
-    "index": 2,
+    "timestamp": "2025-10-27T05:19:30.337Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 3,
     "categories": {
       "productType": [
         "none"
@@ -206,9 +268,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.297Z",
-    "processId": "mgyorcf3kejju",
-    "index": 3,
+    "timestamp": "2025-10-27T05:19:30.371Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 4,
     "categories": {
       "productType": [
         "none"
@@ -268,9 +330,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.335Z",
-    "processId": "mgyorcf3kejju",
-    "index": 4,
+    "timestamp": "2025-10-27T05:19:30.405Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 5,
     "categories": {
       "productType": [
         "none"
@@ -330,9 +392,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.370Z",
-    "processId": "mgyorcf3kejju",
-    "index": 5,
+    "timestamp": "2025-10-27T05:19:30.440Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 6,
     "categories": {
       "productType": [
         "none"
@@ -399,9 +461,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.410Z",
-    "processId": "mgyorcf3kejju",
-    "index": 6,
+    "timestamp": "2025-10-27T05:19:30.473Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -448,13 +510,13 @@
     }
   },
   {
-    "id": "7bb69000cfe3d1d5a3343e43b7b31e2c2c896e9df11647e930388cc985643beb",
-    "title": "OTRERA\nLYDIA HAND PAINTED PESCE",
+    "id": "0e1ef18e4d22841a682bfacb437ed63529f0cf4e5070a72e920bbebb7eba5ab2",
+    "title": "UN POCO\nVenedik Karnavalı Pouch - Portföy Çanta",
     "img": [
-      "https://a88cb3.cdn.akinoncloud.com/products/2025/09/17/250783/f7b6dec9-57a8-4617-89ae-9349f8a2affb_size290x376_cropCenter.jpg"
+      "https://a88cb3.cdn.akinoncloud.com/products/2022/10/07/179427/3013e1a2-f2e1-47e1-928d-f8bb5718277c_size290x376_cropCenter.jpg"
     ],
-    "primaryImg": "https://a88cb3.cdn.akinoncloud.com/products/2025/09/17/250783/f7b6dec9-57a8-4617-89ae-9349f8a2affb_size290x376_cropCenter.jpg",
-    "link": "https://www.edwards.com.tr/otrera-lydia-hand-painted-pesce-ss25otrera056/",
+    "primaryImg": "https://a88cb3.cdn.akinoncloud.com/products/2022/10/07/179427/3013e1a2-f2e1-47e1-928d-f8bb5718277c_size290x376_cropCenter.jpg",
+    "link": "https://www.edwards.com.tr/un-poco-venedik-karnavali-pouch-portfoy-canta-port03/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -468,16 +530,23 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.455Z",
-    "processId": "mgyorcf3kejju",
-    "index": 7,
+    "timestamp": "2025-10-27T05:19:30.506Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 8,
     "categories": {
       "productType": [
-        "none"
+        "çanta",
+        "portföy"
       ]
     },
     "seo": {
-      "keywords": []
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "portföy"
+      ]
     },
     "imgValid": true,
     "videoValid": false,
@@ -492,16 +561,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3500 TL",
+          "value": "2250 TL",
           "selector": ".product-price .product-sale-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3500,
+          "numericValue": 2250,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.500,00"
+          "displayPrice": "₺2.250,00"
         }
       ],
       "priceValid": true,
@@ -530,9 +599,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.491Z",
-    "processId": "mgyorcf3kejju",
-    "index": 8,
+    "timestamp": "2025-10-27T05:19:30.537Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 9,
     "categories": {
       "productType": [
         "none"
@@ -592,9 +661,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.540Z",
-    "processId": "mgyorcf3kejju",
-    "index": 9,
+    "timestamp": "2025-10-27T05:19:30.568Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 10,
     "categories": {
       "productType": [
         "none"
@@ -661,9 +730,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.583Z",
-    "processId": "mgyorcf3kejju",
-    "index": 10,
+    "timestamp": "2025-10-27T05:19:30.597Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 11,
     "categories": {
       "productType": [
         "none"
@@ -723,9 +792,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.614Z",
-    "processId": "mgyorcf3kejju",
-    "index": 11,
+    "timestamp": "2025-10-27T05:19:30.635Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 12,
     "categories": {
       "productType": [
         "none"
@@ -785,9 +854,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.644Z",
-    "processId": "mgyorcf3kejju",
-    "index": 12,
+    "timestamp": "2025-10-27T05:19:30.676Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 13,
     "categories": {
       "productType": [
         "none"
@@ -847,9 +916,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.677Z",
-    "processId": "mgyorcf3kejju",
-    "index": 13,
+    "timestamp": "2025-10-27T05:19:30.710Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 14,
     "categories": {
       "productType": [
         "none"
@@ -909,9 +978,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.714Z",
-    "processId": "mgyorcf3kejju",
-    "index": 14,
+    "timestamp": "2025-10-27T05:19:30.742Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 15,
     "categories": {
       "productType": [
         "none"
@@ -971,9 +1040,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.749Z",
-    "processId": "mgyorcf3kejju",
-    "index": 15,
+    "timestamp": "2025-10-27T05:19:30.778Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 16,
     "categories": {
       "productType": [
         "none"
@@ -1042,9 +1111,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.789Z",
-    "processId": "mgyorcf3kejju",
-    "index": 16,
+    "timestamp": "2025-10-27T05:19:30.811Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 17,
     "categories": {
       "productType": [
         "none"
@@ -1104,9 +1173,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.827Z",
-    "processId": "mgyorcf3kejju",
-    "index": 17,
+    "timestamp": "2025-10-27T05:19:30.846Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 18,
     "categories": {
       "productType": [
         "none"
@@ -1176,9 +1245,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.869Z",
-    "processId": "mgyorcf3kejju",
-    "index": 18,
+    "timestamp": "2025-10-27T05:19:30.879Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 19,
     "categories": {
       "productType": [
         "none"
@@ -1238,9 +1307,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.915Z",
-    "processId": "mgyorcf3kejju",
-    "index": 19,
+    "timestamp": "2025-10-27T05:19:30.910Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 20,
     "categories": {
       "productType": [
         "none"
@@ -1300,9 +1369,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.957Z",
-    "processId": "mgyorcf3kejju",
-    "index": 20,
+    "timestamp": "2025-10-27T05:19:30.945Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta"
@@ -1367,9 +1436,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:23.991Z",
-    "processId": "mgyorcf3kejju",
-    "index": 21,
+    "timestamp": "2025-10-27T05:19:30.981Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 22,
     "categories": {
       "productType": [
         "none"
@@ -1429,9 +1498,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:24.026Z",
-    "processId": "mgyorcf3kejju",
-    "index": 22,
+    "timestamp": "2025-10-27T05:19:31.016Z",
+    "processId": "mh8ouggc5oizi",
+    "index": 23,
     "categories": {
       "productType": [
         "none"
@@ -1490,10 +1559,10 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
-    "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-10-20T05:19:24.060Z",
-    "processId": "mgyorcf3kejju",
-    "index": 23,
+    "pageURL": "https://www.edwards.com.tr/canta/?page=2",
+    "timestamp": "2025-10-27T05:19:38.206Z",
+    "processId": "mh8oumemj6888",
+    "index": 0,
     "categories": {
       "productType": [
         "none"
@@ -1553,9 +1622,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.261Z",
-    "processId": "mgyoricyctvai",
-    "index": 0,
+    "timestamp": "2025-10-27T05:19:38.237Z",
+    "processId": "mh8oumemj6888",
+    "index": 1,
     "categories": {
       "productType": [
         "none"
@@ -1621,9 +1690,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.300Z",
-    "processId": "mgyoricyctvai",
-    "index": 1,
+    "timestamp": "2025-10-27T05:19:38.270Z",
+    "processId": "mh8oumemj6888",
+    "index": 2,
     "categories": {
       "productType": [
         "none"
@@ -1683,9 +1752,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.337Z",
-    "processId": "mgyoricyctvai",
-    "index": 2,
+    "timestamp": "2025-10-27T05:19:38.305Z",
+    "processId": "mh8oumemj6888",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -1752,9 +1821,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.375Z",
-    "processId": "mgyoricyctvai",
-    "index": 3,
+    "timestamp": "2025-10-27T05:19:38.341Z",
+    "processId": "mh8oumemj6888",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta"
@@ -1825,9 +1894,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.421Z",
-    "processId": "mgyoricyctvai",
-    "index": 4,
+    "timestamp": "2025-10-27T05:19:38.377Z",
+    "processId": "mh8oumemj6888",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta"
@@ -1898,9 +1967,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.464Z",
-    "processId": "mgyoricyctvai",
-    "index": 5,
+    "timestamp": "2025-10-27T05:19:38.413Z",
+    "processId": "mh8oumemj6888",
+    "index": 6,
     "categories": {
       "productType": [
         "none"
@@ -1960,9 +2029,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.498Z",
-    "processId": "mgyoricyctvai",
-    "index": 6,
+    "timestamp": "2025-10-27T05:19:38.449Z",
+    "processId": "mh8oumemj6888",
+    "index": 7,
     "categories": {
       "productType": [
         "none"
@@ -2022,9 +2091,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.532Z",
-    "processId": "mgyoricyctvai",
-    "index": 7,
+    "timestamp": "2025-10-27T05:19:38.484Z",
+    "processId": "mh8oumemj6888",
+    "index": 8,
     "categories": {
       "productType": [
         "none"
@@ -2084,9 +2153,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.566Z",
-    "processId": "mgyoricyctvai",
-    "index": 8,
+    "timestamp": "2025-10-27T05:19:38.525Z",
+    "processId": "mh8oumemj6888",
+    "index": 9,
     "categories": {
       "productType": [
         "none"
@@ -2146,9 +2215,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.604Z",
-    "processId": "mgyoricyctvai",
-    "index": 9,
+    "timestamp": "2025-10-27T05:19:38.554Z",
+    "processId": "mh8oumemj6888",
+    "index": 10,
     "categories": {
       "productType": [
         "none"
@@ -2208,9 +2277,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.647Z",
-    "processId": "mgyoricyctvai",
-    "index": 10,
+    "timestamp": "2025-10-27T05:19:38.591Z",
+    "processId": "mh8oumemj6888",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta"
@@ -2275,9 +2344,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.682Z",
-    "processId": "mgyoricyctvai",
-    "index": 11,
+    "timestamp": "2025-10-27T05:19:38.628Z",
+    "processId": "mh8oumemj6888",
+    "index": 12,
     "categories": {
       "productType": [
         "none"
@@ -2337,9 +2406,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.717Z",
-    "processId": "mgyoricyctvai",
-    "index": 12,
+    "timestamp": "2025-10-27T05:19:38.664Z",
+    "processId": "mh8oumemj6888",
+    "index": 13,
     "categories": {
       "productType": [
         "none"
@@ -2379,6 +2448,77 @@
     }
   },
   {
+    "id": "72d9961335aa118ec9b7a9d93862b5ae6cc5b92d7cb106e56e62b6bbb09e4e6a",
+    "title": "OTRERA\nBraided Leda Brown",
+    "img": [
+      "https://a88cb3.cdn.akinoncloud.com/products/2022/10/07/175818/a97514db-a1d3-4ae1-be05-fb9d39552355_size290x376_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a88cb3.cdn.akinoncloud.com/products/2022/10/07/175818/a97514db-a1d3-4ae1-be05-fb9d39552355_size290x376_cropCenter.jpg",
+    "link": "https://www.edwards.com.tr/otrera-braided-leda-brown-ss22otrera075/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info  p.product-name a)",
+      "matchedSelector": ".list-content-product-item:has(.product-name a)",
+      "titleSelectorMatched": ".product-item-info  p.product-name a",
+      "imgSelectorMatched": ".product-item-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price .product-sale-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
+    "pageURL": "https://www.edwards.com.tr/canta/?page=2",
+    "timestamp": "2025-10-27T05:19:38.699Z",
+    "processId": "mh8oumemj6888",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "10300 TL",
+          "selector": ".product-price .product-sale-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 10300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺10.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "c2e918858339acc1949830f0deb81aaf08cd3a52f0409c61f52eac189c88ac51",
     "title": "OTRERA\nTaco Bag",
     "img": [
@@ -2399,9 +2539,9 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/?page=2",
-    "timestamp": "2025-10-20T05:19:31.760Z",
-    "processId": "mgyoricyctvai",
-    "index": 13,
+    "timestamp": "2025-10-27T05:19:38.732Z",
+    "processId": "mh8oumemj6888",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
