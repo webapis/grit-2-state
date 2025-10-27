@@ -1,5 +1,191 @@
 [
   {
+    "id": "25ae6b027d5b668e03e0ddb2f8b59621e3399dd1a91b4d0b64b9d5087758081d",
+    "title": "Taba Deri Kadın Omuz Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/taba-deri-kadin-omuz-canta-a14-58.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/taba-deri-kadin-omuz-canta-a14-58.png",
+    "link": "https://www.platinderi.com/taba-deri-kadin-omuz-canta-5749",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar",
+    "timestamp": "2025-10-27T06:01:42.111Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺9.900,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 9900,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺9.900,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "70eea15510ba3e99c75070680c6e13dc0aa552ce16b48173cb565d734b5376d8",
+    "title": "Bordo Deri Kadın Omuz Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bordo-deri-kadin-omuz-canta--b3eca.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bordo-deri-kadin-omuz-canta--b3eca.png",
+    "link": "https://www.platinderi.com/bordo-deri-kadin-omuz-canta-5748",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar",
+    "timestamp": "2025-10-27T06:01:42.140Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "bordo"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "bordo",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺9.900,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 9900,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺9.900,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "e9dfa5f463e69ce69abe1ad6beee989b14849e775c4bcfac79157a5090386f20",
     "title": "Taba Deri Lizard Baskı Kadın Omuz Çanta",
     "img": [
@@ -20,9 +206,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:40.848Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 0,
+    "timestamp": "2025-10-27T06:01:42.172Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -124,9 +310,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:40.885Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 1,
+    "timestamp": "2025-10-27T06:01:42.202Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -226,9 +412,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:40.919Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 2,
+    "timestamp": "2025-10-27T06:01:42.234Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -330,9 +516,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:40.951Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 3,
+    "timestamp": "2025-10-27T06:01:42.268Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -410,6 +596,98 @@
     }
   },
   {
+    "id": "802f70ae32ee95858bef8f9c69a1c5ae0b712b76e8670139a9fc8f3ccce80d2c",
+    "title": "Siyah Deri Kadın Omuz Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-omuz-canta-8380-c.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-omuz-canta-8380-c.png",
+    "link": "https://www.platinderi.com/siyah-deri-kadin-omuz-canta-5641",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar",
+    "timestamp": "2025-10-27T06:01:42.307Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺9.900,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 9900,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺9.900,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "f6d6390b4f8e37b898996ec167fc6551946fde1bc527f61f7d2d58d84c6f8f6e",
     "title": "Siyah Deri Kadın El Çanta",
     "img": [
@@ -430,9 +708,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:40.982Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 4,
+    "timestamp": "2025-10-27T06:01:42.339Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -520,9 +798,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.026Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 5,
+    "timestamp": "2025-10-27T06:01:42.379Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -609,9 +887,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.061Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 6,
+    "timestamp": "2025-10-27T06:01:42.427Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -702,9 +980,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.112Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 7,
+    "timestamp": "2025-10-27T06:01:42.463Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -793,9 +1071,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.154Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 8,
+    "timestamp": "2025-10-27T06:01:42.500Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -884,9 +1162,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.194Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 9,
+    "timestamp": "2025-10-27T06:01:42.539Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -984,9 +1262,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.228Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 10,
+    "timestamp": "2025-10-27T06:01:42.575Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -1081,9 +1359,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.271Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 11,
+    "timestamp": "2025-10-27T06:01:42.608Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1180,9 +1458,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.320Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 12,
+    "timestamp": "2025-10-27T06:01:42.644Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -1278,9 +1556,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.356Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 13,
+    "timestamp": "2025-10-27T06:01:42.676Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1363,9 +1641,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.397Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 14,
+    "timestamp": "2025-10-27T06:01:42.715Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1455,9 +1733,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.445Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 15,
+    "timestamp": "2025-10-27T06:01:42.750Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1531,9 +1809,9 @@
     "id": "340ea4caf48026bb993f01ee81315f692444d7870430293da757bc57780e95c5",
     "title": "Kemik Deri Kadın Çapraz Askılı Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/kemik-deri-kadin-capraz-askili-canta-9e17cf.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/kemik-deri-kadin-capraz-askili-canta-71-44d.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/kemik-deri-kadin-capraz-askili-canta-9e17cf.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/kemik-deri-kadin-capraz-askili-canta-71-44d.png",
     "link": "https://www.platinderi.com/kemik-deri-kadin-capraz-askili-canta-5568",
     "videos": [],
     "productNotInStock": false,
@@ -1548,9 +1826,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.490Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 16,
+    "timestamp": "2025-10-27T06:01:42.786Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1648,9 +1926,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.531Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 17,
+    "timestamp": "2025-10-27T06:01:42.823Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1741,9 +2019,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.569Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 18,
+    "timestamp": "2025-10-27T06:01:42.858Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1832,9 +2110,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.616Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 19,
+    "timestamp": "2025-10-27T06:01:42.894Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1934,9 +2212,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.646Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 20,
+    "timestamp": "2025-10-27T06:01:42.929Z",
+    "processId": "mh8qcq39mr8je",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -2023,11 +2301,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.688Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 21,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
+    "timestamp": "2025-10-27T06:01:51.381Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -2115,11 +2393,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.723Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 22,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
+    "timestamp": "2025-10-27T06:01:51.416Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -2210,11 +2488,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-10-20T06:05:41.773Z",
-    "processId": "mgyqevpu9ynyq",
-    "index": 23,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
+    "timestamp": "2025-10-27T06:01:51.451Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -2310,9 +2588,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.262Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 0,
+    "timestamp": "2025-10-27T06:01:51.481Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -2409,9 +2687,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.297Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 1,
+    "timestamp": "2025-10-27T06:01:51.518Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -2503,9 +2781,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.333Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 2,
+    "timestamp": "2025-10-27T06:01:51.553Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -2605,9 +2883,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.370Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 3,
+    "timestamp": "2025-10-27T06:01:51.588Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -2683,95 +2961,6 @@
     }
   },
   {
-    "id": "72f961661742f6d032ed8bf66d2ff5c02f7e372a626813c04fedecd1dc1669c4",
-    "title": "Süet Taba Kadın El Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/suet-taba-kadin-el-canta-4-adde.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/suet-taba-kadin-el-canta-4-adde.png",
-    "link": "https://www.platinderi.com/suet-taba-kadin-el-canta-5542",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.421Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "süet çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "süet çanta",
-        "süet",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺7.700,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 7700,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺7.700,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "842a1470292de2c96a6d49db3a0fe492f86255ff3ee0ad82a0d4f421a1f6ffa7",
     "title": "Kahve Deri Kadın El Çanta",
     "img": [
@@ -2792,9 +2981,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.468Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 5,
+    "timestamp": "2025-10-27T06:01:51.613Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -2885,9 +3074,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.506Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 6,
+    "timestamp": "2025-10-27T06:01:51.650Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -2977,9 +3166,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.542Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 7,
+    "timestamp": "2025-10-27T06:01:51.687Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -3062,9 +3251,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.594Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 8,
+    "timestamp": "2025-10-27T06:01:51.720Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -3155,9 +3344,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.630Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 9,
+    "timestamp": "2025-10-27T06:01:51.760Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -3242,9 +3431,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.672Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 10,
+    "timestamp": "2025-10-27T06:01:51.795Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -3332,9 +3521,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.717Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 11,
+    "timestamp": "2025-10-27T06:01:51.834Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -3425,9 +3614,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.757Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 12,
+    "timestamp": "2025-10-27T06:01:51.867Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -3512,9 +3701,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.797Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 13,
+    "timestamp": "2025-10-27T06:01:51.903Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -3584,110 +3773,6 @@
     }
   },
   {
-    "id": "eaa837269143fdcfcb589d67a917ce7e095958ea2ea5d889a5b5378deb829642",
-    "title": "Vizon Deri Kadın Çapraz Askılı Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/vizon-deri-kadin-capraz-askili-canta-39-99c.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/vizon-deri-kadin-capraz-askili-canta-39-99c.png",
-    "link": "https://www.platinderi.com/vizon-deri-kadin-capraz-askili-canta-5501",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.841Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 14,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "deri çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "vizon"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "deri çanta",
-        "leather",
-        "deri",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "floater deri çanta",
-        "floater",
-        "vizon",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺6.500,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 6500,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺6.500,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "fdf863c2bff769892fcce3d934e1a7d25f9f2b3030a62973f6ee24bb2cf0f8d3",
     "title": "Süet Kahve Deri Kadın El Çanta",
     "img": [
@@ -3708,9 +3793,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.883Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 15,
+    "timestamp": "2025-10-27T06:01:51.939Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -3804,9 +3889,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.923Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 16,
+    "timestamp": "2025-10-27T06:01:51.969Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -3891,9 +3976,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:50.958Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 17,
+    "timestamp": "2025-10-27T06:01:52.001Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -3993,9 +4078,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:51.005Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 18,
+    "timestamp": "2025-10-27T06:01:52.037Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -4095,9 +4180,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:51.051Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 19,
+    "timestamp": "2025-10-27T06:01:52.073Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -4182,9 +4267,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:51.090Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 20,
+    "timestamp": "2025-10-27T06:01:52.107Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -4290,9 +4375,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:51.135Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 21,
+    "timestamp": "2025-10-27T06:01:52.144Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -4398,9 +4483,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:51.173Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 22,
+    "timestamp": "2025-10-27T06:01:52.183Z",
+    "processId": "mh8qcx89hiiv8",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -4493,11 +4578,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 2",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=2",
-    "timestamp": "2025-10-20T06:05:51.210Z",
-    "processId": "mgyqf2zwgsstp",
-    "index": 23,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
+    "timestamp": "2025-10-27T06:02:00.355Z",
+    "processId": "mh8qd45nso93y",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -4592,9 +4677,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.581Z",
-    "processId": "mgyqfa5wub98s",
-    "index": 0,
+    "timestamp": "2025-10-27T06:02:00.389Z",
+    "processId": "mh8qd45nso93y",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -4696,9 +4781,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.616Z",
-    "processId": "mgyqfa5wub98s",
-    "index": 1,
+    "timestamp": "2025-10-27T06:02:00.419Z",
+    "processId": "mh8qd45nso93y",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -4794,9 +4879,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.649Z",
-    "processId": "mgyqfa5wub98s",
-    "index": 2,
+    "timestamp": "2025-10-27T06:02:00.451Z",
+    "processId": "mh8qd45nso93y",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -4894,9 +4979,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.685Z",
-    "processId": "mgyqfa5wub98s",
-    "index": 3,
+    "timestamp": "2025-10-27T06:02:00.487Z",
+    "processId": "mh8qd45nso93y",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -4975,102 +5060,6 @@
     }
   },
   {
-    "id": "b3fed3ca5254d3f9b07aa080e97d0085d50e30f25a9d6eb5e30837e29025c4d8",
-    "title": "Haki Deri Anakonda Baskı Kadın Omuz Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/haki-deri-anakonda-baski-kadin-omuz-ca--b585a.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/haki-deri-anakonda-baski-kadin-omuz-ca--b585a.png",
-    "link": "https://www.platinderi.com/haki-deri-anakonda-baski-kadin-omuz-canta-5442",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.716Z",
-    "processId": "mgyqfa5wub98s",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "baskılı çanta",
-        "deri çanta",
-        "askı detaylı çanta",
-        "floater deri çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "baskılı çanta",
-        "baskılı",
-        "baskili",
-        "baskı",
-        "deri çanta",
-        "leather",
-        "deri",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "floater deri çanta",
-        "floater",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺9.500,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 9500,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺9.500,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "82a6c56231fb08f16c54e71ca07d40adde9f95792ec3f8b3bb3525a2f7552db2",
     "title": "Yeşil Kroko Baskı Deri Kadın Portföy Çanta",
     "img": [
@@ -5091,8 +5080,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.746Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.523Z",
+    "processId": "mh8qd45nso93y",
     "index": 5,
     "categories": {
       "productType": [
@@ -5188,8 +5177,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.779Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.557Z",
+    "processId": "mh8qd45nso93y",
     "index": 6,
     "categories": {
       "productType": [
@@ -5273,8 +5262,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.818Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.589Z",
+    "processId": "mh8qd45nso93y",
     "index": 7,
     "categories": {
       "productType": [
@@ -5366,8 +5355,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.858Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.625Z",
+    "processId": "mh8qd45nso93y",
     "index": 8,
     "categories": {
       "productType": [
@@ -5442,9 +5431,9 @@
     "id": "03fc17ecc41f1bb1d0fe1656267f2565d3807e6f920b8501d5de2d43512a4e83",
     "title": "Füme Rugan Kroko Baskı Kadın Omuz Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/fume-rugan-kroko-baski-kadin-omuz-cant-d43098.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/fume-rugan-kroko-baski-kadin-omuz-cant-068-b1.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/fume-rugan-kroko-baski-kadin-omuz-cant-d43098.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/fume-rugan-kroko-baski-kadin-omuz-cant-068-b1.png",
     "link": "https://www.platinderi.com/fume-rugan-kroko-baski-kadin-omuz-canta-5406",
     "videos": [],
     "productNotInStock": false,
@@ -5459,8 +5448,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.907Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.653Z",
+    "processId": "mh8qd45nso93y",
     "index": 9,
     "categories": {
       "productType": [
@@ -5554,8 +5543,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.947Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.687Z",
+    "processId": "mh8qd45nso93y",
     "index": 10,
     "categories": {
       "productType": [
@@ -5652,8 +5641,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:05:59.995Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.721Z",
+    "processId": "mh8qd45nso93y",
     "index": 11,
     "categories": {
       "productType": [
@@ -5741,8 +5730,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.041Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.754Z",
+    "processId": "mh8qd45nso93y",
     "index": 12,
     "categories": {
       "productType": [
@@ -5826,8 +5815,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.091Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.793Z",
+    "processId": "mh8qd45nso93y",
     "index": 13,
     "categories": {
       "productType": [
@@ -5917,8 +5906,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.125Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.829Z",
+    "processId": "mh8qd45nso93y",
     "index": 14,
     "categories": {
       "productType": [
@@ -6008,8 +5997,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.175Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.866Z",
+    "processId": "mh8qd45nso93y",
     "index": 15,
     "categories": {
       "productType": [
@@ -6101,8 +6090,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.221Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.902Z",
+    "processId": "mh8qd45nso93y",
     "index": 16,
     "categories": {
       "productType": [
@@ -6203,8 +6192,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.257Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.938Z",
+    "processId": "mh8qd45nso93y",
     "index": 17,
     "categories": {
       "productType": [
@@ -6301,8 +6290,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.296Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:00.976Z",
+    "processId": "mh8qd45nso93y",
     "index": 18,
     "categories": {
       "productType": [
@@ -6400,8 +6389,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.333Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:01.013Z",
+    "processId": "mh8qd45nso93y",
     "index": 19,
     "categories": {
       "productType": [
@@ -6494,8 +6483,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.371Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:01.050Z",
+    "processId": "mh8qd45nso93y",
     "index": 20,
     "categories": {
       "productType": [
@@ -6581,8 +6570,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.410Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:01.088Z",
+    "processId": "mh8qd45nso93y",
     "index": 21,
     "categories": {
       "productType": [
@@ -6664,8 +6653,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.455Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:01.124Z",
+    "processId": "mh8qd45nso93y",
     "index": 22,
     "categories": {
       "productType": [
@@ -6758,8 +6747,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 3",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=3",
-    "timestamp": "2025-10-20T06:06:00.498Z",
-    "processId": "mgyqfa5wub98s",
+    "timestamp": "2025-10-27T06:02:01.161Z",
+    "processId": "mh8qd45nso93y",
     "index": 23,
     "categories": {
       "productType": [
@@ -6832,97 +6821,6 @@
     }
   },
   {
-    "id": "bf89a5ba4fa79a65f24657d2b54923e5193f409bfbfbea6cbfda4a4ab58594aa",
-    "title": "Siyah Deri Kadın Sırt Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-sirt-cantasi--f600-.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-sirt-cantasi--f600-.png",
-    "link": "https://www.platinderi.com/siyah-deri-kadin-sirt-cantasi-5277",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:08.712Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺12.500,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 12500,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺12.500,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "2ec09ae99dce5c31b8a6d2dd6752deaa595820ca467b0326cc1311248957125c",
     "title": "Kahve Süet Kadın Omuz Çanta",
     "img": [
@@ -6943,9 +6841,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:08.750Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 1,
+    "timestamp": "2025-10-27T06:02:09.234Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -7034,9 +6932,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:08.788Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 2,
+    "timestamp": "2025-10-27T06:02:09.267Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -7121,9 +7019,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:08.820Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 3,
+    "timestamp": "2025-10-27T06:02:09.306Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -7218,9 +7116,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:08.854Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 4,
+    "timestamp": "2025-10-27T06:02:09.343Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -7318,9 +7216,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:08.898Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 5,
+    "timestamp": "2025-10-27T06:02:09.383Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -7393,6 +7291,95 @@
     }
   },
   {
+    "id": "2611cb6e952acd2e5d260fc97be46d7681ae8c6432207fb69fcdb34f79ad945a",
+    "title": "Kahve Süet Kadın El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/kahve-suet-kadin-el-cantasi-e3-f1d.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/kahve-suet-kadin-el-cantasi-e3-f1d.png",
+    "link": "https://www.platinderi.com/kahve-suet-kadin-el-cantasi-5267",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
+    "timestamp": "2025-10-27T06:02:09.424Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "süet çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "süet çanta",
+        "süet",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺12.500,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 12500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺12.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "1091f887cb68d2e750f0c9cde1f0f190b049f46a4fdd3c8144684569c1e87004",
     "title": "Taba Deri Anakonda Baskı Kadın Omuz Çanta",
     "img": [
@@ -7413,8 +7400,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:08.938Z",
-    "processId": "mgyqfh7dlezfw",
+    "timestamp": "2025-10-27T06:02:09.459Z",
+    "processId": "mh8qdb10w5y38",
     "index": 6,
     "categories": {
       "productType": [
@@ -7517,8 +7504,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:08.974Z",
-    "processId": "mgyqfh7dlezfw",
+    "timestamp": "2025-10-27T06:02:09.497Z",
+    "processId": "mh8qdb10w5y38",
     "index": 7,
     "categories": {
       "productType": [
@@ -7617,8 +7604,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.013Z",
-    "processId": "mgyqfh7dlezfw",
+    "timestamp": "2025-10-27T06:02:09.533Z",
+    "processId": "mh8qdb10w5y38",
     "index": 8,
     "categories": {
       "productType": [
@@ -7721,8 +7708,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.057Z",
-    "processId": "mgyqfh7dlezfw",
+    "timestamp": "2025-10-27T06:02:09.570Z",
+    "processId": "mh8qdb10w5y38",
     "index": 9,
     "categories": {
       "productType": [
@@ -7821,8 +7808,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.096Z",
-    "processId": "mgyqfh7dlezfw",
+    "timestamp": "2025-10-27T06:02:09.607Z",
+    "processId": "mh8qdb10w5y38",
     "index": 10,
     "categories": {
       "productType": [
@@ -7886,98 +7873,6 @@
     }
   },
   {
-    "id": "b1e1f5f4bfcb0318c0ac89af6b967cc1874ec312a19692e60d4ec90ed055dee8",
-    "title": "Siyah Deri Kadın Omuz Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-omuz-canta-38b-c8.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-omuz-canta-38b-c8.png",
-    "link": "https://www.platinderi.com/siyah-deri-kadin-omuz-canta-5236",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.135Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 11,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺10.500,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 10500,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺10.500,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "2d2cf919ed19ce95d17c9edba9a96cfda9f2859150a055e9206c97893c19f2f4",
     "title": "Siyah Süet Kadın Omuz Çanta",
     "img": [
@@ -7998,9 +7893,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.174Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 12,
+    "timestamp": "2025-10-27T06:02:09.636Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -8086,9 +7981,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.214Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 13,
+    "timestamp": "2025-10-27T06:02:09.674Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -8175,9 +8070,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.254Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 14,
+    "timestamp": "2025-10-27T06:02:09.711Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -8268,9 +8163,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.295Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 15,
+    "timestamp": "2025-10-27T06:02:09.746Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -8365,9 +8260,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.331Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 16,
+    "timestamp": "2025-10-27T06:02:09.783Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -8452,9 +8347,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.369Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 17,
+    "timestamp": "2025-10-27T06:02:09.820Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -8542,9 +8437,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.414Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 18,
+    "timestamp": "2025-10-27T06:02:09.857Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -8635,9 +8530,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.455Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 19,
+    "timestamp": "2025-10-27T06:02:09.895Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -8726,9 +8621,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.495Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 20,
+    "timestamp": "2025-10-27T06:02:09.933Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -8814,9 +8709,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.533Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 21,
+    "timestamp": "2025-10-27T06:02:09.966Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -8907,9 +8802,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.583Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 22,
+    "timestamp": "2025-10-27T06:02:10.000Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -8992,9 +8887,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
-    "timestamp": "2025-10-20T06:06:09.623Z",
-    "processId": "mgyqfh7dlezfw",
-    "index": 23,
+    "timestamp": "2025-10-27T06:02:10.037Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -9078,11 +8973,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.057Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 0,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 4",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=4",
+    "timestamp": "2025-10-27T06:02:10.065Z",
+    "processId": "mh8qdb10w5y38",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -9165,9 +9060,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.095Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 1,
+    "timestamp": "2025-10-27T06:02:18.066Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -9246,9 +9141,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.133Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 2,
+    "timestamp": "2025-10-27T06:02:18.102Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -9337,9 +9232,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.169Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 3,
+    "timestamp": "2025-10-27T06:02:18.139Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -9426,9 +9321,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.205Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 4,
+    "timestamp": "2025-10-27T06:02:18.172Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -9511,9 +9406,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.247Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 5,
+    "timestamp": "2025-10-27T06:02:18.201Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -9602,9 +9497,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.293Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 6,
+    "timestamp": "2025-10-27T06:02:18.237Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -9695,9 +9590,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.333Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 7,
+    "timestamp": "2025-10-27T06:02:18.274Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -9780,9 +9675,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.374Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 8,
+    "timestamp": "2025-10-27T06:02:18.310Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -9873,9 +9768,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.414Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 9,
+    "timestamp": "2025-10-27T06:02:18.346Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -9968,9 +9863,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.453Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 10,
+    "timestamp": "2025-10-27T06:02:18.381Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -10057,9 +9952,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.495Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 11,
+    "timestamp": "2025-10-27T06:02:18.416Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -10142,9 +10037,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.537Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 12,
+    "timestamp": "2025-10-27T06:02:18.451Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -10235,9 +10130,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.578Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 13,
+    "timestamp": "2025-10-27T06:02:18.488Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -10308,9 +10203,9 @@
     "id": "bfd2e5f385f751b9c000fa94dfcf6c39482b118c1d70bc8b30f85fc2cb9787f7",
     "title": "Siyah Deri Kadın El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-el-cantasi-48db-8.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-el-cantasi-f74-44.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-el-cantasi-48db-8.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-el-cantasi-f74-44.png",
     "link": "https://www.platinderi.com/siyah-deri-kadin-el-cantasi-4956",
     "videos": [],
     "productNotInStock": false,
@@ -10325,9 +10220,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.618Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 14,
+    "timestamp": "2025-10-27T06:02:18.523Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -10415,9 +10310,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.670Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 15,
+    "timestamp": "2025-10-27T06:02:18.559Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -10502,9 +10397,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.711Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 16,
+    "timestamp": "2025-10-27T06:02:18.594Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -10594,9 +10489,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.749Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 17,
+    "timestamp": "2025-10-27T06:02:18.628Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -10688,9 +10583,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.787Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 18,
+    "timestamp": "2025-10-27T06:02:18.671Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -10779,9 +10674,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.828Z",
-    "processId": "mgyqfofxc0gv1",
-    "index": 19,
+    "timestamp": "2025-10-27T06:02:18.704Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -10851,6 +10746,101 @@
     }
   },
   {
+    "id": "e7976df6bc930d93cbc5c98bf5d439c950a93bba646ce891691349439a10fab9",
+    "title": "Gri Rugan Kroko Baskı Kadın Omuz Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/gri-rugan-kroko-baski-kadin-omuz-canta--4a2b-.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/gri-rugan-kroko-baski-kadin-omuz-canta--4a2b-.png",
+    "link": "https://www.platinderi.com/gri-rugani-kroko-baski-kadin-omuz-canta-4832",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
+    "timestamp": "2025-10-27T06:02:18.740Z",
+    "processId": "mh8qdhtv1k9pv",
+    "index": 19,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "baskılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "gri/füme"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "baskılı çanta",
+        "baskılı",
+        "baskili",
+        "baskı",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "gri/füme",
+        "gri",
+        "füme",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺10.900,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 10900,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺10.900,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "5b80c34cd6be3b1f3dfe00094ddf0baf8b498b97bae66c90500bce670deee0e2",
     "title": "Vizon Rugan Kadın Çapraz Askılı Çanta",
     "img": [
@@ -10871,8 +10861,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.873Z",
-    "processId": "mgyqfofxc0gv1",
+    "timestamp": "2025-10-27T06:02:18.778Z",
+    "processId": "mh8qdhtv1k9pv",
     "index": 20,
     "categories": {
       "productType": [
@@ -10968,8 +10958,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.912Z",
-    "processId": "mgyqfofxc0gv1",
+    "timestamp": "2025-10-27T06:02:18.812Z",
+    "processId": "mh8qdhtv1k9pv",
     "index": 21,
     "categories": {
       "productType": [
@@ -11073,8 +11063,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:18.956Z",
-    "processId": "mgyqfofxc0gv1",
+    "timestamp": "2025-10-27T06:02:18.848Z",
+    "processId": "mh8qdhtv1k9pv",
     "index": 22,
     "categories": {
       "productType": [
@@ -11171,8 +11161,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 5",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=5",
-    "timestamp": "2025-10-20T06:06:19.003Z",
-    "processId": "mgyqfofxc0gv1",
+    "timestamp": "2025-10-27T06:02:18.881Z",
+    "processId": "mh8qdhtv1k9pv",
     "index": 23,
     "categories": {
       "productType": [
@@ -11270,8 +11260,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.162Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:26.910Z",
+    "processId": "mh8qdome2xxug",
     "index": 0,
     "categories": {
       "productType": [
@@ -11367,8 +11357,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.201Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:26.949Z",
+    "processId": "mh8qdome2xxug",
     "index": 1,
     "categories": {
       "productType": [
@@ -11466,8 +11456,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.239Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:26.982Z",
+    "processId": "mh8qdome2xxug",
     "index": 2,
     "categories": {
       "productType": [
@@ -11559,8 +11549,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.277Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.019Z",
+    "processId": "mh8qdome2xxug",
     "index": 3,
     "categories": {
       "productType": [
@@ -11660,8 +11650,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.315Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.053Z",
+    "processId": "mh8qdome2xxug",
     "index": 4,
     "categories": {
       "productType": [
@@ -11759,8 +11749,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.353Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.088Z",
+    "processId": "mh8qdome2xxug",
     "index": 5,
     "categories": {
       "productType": [
@@ -11849,8 +11839,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.391Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.123Z",
+    "processId": "mh8qdome2xxug",
     "index": 6,
     "categories": {
       "productType": [
@@ -11949,8 +11939,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.431Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.154Z",
+    "processId": "mh8qdome2xxug",
     "index": 7,
     "categories": {
       "productType": [
@@ -12051,8 +12041,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.472Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.188Z",
+    "processId": "mh8qdome2xxug",
     "index": 8,
     "categories": {
       "productType": [
@@ -12150,8 +12140,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.512Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.223Z",
+    "processId": "mh8qdome2xxug",
     "index": 9,
     "categories": {
       "productType": [
@@ -12251,8 +12241,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.554Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.250Z",
+    "processId": "mh8qdome2xxug",
     "index": 10,
     "categories": {
       "productType": [
@@ -12336,8 +12326,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.604Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.286Z",
+    "processId": "mh8qdome2xxug",
     "index": 11,
     "categories": {
       "productType": [
@@ -12431,8 +12421,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.640Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.321Z",
+    "processId": "mh8qdome2xxug",
     "index": 12,
     "categories": {
       "productType": [
@@ -12522,8 +12512,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.687Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.355Z",
+    "processId": "mh8qdome2xxug",
     "index": 13,
     "categories": {
       "productType": [
@@ -12611,8 +12601,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.726Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.390Z",
+    "processId": "mh8qdome2xxug",
     "index": 14,
     "categories": {
       "productType": [
@@ -12696,8 +12686,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.764Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.421Z",
+    "processId": "mh8qdome2xxug",
     "index": 15,
     "categories": {
       "productType": [
@@ -12789,8 +12779,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.803Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.456Z",
+    "processId": "mh8qdome2xxug",
     "index": 16,
     "categories": {
       "productType": [
@@ -12879,8 +12869,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.853Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.488Z",
+    "processId": "mh8qdome2xxug",
     "index": 17,
     "categories": {
       "productType": [
@@ -12968,8 +12958,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.894Z",
-    "processId": "mgyqfvg9uzu66",
+    "timestamp": "2025-10-27T06:02:27.518Z",
+    "processId": "mh8qdome2xxug",
     "index": 18,
     "categories": {
       "productType": [
@@ -13038,91 +13028,6 @@
     }
   },
   {
-    "id": "d257aa4a37402222667b9cba756c8f72a04e7794c72daf084eff32e84f62788f",
-    "title": "Platin Python Deri Kadın El Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/platin-python-deri-kadin-el-canta-5e-0bc.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/platin-python-deri-kadin-el-canta-5e-0bc.png",
-    "link": "https://www.platinderi.com/platin-python-deri-kadin-el-canta-4651",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.937Z",
-    "processId": "mgyqfvg9uzu66",
-    "index": 19,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺16.800,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 16800,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺16.800,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "9a93c45396cd99c8ad4e802e95bbeaabe3dd1e13dc4334761376c3f917fb8610",
     "title": "Bordo Python Deri Kadın El Çanta",
     "img": [
@@ -13143,9 +13048,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:27.978Z",
-    "processId": "mgyqfvg9uzu66",
-    "index": 20,
+    "timestamp": "2025-10-27T06:02:27.548Z",
+    "processId": "mh8qdome2xxug",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -13232,9 +13137,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:28.014Z",
-    "processId": "mgyqfvg9uzu66",
-    "index": 21,
+    "timestamp": "2025-10-27T06:02:27.584Z",
+    "processId": "mh8qdome2xxug",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -13303,6 +13208,292 @@
     }
   },
   {
+    "id": "9cf606e12cb6a031db712fd90b5989f94a20bc4b066f2b9448de795f79444bb8",
+    "title": "Mavi-Siyah Rugan Baskı Kadın Omuz Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/mavi-siyah-rugan-baski-kadin-omuz-cant-eee-9c.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/mavi-siyah-rugan-baski-kadin-omuz-cant-eee-9c.png",
+    "link": "https://www.platinderi.com/mavi-siyah-rugan-baski-kadin-omuz-canta-4637",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
+    "timestamp": "2025-10-27T06:02:27.617Z",
+    "processId": "mh8qdome2xxug",
+    "index": 21,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "baskılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "siyah",
+        "mavi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "baskılı çanta",
+        "baskılı",
+        "baskili",
+        "baskı",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "siyah",
+        "black",
+        "mavi",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺10.900,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 10900,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺10.900,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "989af8755a0a6dbecbe0519f5ba97ea7d22db174fb287c10cafcc5c20cde6d62",
+    "title": "Bordo Rugan Kroko Baskı Kadın Omuz Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bordo-rugan-kroko-baski-kadin-omuz-can-62996c.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bordo-rugan-kroko-baski-kadin-omuz-can-62996c.png",
+    "link": "https://www.platinderi.com/bordo-rugan-kroko-baski-kadin-omuz-canta-4636",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
+    "timestamp": "2025-10-27T06:02:27.647Z",
+    "processId": "mh8qdome2xxug",
+    "index": 22,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "baskılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "bordo"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "baskılı çanta",
+        "baskılı",
+        "baskili",
+        "baskı",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "bordo",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺10.900,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 10900,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺10.900,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "9c5549b828d9b397886862410ea07495f0b4f0dafa60f96fcf60614dcfb890e9",
+    "title": "Kahve Rugan Kroko Baskı Kadın Omuz Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/kahve-rugan-kroko-baski-kadin-omuz-can--f7cfc.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/kahve-rugan-kroko-baski-kadin-omuz-can--f7cfc.png",
+    "link": "https://www.platinderi.com/kahve-rugan-kroko-baski-kadin-omuz-canta-4634",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
+    "timestamp": "2025-10-27T06:02:27.684Z",
+    "processId": "mh8qdome2xxug",
+    "index": 23,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "baskılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "baskılı çanta",
+        "baskılı",
+        "baskili",
+        "baskı",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺10.900,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 10900,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺10.900,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "148a5d6fede1831b1a1e0bcf0b3b5c3411a19fdbc90aada59c05271e5e3afca9",
     "title": "Yeşil Deri Kadın El Çanta",
     "img": [
@@ -13321,11 +13512,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:28.048Z",
-    "processId": "mgyqfvg9uzu66",
-    "index": 22,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
+    "timestamp": "2025-10-27T06:02:35.794Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -13410,11 +13601,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 6",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=6",
-    "timestamp": "2025-10-20T06:06:28.087Z",
-    "processId": "mgyqfvg9uzu66",
-    "index": 23,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
+    "timestamp": "2025-10-27T06:02:35.828Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -13506,9 +13697,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.347Z",
-    "processId": "mgyqg2if1r764",
-    "index": 0,
+    "timestamp": "2025-10-27T06:02:35.863Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -13599,9 +13790,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.385Z",
-    "processId": "mgyqg2if1r764",
-    "index": 1,
+    "timestamp": "2025-10-27T06:02:35.898Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -13684,9 +13875,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.424Z",
-    "processId": "mgyqg2if1r764",
-    "index": 2,
+    "timestamp": "2025-10-27T06:02:35.933Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -13773,9 +13964,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.463Z",
-    "processId": "mgyqg2if1r764",
-    "index": 3,
+    "timestamp": "2025-10-27T06:02:35.962Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -13864,9 +14055,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.501Z",
-    "processId": "mgyqg2if1r764",
-    "index": 4,
+    "timestamp": "2025-10-27T06:02:35.996Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -13955,9 +14146,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.541Z",
-    "processId": "mgyqg2if1r764",
-    "index": 5,
+    "timestamp": "2025-10-27T06:02:36.031Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -14044,9 +14235,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.582Z",
-    "processId": "mgyqg2if1r764",
-    "index": 6,
+    "timestamp": "2025-10-27T06:02:36.066Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -14133,9 +14324,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.617Z",
-    "processId": "mgyqg2if1r764",
-    "index": 7,
+    "timestamp": "2025-10-27T06:02:36.099Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -14218,9 +14409,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.654Z",
-    "processId": "mgyqg2if1r764",
-    "index": 8,
+    "timestamp": "2025-10-27T06:02:36.135Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -14311,9 +14502,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.693Z",
-    "processId": "mgyqg2if1r764",
-    "index": 9,
+    "timestamp": "2025-10-27T06:02:36.173Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -14411,9 +14602,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.730Z",
-    "processId": "mgyqg2if1r764",
-    "index": 10,
+    "timestamp": "2025-10-27T06:02:36.211Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -14491,9 +14682,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.775Z",
-    "processId": "mgyqg2if1r764",
-    "index": 11,
+    "timestamp": "2025-10-27T06:02:36.245Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -14571,9 +14762,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.815Z",
-    "processId": "mgyqg2if1r764",
-    "index": 12,
+    "timestamp": "2025-10-27T06:02:36.281Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -14651,9 +14842,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.853Z",
-    "processId": "mgyqg2if1r764",
-    "index": 13,
+    "timestamp": "2025-10-27T06:02:36.317Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -14749,9 +14940,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.892Z",
-    "processId": "mgyqg2if1r764",
-    "index": 14,
+    "timestamp": "2025-10-27T06:02:36.351Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -14827,96 +15018,6 @@
     }
   },
   {
-    "id": "8415a803182ba199ba3a392cd42555e729e00af0164ed9d145e46a79ed85d3bf",
-    "title": "Bej Python Deri Kadın El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bej-python-deri-kadin-el-cantasi--47e6-.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bej-python-deri-kadin-el-cantasi--47e6-.png",
-    "link": "https://www.platinderi.com/bej-python-deri-kadin-el-cantasi-4521",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.928Z",
-    "processId": "mgyqg2if1r764",
-    "index": 15,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "bej"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "bej",
-        "ten",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺16.800,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 16800,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺16.800,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "ed623c7aac1be250838b82157aee374f8d532a3106ca51e01cb62da6d9a44776",
     "title": "Bordo Python Deri Kadın El Çantası",
     "img": [
@@ -14937,9 +15038,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.962Z",
-    "processId": "mgyqg2if1r764",
-    "index": 16,
+    "timestamp": "2025-10-27T06:02:36.387Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -15026,9 +15127,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:36.999Z",
-    "processId": "mgyqg2if1r764",
-    "index": 17,
+    "timestamp": "2025-10-27T06:02:36.422Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -15117,9 +15218,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:37.045Z",
-    "processId": "mgyqg2if1r764",
-    "index": 18,
+    "timestamp": "2025-10-27T06:02:36.456Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -15206,9 +15307,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:37.082Z",
-    "processId": "mgyqg2if1r764",
-    "index": 19,
+    "timestamp": "2025-10-27T06:02:36.490Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -15295,9 +15396,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:37.120Z",
-    "processId": "mgyqg2if1r764",
-    "index": 20,
+    "timestamp": "2025-10-27T06:02:36.522Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -15385,9 +15486,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:37.158Z",
-    "processId": "mgyqg2if1r764",
-    "index": 21,
+    "timestamp": "2025-10-27T06:02:36.556Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -15482,9 +15583,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:37.200Z",
-    "processId": "mgyqg2if1r764",
-    "index": 22,
+    "timestamp": "2025-10-27T06:02:36.592Z",
+    "processId": "mh8qdvhuq2tp6",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -15579,11 +15680,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 7",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=7",
-    "timestamp": "2025-10-20T06:06:37.236Z",
-    "processId": "mgyqg2if1r764",
-    "index": 23,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
+    "timestamp": "2025-10-27T06:02:44.752Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -15679,9 +15780,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:45.834Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 0,
+    "timestamp": "2025-10-27T06:02:44.786Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -15778,9 +15879,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:45.870Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 1,
+    "timestamp": "2025-10-27T06:02:44.823Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -15869,9 +15970,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:45.908Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 2,
+    "timestamp": "2025-10-27T06:02:44.857Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -15956,9 +16057,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:45.938Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 3,
+    "timestamp": "2025-10-27T06:02:44.888Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -16046,9 +16147,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:45.978Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 4,
+    "timestamp": "2025-10-27T06:02:44.926Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -16139,9 +16240,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.018Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 5,
+    "timestamp": "2025-10-27T06:02:44.958Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -16225,9 +16326,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.057Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 6,
+    "timestamp": "2025-10-27T06:02:44.993Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -16319,9 +16420,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.094Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 7,
+    "timestamp": "2025-10-27T06:02:45.029Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -16412,9 +16513,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.132Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 8,
+    "timestamp": "2025-10-27T06:02:45.065Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -16505,9 +16606,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.168Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 9,
+    "timestamp": "2025-10-27T06:02:45.101Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -16595,9 +16696,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.207Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 10,
+    "timestamp": "2025-10-27T06:02:45.138Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -16685,9 +16786,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.247Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 11,
+    "timestamp": "2025-10-27T06:02:45.172Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -16768,9 +16869,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.293Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 12,
+    "timestamp": "2025-10-27T06:02:45.206Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -16858,9 +16959,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.329Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 13,
+    "timestamp": "2025-10-27T06:02:45.242Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -16956,9 +17057,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.375Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 14,
+    "timestamp": "2025-10-27T06:02:45.275Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -17045,9 +17146,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.420Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 15,
+    "timestamp": "2025-10-27T06:02:45.313Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -17153,9 +17254,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.470Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 16,
+    "timestamp": "2025-10-27T06:02:45.342Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -17259,9 +17360,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.511Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 17,
+    "timestamp": "2025-10-27T06:02:45.373Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -17356,9 +17457,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.553Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 18,
+    "timestamp": "2025-10-27T06:02:45.403Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -17453,9 +17554,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.593Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 19,
+    "timestamp": "2025-10-27T06:02:45.441Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -17554,9 +17655,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.631Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 20,
+    "timestamp": "2025-10-27T06:02:45.475Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -17645,9 +17746,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.670Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 21,
+    "timestamp": "2025-10-27T06:02:45.508Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -17748,9 +17849,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.700Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 22,
+    "timestamp": "2025-10-27T06:02:45.542Z",
+    "processId": "mh8qe2egzl30j",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -17821,102 +17922,12 @@
     }
   },
   {
-    "id": "89f1d1bbd1a70a5978577f687eced0e7ea6ee217c5e85c3e42b8b078da8765b8",
-    "title": "Siyah Deri Kadın El Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-el-canta-a692-c.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-el-canta-a692-c.png",
-    "link": "https://www.platinderi.com/siyah-deri-kadin-el-canta-3701",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 8",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=8",
-    "timestamp": "2025-10-20T06:06:46.739Z",
-    "processId": "mgyqg9udl4iwe",
-    "index": 23,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺11.500,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 11500,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺11.500,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "8a0f80f1d440153bc4c50269e28bb4f539f5e25c702a44f353ec0bae7026611c",
     "title": "Multi Siyah Kadın Portföy Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/multi-siyah-kadin-portfoy-canta-efb57a.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/multi-siyah-kadin-portfoy-canta-c-493d.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/multi-siyah-kadin-portfoy-canta-efb57a.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/multi-siyah-kadin-portfoy-canta-c-493d.png",
     "link": "https://www.platinderi.com/multi-siyah-kadin-portfoy-canta-3696",
     "videos": [],
     "productNotInStock": false,
@@ -17931,8 +17942,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.195Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.617Z",
+    "processId": "mh8qe992u3fjo",
     "index": 0,
     "categories": {
       "productType": [
@@ -17996,9 +18007,9 @@
     "id": "b7f530f0a504eab75bf5cc4f131882b593f4ff351d426d1c213b1944f8475674",
     "title": "Siyah Kadın Portföy Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-kadin-portfoy-canta--93da-.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-kadin-portfoy-canta-5e-32b.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-kadin-portfoy-canta--93da-.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-kadin-portfoy-canta-5e-32b.png",
     "link": "https://www.platinderi.com/siyah-kadin-portfoy-canta-3695",
     "videos": [],
     "productNotInStock": false,
@@ -18013,8 +18024,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.230Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.652Z",
+    "processId": "mh8qe992u3fjo",
     "index": 1,
     "categories": {
       "productType": [
@@ -18095,8 +18106,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.267Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.687Z",
+    "processId": "mh8qe992u3fjo",
     "index": 2,
     "categories": {
       "productType": [
@@ -18185,8 +18196,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.302Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.719Z",
+    "processId": "mh8qe992u3fjo",
     "index": 3,
     "categories": {
       "productType": [
@@ -18277,8 +18288,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.342Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.751Z",
+    "processId": "mh8qe992u3fjo",
     "index": 4,
     "categories": {
       "productType": [
@@ -18367,8 +18378,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.381Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.784Z",
+    "processId": "mh8qe992u3fjo",
     "index": 5,
     "categories": {
       "productType": [
@@ -18464,8 +18475,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.414Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.821Z",
+    "processId": "mh8qe992u3fjo",
     "index": 6,
     "categories": {
       "productType": [
@@ -18549,8 +18560,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.453Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.856Z",
+    "processId": "mh8qe992u3fjo",
     "index": 7,
     "categories": {
       "productType": [
@@ -18639,8 +18650,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.491Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.888Z",
+    "processId": "mh8qe992u3fjo",
     "index": 8,
     "categories": {
       "productType": [
@@ -18729,8 +18740,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.529Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:53.923Z",
+    "processId": "mh8qe992u3fjo",
     "index": 9,
     "categories": {
       "productType": [
@@ -18798,6 +18809,107 @@
     }
   },
   {
+    "id": "c05c5d0d454197049cc5e74945a7318a71d7cbc5bccc8a372d7f65691253c2f9",
+    "title": "Siyah Deri Kroko Baskı Kadın Omuz Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kroko-baski-kadin-omuz-cant-6adde-.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kroko-baski-kadin-omuz-cant-6adde-.png",
+    "link": "https://www.platinderi.com/siyah-deri-kadin-omuz-canta-3559",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
+    "timestamp": "2025-10-27T06:02:53.948Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "baskılı çanta",
+        "deri çanta",
+        "askı detaylı çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "baskılı çanta",
+        "baskılı",
+        "baskili",
+        "baskı",
+        "deri çanta",
+        "leather",
+        "deri",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺10.900,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 10900,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺10.900,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "06bc77950ab0f950d836ffa3dd0574bf11363b8b9a0a33fac80534f4a26d9913",
     "title": "Vizon Deri Kapitone Kadın Omuz Çanta",
     "img": [
@@ -18818,9 +18930,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.561Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 10,
+    "timestamp": "2025-10-27T06:02:53.975Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -18909,9 +19021,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.600Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 11,
+    "timestamp": "2025-10-27T06:02:54.010Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -19001,9 +19113,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.638Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 12,
+    "timestamp": "2025-10-27T06:02:54.045Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -19101,9 +19213,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.669Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 13,
+    "timestamp": "2025-10-27T06:02:54.081Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -19202,9 +19314,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.703Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 14,
+    "timestamp": "2025-10-27T06:02:54.117Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -19297,9 +19409,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.753Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 15,
+    "timestamp": "2025-10-27T06:02:54.154Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -19386,9 +19498,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.792Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 16,
+    "timestamp": "2025-10-27T06:02:54.190Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -19479,9 +19591,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.836Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 17,
+    "timestamp": "2025-10-27T06:02:54.225Z",
+    "processId": "mh8qe992u3fjo",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -19548,111 +19660,6 @@
     }
   },
   {
-    "id": "a2d6e5944ea2fba5d2a574029ade33663987ac3b4964664687c87c2e06a5d582",
-    "title": "Siyah Deri Kadın Çapraz Askılı Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-capraz-askili-canta-e75cc6.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-capraz-askili-canta-e75cc6.png",
-    "link": "https://www.platinderi.com/siyah-kadin-capraz-askili-canta-3542",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.876Z",
-    "processId": "mgyqgh1ry79xb",
-    "index": 18,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "deri çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "deri çanta",
-        "leather",
-        "deri",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺7.100,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 7100,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺7.100,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "d54c0a97cfa060977a99b52e8883d852171c7db066a2155b9df8e036362b54fc",
     "title": "Kahve Pyhton Baskı Kadın El Çanta",
     "img": [
@@ -19673,8 +19680,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.918Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:54.262Z",
+    "processId": "mh8qe992u3fjo",
     "index": 19,
     "categories": {
       "productType": [
@@ -19768,8 +19775,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.953Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:54.297Z",
+    "processId": "mh8qe992u3fjo",
     "index": 20,
     "categories": {
       "productType": [
@@ -19865,8 +19872,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:55.991Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:54.331Z",
+    "processId": "mh8qe992u3fjo",
     "index": 21,
     "categories": {
       "productType": [
@@ -19945,8 +19952,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:56.038Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:54.367Z",
+    "processId": "mh8qe992u3fjo",
     "index": 22,
     "categories": {
       "productType": [
@@ -20040,8 +20047,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 9",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=9",
-    "timestamp": "2025-10-20T06:06:56.077Z",
-    "processId": "mgyqgh1ry79xb",
+    "timestamp": "2025-10-27T06:02:54.401Z",
+    "processId": "mh8qe992u3fjo",
     "index": 23,
     "categories": {
       "productType": [
@@ -20135,8 +20142,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.275Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:02.771Z",
+    "processId": "mh8qegb087jlb",
     "index": 0,
     "categories": {
       "productType": [
@@ -20229,8 +20236,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.330Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:02.806Z",
+    "processId": "mh8qegb087jlb",
     "index": 1,
     "categories": {
       "productType": [
@@ -20309,8 +20316,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.374Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:02.840Z",
+    "processId": "mh8qegb087jlb",
     "index": 2,
     "categories": {
       "productType": [
@@ -20403,8 +20410,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.411Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:02.873Z",
+    "processId": "mh8qegb087jlb",
     "index": 3,
     "categories": {
       "productType": [
@@ -20498,8 +20505,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.452Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:02.908Z",
+    "processId": "mh8qegb087jlb",
     "index": 4,
     "categories": {
       "productType": [
@@ -20596,8 +20603,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.492Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:02.939Z",
+    "processId": "mh8qegb087jlb",
     "index": 5,
     "categories": {
       "productType": [
@@ -20698,8 +20705,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.530Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:02.974Z",
+    "processId": "mh8qegb087jlb",
     "index": 6,
     "categories": {
       "productType": [
@@ -20784,8 +20791,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.573Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.007Z",
+    "processId": "mh8qegb087jlb",
     "index": 7,
     "categories": {
       "productType": [
@@ -20878,8 +20885,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.608Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.043Z",
+    "processId": "mh8qegb087jlb",
     "index": 8,
     "categories": {
       "productType": [
@@ -20979,8 +20986,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.646Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.077Z",
+    "processId": "mh8qegb087jlb",
     "index": 9,
     "categories": {
       "productType": [
@@ -21079,8 +21086,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.688Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.110Z",
+    "processId": "mh8qegb087jlb",
     "index": 10,
     "categories": {
       "productType": [
@@ -21171,8 +21178,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.729Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.141Z",
+    "processId": "mh8qegb087jlb",
     "index": 11,
     "categories": {
       "productType": [
@@ -21261,8 +21268,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.768Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.172Z",
+    "processId": "mh8qegb087jlb",
     "index": 12,
     "categories": {
       "productType": [
@@ -21350,8 +21357,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.808Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.205Z",
+    "processId": "mh8qegb087jlb",
     "index": 13,
     "categories": {
       "productType": [
@@ -21449,8 +21456,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.850Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.241Z",
+    "processId": "mh8qegb087jlb",
     "index": 14,
     "categories": {
       "productType": [
@@ -21542,8 +21549,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.888Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.276Z",
+    "processId": "mh8qegb087jlb",
     "index": 15,
     "categories": {
       "productType": [
@@ -21633,8 +21640,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.926Z",
-    "processId": "mgyqgo3iybg59",
+    "timestamp": "2025-10-27T06:03:03.310Z",
+    "processId": "mh8qegb087jlb",
     "index": 16,
     "categories": {
       "productType": [
@@ -21702,6 +21709,111 @@
     }
   },
   {
+    "id": "3c897ea05bd769b0de5885106c52e994e099e8656a306f9f20704df58dbcf225",
+    "title": "Siyah Deri Kadın Çapraz Askılı Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-capraz-askili-canta-74116b.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-capraz-askili-canta-74116b.png",
+    "link": "https://www.platinderi.com/siyah-kadin-kadin-capraz-askili-canta-3031",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
+    "timestamp": "2025-10-27T06:03:03.346Z",
+    "processId": "mh8qegb087jlb",
+    "index": 17,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "deri çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "deri çanta",
+        "leather",
+        "deri",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺6.500,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 6500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺6.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "f6d273507bd76d47fe0ed6e63b680d1e30d9a52112689c631e299e972bf7cfbd",
     "title": "Multi Yeşil Pyton Deri Kadın El Çanta",
     "img": [
@@ -21722,9 +21834,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.960Z",
-    "processId": "mgyqgo3iybg59",
-    "index": 17,
+    "timestamp": "2025-10-27T06:03:03.377Z",
+    "processId": "mh8qegb087jlb",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -21811,9 +21923,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:04.999Z",
-    "processId": "mgyqgo3iybg59",
-    "index": 18,
+    "timestamp": "2025-10-27T06:03:03.415Z",
+    "processId": "mh8qegb087jlb",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -21885,9 +21997,9 @@
     "id": "950f039b3dcc2c8f6c1827f62418b7d4b51aad9d84dbd46056fc178b0d02b386",
     "title": "Siyah Örgü Deri Kadın Çapraz Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-orgu-deri-kadin-capraz-canta-5b0a71.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-orgu-deri-kadin-capraz-canta-6dfc-4.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-orgu-deri-kadin-capraz-canta-5b0a71.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-orgu-deri-kadin-capraz-canta-6dfc-4.png",
     "link": "https://www.platinderi.com/siyah-kadin-capraz-canta-2903",
     "videos": [],
     "productNotInStock": false,
@@ -21902,9 +22014,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:05.042Z",
-    "processId": "mgyqgo3iybg59",
-    "index": 19,
+    "timestamp": "2025-10-27T06:03:03.457Z",
+    "processId": "mh8qegb087jlb",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -21996,9 +22108,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:05.080Z",
-    "processId": "mgyqgo3iybg59",
-    "index": 20,
+    "timestamp": "2025-10-27T06:03:03.494Z",
+    "processId": "mh8qegb087jlb",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -22085,9 +22197,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:05.116Z",
-    "processId": "mgyqgo3iybg59",
-    "index": 21,
+    "timestamp": "2025-10-27T06:03:03.530Z",
+    "processId": "mh8qegb087jlb",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -22178,9 +22290,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:05.149Z",
-    "processId": "mgyqgo3iybg59",
-    "index": 22,
+    "timestamp": "2025-10-27T06:03:03.562Z",
+    "processId": "mh8qegb087jlb",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -22269,11 +22381,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 10",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=10",
-    "timestamp": "2025-10-20T06:07:05.186Z",
-    "processId": "mgyqgo3iybg59",
-    "index": 23,
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
+    "timestamp": "2025-10-27T06:03:11.456Z",
+    "processId": "mh8qemnevgux3",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -22368,9 +22480,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.260Z",
-    "processId": "mgyqgulu7tuw9",
-    "index": 0,
+    "timestamp": "2025-10-27T06:03:11.490Z",
+    "processId": "mh8qemnevgux3",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -22444,9 +22556,9 @@
     "id": "3583aef725091557fe52bdd38bb2a600bd2ed1e144c131e8487a19ad251a9d4b",
     "title": "Siyah Örgü Deri Kadın Çapraz Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-orgu-deri-kadin-capraz-canta-8c3-b7.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-orgu-deri-kadin-capraz-canta-8891d-.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-orgu-deri-kadin-capraz-canta-8c3-b7.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/siyah-orgu-deri-kadin-capraz-canta-8891d-.png",
     "link": "https://www.platinderi.com/siyah-kadin-capraz-canta-2750",
     "videos": [],
     "productNotInStock": false,
@@ -22461,9 +22573,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.295Z",
-    "processId": "mgyqgulu7tuw9",
-    "index": 1,
+    "timestamp": "2025-10-27T06:03:11.515Z",
+    "processId": "mh8qemnevgux3",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -22538,9 +22650,9 @@
     "id": "29c10361701b36d59c9d52bdfdf223b01b38048632f6ebc2431018bc96a6fbb8",
     "title": "Bordo Deri Kadın Çapraz Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bordo-deri-kadin-capraz-canta-a026e-.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bordo-deri-kadin-capraz-canta-9078-0.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bordo-deri-kadin-capraz-canta-a026e-.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/bordo-deri-kadin-capraz-canta-9078-0.png",
     "link": "https://www.platinderi.com/bordo-deri-kadin-capraz-canta-2694",
     "videos": [],
     "productNotInStock": false,
@@ -22555,9 +22667,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.336Z",
-    "processId": "mgyqgulu7tuw9",
-    "index": 2,
+    "timestamp": "2025-10-27T06:03:11.547Z",
+    "processId": "mh8qemnevgux3",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -22648,9 +22760,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.375Z",
-    "processId": "mgyqgulu7tuw9",
-    "index": 3,
+    "timestamp": "2025-10-27T06:03:11.580Z",
+    "processId": "mh8qemnevgux3",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -22739,9 +22851,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.416Z",
-    "processId": "mgyqgulu7tuw9",
-    "index": 4,
+    "timestamp": "2025-10-27T06:03:11.611Z",
+    "processId": "mh8qemnevgux3",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -22833,9 +22945,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.454Z",
-    "processId": "mgyqgulu7tuw9",
-    "index": 5,
+    "timestamp": "2025-10-27T06:03:11.647Z",
+    "processId": "mh8qemnevgux3",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -22923,9 +23035,9 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.493Z",
-    "processId": "mgyqgulu7tuw9",
-    "index": 6,
+    "timestamp": "2025-10-27T06:03:11.682Z",
+    "processId": "mh8qemnevgux3",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -23007,99 +23119,6 @@
     }
   },
   {
-    "id": "37d0561d3f8a250c02c34b4fda2ce40bb5934e70805a2798ee3ccc6782794e36",
-    "title": "Turkuaz Kadın Çapraz Askılı Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/turkuaz-kadin-capraz-askili-canta-226-43.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=463,quality=85/55294/uploads/urunresimleri/buyuk/turkuaz-kadin-capraz-askili-canta-226-43.png",
-    "link": "https://www.platinderi.com/turkuaz-kadin-capraz-askili-canta-1580",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.530Z",
-    "processId": "mgyqgulu7tuw9",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺8.650,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 8650,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺8.650,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "5fe58d770f52dcb25a3b7c67803d944e3af5380c3a8041b333b7a8f698c3bfee",
     "title": "Multi Siyah Python Deri Kadın Çapraz Askılı Çanta",
     "img": [
@@ -23120,8 +23139,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.568Z",
-    "processId": "mgyqgulu7tuw9",
+    "timestamp": "2025-10-27T06:03:11.715Z",
+    "processId": "mh8qemnevgux3",
     "index": 8,
     "categories": {
       "productType": [
@@ -23225,8 +23244,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.607Z",
-    "processId": "mgyqgulu7tuw9",
+    "timestamp": "2025-10-27T06:03:11.751Z",
+    "processId": "mh8qemnevgux3",
     "index": 9,
     "categories": {
       "productType": [
@@ -23330,8 +23349,8 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin - Sayfa 11",
     "pageURL": "https://www.platinderi.com/canta-aksesuar?sayfa=11",
-    "timestamp": "2025-10-20T06:07:13.648Z",
-    "processId": "mgyqgulu7tuw9",
+    "timestamp": "2025-10-27T06:03:11.785Z",
+    "processId": "mh8qemnevgux3",
     "index": 10,
     "categories": {
       "productType": [
