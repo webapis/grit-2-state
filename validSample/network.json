@@ -3,12 +3,12 @@
     "id": "5775905a4d0dd4093182ae1da7195116abc2518580797a40af9fa563af785fbb",
     "title": "Antrasit Kadın Süet Çanta",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091238_01.jpg",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091238_01.jpg",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091238_01.jpg",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091238_01.jpg",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091238_01.jpg",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091238_01.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091238_01.jpg",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091238_02.jpg",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091238_02.jpg",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091238_02.jpg",
@@ -28,7 +28,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091238_04.jpg",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091238_04.jpg"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091238_01.jpg",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091238_01.jpg",
     "link": "https://www.network.com.tr/antrasit-kadin-suet-canta-p-197079",
     "videos": [],
     "productNotInStock": false,
@@ -36,15 +36,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:47.439Z",
-    "processId": "mgyolh640g9to",
+    "timestamp": "2025-10-27T05:15:02.193Z",
+    "processId": "mh8ooqwwpxxak",
     "index": 0,
     "categories": {
       "productType": [
@@ -110,12 +110,12 @@
     "id": "53b0dcbd89839c9c569a885a39fd8e7c178dccf2666af3f6078386bbb3c67cb6",
     "title": "Vizon Kadın Süet Çanta",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089297_01.jpg",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089297_01.jpg",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089297_01.jpg",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089297_01.jpg",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089297_01.jpg",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089297_01.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089297_01.jpg",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089297_02.jpg",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089297_02.jpg",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089297_02.jpg",
@@ -135,7 +135,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089297_04.jpg",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089297_04.jpg"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089297_01.jpg",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089297_01.jpg",
     "link": "https://www.network.com.tr/vizon-kadin-suet-canta-p-197080",
     "videos": [],
     "productNotInStock": false,
@@ -143,15 +143,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:47.566Z",
-    "processId": "mgyolh640g9to",
+    "timestamp": "2025-10-27T05:15:02.293Z",
+    "processId": "mh8ooqwwpxxak",
     "index": 1,
     "categories": {
       "productType": [
@@ -215,12 +215,12 @@
     "id": "c00c5bf08b1daf4e06d64ee80d41b9d19bb737718fb115d7f6c6364e7b46fb99",
     "title": "Kahverengi Kadın Süet Çanta",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019904_01.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019904_01.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019904_01.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019904_01.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019904_01.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019904_01.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019904_01.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019904_02.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019904_02.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019904_02.jpg?v=8",
@@ -240,7 +240,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019904_04.jpg?v=8",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019904_04.jpg?v=8"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019904_01.jpg?v=8",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019904_01.jpg?v=8",
     "link": "https://www.network.com.tr/kahverengi-kadin-suet-canta-p-195027",
     "videos": [],
     "productNotInStock": false,
@@ -248,15 +248,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:47.682Z",
-    "processId": "mgyolh640g9to",
+    "timestamp": "2025-10-27T05:15:02.407Z",
+    "processId": "mh8ooqwwpxxak",
     "index": 2,
     "categories": {
       "productType": [
@@ -324,12 +324,12 @@
     "id": "3652d7eb22f0168b51fe3f594929a96fce9aa1e731997a53d9ae1a115503eabd",
     "title": "Kahverengi Kadın Süet Çanta",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020603_01.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020603_01.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020603_01.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020603_01.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020603_01.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020603_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020603_01.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020603_02.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020603_02.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020603_02.jpg?v=5",
@@ -349,7 +349,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020603_04.jpg?v=5",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020603_04.jpg?v=5"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020603_01.jpg?v=5",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020603_01.jpg?v=5",
     "link": "https://www.network.com.tr/kahverengi-kadin-suet-canta-p-195005",
     "videos": [],
     "productNotInStock": false,
@@ -357,15 +357,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:47.798Z",
-    "processId": "mgyolh640g9to",
+    "timestamp": "2025-10-27T05:15:02.514Z",
+    "processId": "mh8ooqwwpxxak",
     "index": 3,
     "categories": {
       "productType": [
@@ -433,12 +433,12 @@
     "id": "43b22657cefbdbab6327a7fbb90c62c73c97aa6db7385079386417704008ea86",
     "title": "Vizon Kadın Süet Çanta",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782079977_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782079977_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782079977_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782079977_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782079977_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782079977_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782079977_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782079977_02.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782079977_02.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782079977_02.jpg?v=4",
@@ -458,7 +458,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782079977_04.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782079977_04.jpg?v=4"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782079977_01.jpg?v=4",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782079977_01.jpg?v=4",
     "link": "https://www.network.com.tr/vizon-kadin-suet-canta-p-196556",
     "videos": [],
     "productNotInStock": false,
@@ -466,15 +466,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:47.926Z",
-    "processId": "mgyolh640g9to",
+    "timestamp": "2025-10-27T05:15:02.614Z",
+    "processId": "mh8ooqwwpxxak",
     "index": 4,
     "categories": {
       "productType": [
@@ -538,12 +538,12 @@
     "id": "1ec4b2b6fb92676bd52edf1c4fc07492fc6e88cbd4ea2d5abed129a92220031b",
     "title": "Platin Taşlı Kadın Clutch",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8683798971305_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8683798971305_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8683798971305_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8683798971305_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8683798971305_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8683798971305_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8683798971305_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8683798971305_02.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8683798971305_02.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8683798971305_02.jpg?v=4",
@@ -563,7 +563,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8683798971305_04.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8683798971305_04.jpg?v=4"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8683798971305_01.jpg?v=4",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8683798971305_01.jpg?v=4",
     "link": "https://www.network.com.tr/platin-tasli-kadin-clutch-p-193951",
     "videos": [],
     "productNotInStock": false,
@@ -571,15 +571,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:48.054Z",
-    "processId": "mgyolh640g9to",
+    "timestamp": "2025-10-27T05:15:02.720Z",
+    "processId": "mh8ooqwwpxxak",
     "index": 5,
     "categories": {
       "productType": [
@@ -631,15 +631,116 @@
     }
   },
   {
+    "id": "a51feb5ab2171cef3b35635f9d9eee38ec1686043ec03c219febe2fc49c49f02",
+    "title": "Siyah Kadın Örgü Desenli Kadın Clutch",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015289_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015289_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015289_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015289_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015289_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015289_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015289_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015289_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015289_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015289_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015289_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015289_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015289_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015289_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015289_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015289_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_04.jpg?v=4"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_01.jpg?v=4",
+    "link": "https://www.network.com.tr/siyah-kadin-orgu-desenli-kadin-clutch-p-194875",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:02.828Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "debriyaj çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "debriyaj çanta",
+        "clutch",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "f9bc82cfe556c955a34859996a5987b6a4924eafb0b72d72e26ea505e874f529",
     "title": "Siyah Kadın Deri Çanta",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782090033_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782090033_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782090033_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782090033_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782090033_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782090033_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782090033_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782090033_02.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782090033_02.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782090033_02.jpg?v=4",
@@ -659,7 +760,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782090033_04.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782090033_04.jpg?v=4"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782090033_01.jpg?v=4",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782090033_01.jpg?v=4",
     "link": "https://www.network.com.tr/siyah-kadin-deri-canta-p-197452",
     "videos": [],
     "productNotInStock": false,
@@ -667,16 +768,16 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:48.169Z",
-    "processId": "mgyolh640g9to",
-    "index": 6,
+    "timestamp": "2025-10-27T05:15:02.927Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -741,116 +842,15 @@
     }
   },
   {
-    "id": "a51feb5ab2171cef3b35635f9d9eee38ec1686043ec03c219febe2fc49c49f02",
-    "title": "Siyah Kadın Örgü Desenli Kadın Clutch",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015289_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015289_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015289_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015289_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015289_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015289_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015289_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015289_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015289_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015289_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015289_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015289_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015289_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015289_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015289_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015289_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015289_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_04.jpg?v=4"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015289_01.jpg?v=4",
-    "link": "https://www.network.com.tr/siyah-kadin-orgu-desenli-kadin-clutch-p-194875",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:48.303Z",
-    "processId": "mgyolh640g9to",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "debriyaj çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "debriyaj çanta",
-        "clutch",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "675b293a1ceaa04fc32dca36b6014ce759c62658260789915a84604238c17ef3",
     "title": "Gri Kadın Örgü Desenli Kadın Clutch",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015296_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015296_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015296_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015296_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015296_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015296_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015296_01.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015296_02.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015296_02.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015296_02.jpg?v=4",
@@ -870,7 +870,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015296_04.jpg?v=4",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015296_04.jpg?v=4"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015296_01.jpg?v=4",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015296_01.jpg?v=4",
     "link": "https://www.network.com.tr/gri-kadin-orgu-desenli-kadin-clutch-p-194876",
     "videos": [],
     "productNotInStock": false,
@@ -878,15 +878,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:48.423Z",
-    "processId": "mgyolh640g9to",
+    "timestamp": "2025-10-27T05:15:03.035Z",
+    "processId": "mh8ooqwwpxxak",
     "index": 8,
     "categories": {
       "productType": [
@@ -944,6 +944,107 @@
     }
   },
   {
+    "id": "09ce131b2c92e188c6e449a68294ba4193cb11442e49afaa8905a1ceffbe7265",
+    "title": "Haki Kadın Süet Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019782_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019782_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019782_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019782_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019782_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019782_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019782_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019782_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019782_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019782_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019782_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019782_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019782_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019782_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019782_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019782_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019782_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019782_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019782_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019782_04.jpg?v=5"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_01.jpg?v=5",
+    "link": "https://www.network.com.tr/haki-kadin-suet-canta-p-195015",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:03.125Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "süet çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "süet çanta",
+        "süet",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "14.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 14999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺14.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "440d0ff73237228bdcb228c132f80bc7ae72a498d97a788ab022382a404a975a",
     "title": "Haki Kadın Deri Çanta",
     "img": [
@@ -987,9 +1088,9 @@
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:48.554Z",
-    "processId": "mgyolh640g9to",
-    "index": 9,
+    "timestamp": "2025-10-27T05:15:03.233Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -1049,110 +1150,6 @@
     }
   },
   {
-    "id": "24389f1decde7a2e4c52eace4a8ced5fec8f7ac5b5a8c3e687a6e8a8703ceee1",
-    "title": "Taba Püsküllü Kadın Süet Clutch",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_02.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020580_02.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020580_02.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020580_02.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020580_02.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020580_02.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_03.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020580_03.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020580_03.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020580_03.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020580_03.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020580_03.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_04.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020580_04.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020580_04.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020580_04.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020580_04.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020580_04.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_05.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020580_05.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020580_05.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020580_05.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020580_05.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020580_05.jpg"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_02.jpg",
-    "link": "https://www.network.com.tr/taba-puskullu-kadin-suet-clutch-p-195003",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:48.681Z",
-    "processId": "mgyolh640g9to",
-    "index": 10,
-    "categories": {
-      "productType": [
-        "debriyaj çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "debriyaj çanta",
-        "clutch",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "12.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 12999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺12.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "23966da192f2dfe577b246c466eea28aecf6430da8f744b56d47e65a1b0b076d",
     "title": "Bordo Kadın Deri Çanta",
     "img": [
@@ -1196,8 +1193,8 @@
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:48.810Z",
-    "processId": "mgyolh640g9to",
+    "timestamp": "2025-10-27T05:15:03.346Z",
+    "processId": "mh8ooqwwpxxak",
     "index": 11,
     "categories": {
       "productType": [
@@ -1262,6 +1259,225 @@
     }
   },
   {
+    "id": "4140336b95f0b8b373fe7a034c11cd6c28d05ac605c3eb3472977fb13eb73d5b",
+    "title": "Bordo Kadın Deri Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_01.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096691_01.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096691_01.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096691_01.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096691_01.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096691_01.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_02.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096691_02.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096691_02.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096691_02.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096691_02.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096691_02.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_03.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096691_03.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096691_03.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096691_03.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096691_03.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096691_03.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_04.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096691_04.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096691_04.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096691_04.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096691_04.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096691_04.jpg"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_01.jpg",
+    "link": "https://www.network.com.tr/bordo-kadin-deri-canta-p-197107",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:03.451Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "bordo"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "bordo",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "11.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 11999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺11.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "e5590cd590fd6e27fc8c301eebaeb02de2b1befe08732f7d662d8d5234e07645",
+    "title": "Siyah Kadın Deri Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_01.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096684_01.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096684_01.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096684_01.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096684_01.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096684_01.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_02.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096684_02.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096684_02.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096684_02.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096684_02.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096684_02.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_03.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096684_03.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096684_03.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096684_03.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096684_03.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096684_03.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_04.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096684_04.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096684_04.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096684_04.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096684_04.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096684_04.jpg"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_01.jpg",
+    "link": "https://www.network.com.tr/siyah-kadin-deri-canta-p-197106",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:03.556Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "11.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 11999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺11.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "9a6ade9551c05479388319a88a0b0eaebd62e3f8ad88d8f4b2cc4621d248c574",
     "title": "Siyah Desenli Kadın Çanta",
     "img": [
@@ -1305,9 +1521,9 @@
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:48.936Z",
-    "processId": "mgyolh640g9to",
-    "index": 12,
+    "timestamp": "2025-10-27T05:15:03.666Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta"
@@ -1408,9 +1624,9 @@
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:49.064Z",
-    "processId": "mgyolh640g9to",
-    "index": 13,
+    "timestamp": "2025-10-27T05:15:03.772Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
@@ -1467,430 +1683,6 @@
     }
   },
   {
-    "id": "541ca6d0f534f09c1140065a3ecaccada3c869a2479b337fb35a89e584630022",
-    "title": "Kahverengi Kadın Deri Çanta",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782094437_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782094437_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782094437_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782094437_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782094437_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782094437_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782094437_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782094437_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782094437_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782094437_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782094437_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782094437_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782094437_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782094437_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782094437_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782094437_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782094437_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782094437_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782094437_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782094437_04.jpg?v=5"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_01.jpg?v=5",
-    "link": "https://www.network.com.tr/kahverengi-kadin-deri-canta-p-197099",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:49.187Z",
-    "processId": "mgyolh640g9to",
-    "index": 14,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "14.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 14999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺14.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "09ce131b2c92e188c6e449a68294ba4193cb11442e49afaa8905a1ceffbe7265",
-    "title": "Haki Kadın Süet Çanta",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019782_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019782_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019782_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019782_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019782_01.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019782_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019782_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019782_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019782_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019782_02.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019782_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019782_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019782_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019782_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019782_03.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019782_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019782_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019782_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019782_04.jpg?v=5",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019782_04.jpg?v=5"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019782_01.jpg?v=5",
-    "link": "https://www.network.com.tr/haki-kadin-suet-canta-p-195015",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:49.309Z",
-    "processId": "mgyolh640g9to",
-    "index": 15,
-    "categories": {
-      "productType": [
-        "çanta",
-        "süet çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "süet çanta",
-        "süet",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "14.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 14999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺14.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "dbad49c796d545512397b59c502141260faccf756af2ea479d3d8130e8af1a47",
-    "title": "Siyah Zincir Askılı Kadın Deri Clutch",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089815_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089815_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089815_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089815_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089815_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089815_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089815_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089815_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089815_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089815_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089815_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089815_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089815_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089815_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089815_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089815_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089815_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089815_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089815_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089815_04.jpg?v=4"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_01.jpg?v=4",
-    "link": "https://www.network.com.tr/siyah-zincir-askili-kadin-deri-clutch-p-197467",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:49.440Z",
-    "processId": "mgyolh640g9to",
-    "index": 16,
-    "categories": {
-      "productType": [
-        "debriyaj çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "debriyaj çanta",
-        "clutch",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "12.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 12999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺12.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "4140336b95f0b8b373fe7a034c11cd6c28d05ac605c3eb3472977fb13eb73d5b",
-    "title": "Bordo Kadın Deri Çanta",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_01.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096691_01.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096691_01.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096691_01.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096691_01.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096691_01.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_02.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096691_02.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096691_02.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096691_02.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096691_02.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096691_02.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_03.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096691_03.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096691_03.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096691_03.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096691_03.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096691_03.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_04.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096691_04.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096691_04.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096691_04.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096691_04.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096691_04.jpg"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096691_01.jpg",
-    "link": "https://www.network.com.tr/bordo-kadin-deri-canta-p-197107",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:49.562Z",
-    "processId": "mgyolh640g9to",
-    "index": 17,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "bordo"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "bordo",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "11.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 11999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺11.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "a66f1b20ad77dd73550287e1a7eb25eebbf22b3f2ba066a23cb7890b0bc6b31a",
     "title": "Bordo Desenli Kadın Çanta",
     "img": [
@@ -1934,9 +1726,9 @@
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:49.679Z",
-    "processId": "mgyolh640g9to",
-    "index": 18,
+    "timestamp": "2025-10-27T05:15:03.886Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta"
@@ -1993,107 +1785,6 @@
     }
   },
   {
-    "id": "19f2de52708767198dc893daf9c18c9eea0460fb2101064da99bde7fee07489d",
-    "title": "Siyah Kadın Örgü Detaylı Kadın Clutch",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015258_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015258_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015258_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015258_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015258_01.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015258_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015258_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015258_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015258_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015258_02.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015258_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015258_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015258_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015258_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015258_03.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015258_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015258_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015258_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015258_04.jpg?v=4",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015258_04.jpg?v=4"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_01.jpg?v=4",
-    "link": "https://www.network.com.tr/siyah-kadin-orgu-detayli-kadin-clutch-p-194872",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:49.793Z",
-    "processId": "mgyolh640g9to",
-    "index": 19,
-    "categories": {
-      "productType": [
-        "debriyaj çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "debriyaj çanta",
-        "clutch",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "9fedefefc7eccb36828a2e7cb284dc8009077c8210558de0fcf5b4573326ed14",
     "title": "Siyah Desenli Kadın Çanta",
     "img": [
@@ -2137,9 +1828,9 @@
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:49.915Z",
-    "processId": "mgyolh640g9to",
-    "index": 20,
+    "timestamp": "2025-10-27T05:15:03.992Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta"
@@ -2240,9 +1931,9 @@
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:50.044Z",
-    "processId": "mgyolh640g9to",
-    "index": 21,
+    "timestamp": "2025-10-27T05:15:04.100Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta"
@@ -2295,341 +1986,15 @@
     }
   },
   {
-    "id": "e5590cd590fd6e27fc8c301eebaeb02de2b1befe08732f7d662d8d5234e07645",
-    "title": "Siyah Kadın Deri Çanta",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_01.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096684_01.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096684_01.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096684_01.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096684_01.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096684_01.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_02.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096684_02.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096684_02.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096684_02.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096684_02.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096684_02.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_03.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096684_03.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096684_03.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096684_03.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096684_03.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096684_03.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_04.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782096684_04.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782096684_04.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782096684_04.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782096684_04.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782096684_04.jpg"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782096684_01.jpg",
-    "link": "https://www.network.com.tr/siyah-kadin-deri-canta-p-197106",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:50.173Z",
-    "processId": "mgyolh640g9to",
-    "index": 22,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "11.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 11999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺11.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "48ada4b984bfec539bcf453580865ecd90c6e8dc4ad9ad6ae3382082a35e0839",
-    "title": "Kahverengi Kadın Çanta",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_01.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782097506_01.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782097506_01.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782097506_01.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782097506_01.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782097506_01.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_02.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782097506_02.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782097506_02.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782097506_02.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782097506_02.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782097506_02.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_03.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782097506_03.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782097506_03.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782097506_03.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782097506_03.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782097506_03.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_04.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782097506_04.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782097506_04.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782097506_04.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782097506_04.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782097506_04.jpg"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_01.jpg",
-    "link": "https://www.network.com.tr/kahverengi-kadin-canta-p-197447",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-10-20T05:14:50.281Z",
-    "processId": "mgyolh640g9to",
-    "index": 23,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "11.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 11999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺11.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "bb9c5417325836fdadb05a1dff10b8738e347e2629b0a67982e829699f61cfb9",
-    "title": "Siyah Kadın Deri Çanta",
-    "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_01.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_01.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091429_01.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091429_01.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091429_01.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091429_01.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_02.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091429_02.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091429_02.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091429_02.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091429_02.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_02.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_03.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091429_03.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091429_03.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091429_03.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091429_03.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_03.jpg",
-      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_04.jpg",
-      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091429_04.jpg",
-      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091429_04.jpg",
-      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091429_04.jpg",
-      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091429_04.jpg",
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_04.jpg"
-    ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_01.jpg",
-    "link": "https://www.network.com.tr/siyah-kadin-deri-canta-p-197477",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".products__item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__price.-actual.h4",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731?sayfa=2",
-    "timestamp": "2025-10-20T05:15:00.999Z",
-    "processId": "mgyolpjf6rkko",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "11.999,00 TL",
-          "selector": ".product__price.-actual.h4",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 11999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺11.999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "8a2ec2314ede82f1086492e8b24f43d16257e9706f6316f3c252016fd078e75c",
     "title": "Taba Püsküllü Kadın Süet Çanta",
     "img": [
-      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020597_01.jpg",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020597_01.jpg",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020597_01.jpg",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020597_01.jpg",
       "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020597_01.jpg",
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020597_01.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020597_01.jpg",
       "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020597_02.jpg",
       "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020597_02.jpg",
       "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020597_02.jpg",
@@ -2649,7 +2014,7 @@
       "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020597_04.jpg",
       "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020597_04.jpg"
     ],
-    "primaryImg": "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020597_01.jpg",
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020597_01.jpg",
     "link": "https://www.network.com.tr/taba-puskullu-kadin-suet-canta-p-195004",
     "videos": [],
     "productNotInStock": false,
@@ -2657,16 +2022,16 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".products__item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__price.-actual.h4",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
-    "pageURL": "https://www.network.com.tr/canta-731?sayfa=2",
-    "timestamp": "2025-10-20T05:15:01.130Z",
-    "processId": "mgyolpjf6rkko",
-    "index": 1,
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:04.206Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -2722,6 +2087,962 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺12.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "19f2de52708767198dc893daf9c18c9eea0460fb2101064da99bde7fee07489d",
+    "title": "Siyah Kadın Örgü Detaylı Kadın Clutch",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015258_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015258_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015258_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015258_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015258_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015258_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015258_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015258_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015258_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015258_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015258_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015258_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015258_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015258_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015258_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782015258_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782015258_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782015258_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782015258_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782015258_04.jpg?v=4"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782015258_01.jpg?v=4",
+    "link": "https://www.network.com.tr/siyah-kadin-orgu-detayli-kadin-clutch-p-194872",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:04.311Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 20,
+    "categories": {
+      "productType": [
+        "debriyaj çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "debriyaj çanta",
+        "clutch",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "541ca6d0f534f09c1140065a3ecaccada3c869a2479b337fb35a89e584630022",
+    "title": "Kahverengi Kadın Deri Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782094437_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782094437_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782094437_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782094437_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782094437_01.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782094437_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782094437_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782094437_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782094437_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782094437_02.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782094437_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782094437_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782094437_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782094437_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782094437_03.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782094437_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782094437_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782094437_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782094437_04.jpg?v=5",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782094437_04.jpg?v=5"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782094437_01.jpg?v=5",
+    "link": "https://www.network.com.tr/kahverengi-kadin-deri-canta-p-197099",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:04.418Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 21,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "14.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 14999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺14.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "48ada4b984bfec539bcf453580865ecd90c6e8dc4ad9ad6ae3382082a35e0839",
+    "title": "Kahverengi Kadın Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_01.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782097506_01.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782097506_01.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782097506_01.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782097506_01.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782097506_01.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_02.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782097506_02.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782097506_02.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782097506_02.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782097506_02.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782097506_02.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_03.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782097506_03.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782097506_03.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782097506_03.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782097506_03.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782097506_03.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_04.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782097506_04.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782097506_04.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782097506_04.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782097506_04.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782097506_04.jpg"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782097506_01.jpg",
+    "link": "https://www.network.com.tr/kahverengi-kadin-canta-p-197447",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:04.524Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 22,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "11.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 11999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺11.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "24389f1decde7a2e4c52eace4a8ced5fec8f7ac5b5a8c3e687a6e8a8703ceee1",
+    "title": "Taba Püsküllü Kadın Süet Clutch",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_02.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020580_02.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020580_02.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020580_02.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020580_02.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020580_02.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_03.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020580_03.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020580_03.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020580_03.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020580_03.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020580_03.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_04.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020580_04.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020580_04.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020580_04.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020580_04.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020580_04.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_05.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020580_05.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020580_05.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020580_05.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020580_05.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020580_05.jpg"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020580_02.jpg",
+    "link": "https://www.network.com.tr/taba-puskullu-kadin-suet-clutch-p-195003",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731",
+    "timestamp": "2025-10-27T05:15:04.636Z",
+    "processId": "mh8ooqwwpxxak",
+    "index": 23,
+    "categories": {
+      "productType": [
+        "debriyaj çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "debriyaj çanta",
+        "clutch",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "12.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 12999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺12.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "dbad49c796d545512397b59c502141260faccf756af2ea479d3d8130e8af1a47",
+    "title": "Siyah Zincir Askılı Kadın Deri Clutch",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089815_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089815_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089815_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089815_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089815_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089815_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089815_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089815_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089815_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089815_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089815_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089815_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089815_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089815_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089815_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782089815_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782089815_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782089815_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782089815_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782089815_04.jpg?v=4"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782089815_01.jpg?v=4",
+    "link": "https://www.network.com.tr/siyah-zincir-askili-kadin-deri-clutch-p-197467",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731?sayfa=2",
+    "timestamp": "2025-10-27T05:15:15.385Z",
+    "processId": "mh8oozjkwacy1",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "debriyaj çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "debriyaj çanta",
+        "clutch",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "12.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 12999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺12.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "bb9c5417325836fdadb05a1dff10b8738e347e2629b0a67982e829699f61cfb9",
+    "title": "Siyah Kadın Deri Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_01.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091429_01.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091429_01.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091429_01.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091429_01.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_01.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_02.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091429_02.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091429_02.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091429_02.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091429_02.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_02.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_03.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091429_03.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091429_03.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091429_03.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091429_03.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_03.jpg",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_04.jpg",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782091429_04.jpg",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782091429_04.jpg",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782091429_04.jpg",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782091429_04.jpg",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782091429_04.jpg"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782091429_01.jpg",
+    "link": "https://www.network.com.tr/siyah-kadin-deri-canta-p-197477",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731?sayfa=2",
+    "timestamp": "2025-10-27T05:15:15.494Z",
+    "processId": "mh8oozjkwacy1",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "11.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 11999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺11.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "acf70288d46d696d25ab66ab230325a168dad44dd6f1284494197532d6393f22",
+    "title": "Acı Kahve Kadın Süet Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019799_01.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019799_01.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019799_01.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019799_01.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019799_01.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019799_01.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019799_02.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019799_02.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019799_02.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019799_02.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019799_02.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019799_02.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019799_03.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019799_03.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019799_03.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019799_03.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019799_03.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019799_03.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019799_04.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782019799_04.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782019799_04.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782019799_04.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782019799_04.jpg?v=8",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782019799_04.jpg?v=8"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782019799_01.jpg?v=8",
+    "link": "https://www.network.com.tr/aci-kahve-kadin-suet-canta-p-195016",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731?sayfa=2",
+    "timestamp": "2025-10-27T05:15:15.602Z",
+    "processId": "mh8oozjkwacy1",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "süet çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "süet çanta",
+        "süet",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "14.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 14999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺14.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "cedd57a3de673327700baddd130fe9b484662f5c18d27fab349fd92a6971a53a",
+    "title": "Bordo Bozuk Paralık Detaylı Kadın Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020573_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020573_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020573_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020573_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020573_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020573_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020573_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020573_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020573_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020573_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020573_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020573_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020573_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020573_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020573_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020573_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020573_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020573_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020573_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020573_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020573_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020573_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020573_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020573_04.jpg?v=4"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020573_01.jpg?v=4",
+    "link": "https://www.network.com.tr/bordo-bozuk-paralik-detayli-kadin-canta-p-195002",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731?sayfa=2",
+    "timestamp": "2025-10-27T05:15:15.712Z",
+    "processId": "mh8oozjkwacy1",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "bordo"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "bordo",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "8.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 8999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺8.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "62c6080b20906f04d665b6fe3e44ef4ace628d44c871df58c425a3b14b2554de",
+    "title": "Kahverengi Kadın Çanta",
+    "img": [
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020566_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020566_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020566_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020566_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020566_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020566_01.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020566_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020566_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020566_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020566_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020566_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020566_02.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020566_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020566_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020566_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020566_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020566_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020566_03.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020566_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/418/-/productimages/8684782020566_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/364/-/productimages/8684782020566_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/304/-/productimages/8684782020566_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/224/-/productimages/8684782020566_04.jpg?v=4",
+      "https://img-network.mncdn.com/mnresize/540/-/productimages/8684782020566_04.jpg?v=4"
+    ],
+    "primaryImg": "https://img-network.mncdn.com/mnresize/491/-/productimages/8684782020566_01.jpg?v=4",
+    "link": "https://www.network.com.tr/kahverengi-kadin-canta-p-195001",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".products__item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product__price.-actual.h4",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
+    "pageURL": "https://www.network.com.tr/canta-731?sayfa=2",
+    "timestamp": "2025-10-27T05:15:15.823Z",
+    "processId": "mh8oozjkwacy1",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "8.999,00 TL",
+          "selector": ".product__price.-actual.h4",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 8999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺8.999,00"
         }
       ],
       "priceValid": true,
