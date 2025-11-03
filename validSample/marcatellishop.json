@@ -20,8 +20,8 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.030Z",
-    "processId": "mh8py5noj4g2h",
+    "timestamp": "2025-11-03T05:46:33.973Z",
+    "processId": "mhipw7mbin1pl",
     "index": 0,
     "categories": {
       "productType": [
@@ -75,6 +75,234 @@
     }
   },
   {
+    "id": "765f6326e23b0ca57e9de5e9b0f59411f1061015d952cc2ba08e0310cd72ff2b",
+    "title": "Siyah Omuz Çantası",
+    "img": [
+      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-omuz-cantasi2134_21026_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-omuz-cantasi2134_21026_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/siyah-omuz-cantasi-4-1-2134",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageURL": "https://www.marcatellishop.com/kategori/canta",
+    "timestamp": "2025-11-03T05:46:33.980Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "t 2.450,00",
+          "selector": "span.divUFiyat1",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 2450,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "2450"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "c50acb93339ad1c4082abe0073566e21dc69e61af58cbbf07c1a6a71e0dc7881",
+    "title": "Siyah Omuz Çantası",
+    "img": [
+      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-omuz-cantasi2135_21093_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-omuz-cantasi2135_21093_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/siyah-omuz-cantasi-4-1-2135",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageURL": "https://www.marcatellishop.com/kategori/canta",
+    "timestamp": "2025-11-03T05:46:33.987Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "t 2.450,00",
+          "selector": "span.divUFiyat1",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 2450,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "2450"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "03f0feed723acd03fb5c52f814803448447bdcae1e6682bcb15f76553779ebc0",
+    "title": "Siyah Rugan Omuz Çantası",
+    "img": [
+      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-omuz-cantasi_2238_22509_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-omuz-cantasi_2238_22509_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/siyah-rugan-omuz-cantasi-13-1-2238",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageURL": "https://www.marcatellishop.com/kategori/canta",
+    "timestamp": "2025-11-03T05:46:33.994Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "t 2.450,00",
+          "selector": "span.divUFiyat1",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 2450,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "2450"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "9ac104e949bf583dd6564be14a794d9296281631324c6db56c24409909d7de3c",
     "title": "Lacivert Kemer Detaylı Omuz Çantası",
     "img": [
@@ -95,9 +323,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.038Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 1,
+    "timestamp": "2025-11-03T05:46:34.000Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -174,9 +402,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.045Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 2,
+    "timestamp": "2025-11-03T05:46:34.007Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -230,6 +458,82 @@
     }
   },
   {
+    "id": "5a68ab2492e7fab3e95a3f0946ee9c244908a3728ec662c48809d4b765515c17",
+    "title": "Siyah Rugan Omuz Çantası",
+    "img": [
+      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-omuz-cantasi2130_21085_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-omuz-cantasi2130_21085_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/siyah-rugan-omuz-cantasi-13-1-2130",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageURL": "https://www.marcatellishop.com/kategori/canta",
+    "timestamp": "2025-11-03T05:46:34.014Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "t 2.450,00",
+          "selector": "span.divUFiyat1",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 2450,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "2450"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "2f5edb01f8b2b13d333a997daae9ae6175c0f77af9c1a8b8c14d728cfd4038cc",
     "title": "Taba Saddle Deri Omuz Çantası",
     "img": [
@@ -250,9 +554,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.052Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 3,
+    "timestamp": "2025-11-03T05:46:34.021Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -316,13 +620,13 @@
     }
   },
   {
-    "id": "bba9400afe9fe4d2aa8362ecb0237100a55a9bba4cdc43b203fc2e57773d7c5d",
-    "title": "Vizon Omuz Çantası",
+    "id": "185d21b45cf2b59adc346b1ae0a2973323741606a18e219669a0d05f1dfd5144",
+    "title": "Taba Kol Çantası",
     "img": [
-      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-omuz-cantasi_2029_20323_R2.jpg?v=0000"
+      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-kol-cantasi_2398_22980_R2.jpg?v=0000"
     ],
-    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-omuz-cantasi_2029_20323_R2.jpg?v=0000",
-    "link": "https://www.marcatellishop.com/vizon-omuz-cantasi-70-1-2029",
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-kol-cantasi_2398_22980_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/taba-kol-cantasi-10-1-2398",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -336,16 +640,16 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.058Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 4,
+    "timestamp": "2025-11-03T05:46:34.028Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
         "omuz çantası"
       ],
       "color": [
-        "vizon"
+        "kahverengi"
       ]
     },
     "seo": {
@@ -358,7 +662,11 @@
         "omuz",
         "shoulder",
         "kol",
-        "vizon"
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
       ]
     },
     "imgValid": true,
@@ -374,15 +682,169 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "t 2.100,00",
+          "value": "t 2.450,00",
           "selector": "span.divUFiyat1",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
-          "numericValue": 2100,
+          "numericValue": 2450,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "2100"
+          "displayPrice": "2450"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a2181e609f4590395d9e59d8b62a79471f524ac8ef2b7cf3dff0482783b67eb6",
+    "title": "Taba Omuz Çantası",
+    "img": [
+      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-omuz-cantasi2435_23103_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-omuz-cantasi2435_23103_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/taba-omuz-cantasi-10-1-2435",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageURL": "https://www.marcatellishop.com/kategori/canta",
+    "timestamp": "2025-11-03T05:46:34.035Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "t 2.450,00",
+          "selector": "span.divUFiyat1",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 2450,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "2450"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "723441de75a6d9f7e964cae3385bc8eb8fb5c65ffa420e949ec497f18f0ddc53",
+    "title": "Lacivert Omuz Çantası",
+    "img": [
+      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-omuz-cantasi2439_23268_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-omuz-cantasi2439_23268_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/lacivert-omuz-cantasi-6-1-2439",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageURL": "https://www.marcatellishop.com/kategori/canta",
+    "timestamp": "2025-11-03T05:46:34.042Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "lacivert"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "lacivert"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "t 2.450,00",
+          "selector": "span.divUFiyat1",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 2450,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "2450"
         }
       ],
       "priceValid": true,
@@ -411,9 +873,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.065Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 5,
+    "timestamp": "2025-11-03T05:46:34.049Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -487,9 +949,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.072Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 6,
+    "timestamp": "2025-11-03T05:46:34.055Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -563,9 +1025,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.079Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 7,
+    "timestamp": "2025-11-03T05:46:34.062Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -639,9 +1101,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.086Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 8,
+    "timestamp": "2025-11-03T05:46:34.069Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -713,9 +1175,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.093Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 9,
+    "timestamp": "2025-11-03T05:46:34.077Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
@@ -784,9 +1246,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.100Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 10,
+    "timestamp": "2025-11-03T05:46:34.084Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -863,9 +1325,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.107Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 11,
+    "timestamp": "2025-11-03T05:46:34.091Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta"
@@ -934,9 +1396,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.114Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 12,
+    "timestamp": "2025-11-03T05:46:34.098Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1007,9 +1469,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.120Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 13,
+    "timestamp": "2025-11-03T05:46:34.106Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1084,9 +1546,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.126Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 14,
+    "timestamp": "2025-11-03T05:46:34.113Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta"
@@ -1158,9 +1620,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.131Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 15,
+    "timestamp": "2025-11-03T05:46:34.119Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1234,9 +1696,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.138Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 16,
+    "timestamp": "2025-11-03T05:46:34.126Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1310,9 +1772,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.145Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 17,
+    "timestamp": "2025-11-03T05:46:34.134Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1387,9 +1849,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.152Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 18,
+    "timestamp": "2025-11-03T05:46:34.141Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -1462,9 +1924,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.159Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 19,
+    "timestamp": "2025-11-03T05:46:34.148Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta"
@@ -1533,9 +1995,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.166Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 20,
+    "timestamp": "2025-11-03T05:46:34.155Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -1617,9 +2079,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.173Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 21,
+    "timestamp": "2025-11-03T05:46:34.162Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -1693,9 +2155,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.179Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 22,
+    "timestamp": "2025-11-03T05:46:34.169Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -1768,9 +2230,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.186Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 23,
+    "timestamp": "2025-11-03T05:46:34.177Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta"
@@ -1839,9 +2301,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.194Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 24,
+    "timestamp": "2025-11-03T05:46:34.183Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta"
@@ -1909,9 +2371,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.201Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 25,
+    "timestamp": "2025-11-03T05:46:34.191Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -1987,9 +2449,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.208Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 26,
+    "timestamp": "2025-11-03T05:46:34.198Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta"
@@ -2058,9 +2520,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.215Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 27,
+    "timestamp": "2025-11-03T05:46:34.205Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta"
@@ -2129,9 +2591,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.222Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 28,
+    "timestamp": "2025-11-03T05:46:34.212Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -2203,9 +2665,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.229Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 29,
+    "timestamp": "2025-11-03T05:46:34.220Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -2278,9 +2740,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.236Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 30,
+    "timestamp": "2025-11-03T05:46:34.227Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
@@ -2336,81 +2798,6 @@
     }
   },
   {
-    "id": "8db0604ce66af021760b05254e43662e9d18f679199b9920230573418caeb1a1",
-    "title": "Vizon Lara Omuz Çantası",
-    "img": [
-      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-lara-omuz-cnatasi2524_23858_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-lara-omuz-cnatasi2524_23858_R2.jpg?v=0000",
-    "link": "https://www.marcatellishop.com/vizon-lara-omuz-cantasi-70-1-2524",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
-    "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.242Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 31,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "vizon"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "vizon"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "t 2.650,00",
-          "selector": "span.divUFiyat1",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 2650,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "2650"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "90661b62653a103e51b3a178b1cc8557c482073f39ffd36467692584c752c934",
     "title": "Siyah Abiye Çanta",
     "img": [
@@ -2431,9 +2818,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.249Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 32,
+    "timestamp": "2025-11-03T05:46:34.234Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta",
@@ -2505,9 +2892,9 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.256Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 33,
+    "timestamp": "2025-11-03T05:46:34.241Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 38,
     "categories": {
       "productType": [
         "çanta",
@@ -2559,13 +2946,13 @@
     }
   },
   {
-    "id": "962e9fdfec06896f5e8df4d60be3195816d32f8756812955bb263bd7af42fff5",
-    "title": "Bej Abiye Çanta",
+    "id": "8db0604ce66af021760b05254e43662e9d18f679199b9920230573418caeb1a1",
+    "title": "Vizon Lara Omuz Çantası",
     "img": [
-      "https://www.marcatellishop.com/SFolder/ProductImages/abiye-canta-marcatelli-abiye-canta2587_24911_R2.jpg?v=1158"
+      "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-lara-omuz-cnatasi2524_23858_R2.jpg?v=0000"
     ],
-    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/abiye-canta-marcatelli-abiye-canta2587_24911_R2.jpg?v=1158",
-    "link": "https://www.marcatellishop.com/bej-abiye-canta-9-1-2587",
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/gunluk-canta-marcatelli-lara-omuz-cnatasi2524_23858_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/vizon-lara-omuz-cantasi-70-1-2524",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2579,16 +2966,91 @@
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-10-27T05:50:23.263Z",
-    "processId": "mh8py5noj4g2h",
-    "index": 34,
+    "timestamp": "2025-11-03T05:46:34.248Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 39,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "vizon"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "vizon"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "t 2.650,00",
+          "selector": "span.divUFiyat1",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 2650,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "2650"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "958e788b92bd90fac9ef28a677ff8bf47c46280448126f4503b14e65ab8c567c",
+    "title": "Beyaz Abiye Çanta",
+    "img": [
+      "https://www.marcatellishop.com/SFolder/ProductImages/abiye-canta-marcatelli-abiye-canta2587_24489_R2.jpg?v=1201"
+    ],
+    "primaryImg": "https://www.marcatellishop.com/SFolder/ProductImages/abiye-canta-marcatelli-abiye-canta2587_24489_R2.jpg?v=1201",
+    "link": "https://www.marcatellishop.com/beyaz-abiye-canta-8-1-2587",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageURL": "https://www.marcatellishop.com/kategori/canta",
+    "timestamp": "2025-11-03T05:46:34.255Z",
+    "processId": "mhipw7mbin1pl",
+    "index": 40,
     "categories": {
       "productType": [
         "çanta",
         "abiye çanta"
       ],
       "color": [
-        "bej"
+        "beyaz"
       ]
     },
     "seo": {
@@ -2599,8 +3061,8 @@
         "çantasi",
         "abiye çanta",
         "abiye",
-        "bej",
-        "ten"
+        "beyaz",
+        "white"
       ]
     },
     "imgValid": true,
