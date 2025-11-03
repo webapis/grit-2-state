@@ -1,5 +1,89 @@
 [
   {
+    "id": "82c761cdd70b009522ee1bc73d2c531d1dc8422d84066fe0d96f069af2c2f049",
+    "title": "Zincir Askı Detaylı Beyaz Çanta Z0512",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-7-61ce.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-336dd1.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512--44ea-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-380080.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-ddf9a2.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-beyaz-canta-z0512-7-61ce.jpg",
+    "link": "https://www.zuhre.com.tr/zincir-aski-detayli-beyaz-canta-z0512",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.zuhre.com.tr/canta",
+    "timestamp": "2025-11-03T05:53:17.938Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "beyaz"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "beyaz",
+        "white"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$59.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 59,
+          "unsetPrice": false,
+          "convertedPrice": 59,
+          "displayPrice": "₺59,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "32e86d38d6b5e294fd7ceb3dabf2cddb29330e36a789c735eba77f3971b15241",
     "title": "Zincir Askı Detaylı Saks Çanta Z0512",
     "img": [
@@ -24,9 +108,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.292Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 0,
+    "timestamp": "2025-11-03T05:53:17.948Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -103,9 +187,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.300Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 1,
+    "timestamp": "2025-11-03T05:53:17.957Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -190,9 +274,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.308Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 2,
+    "timestamp": "2025-11-03T05:53:17.966Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -278,9 +362,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.316Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 3,
+    "timestamp": "2025-11-03T05:53:17.975Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -374,9 +458,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.326Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 4,
+    "timestamp": "2025-11-03T05:53:17.984Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -465,9 +549,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.335Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 5,
+    "timestamp": "2025-11-03T05:53:17.994Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -551,9 +635,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.344Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 6,
+    "timestamp": "2025-11-03T05:53:18.003Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -614,6 +698,527 @@
     }
   },
   {
+    "id": "dcc8e1769e3b2a14993cf4018b49f40d32fdfc94c20c3d275daea1f4e1c854f0",
+    "title": "Dokulu Fermuar Kapamalı Siyah El ve Omuz Çanta Z0047",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-siyah-el-ve-om-67d6be.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-siyah-el-ve-om-8f0625.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-siyah-el-ve-om--49ea-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-siyah-el-ve-om-6c5432.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-siyah-el-ve-om-e8-339.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-siyah-el-ve-om-67d6be.jpg",
+    "link": "https://www.zuhre.com.tr/dokulu-fermuar-kapamali-siyah-el-ve-omuz-canta-z0047",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.zuhre.com.tr/canta",
+    "timestamp": "2025-11-03T05:53:18.011Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 8,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "el çantası",
+        "okul çantası"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "el çantası",
+        "el",
+        "okul çantası",
+        "okul",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$79.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 79,
+          "unsetPrice": false,
+          "convertedPrice": 79,
+          "displayPrice": "₺79,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "aa4716d85588ba53f5a0def0d1e33b4d3c10efbf679d5f939264b8aba48c2b24",
+    "title": "Dokulu Fermuar Kapamalı Lacivert El ve Omuz Çanta Z0047",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-lacivert-el-ve-fc6b1a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-lacivert-el-ve-377ea3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-lacivert-el-ve-4-ac7e.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-lacivert-el-ve-88faff.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-lacivert-el-ve--de944.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-lacivert-el-ve-fc6b1a.jpg",
+    "link": "https://www.zuhre.com.tr/dokulu-fermuar-kapamali-lacivert-el-ve-omuz-canta-z0047",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.zuhre.com.tr/canta",
+    "timestamp": "2025-11-03T05:53:18.022Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "el çantası",
+        "okul çantası"
+      ],
+      "color": [
+        "lacivert"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "el çantası",
+        "el",
+        "okul çantası",
+        "okul",
+        "lacivert"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$79.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 79,
+          "unsetPrice": false,
+          "convertedPrice": 79,
+          "displayPrice": "₺79,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "73f7b4431c14c982e1b0184d9066a6a328ca82056885253e55b44018d6c5bb08",
+    "title": "Dokulu Fermuar Kapamalı Bordo El ve Omuz Çanta Z0047",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bordo-el-ve-om-2f91-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bordo-el-ve-om-985c8-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bordo-el-ve-om-ef-93f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bordo-el-ve-om-668b-6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bordo-el-ve-om-5-8ea0.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bordo-el-ve-om-2f91-4.jpg",
+    "link": "https://www.zuhre.com.tr/dokulu-fermuar-kapamali-bordo-el-ve-omuz-canta-z0047",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.zuhre.com.tr/canta",
+    "timestamp": "2025-11-03T05:53:18.031Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "el çantası",
+        "okul çantası"
+      ],
+      "color": [
+        "bordo"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "el çantası",
+        "el",
+        "okul çantası",
+        "okul",
+        "bordo"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$79.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 79,
+          "unsetPrice": false,
+          "convertedPrice": 79,
+          "displayPrice": "₺79,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "d77cabb5b3237e8cbfe850dfd2cea839f6ba85d7204d07431a492c4e496aed4f",
+    "title": "Dokulu Fermuar Kapamalı Beyaz El ve Omuz Çanta Z0047",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-beyaz-el-ve-om-8238a6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-beyaz-el-ve-om-f-dab6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-beyaz-el-ve-om-e7ada6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-beyaz-el-ve-om-0de65f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-beyaz-el-ve-om-949-70.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-beyaz-el-ve-om-8238a6.jpg",
+    "link": "https://www.zuhre.com.tr/dokulu-fermuar-kapamali-beyaz-el-ve-omuz-canta-z0047",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.zuhre.com.tr/canta",
+    "timestamp": "2025-11-03T05:53:18.039Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "el çantası",
+        "okul çantası"
+      ],
+      "color": [
+        "beyaz"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "el çantası",
+        "el",
+        "okul çantası",
+        "okul",
+        "beyaz",
+        "white"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$79.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 79,
+          "unsetPrice": false,
+          "convertedPrice": 79,
+          "displayPrice": "₺79,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "77b7c8652ee3476928e6415aaaf06e14616e7a5dd50ae12cab3860ae7f36a67c",
+    "title": "Dokulu Fermuar Kapamalı Bej El ve Omuz Çanta Z0047",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bej-el-ve-omuz-f4-9b6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bej-el-ve-omuz-5a-ff5.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bej-el-ve-omuz-92e32a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bej-el-ve-omuz-4326-b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bej-el-ve-omuz-02dd1e.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-bej-el-ve-omuz-f4-9b6.jpg",
+    "link": "https://www.zuhre.com.tr/dokulu-fermuar-kapamali-bej-el-ve-omuz-canta-z0047",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.zuhre.com.tr/canta",
+    "timestamp": "2025-11-03T05:53:18.049Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "el çantası",
+        "okul çantası"
+      ],
+      "color": [
+        "bej"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "el çantası",
+        "el",
+        "okul çantası",
+        "okul",
+        "bej",
+        "ten"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$79.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 79,
+          "unsetPrice": false,
+          "convertedPrice": 79,
+          "displayPrice": "₺79,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "d1bfa81ae5c359208e545ae783357cd8d8c1659962f50273b1f7c95b5ae7ac62",
+    "title": "Dokulu Fermuar Kapamalı Gri El ve Omuz Çanta Z0047",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-gri-el-ve-omuz-b514d0.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-gri-el-ve-omuz-a1c-a1.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-gri-el-ve-omuz-6-297a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-gri-el-ve-omuz-a340-b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-gri-el-ve-omuz--9c465.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-gri-el-ve-omuz-b514d0.jpg",
+    "link": "https://www.zuhre.com.tr/dokulu-fermuar-kapamali-gri-el-ve-omuz-canta-z0047",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.zuhre.com.tr/canta",
+    "timestamp": "2025-11-03T05:53:18.059Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "el çantası",
+        "okul çantası"
+      ],
+      "color": [
+        "gri/füme"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "el çantası",
+        "el",
+        "okul çantası",
+        "okul",
+        "gri/füme",
+        "gri",
+        "füme"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$79.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 79,
+          "unsetPrice": false,
+          "convertedPrice": 79,
+          "displayPrice": "₺79,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "dcdda9d1823693ff4e4318ae4d6d59799ba4addb225dc0c7db1c48d6b91004ac",
     "title": "Zincir Askılı Boncuk Detaylı Gri El ve Omuz Çantası Z0030",
     "img": [
@@ -637,9 +1242,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.352Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 7,
+    "timestamp": "2025-11-03T05:53:18.067Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -732,9 +1337,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.360Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 8,
+    "timestamp": "2025-11-03T05:53:18.075Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -798,89 +1403,6 @@
     }
   },
   {
-    "id": "02bd1e82f1ba75bb91964d38d4d462df1192e343b296ba87a8cc07a53c1f3f3c",
-    "title": "Zincir Askı Detaylı Siyah Çanta Z0512",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-siyah-canta-z0512-21-495.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-siyah-canta-z0512-044f5b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-siyah-canta-z0512--42cb-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-siyah-canta-z0512-86a0-d.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/zincir-aski-detayli-siyah-canta-z0512-21-495.jpg",
-    "link": "https://www.zuhre.com.tr/zincir-aski-detayli-siyah-canta-z0512",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.368Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 9,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$59.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 59,
-          "unsetPrice": false,
-          "convertedPrice": 59,
-          "displayPrice": "₺59,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "34eb0869753de1350ccc7aaa51890c3dd7285b81a4f8f5fe0a0cdfb6e39a916f",
     "title": "Zincir Askı Detaylı Haki Çanta Z0512",
     "img": [
@@ -904,9 +1426,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.376Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 10,
+    "timestamp": "2025-11-03T05:53:18.084Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -983,9 +1505,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.384Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 11,
+    "timestamp": "2025-11-03T05:53:18.093Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1067,9 +1589,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.393Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 12,
+    "timestamp": "2025-11-03T05:53:18.103Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1151,9 +1673,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.402Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 13,
+    "timestamp": "2025-11-03T05:53:18.113Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1235,9 +1757,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.411Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 14,
+    "timestamp": "2025-11-03T05:53:18.122Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1318,9 +1840,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.420Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 15,
+    "timestamp": "2025-11-03T05:53:18.132Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1404,9 +1926,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.429Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 16,
+    "timestamp": "2025-11-03T05:53:18.143Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1487,9 +2009,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.438Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 17,
+    "timestamp": "2025-11-03T05:53:18.152Z",
+    "processId": "mhiq4v9o36d7t",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1553,89 +2075,6 @@
     }
   },
   {
-    "id": "392c207a111e35552d3b80e1e42898720d33b7f7c92fa87f9ebea3bd465b77e7",
-    "title": "Gri/Siyah Tote Çanta Z0013",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/grisiyah-tote-canta-z0013-1242fa.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/grisiyah-tote-canta-z0013-58abf1.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/grisiyah-tote-canta-z0013--4c0d-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/grisiyah-tote-canta-z0013-7a9c97.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/grisiyah-tote-canta-z0013--a511-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/grisiyah-tote-canta-z0013-1242fa.jpg",
-    "link": "https://www.zuhre.com.tr/grisiyah-tote-canta-z0013",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.447Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 18,
-    "categories": {
-      "productType": [
-        "çanta",
-        "tote çanta"
-      ],
-      "color": [
-        "siyah",
-        "gri/füme"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "tote çanta",
-        "tote",
-        "siyah",
-        "black",
-        "gri/füme",
-        "gri",
-        "füme"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$69.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 69,
-          "unsetPrice": false,
-          "convertedPrice": 69,
-          "displayPrice": "₺69,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "1bf7eb3077610dfcc57dacabe30696ae4d2096d79f7b9228c40a79bc7c999629",
     "title": "Taba/K.Bej Tote Çanta Z0013",
     "img": [
@@ -1658,11 +2097,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.456Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 19,
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
+    "timestamp": "2025-11-03T05:53:28.174Z",
+    "processId": "mhiq535sick2a",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -1743,11 +2182,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.465Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 20,
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
+    "timestamp": "2025-11-03T05:53:28.183Z",
+    "processId": "mhiq535sick2a",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -1829,11 +2268,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.473Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 21,
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
+    "timestamp": "2025-11-03T05:53:28.192Z",
+    "processId": "mhiq535sick2a",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -1891,338 +2330,6 @@
     }
   },
   {
-    "id": "4a824ec75230febd224f9957f790f265a7dc37e25b518e7d49df821668d4cbf6",
-    "title": "Zincir Askılı Çim Yeşili Kapitone Çanta Z0331",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0331-zuhre-canta-39-b70.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0331-zuhre-canta-1-0b61.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0331-zuhre-canta--9bdb4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0331-zuhre-canta-88c-3b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0331-zuhre-canta-c-a42d.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0331-zuhre-canta-39-b70.jpg",
-    "link": "https://www.zuhre.com.tr/zincir-askili-cim-yesili-kapitone-canta-z0331",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.482Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 22,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "yeşil"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "yeşil"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$49.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 49,
-          "unsetPrice": false,
-          "convertedPrice": 49,
-          "displayPrice": "₺49,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "bde6b3db525b129ee48588f7e127c7bd398d7fe944c5a2c69c9dca5b1ba4c22c",
-    "title": "Kahve Regina Çanta Z0325",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0325-regina-zuhre-canta--8945-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0325-regina-zuhre-canta-0b-8fb.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0325-regina-zuhre-canta-b82a59.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0325-regina-zuhre-canta-4421b0.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0325-regina-zuhre-canta-5ff478.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0325-regina-zuhre-canta--8945-.jpg",
-    "link": "https://www.zuhre.com.tr/kahve-regina-canta-z0325",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-10-27T05:58:48.490Z",
-    "processId": "mh8q8zhpnh4dx",
-    "index": 23,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$29.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 29,
-          "unsetPrice": false,
-          "convertedPrice": 29,
-          "displayPrice": "₺29,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "76a56f396b80be86841160d70e544126fb50d46bce59b95f86d41d11d2356cf5",
-    "title": "Leopar July Çanta Z0323",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0323-july-zuhre-canta-1c1260.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0323-july-zuhre-canta-ef70cd.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0323-july-zuhre-canta--4e46-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0323-july-zuhre-canta-c2b89b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0323-july-zuhre-canta-bd48-9.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0323-july-zuhre-canta-1c1260.jpg",
-    "link": "https://www.zuhre.com.tr/leopar-july-canta-z0323",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:57.953Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$39.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 39,
-          "unsetPrice": false,
-          "convertedPrice": 39,
-          "displayPrice": "₺39,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "bdc34927f9776777803e0b6ce37a744f0058d1e30a0d88c5067c7cbead406e66",
-    "title": "Minimal Zincir Çapraz Askılı Sarı Çanta Z0322",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/minimal-zincir-capraz-askili-sari-cant--a9e0-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/minimal-zincir-capraz-askili-sari-cant--28d19.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/minimal-zincir-capraz-askili-sari-cant-6739-b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/minimal-zincir-capraz-askili-sari-cant-2f135c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/minimal-zincir-capraz-askili-sari-cant-b5b-45.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/minimal-zincir-capraz-askili-sari-cant--a9e0-.jpg",
-    "link": "https://www.zuhre.com.tr/minimal-zincir-capraz-askili-sari-canta-z0322",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:57.965Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "zincir askılı çanta",
-        "mini çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "sarı"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "mini çanta",
-        "mini",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "sarı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$39.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 39,
-          "unsetPrice": false,
-          "convertedPrice": 39,
-          "displayPrice": "₺39,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "14a7e5c16d12d9a9f9b2d280a29e03e1449685ac3c9a224e3ae07c49b97d6e40",
     "title": "Kapitone Desenli Çöl Beji Çanta Z0023",
     "img": [
@@ -2247,9 +2354,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:57.975Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 2,
+    "timestamp": "2025-11-03T05:53:28.201Z",
+    "processId": "mhiq535sick2a",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -2323,9 +2430,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:57.983Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 3,
+    "timestamp": "2025-11-03T05:53:28.210Z",
+    "processId": "mhiq535sick2a",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta"
@@ -2398,9 +2505,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:57.992Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 4,
+    "timestamp": "2025-11-03T05:53:28.219Z",
+    "processId": "mhiq535sick2a",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta"
@@ -2469,9 +2576,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.003Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 5,
+    "timestamp": "2025-11-03T05:53:28.230Z",
+    "processId": "mhiq535sick2a",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -2529,85 +2636,6 @@
     }
   },
   {
-    "id": "3fcf6c287b691f6653b5c396abc06c3ed51bb640cbdb73e809b49ade6937b0f1",
-    "title": "Monogram Desenli Antrasit El Çanta ZH0033",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/monogram-desenli-antrasit-el-canta-zh0-90a4d2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/monogram-desenli-antrasit-el-canta-zh0-9f-45a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/monogram-desenli-antrasit-el-canta-zh0-7-6d44.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/monogram-desenli-antrasit-el-canta-zh0-fe1d40.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/monogram-desenli-antrasit-el-canta-zh0-90a4d2.jpg",
-    "link": "https://www.zuhre.com.tr/monogram-desenli-antrasit-el-canta-zh0033",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.012Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 6,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası"
-      ],
-      "color": [
-        "antrasit/ kömür grisi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "antrasit/ kömür grisi",
-        "antrasit",
-        "kömür grisi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$69.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 69,
-          "unsetPrice": false,
-          "convertedPrice": 69,
-          "displayPrice": "₺69,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "10684887249bfc2101944262ef6d99cce54f837b8f6803af2a30e75f4ae658c9",
     "title": "Saks Baget El Çanta Z0007",
     "img": [
@@ -2632,8 +2660,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.021Z",
-    "processId": "mh8q96yh1kg26",
+    "timestamp": "2025-11-03T05:53:28.239Z",
+    "processId": "mhiq535sick2a",
     "index": 7,
     "categories": {
       "productType": [
@@ -2709,8 +2737,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.030Z",
-    "processId": "mh8q96yh1kg26",
+    "timestamp": "2025-11-03T05:53:28.247Z",
+    "processId": "mhiq535sick2a",
     "index": 8,
     "categories": {
       "productType": [
@@ -2766,85 +2794,6 @@
     }
   },
   {
-    "id": "94d8f23465c02c2eeb9eecc50f980f39eb14868b40c1030ee93a54ddf4b90f23",
-    "title": "Fuşya Kapitone El ve Omuz Çanta Z0006",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0006-greta-zuhre-canta-0bc-0a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0006-greta-zuhre-canta--4a17-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0006-greta-zuhre-canta-988b14.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0006-greta-zuhre-canta-380-8c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0006-greta-zuhre-canta-133-46.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0006-greta-zuhre-canta-0bc-0a.jpg",
-    "link": "https://www.zuhre.com.tr/fusya-kapitone-el-ve-omuz-canta-z0006",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.040Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 9,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "el çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "el çantası",
-        "el"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$59.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 59,
-          "unsetPrice": false,
-          "convertedPrice": 59,
-          "displayPrice": "₺59,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "7e55ae01529c933b7451eac15737764f48ba72872a948f6a7bebaa7be3c23a37",
     "title": "Mıknatıs Kapamalı Sarı Baget Çanta Z0004",
     "img": [
@@ -2869,9 +2818,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.046Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 10,
+    "timestamp": "2025-11-03T05:53:28.255Z",
+    "processId": "mhiq535sick2a",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -2947,9 +2896,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.056Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 11,
+    "timestamp": "2025-11-03T05:53:28.266Z",
+    "processId": "mhiq535sick2a",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -3029,9 +2978,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.066Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 12,
+    "timestamp": "2025-11-03T05:53:28.274Z",
+    "processId": "mhiq535sick2a",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -3092,88 +3041,6 @@
     }
   },
   {
-    "id": "b72b4b30ab6f323887265ca431b75aae73f5256cb606077f25c5c016a649c80f",
-    "title": "Yuvarlak Kulplu Camel Hasır Çanta Z0044",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0044-ithal-hasir-canta-043fed.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0044-ithal-hasir-canta-16-3b8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0044-ithal-hasir-canta--c9c1-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0044-ithal-hasir-canta-b2fd-b.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0044-ithal-hasir-canta-043fed.jpg",
-    "link": "https://www.zuhre.com.tr/yuvarlak-kulplu-camel-hasir-canta-z0044",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.076Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 13,
-    "categories": {
-      "productType": [
-        "çanta",
-        "hasır çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hasır çanta",
-        "hasır",
-        "hasir",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$60.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 60,
-          "unsetPrice": false,
-          "convertedPrice": 60,
-          "displayPrice": "₺60,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "4dc9a394774136a1b5bf18d1218ea44bea08fb158236dfd49fb56dfd2360c34f",
     "title": "Yuvarlak Kulplu Bej Hasır Çanta Z0044",
     "img": [
@@ -3197,9 +3064,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.083Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 14,
+    "timestamp": "2025-11-03T05:53:28.283Z",
+    "processId": "mhiq535sick2a",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -3277,9 +3144,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.091Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 15,
+    "timestamp": "2025-11-03T05:53:28.291Z",
+    "processId": "mhiq535sick2a",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -3360,9 +3227,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.102Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 16,
+    "timestamp": "2025-11-03T05:53:28.299Z",
+    "processId": "mhiq535sick2a",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -3439,9 +3306,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.112Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 17,
+    "timestamp": "2025-11-03T05:53:28.307Z",
+    "processId": "mhiq535sick2a",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -3518,9 +3385,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.121Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 18,
+    "timestamp": "2025-11-03T05:53:28.316Z",
+    "processId": "mhiq535sick2a",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -3602,9 +3469,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.130Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 19,
+    "timestamp": "2025-11-03T05:53:28.327Z",
+    "processId": "mhiq535sick2a",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -3685,9 +3552,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.137Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 20,
+    "timestamp": "2025-11-03T05:53:28.336Z",
+    "processId": "mhiq535sick2a",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -3764,9 +3631,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.149Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 21,
+    "timestamp": "2025-11-03T05:53:28.345Z",
+    "processId": "mhiq535sick2a",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -3844,9 +3711,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.158Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 22,
+    "timestamp": "2025-11-03T05:53:28.354Z",
+    "processId": "mhiq535sick2a",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -3867,85 +3734,6 @@
         "detaylı",
         "siyah",
         "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$79.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 79,
-          "unsetPrice": false,
-          "convertedPrice": 79,
-          "displayPrice": "₺79,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "05e84822c2cfdc4304cd4ae8aa3fa0d877baa57518831fec787966749257d1f4",
-    "title": "Kilit Detaylı Lacivert Çanta Z0037",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0037-zuhre-canta-427d-a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0037-zuhre-canta-0-455d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0037-zuhre-canta-453968.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0037-zuhre-canta-6d2-48.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0037-zuhre-canta-3b09-b.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/z0037-zuhre-canta-427d-a.jpg",
-    "link": "https://www.zuhre.com.tr/kilit-detayli-lacivert-canta-z0037",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
-    "timestamp": "2025-10-27T05:58:58.167Z",
-    "processId": "mh8q96yh1kg26",
-    "index": 23,
-    "categories": {
-      "productType": [
-        "çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "lacivert"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "lacivert"
       ]
     },
     "imgValid": true,
@@ -4001,11 +3789,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.900Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 0,
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
+    "timestamp": "2025-11-03T05:53:28.364Z",
+    "processId": "mhiq535sick2a",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -4054,6 +3842,86 @@
     }
   },
   {
+    "id": "c2b892c25dd83b82f3a35a9d7e051edaa6edb4adf0d9e368a849a75940487795",
+    "title": "Kabartma Örgü Detaylı Siyah Çanta Z0042",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-ea57a3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004--4b66-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-9-4a75.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-fe-4da.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-317a84.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-ea57a3.jpg",
+    "link": "https://www.zuhre.com.tr/kabartma-orgu-detayli-siyah-canta-z0042",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
+    "timestamp": "2025-11-03T05:53:28.373Z",
+    "processId": "mhiq535sick2a",
+    "index": 22,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$89.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 89,
+          "unsetPrice": false,
+          "convertedPrice": 89,
+          "displayPrice": "₺89,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "a2028e191fe4f3e959abed1b67594f34b396eccf4927729c22d49ed1d96df9ac",
     "title": "Kilitli Toka Detaylı Taba Çanta Z0036",
     "img": [
@@ -4076,11 +3944,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.910Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 1,
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=2",
+    "timestamp": "2025-11-03T05:53:28.382Z",
+    "processId": "mhiq535sick2a",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -4140,85 +4008,6 @@
     }
   },
   {
-    "id": "ba40dcb09ab498d87c8ee85e0fe78f3bf13ce20a320b8ec153b223e0e48847b8",
-    "title": "Büzgü Detaylı Vizon Çanta Z0031",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-a39728.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-4f89-b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-6bf9ab.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-3-44bb.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-c4-4bc.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-vizon-canta-z0031-a39728.jpg",
-    "link": "https://www.zuhre.com.tr/buzgu-detayli-vizon-canta-z0031",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.920Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "vizon"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "vizon"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$79.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 79,
-          "unsetPrice": false,
-          "convertedPrice": 79,
-          "displayPrice": "₺79,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "ef312d2934f6822a2e93faffdc11f641eb49254e19c83e105215beba82ba89f0",
     "title": "Metal Toka Detaylı Bej Çanta Z0028",
     "img": [
@@ -4243,9 +4032,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.929Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 3,
+    "timestamp": "2025-11-03T05:53:38.283Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -4326,9 +4115,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.939Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 4,
+    "timestamp": "2025-11-03T05:53:38.293Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -4409,9 +4198,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.949Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 5,
+    "timestamp": "2025-11-03T05:53:38.302Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -4488,9 +4277,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.959Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 6,
+    "timestamp": "2025-11-03T05:53:38.310Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -4570,9 +4359,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.969Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 7,
+    "timestamp": "2025-11-03T05:53:38.318Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -4653,9 +4442,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.978Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 8,
+    "timestamp": "2025-11-03T05:53:38.326Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -4731,9 +4520,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.987Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 9,
+    "timestamp": "2025-11-03T05:53:38.334Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -4811,9 +4600,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:06.996Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 10,
+    "timestamp": "2025-11-03T05:53:38.343Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -4892,9 +4681,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:07.007Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 11,
+    "timestamp": "2025-11-03T05:53:38.357Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -4918,6 +4707,92 @@
         "detaylı",
         "siyah",
         "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$79.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 79,
+          "unsetPrice": false,
+          "convertedPrice": 79,
+          "displayPrice": "₺79,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "0914aa0649ac4b95e4b7b658b186f10330833772e1297e249016b42741f54fcb",
+    "title": "Dokulu Fermuar Kapamalı Vizon El ve Omuz Çanta Z0047",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-vizon-el-ve-om--f1373.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-vizon-el-ve-om-a0f7b-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-vizon-el-ve-om-46db-a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-vizon-el-ve-om-2e224b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-vizon-el-ve-om-6b42-c.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/dokulu-fermuar-kapamali-vizon-el-ve-om--f1373.jpg",
+    "link": "https://www.zuhre.com.tr/dokulu-fermuar-kapamali-vizon-el-ve-omuz-canta-z0047",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('a.detailLink.detailU...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
+    "timestamp": "2025-11-03T05:53:38.366Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "el çantası",
+        "okul çantası"
+      ],
+      "color": [
+        "vizon"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "el çantası",
+        "el",
+        "okul çantası",
+        "okul",
+        "vizon"
       ]
     },
     "imgValid": true,
@@ -4975,9 +4850,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 3",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=3",
-    "timestamp": "2025-10-27T05:59:07.016Z",
-    "processId": "mh8q9ds9t6z5f",
-    "index": 12,
+    "timestamp": "2025-11-03T05:53:38.373Z",
+    "processId": "mhiq5avb1mw2w",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
