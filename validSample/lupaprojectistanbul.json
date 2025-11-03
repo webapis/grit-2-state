@@ -21,8 +21,8 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.739Z",
-    "processId": "mh8q04i1h3mbg",
+    "timestamp": "2025-11-03T05:48:00.810Z",
+    "processId": "mhipy2p09befx",
     "index": 0,
     "categories": {
       "productType": [
@@ -101,8 +101,8 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.765Z",
-    "processId": "mh8q04i1h3mbg",
+    "timestamp": "2025-11-03T05:48:00.843Z",
+    "processId": "mhipy2p09befx",
     "index": 1,
     "categories": {
       "productType": [
@@ -171,8 +171,8 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.792Z",
-    "processId": "mh8q04i1h3mbg",
+    "timestamp": "2025-11-03T05:48:00.879Z",
+    "processId": "mhipy2p09befx",
     "index": 2,
     "categories": {
       "productType": [
@@ -236,76 +236,6 @@
     }
   },
   {
-    "id": "774b3bc87429deac060bd0d6b435c240d56798df606a363d22b299d79252bef8",
-    "title": "Naaz Gri – Açık Gri Uzun Sap",
-    "img": [
-      "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/WhatsApp-Image-2024-03-25-at-10.23.12-4-370x475.jpeg",
-      "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/ade448ad-ae45-48bf-9f8c-d0b552419124-1-370x475.jpg"
-    ],
-    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/WhatsApp-Image-2024-03-25-at-10.23.12-4-370x475.jpeg",
-    "link": "https://lupaprojectistanbul.com/urun/naaz-bag-gri/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-block",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".product-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Mağaza - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.822Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "color": [
-        "gri/füme"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "gri/füme",
-        "gri",
-        "füme"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "5,000.00₺",
-          "selector": ".woocommerce-Price-amount.amount bdi",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 5000,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺5.000,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "05a8ee5c656074c1dbfb90ef391f88dbb59488612b32cffa471e44648d3220e6",
     "title": "Naaz Krem Lacivert",
     "img": [
@@ -327,9 +257,9 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.859Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 4,
+    "timestamp": "2025-11-03T05:48:00.913Z",
+    "processId": "mhipy2p09befx",
+    "index": 3,
     "categories": {
       "productType": [
         "none"
@@ -407,9 +337,9 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.886Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 5,
+    "timestamp": "2025-11-03T05:48:00.950Z",
+    "processId": "mhipy2p09befx",
+    "index": 4,
     "categories": {
       "productType": [
         "none"
@@ -466,86 +396,6 @@
     }
   },
   {
-    "id": "7ac5143f42d1594b2cc5217fd706b75340f48136b5bc79b02454608e5b6a8d17",
-    "title": "Baguette Flower – Turuncu Detay",
-    "img": [
-      "https://lupaprojectistanbul.com/wp-content/uploads/2022/04/WhatsApp-Image-2024-03-22-at-09.52.58-370x475.jpeg",
-      "https://lupaprojectistanbul.com/wp-content/uploads/2022/04/Cicekli-Post-2-370x475.jpg"
-    ],
-    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2022/04/WhatsApp-Image-2024-03-22-at-09.52.58-370x475.jpeg",
-    "link": "https://lupaprojectistanbul.com/urun/baguette-flower/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-block",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".product-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Mağaza - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.918Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 6,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "color": [
-        "turuncu"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "turuncu"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "4,250.00₺",
-          "selector": ".woocommerce-Price-amount.amount bdi",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 4250,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺4.250,00"
-        },
-        {
-          "value": "3,750.00₺",
-          "selector": ".woocommerce-Price-amount.amount bdi",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3750,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.750,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "2277f9a6a9c789293855d6adb4ab164609b6d6e782fda1e49acb378464cd9569",
     "title": "Bonnie Kahve Çizgili",
     "img": [
@@ -567,9 +417,9 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.946Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 7,
+    "timestamp": "2025-11-03T05:48:00.979Z",
+    "processId": "mhipy2p09befx",
+    "index": 5,
     "categories": {
       "productType": [
         "none"
@@ -618,88 +468,6 @@
     }
   },
   {
-    "id": "4933170de4be52cc4d26aa356c6835641de556d1650ade894c82369e7dac1203",
-    "title": "İstanbul Gri X Açık Gri",
-    "img": [
-      "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/783f2000-7080-4568-8926-2ccef8764524-370x475.jpg",
-      "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/494a3a86-1461-404a-aaef-a8cb934e32f1-370x475.jpg"
-    ],
-    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/783f2000-7080-4568-8926-2ccef8764524-370x475.jpg",
-    "link": "https://lupaprojectistanbul.com/urun/istanbul-bag-gri-gri-beyaz-serit/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-block",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".product-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Mağaza - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:54.975Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "color": [
-        "gri/füme"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "gri/füme",
-        "gri",
-        "füme"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "5,950.00₺",
-          "selector": ".woocommerce-Price-amount.amount bdi",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 5950,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺5.950,00"
-        },
-        {
-          "value": "3,950.00₺",
-          "selector": ".woocommerce-Price-amount.amount bdi",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3950,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.950,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "e53b799b290b6edea2c85d0b154d7dc2c574aab06f29db22145fc8362b95d8a9",
     "title": "İstanbul Gri X Siyah",
     "img": [
@@ -721,9 +489,9 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:55.004Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 9,
+    "timestamp": "2025-11-03T05:48:01.013Z",
+    "processId": "mhipy2p09befx",
+    "index": 6,
     "categories": {
       "productType": [
         "none"
@@ -806,9 +574,9 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:55.039Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 10,
+    "timestamp": "2025-11-03T05:48:01.053Z",
+    "processId": "mhipy2p09befx",
+    "index": 7,
     "categories": {
       "productType": [
         "none"
@@ -890,9 +658,9 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-10-27T05:51:55.080Z",
-    "processId": "mh8q04i1h3mbg",
-    "index": 11,
+    "timestamp": "2025-11-03T05:48:01.082Z",
+    "processId": "mhipy2p09befx",
+    "index": 8,
     "categories": {
       "productType": [
         "none"
@@ -963,11 +731,11 @@
       "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.382Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 0,
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-11-03T05:48:01.113Z",
+    "processId": "mhipy2p09befx",
+    "index": 9,
     "categories": {
       "productType": [
         "none"
@@ -1031,11 +799,11 @@
       "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.411Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 1,
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-11-03T05:48:01.148Z",
+    "processId": "mhipy2p09befx",
+    "index": 10,
     "categories": {
       "productType": [
         "none"
@@ -1111,11 +879,11 @@
       "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.438Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 2,
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-11-03T05:48:01.187Z",
+    "processId": "mhipy2p09befx",
+    "index": 11,
     "categories": {
       "productType": [
         "none"
@@ -1188,9 +956,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.468Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 3,
+    "timestamp": "2025-11-03T05:48:12.148Z",
+    "processId": "mhipybgmibq5h",
+    "index": 0,
     "categories": {
       "productType": [
         "none"
@@ -1263,9 +1031,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.496Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 4,
+    "timestamp": "2025-11-03T05:48:12.185Z",
+    "processId": "mhipybgmibq5h",
+    "index": 1,
     "categories": {
       "productType": [
         "none"
@@ -1331,9 +1099,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.524Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 5,
+    "timestamp": "2025-11-03T05:48:12.223Z",
+    "processId": "mhipybgmibq5h",
+    "index": 2,
     "categories": {
       "productType": [
         "none"
@@ -1394,9 +1162,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.554Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 6,
+    "timestamp": "2025-11-03T05:48:12.261Z",
+    "processId": "mhipybgmibq5h",
+    "index": 3,
     "categories": {
       "productType": [
         "none"
@@ -1478,9 +1246,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.581Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 7,
+    "timestamp": "2025-11-03T05:48:12.299Z",
+    "processId": "mhipybgmibq5h",
+    "index": 4,
     "categories": {
       "productType": [
         "none"
@@ -1539,78 +1307,6 @@
     }
   },
   {
-    "id": "2210444287e3b5a6494ca4c5a3f524f8b5274bbb67d85705dfcedbbfa46d231d",
-    "title": "Naaz Taba",
-    "img": [
-      "https://lupaprojectistanbul.com/wp-content/uploads/2024/04/562692ac-3d86-49d7-a660-6a8291f1f938-370x475.jpg",
-      "https://lupaprojectistanbul.com/wp-content/uploads/2023/10/NAAZ-TABA-STORY-1-1-370x475.jpg"
-    ],
-    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2024/04/562692ac-3d86-49d7-a660-6a8291f1f938-370x475.jpg",
-    "link": "https://lupaprojectistanbul.com/urun/naaz-taba-3/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-block",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".product-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.610Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "5,000.00₺",
-          "selector": ".woocommerce-Price-amount.amount bdi",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 5000,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺5.000,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "b039eaaf0ee2e99d3a2945f188f1dc369c5ba460915ca00c5925b010788c143e",
     "title": "Q Clutch Teddy Kahve",
     "img": [
@@ -1632,9 +1328,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.638Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 9,
+    "timestamp": "2025-11-03T05:48:12.337Z",
+    "processId": "mhipybgmibq5h",
+    "index": 5,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -1718,9 +1414,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.665Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 10,
+    "timestamp": "2025-11-03T05:48:12.373Z",
+    "processId": "mhipybgmibq5h",
+    "index": 6,
     "categories": {
       "productType": [
         "none"
@@ -1802,9 +1498,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
-    "timestamp": "2025-10-27T05:52:05.693Z",
-    "processId": "mh8q0cou2eh1k",
-    "index": 11,
+    "timestamp": "2025-11-03T05:48:12.410Z",
+    "processId": "mhipybgmibq5h",
+    "index": 7,
     "categories": {
       "productType": [
         "none"
@@ -1879,11 +1575,11 @@
       "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.285Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 0,
+    "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
+    "timestamp": "2025-11-03T05:48:12.445Z",
+    "processId": "mhipybgmibq5h",
+    "index": 8,
     "categories": {
       "productType": [
         "none"
@@ -1964,11 +1660,11 @@
       "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.315Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 1,
+    "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
+    "timestamp": "2025-11-03T05:48:12.479Z",
+    "processId": "mhipybgmibq5h",
+    "index": 9,
     "categories": {
       "productType": [
         "none"
@@ -2027,11 +1723,11 @@
       "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.349Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 2,
+    "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
+    "timestamp": "2025-11-03T05:48:12.513Z",
+    "processId": "mhipybgmibq5h",
+    "index": 10,
     "categories": {
       "productType": [
         "none"
@@ -2107,11 +1803,11 @@
       "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.389Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 3,
+    "pageTitle": "Mağaza - Sayfa 2 / 3 - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/page/2/",
+    "timestamp": "2025-11-03T05:48:12.549Z",
+    "processId": "mhipybgmibq5h",
+    "index": 11,
     "categories": {
       "productType": [
         "none"
@@ -2189,9 +1885,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.424Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 4,
+    "timestamp": "2025-11-03T05:48:23.425Z",
+    "processId": "mhipyjz7qwfr0",
+    "index": 0,
     "categories": {
       "productType": [
         "none"
@@ -2275,9 +1971,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.452Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 5,
+    "timestamp": "2025-11-03T05:48:23.461Z",
+    "processId": "mhipyjz7qwfr0",
+    "index": 1,
     "categories": {
       "productType": [
         "none"
@@ -2338,9 +2034,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.483Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 6,
+    "timestamp": "2025-11-03T05:48:23.500Z",
+    "processId": "mhipyjz7qwfr0",
+    "index": 2,
     "categories": {
       "productType": [
         "none"
@@ -2422,9 +2118,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.513Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 7,
+    "timestamp": "2025-11-03T05:48:23.537Z",
+    "processId": "mhipyjz7qwfr0",
+    "index": 3,
     "categories": {
       "productType": [
         "none"
@@ -2506,9 +2202,9 @@
     },
     "pageTitle": "Mağaza - Sayfa 3 / 3 - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/page/3/",
-    "timestamp": "2025-10-27T05:52:15.543Z",
-    "processId": "mh8q0kags3o9x",
-    "index": 8,
+    "timestamp": "2025-11-03T05:48:23.579Z",
+    "processId": "mhipyjz7qwfr0",
+    "index": 4,
     "categories": {
       "productType": [
         "none"
@@ -2537,16 +2233,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3,950.00₺",
+          "value": "5,000.00₺",
           "selector": ".woocommerce-Price-amount.amount bdi",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3950,
+          "numericValue": 5000,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.950,00"
+          "displayPrice": "₺5.000,00"
         },
         {
           "value": "2,950.00₺",
