@@ -1,243 +1,12 @@
 [
   {
-    "id": "35f63510fe3ff56589e35ded77e8e700218150a666f31ba3d3332103f94f5873",
-    "title": "Askılı Tote Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-LONGBIGBAG5/askili-tote-canta_chocolate-torte-kahverengi_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-LONGBIGBAG5/askili-tote-canta_chocolate-torte-kahverengi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-tote-canta_25kox-longbigbag5/kahverengi/5241",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:51.796Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "tote çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "tote çanta",
-        "tote",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1099 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1099,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.099,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "596e10c09c43059c773876a2008849bf3c9e014c4cf3328f598252a1361450b9",
-    "title": "Peluş Omuz Çantası",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWDUZBAG/pelus-omuz-cantasi_desert-taupe-kum-beji_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWDUZBAG/pelus-omuz-cantasi_desert-taupe-kum-beji_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/pelus-omuz-cantasi_25kox-newduzbag/kum-beji/5257",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:51.833Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "8412d07b0fd559fad2aa034a38725e5d64ccea8734388cc41ca3b183ecd00047",
-    "title": "Askılı Peluş Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_desert-taupe-kum-beji_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_desert-taupe-kum-beji_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-pelus-canta_25kox-newbagpuf/kum-beji/5257",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:51.879Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "699 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 699,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺699,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "5ad79d0b5f5fe59c8c9853936859aee15214a8364a97e418c59563830dfecb5f",
+    "id": "8ff8395b96d46afc95470dc097e435fada2caa133390edae74fa9acdd89b648f",
     "title": "Askılı Süet Omuz Çantası",
     "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-DETLONGBAG1/askili-suet-omuz-cantasi_chicory-coffee-kahverengi_1_detay.jpg"
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-DETLONGBAG1/askili-suet-omuz-cantasi_savannah-tan-bej_1_detay.jpg"
     ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-DETLONGBAG1/askili-suet-omuz-cantasi_chicory-coffee-kahverengi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-suet-omuz-cantasi_25kox-detlongbag1/kahverengi/5045",
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-DETLONGBAG1/askili-suet-omuz-cantasi_savannah-tan-bej_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-suet-omuz-cantasi_25kox-detlongbag1/bej/5255",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -251,9 +20,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:51.929Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 3,
+    "timestamp": "2025-11-03T05:15:12.916Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -317,6 +86,246 @@
     }
   },
   {
+    "id": "59f68e0a1fc6bfad8b282e3461161ac497758d82f784e45d2c348df137c241cc",
+    "title": "Askılı Tote Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-LONGBIGBAG5/askili-tote-canta_cabernet-bordo_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-LONGBIGBAG5/askili-tote-canta_cabernet-bordo_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-tote-canta_25kox-longbigbag5/bordo/3283",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:12.959Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1099 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1099,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.099,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "89f8145f99c0f4aebec4dd0d83f86fd7a6638f1695ffc5cd11f03a3644603fa9",
+    "title": "Parlak Dokulu Askılı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-MINPARBAG/parlak-dokulu-askili-canta_silver-gumus_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-MINPARBAG/parlak-dokulu-askili-canta_silver-gumus_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/parlak-dokulu-askili-canta_25yox-minparbag/gumus/69",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:12.999Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "okul çantası",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "okul çantası",
+        "okul",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "699 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 699,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺699,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "8412d07b0fd559fad2aa034a38725e5d64ccea8734388cc41ca3b183ecd00047",
+    "title": "Askılı Peluş Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_desert-taupe-kum-beji_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_desert-taupe-kum-beji_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-pelus-canta_25kox-newbagpuf/kum-beji/5257",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.036Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "205cf73f9a944056a29a2071a674e8916a67b1b8ab2dc2488be40e38e55c8a6e",
     "title": "Askılı Çanta",
     "img": [
@@ -337,8 +346,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:51.973Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:13.082Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 4,
     "categories": {
       "productType": [
@@ -395,13 +404,13 @@
     }
   },
   {
-    "id": "ae38cf093422edef57f69595cdaecab837d3370b70587d1adaf3b9c4f836ecf4",
-    "title": "Askılı Tote Çanta",
+    "id": "cc8caa0549bd77d3a70cdabcfb21e44ae861e4e7a97538958c1d732a44a6c93b",
+    "title": "Büzgülü Kol Çantası",
     "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-KONMIXBAG/askili-tote-canta_brunette-comb-kahverengi_1_detay.jpg"
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-KONBUZBAS/buzgulu-kol-cantasi_black-siyah_1_detay.jpg"
     ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-KONMIXBAG/askili-tote-canta_brunette-comb-kahverengi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-tote-canta_25yox-konmixbag/kahverengi/4435",
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-KONBUZBAS/buzgulu-kol-cantasi_black-siyah_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/buzgulu-kol-cantasi_25kox-konbuzbas/siyah/147",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -415,93 +424,12 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.024Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:13.119Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 5,
     "categories": {
       "productType": [
         "çanta",
-        "tote çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "tote çanta",
-        "tote",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "57f27a1bd2807f727768fa5cb8228bce628295d093d90edbcc0207227fe31b61",
-    "title": "Omuz Çantası",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKNETBAG/omuz-cantasi_racing-red-kirmizi_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKNETBAG/omuz-cantasi_racing-red-kirmizi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/omuz-cantasi_25yox-eknetbag/kirmizi/5081",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.066Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 6,
-    "categories": {
-      "productType": [
-        "çanta",
         "omuz çantası"
       ]
     },
@@ -515,931 +443,6 @@
         "omuz",
         "shoulder",
         "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "799 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺799,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "3b469b41715bdaca258d0ea66175eb6d2b9afc12dffd447e311b03573b2adecc",
-    "title": "Parlak Dokulu Askılı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-MINPARBAG/parlak-dokulu-askili-canta_gold-altin_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-MINPARBAG/parlak-dokulu-askili-canta_gold-altin_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/parlak-dokulu-askili-canta_25yox-minparbag/altin/133",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.101Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "okul çantası",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "okul çantası",
-        "okul",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "699 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 699,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺699,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "c026ab88a3fd33184b0ca220d489b567016858a695fee41bea4a15fa2fb8c137",
-    "title": "Uzun Askılı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-BASDESMIN/uzun-askili-canta_carob-brown-kahverengi_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-BASDESMIN/uzun-askili-canta_carob-brown-kahverengi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/uzun-askili-canta_25kox-basdesmin/kahverengi/5282",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.141Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "uzun askılı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "uzun askılı çanta",
-        "uzun"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "5d8f3de41dddf27c9256aa80d8f558c47f8a9030080375fd64ca2c21dfb6e8b9",
-    "title": "Püskül Detaylı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPUSBAG/puskul-detayli-canta_black-siyah_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPUSBAG/puskul-detayli-canta_black-siyah_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/puskul-detayli-canta_25yox-ekpusbag/siyah/147",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.177Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 9,
-    "categories": {
-      "productType": [
-        "çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "df0f009518dc1bf7b8bdbd586a471883c136153952857c6a8d7d62cbb88d8682",
-    "title": "Askılı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-ERWOODBAG/askili-canta_almond-milk-bej_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-ERWOODBAG/askili-canta_almond-milk-bej_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-canta_25yox-erwoodbag/krem/5146",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.208Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 10,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "999 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺999,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "eb602ee84c018f353b6d069f8c097f36b5374cb8ea2c9f62de306ccd5d04a20b",
-    "title": "Püskül Detaylı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPUSDET/puskul-detayli-canta_curds-whey-bej_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPUSDET/puskul-detayli-canta_curds-whey-bej_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/puskul-detayli-canta_25yox-ekpusdet/bej/5151",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.247Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 11,
-    "categories": {
-      "productType": [
-        "çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "fc8f40eb6f0366895774fa9cb996e474afb420c885892578ca5c5a14e110f77b",
-    "title": "Askılı Omuz Çantası",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-KONMINTOK/askili-omuz-cantasi_laurel-green-yesil_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-KONMINTOK/askili-omuz-cantasi_laurel-green-yesil_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-omuz-cantasi_25yox-konmintok/yesil/4977",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.288Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 12,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "8ff8395b96d46afc95470dc097e435fada2caa133390edae74fa9acdd89b648f",
-    "title": "Askılı Süet Omuz Çantası",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-DETLONGBAG1/askili-suet-omuz-cantasi_savannah-tan-bej_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-DETLONGBAG1/askili-suet-omuz-cantasi_savannah-tan-bej_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-suet-omuz-cantasi_25kox-detlongbag1/bej/5255",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.325Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 13,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "zincir askılı çanta",
-        "süet çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "süet çanta",
-        "süet",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1299 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.299,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "66b79c9b579da8892fa63659b4ed692e538176b6e3c0482158ad3083b0d7ef25",
-    "title": "Kulaklık Çantası",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPODBAG/kulaklik-cantasi_brunette-kahverengi_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPODBAG/kulaklik-cantasi_brunette-kahverengi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/kulaklik-cantasi_25yox-ekpodbag/kahverengi/4275",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.361Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 14,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "299 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺299,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a7661d52e2569085331bc9e8b182ed4073f616f73cce505cffa3bee1daa80844",
-    "title": "Askılı Omuz Çantası",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-BASDESBAG/askili-omuz-cantasi_white-beyaz_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-BASDESBAG/askili-omuz-cantasi_white-beyaz_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-omuz-cantasi_25kox-basdesbag/beyaz/175",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.398Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 15,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "8246e9166c50ba6656d954c40f68df87e28b036107d741cf6212ac60fd4cc660",
-    "title": "Askılı Peluş Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/yumusak-dokulu-askili-canta_mix-cok-renkli_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/yumusak-dokulu-askili-canta_mix-cok-renkli_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-pelus-canta_25kox-newbagpuf/cok-renkli/1035",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.433Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 16,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "699 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 699,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺699,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "542994abef7095094b977e5aebfe7978a05d9b73c1c9e73b94d4598c605413c5",
-    "title": "Peluş Omuz Çantası",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWDUZBAG/pelus-omuz-cantasi_turtledove-krem_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWDUZBAG/pelus-omuz-cantasi_turtledove-krem_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/pelus-omuz-cantasi_25kox-newduzbag/krem/4264",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.476Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 17,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d7dacbc9f3f20a4d758308798401d06d879164400b393c9fec03ca70bfc06925",
-    "title": "Toka Detaylı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKWICKBAG/toka-detayli-canta_mocha-bisque-kahverengi_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKWICKBAG/toka-detayli-canta_mocha-bisque-kahverengi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/toka-detayli-canta_25yox-ekwickbag/kahverengi/4610",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.514Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 18,
-    "categories": {
-      "productType": [
-        "çanta",
-        "toka detaylı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "toka detaylı çanta",
-        "toka detaylı",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
       ]
     },
     "imgValid": true,
@@ -1473,246 +476,6 @@
     }
   },
   {
-    "id": "59f68e0a1fc6bfad8b282e3461161ac497758d82f784e45d2c348df137c241cc",
-    "title": "Askılı Tote Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-LONGBIGBAG5/askili-tote-canta_cabernet-bordo_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-LONGBIGBAG5/askili-tote-canta_cabernet-bordo_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-tote-canta_25kox-longbigbag5/bordo/3283",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.556Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 19,
-    "categories": {
-      "productType": [
-        "çanta",
-        "tote çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "tote çanta",
-        "tote",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1099 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1099,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.099,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b29bef5aa7f721c75348d3b86ec8fcc900aa582eae5282f2a5277b752f29ab2d",
-    "title": "Askılı Denim Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-DENBASBAG/askili-denim-canta_light-blue-denim-mavi_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-DENBASBAG/askili-denim-canta_light-blue-denim-mavi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-denim-canta_25yox-denbasbag/mavi/4963",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.618Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 20,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "799 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺799,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "89f8145f99c0f4aebec4dd0d83f86fd7a6638f1695ffc5cd11f03a3644603fa9",
-    "title": "Parlak Dokulu Askılı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-MINPARBAG/parlak-dokulu-askili-canta_silver-gumus_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-MINPARBAG/parlak-dokulu-askili-canta_silver-gumus_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/parlak-dokulu-askili-canta_25yox-minparbag/gumus/69",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.653Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 21,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "okul çantası",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "okul çantası",
-        "okul",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "699 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 699,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺699,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "955b4feaee69abd472ac8eab392f9dd3f43393d643e99e124eace431c8b74874",
     "title": "Askılı Telefon Çantası",
     "img": [
@@ -1733,9 +496,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.683Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 22,
+    "timestamp": "2025-11-03T05:15:13.156Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -1794,13 +557,13 @@
     }
   },
   {
-    "id": "db95c6d1956968a09f3826aee31a616a68ccd6e7271be34bd95a2f89ecd7711f",
-    "title": "Omuz Çantası",
+    "id": "596e10c09c43059c773876a2008849bf3c9e014c4cf3328f598252a1361450b9",
+    "title": "Peluş Omuz Çantası",
     "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-BUZMINBAG/omuz-cantasi_silver-birch-krem_1_detay.jpg"
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWDUZBAG/pelus-omuz-cantasi_desert-taupe-kum-beji_1_detay.jpg"
     ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-BUZMINBAG/omuz-cantasi_silver-birch-krem_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/omuz-cantasi_25yox-buzminbag/krem/4326",
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWDUZBAG/pelus-omuz-cantasi_desert-taupe-kum-beji_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/pelus-omuz-cantasi_25kox-newduzbag/kum-beji/5257",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1814,9 +577,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.727Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 23,
+    "timestamp": "2025-11-03T05:15:13.195Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -1866,13 +629,13 @@
     }
   },
   {
-    "id": "f5ca441fa5601d30b5f094312bdb33b3d12d10d0074769f6cf30ae6bf608ae30",
+    "id": "44c6c55d62d87df82553875ea6fe317ced3bff229aa9447ecb4ae3503a7a620d",
     "title": "Askılı Çanta",
     "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-KONDETBAS/askili-canta_ancient-scroll-bej_1_detay.jpg"
+      "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-KONDETBAS/askili-canta_black-siyah_1_detay.jpg"
     ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-KONDETBAS/askili-canta_ancient-scroll-bej_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-canta_24kox-kondetbas/bej/5020",
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-KONDETBAS/askili-canta_black-siyah_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-canta_24kox-kondetbas/siyah/147",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1886,9 +649,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.769Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 24,
+    "timestamp": "2025-11-03T05:15:13.233Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -1964,9 +727,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.811Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 25,
+    "timestamp": "2025-11-03T05:15:13.271Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -2025,13 +788,13 @@
     }
   },
   {
-    "id": "b937f782adb084a347f083a421da7a30d5558a4290e19153ee8ea661a1987d9a",
-    "title": "Askılı Peluş Çanta",
+    "id": "ae38cf093422edef57f69595cdaecab837d3370b70587d1adaf3b9c4f836ecf4",
+    "title": "Askılı Tote Çanta",
     "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_black-siyah_1_detay.jpg"
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-KONMIXBAG/askili-tote-canta_brunette-comb-kahverengi_1_detay.jpg"
     ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_black-siyah_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-pelus-canta_25kox-newbagpuf/siyah/147",
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-KONMIXBAG/askili-tote-canta_brunette-comb-kahverengi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-tote-canta_25yox-konmixbag/kahverengi/4435",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2045,8 +808,1227 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.852Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:13.311Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "9d7ed8c7c246305ca98302820b115051c108ff95dd3c2feafee536ce6f20de60",
+    "title": "Askılı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-SHINYBAG/askili-canta_black-siyah_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-SHINYBAG/askili-canta_black-siyah_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-canta_25yox-shinybag/siyah/147",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.353Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "57f27a1bd2807f727768fa5cb8228bce628295d093d90edbcc0207227fe31b61",
+    "title": "Omuz Çantası",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKNETBAG/omuz-cantasi_racing-red-kirmizi_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKNETBAG/omuz-cantasi_racing-red-kirmizi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/omuz-cantasi_25yox-eknetbag/kirmizi/5081",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.392Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "df0f009518dc1bf7b8bdbd586a471883c136153952857c6a8d7d62cbb88d8682",
+    "title": "Askılı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-ERWOODBAG/askili-canta_almond-milk-bej_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-ERWOODBAG/askili-canta_almond-milk-bej_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-canta_25yox-erwoodbag/krem/5146",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.430Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "999 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5d8f3de41dddf27c9256aa80d8f558c47f8a9030080375fd64ca2c21dfb6e8b9",
+    "title": "Püskül Detaylı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPUSBAG/puskul-detayli-canta_black-siyah_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPUSBAG/puskul-detayli-canta_black-siyah_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/puskul-detayli-canta_25yox-ekpusbag/siyah/147",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.464Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "fc8f40eb6f0366895774fa9cb996e474afb420c885892578ca5c5a14e110f77b",
+    "title": "Askılı Omuz Çantası",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-KONMINTOK/askili-omuz-cantasi_laurel-green-yesil_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-KONMINTOK/askili-omuz-cantasi_laurel-green-yesil_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-omuz-cantasi_25yox-konmintok/yesil/4977",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.510Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 15,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a7661d52e2569085331bc9e8b182ed4073f616f73cce505cffa3bee1daa80844",
+    "title": "Askılı Omuz Çantası",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-BASDESBAG/askili-omuz-cantasi_white-beyaz_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-BASDESBAG/askili-omuz-cantasi_white-beyaz_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-omuz-cantasi_25kox-basdesbag/beyaz/175",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.556Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 16,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "542994abef7095094b977e5aebfe7978a05d9b73c1c9e73b94d4598c605413c5",
+    "title": "Peluş Omuz Çantası",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWDUZBAG/pelus-omuz-cantasi_turtledove-krem_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWDUZBAG/pelus-omuz-cantasi_turtledove-krem_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/pelus-omuz-cantasi_25kox-newduzbag/krem/4264",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.599Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 17,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "8246e9166c50ba6656d954c40f68df87e28b036107d741cf6212ac60fd4cc660",
+    "title": "Askılı Peluş Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/yumusak-dokulu-askili-canta_mix-cok-renkli_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/yumusak-dokulu-askili-canta_mix-cok-renkli_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-pelus-canta_25kox-newbagpuf/cok-renkli/1035",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.639Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 18,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "c026ab88a3fd33184b0ca220d489b567016858a695fee41bea4a15fa2fb8c137",
+    "title": "Uzun Askılı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-BASDESMIN/uzun-askili-canta_carob-brown-kahverengi_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-BASDESMIN/uzun-askili-canta_carob-brown-kahverengi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/uzun-askili-canta_25kox-basdesmin/kahverengi/5282",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.678Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 19,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "uzun askılı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "uzun askılı çanta",
+        "uzun"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "b29bef5aa7f721c75348d3b86ec8fcc900aa582eae5282f2a5277b752f29ab2d",
+    "title": "Askılı Denim Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-DENBASBAG/askili-denim-canta_light-blue-denim-mavi_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-DENBASBAG/askili-denim-canta_light-blue-denim-mavi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-denim-canta_25yox-denbasbag/mavi/4963",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.714Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 20,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "eb602ee84c018f353b6d069f8c097f36b5374cb8ea2c9f62de306ccd5d04a20b",
+    "title": "Püskül Detaylı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPUSDET/puskul-detayli-canta_curds-whey-bej_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPUSDET/puskul-detayli-canta_curds-whey-bej_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/puskul-detayli-canta_25yox-ekpusdet/bej/5151",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.753Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 21,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ce1b945cf25353571b63163d5cfd17853c50d3678e60a5e507cf91d792cf6d27",
+    "title": "Büzgü Detaylı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKHANDBAG/buzgu-detayli-canta_lotus-pembe_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKHANDBAG/buzgu-detayli-canta_lotus-pembe_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/buzgu-detayli-canta_25yox-ekhandbag/pembe/3632",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.789Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 22,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "d7dacbc9f3f20a4d758308798401d06d879164400b393c9fec03ca70bfc06925",
+    "title": "Toka Detaylı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKWICKBAG/toka-detayli-canta_mocha-bisque-kahverengi_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKWICKBAG/toka-detayli-canta_mocha-bisque-kahverengi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/toka-detayli-canta_25yox-ekwickbag/kahverengi/4610",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.825Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 23,
+    "categories": {
+      "productType": [
+        "çanta",
+        "toka detaylı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "toka detaylı çanta",
+        "toka detaylı",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1199 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1199,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.199,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "da28cfa4597383f966f88da25c0a5c053bd778bb1a60934d3898e214424a2240",
+    "title": "Askılı Telefon Çantası",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPHONEBAG/askili-telefon-cantasi_racing-red-kirmizi_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPHONEBAG/askili-telefon-cantasi_racing-red-kirmizi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-telefon-cantasi_25yox-ekphonebag/kirmizi/5081",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.860Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 24,
+    "categories": {
+      "productType": [
+        "çanta",
+        "telefon çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "telefon çantası",
+        "telefon",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "66b79c9b579da8892fa63659b4ed692e538176b6e3c0482158ad3083b0d7ef25",
+    "title": "Kulaklık Çantası",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPODBAG/kulaklik-cantasi_brunette-kahverengi_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPODBAG/kulaklik-cantasi_brunette-kahverengi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/kulaklik-cantasi_25yox-ekpodbag/kahverengi/4275",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.901Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 25,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "299 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 299,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺299,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "32c190a33eef51d2e8855fd6ed00ba3518eaa83bfd01bd82ace0d5aedec4abe2",
+    "title": "Askılı Peluş Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_turtledove-krem_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_turtledove-krem_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-pelus-canta_25kox-newbagpuf/krem/4264",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.936Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 26,
     "categories": {
       "productType": [
@@ -2085,16 +2067,244 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "699 TL",
+          "value": "799 TL",
           "selector": ".PriceArea .PPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 699,
+          "numericValue": 799,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺699,00"
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "db95c6d1956968a09f3826aee31a616a68ccd6e7271be34bd95a2f89ecd7711f",
+    "title": "Omuz Çantası",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-BUZMINBAG/omuz-cantasi_silver-birch-krem_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-BUZMINBAG/omuz-cantasi_silver-birch-krem_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/omuz-cantasi_25yox-buzminbag/krem/4326",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:13.971Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 27,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "f5ca441fa5601d30b5f094312bdb33b3d12d10d0074769f6cf30ae6bf608ae30",
+    "title": "Askılı Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-KONDETBAS/askili-canta_ancient-scroll-bej_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-KONDETBAS/askili-canta_ancient-scroll-bej_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-canta_24kox-kondetbas/bej/5020",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:14.010Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 28,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "b937f782adb084a347f083a421da7a30d5558a4290e19153ee8ea661a1987d9a",
+    "title": "Askılı Peluş Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_black-siyah_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_black-siyah_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-pelus-canta_25kox-newbagpuf/siyah/147",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:14.045Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 29,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
         }
       ],
       "priceValid": true,
@@ -2123,9 +2333,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.889Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 27,
+    "timestamp": "2025-11-03T05:15:14.082Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -2175,77 +2385,6 @@
     }
   },
   {
-    "id": "ce1b945cf25353571b63163d5cfd17853c50d3678e60a5e507cf91d792cf6d27",
-    "title": "Büzgü Detaylı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKHANDBAG/buzgu-detayli-canta_lotus-pembe_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKHANDBAG/buzgu-detayli-canta_lotus-pembe_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/buzgu-detayli-canta_25yox-ekhandbag/pembe/3632",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.922Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 28,
-    "categories": {
-      "productType": [
-        "çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "dee6315fe14133e1ffb0bac0d6e67888bfc0ea2cf85a240ec5d038cb00d0b5bc",
     "title": "Omuz Çantası",
     "img": [
@@ -2266,9 +2405,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.957Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 29,
+    "timestamp": "2025-11-03T05:15:14.120Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -2338,9 +2477,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:52.994Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 30,
+    "timestamp": "2025-11-03T05:15:14.166Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -2401,87 +2540,6 @@
     }
   },
   {
-    "id": "da28cfa4597383f966f88da25c0a5c053bd778bb1a60934d3898e214424a2240",
-    "title": "Askılı Telefon Çantası",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPHONEBAG/askili-telefon-cantasi_racing-red-kirmizi_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPHONEBAG/askili-telefon-cantasi_racing-red-kirmizi_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-telefon-cantasi_25yox-ekphonebag/kirmizi/5081",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.031Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 31,
-    "categories": {
-      "productType": [
-        "çanta",
-        "telefon çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "telefon çantası",
-        "telefon",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "799 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺799,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "a2a904fc8c0d5cd72cd1db2feffca1d263832dc85514967bb921905f061d8ef2",
     "title": "Hasır Çanta",
     "img": [
@@ -2502,9 +2560,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.074Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 32,
+    "timestamp": "2025-11-03T05:15:14.204Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta",
@@ -2573,9 +2631,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.110Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 33,
+    "timestamp": "2025-11-03T05:15:14.248Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -2645,9 +2703,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.148Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 34,
+    "timestamp": "2025-11-03T05:15:14.284Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -2697,6 +2755,76 @@
     }
   },
   {
+    "id": "f08610608a946a09178e6a95dcf10e8501dcdc3b041d295fee1df3eddd35cdeb",
+    "title": "Tokalı Baget Çanta",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-SILKEMDET/tokali-baget-canta_starfish-mavi_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-SILKEMDET/tokali-baget-canta_starfish-mavi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/tokali-baget-canta_24kox-silkemdet/kahverengi/509",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:14.317Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 36,
+    "categories": {
+      "productType": [
+        "çanta",
+        "baget çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "baget çanta",
+        "baget"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "6fa609628509dde29d52005142ee72bba5de5df2575d3c17930a88cad35b9caf",
     "title": "Cep Detaylı Askılı Çanta",
     "img": [
@@ -2717,9 +2845,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.183Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 35,
+    "timestamp": "2025-11-03T05:15:14.353Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta",
@@ -2795,9 +2923,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.211Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 36,
+    "timestamp": "2025-11-03T05:15:14.391Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 38,
     "categories": {
       "productType": [
         "çanta"
@@ -2842,84 +2970,6 @@
     }
   },
   {
-    "id": "9d7ed8c7c246305ca98302820b115051c108ff95dd3c2feafee536ce6f20de60",
-    "title": "Askılı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-SHINYBAG/askili-canta_black-siyah_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-SHINYBAG/askili-canta_black-siyah_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-canta_25yox-shinybag/siyah/147",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.260Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 37,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "799 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺799,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "9241b3d6e82920e26292609e6f84a22d30a1a96ef0bcb9233cf50b6a8fd77be7",
     "title": "Süet Askılı Çanta",
     "img": [
@@ -2940,9 +2990,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.306Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 38,
+    "timestamp": "2025-11-03T05:15:14.436Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 39,
     "categories": {
       "productType": [
         "çanta",
@@ -3001,84 +3051,6 @@
     }
   },
   {
-    "id": "44c6c55d62d87df82553875ea6fe317ced3bff229aa9447ecb4ae3503a7a620d",
-    "title": "Askılı Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-KONDETBAS/askili-canta_black-siyah_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/24k/24KOX-KONDETBAS/askili-canta_black-siyah_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-canta_24kox-kondetbas/siyah/147",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.351Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 39,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺899,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "8d40d08cb475dc2b21ebe300eef32c339f648a1cccbae23654a20c68593e482a",
     "title": "Toka Detaylı Çanta",
     "img": [
@@ -3099,8 +3071,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.389Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.478Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 40,
     "categories": {
       "productType": [
@@ -3173,8 +3145,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.423Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.521Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 41,
     "categories": {
       "productType": [
@@ -3251,8 +3223,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.461Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.555Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 42,
     "categories": {
       "productType": [
@@ -3321,8 +3293,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.496Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.590Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 43,
     "categories": {
       "productType": [
@@ -3388,8 +3360,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.532Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.625Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 44,
     "categories": {
       "productType": [
@@ -3460,8 +3432,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.568Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.661Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 45,
     "categories": {
       "productType": [
@@ -3527,8 +3499,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.606Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.701Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 46,
     "categories": {
       "productType": [
@@ -3597,8 +3569,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.644Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.732Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 47,
     "categories": {
       "productType": [
@@ -3644,6 +3616,87 @@
     }
   },
   {
+    "id": "5a792329ed3383e158fad5e502d9997b7063aae1161c9787e7300fac288fae7a",
+    "title": "Askılı Telefon Çantası",
+    "img": [
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPHONEBAG/askili-telefon-cantasi_black-siyah_1_detay.jpg"
+    ],
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPHONEBAG/askili-telefon-cantasi_black-siyah_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-telefon-cantasi_25yox-ekphonebag/siyah/147",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".Prd",
+      "titleSelectorMatched": "span.PName",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".PriceArea .PPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
+    "timestamp": "2025-11-03T05:15:14.768Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 48,
+    "categories": {
+      "productType": [
+        "çanta",
+        "telefon çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "telefon çantası",
+        "telefon",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799 TL",
+          "selector": ".PriceArea .PPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺799,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "a1bdad10013d37bef9155e44aeaa0374361318b66436decf356d1f782b641c2d",
     "title": "Cep Detaylı Askılı Çanta",
     "img": [
@@ -3664,9 +3717,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.678Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 48,
+    "timestamp": "2025-11-03T05:15:14.803Z",
+    "processId": "mhiorxhg6yhkn",
+    "index": 49,
     "categories": {
       "productType": [
         "çanta",
@@ -3722,84 +3775,6 @@
     }
   },
   {
-    "id": "32c190a33eef51d2e8855fd6ed00ba3518eaa83bfd01bd82ace0d5aedec4abe2",
-    "title": "Askılı Peluş Çanta",
-    "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_turtledove-krem_1_detay.jpg"
-    ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-NEWBAGPUF/pelus-askili-canta_turtledove-krem_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-pelus-canta_25kox-newbagpuf/krem/4264",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".Prd",
-      "titleSelectorMatched": "span.PName",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".PriceArea .PPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.714Z",
-    "processId": "mh8opsuhcuzrq",
-    "index": 49,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "699 TL",
-          "selector": ".PriceArea .PPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 699,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺699,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "76b299983413ce6a75383da7641e7fc8a7e0c42be921cfdc1384185e745863b7",
     "title": "Zincir Detaylı Askılı Çanta",
     "img": [
@@ -3820,8 +3795,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.744Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.836Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 50,
     "categories": {
       "productType": [
@@ -3878,13 +3853,13 @@
     }
   },
   {
-    "id": "5a792329ed3383e158fad5e502d9997b7063aae1161c9787e7300fac288fae7a",
-    "title": "Askılı Telefon Çantası",
+    "id": "5ad79d0b5f5fe59c8c9853936859aee15214a8364a97e418c59563830dfecb5f",
+    "title": "Askılı Süet Omuz Çantası",
     "img": [
-      "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPHONEBAG/askili-telefon-cantasi_black-siyah_1_detay.jpg"
+      "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-DETLONGBAG1/askili-suet-omuz-cantasi_chicory-coffee-kahverengi_1_detay.jpg"
     ],
-    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25y/25YOX-EKPHONEBAG/askili-telefon-cantasi_black-siyah_1_detay.jpg",
-    "link": "https://www.oxxo.com.tr/tr/askili-telefon-cantasi_25yox-ekphonebag/siyah/147",
+    "primaryImg": "https://cdn.oxxo.com.tr/ContentImages/Product/25k/25KOX-DETLONGBAG1/askili-suet-omuz-cantasi_chicory-coffee-kahverengi_1_detay.jpg",
+    "link": "https://www.oxxo.com.tr/tr/askili-suet-omuz-cantasi_25kox-detlongbag1/kahverengi/5045",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -3898,14 +3873,15 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
     "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-10-27T05:15:53.779Z",
-    "processId": "mh8opsuhcuzrq",
+    "timestamp": "2025-11-03T05:15:14.872Z",
+    "processId": "mhiorxhg6yhkn",
     "index": 51,
     "categories": {
       "productType": [
         "çanta",
-        "telefon çantası",
+        "omuz çantası",
         "zincir askılı çanta",
+        "süet çanta",
         "askılı çanta",
         "askı detaylı çanta"
       ]
@@ -3916,11 +3892,15 @@
         "çantası",
         "bag",
         "çantasi",
-        "telefon çantası",
-        "telefon",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
         "zincir askılı çanta",
         "zincir",
         "askılı",
+        "süet çanta",
+        "süet",
         "askılı çanta",
         "askili",
         "askı detaylı çanta",
@@ -3941,16 +3921,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "799 TL",
+          "value": "1299 TL",
           "selector": ".PriceArea .PPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 799,
+          "numericValue": 1299,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺799,00"
+          "displayPrice": "₺1.299,00"
         }
       ],
       "priceValid": true,
