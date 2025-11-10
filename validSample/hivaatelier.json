@@ -1,5 +1,529 @@
 [
   {
+    "id": "382e5b5131ff54cf06f03de292ecd7907cfa1358da10674020f87d65712d4e71",
+    "title": "Phone Pouch\n\nVERDIGRIS & BOMBAY BROWN",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=200 200w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=300 300w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=400 400w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=500 500w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=600 600w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=700 700w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=800 800w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=1400",
+      "//hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=200 200w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=300 300w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=400 400w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=500 500w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=600 600w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=700 700w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=800 800w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/010034445NP-4445-2.jpg?v=1752275887&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=200 200w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=300 300w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=400 400w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=500 500w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=600 600w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=700 700w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=800 800w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010034445NP-4445-1.jpg?v=1752275887&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/phone-pouch-last-call-pieces?variant=42804579434705",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:28.124Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "kahverengi",
+        "gri/füme"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "gri/füme",
+        "gri",
+        "füme"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price7,400.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 7400,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺7.400,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ea59f84b525d8e70a9956126b7d0adfcaf0470f0f48295d2608225efaa5f5cff",
+    "title": "Ventus Shoulder Bag\n\nBURNT ORANGE & CHOCOLATE",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=200 200w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=300 300w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=400 400w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=500 500w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=600 600w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=700 700w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=800 800w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=1000 1000w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=1200 1200w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=1400",
+      "//hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=200 200w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=300 300w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=400 400w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=500 500w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=600 600w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=700 700w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=800 800w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=1000 1000w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=1200 1200w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange2.jpg?v=1724944792&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=200 200w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=300 300w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=400 400w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=500 500w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=600 600w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=700 700w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=800 800w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=1000 1000w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=1200 1200w, //hivaatelier.com/cdn/shop/files/VentusCrocoEffectChocolateBurntOrange1.jpg?v=1724944792&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/ventus-shoulder-bag-last-call-pieces?variant=42804531593425",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:28.175Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price15,400.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 15400,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺15.400,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "13a1c38debe8ec305423252f08396e2dbcab8431e0958a0318adca604cac26ff",
+    "title": "Pera Mini Shoulder Bag\n\nBONE",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=200 200w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=300 300w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=400 400w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=500 500w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=600 600w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=700 700w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=800 800w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=1400",
+      "//hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=200 200w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=300 300w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=400 400w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=500 500w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=600 600w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=700 700w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=800 800w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/010610004FT-0004-2.jpg?v=1752324826&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=200 200w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=300 300w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=400 400w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=500 500w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=600 600w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=700 700w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=800 800w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010610004FT-0004-1.jpg?v=1752324826&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/pera-mini-shoulder-bag-last-call-pieces?variant=42804497154257",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:28.241Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "mini çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "mini çanta",
+        "mini"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price10,040.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 10040,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺10.040,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "570a1b05ae5ff8addbf97076aee310df4c267c0f44c2cd9180bfa9000280f12f",
+    "title": "Nubi Pedded Shoulder Bag\n\nDEEP EMERALD",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=200 200w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=300 300w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=400 400w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=500 500w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=600 600w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=700 700w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=800 800w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=1400",
+      "//hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=200 200w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=300 300w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=400 400w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=500 500w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=600 600w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=700 700w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=800 800w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/010420010NP-0010-2.jpg?v=1752190951&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=200 200w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=300 300w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=400 400w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=500 500w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=600 600w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=700 700w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=800 800w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010420010NP-0010-1.jpg?v=1752190951&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/nubi-pedded-shoulder-bag-last-call-pieces?variant=42804449804497",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:28.302Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price15,160.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 15160,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺15.160,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5bc180136ee15a524d58bcc356401e2450c0858414350ca3d3fd86f84aff4e13",
+    "title": "All Day Midi Bucket Bag\n\nMidnight Plum",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=1400",
+      "//hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum2_cb4ea816-fb0a-4b28-ab86-b747d5657dba.jpg?v=1726489683&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMidiMidnightPlum1_ec69d8f3-5f7e-422e-9d27-e10895404729.jpg?v=1726489683&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/all-day-midi-bucket-bag-last-call-pieces?variant=42804436304081",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:28.375Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price12,760.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 12760,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺12.760,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "2e372fbcea96b81f829be79a832bf0230280643405e98453ef87436cd4bf7272",
+    "title": "All Day Mini Bucket Bag\n\nDEEP EMERALD",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=1400",
+      "//hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen2.jpg?v=1726667568&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMiniForestGreen1.jpg?v=1726667568&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/all-day-mini-bucket-bag-last-call-pieces?variant=42804393017553",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:28.445Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "mini çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "mini çanta",
+        "mini"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price11,960.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 11960,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺11.960,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "42de8207c1656823ac9a72b782384977356328d5d64db3f53463aa1118661188",
+    "title": "Harmonia Shoulder Bag\n\nPEACH",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=200 200w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=300 300w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=400 400w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=500 500w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=600 600w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=700 700w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=800 800w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=1400",
+      "//hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=200 200w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=300 300w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=400 400w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=500 500w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=600 600w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=700 700w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=800 800w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=1400 1400w",
+      "https://hivaatelier.com/cdn/shop/files/010040027NP-0027-2.jpg?v=1751829099&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=200 200w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=300 300w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=400 400w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=500 500w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=600 600w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=700 700w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=800 800w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010040027NP-0027-1.jpg?v=1751829099&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/harmonia-shoulder-bag-last-call?variant=42804211351761",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:28.502Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price14,360.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 14360,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺14.360,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "f30699b457edc5f923ebfc1ed934a5e97a7f54b25a568fb79be543b58dd84ca7",
     "title": "Woven Detail Hobo Bag\n\nBlack",
     "img": [
@@ -23,9 +547,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.289Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 0,
+    "timestamp": "2025-11-10T05:59:28.553Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -101,9 +625,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.334Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 1,
+    "timestamp": "2025-11-10T05:59:28.605Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -174,9 +698,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.386Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 2,
+    "timestamp": "2025-11-10T05:59:28.663Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -247,9 +771,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.446Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 3,
+    "timestamp": "2025-11-10T05:59:28.710Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -320,9 +844,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.503Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 4,
+    "timestamp": "2025-11-10T05:59:28.762Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -403,9 +927,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.569Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 5,
+    "timestamp": "2025-11-10T05:59:28.804Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -486,9 +1010,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.624Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 6,
+    "timestamp": "2025-11-10T05:59:28.862Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -572,9 +1096,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.675Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 7,
+    "timestamp": "2025-11-10T05:59:28.908Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -655,9 +1179,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.722Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 8,
+    "timestamp": "2025-11-10T05:59:28.963Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -737,9 +1261,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.771Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 9,
+    "timestamp": "2025-11-10T05:59:29.018Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -814,9 +1338,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.821Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 10,
+    "timestamp": "2025-11-10T05:59:29.074Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -891,9 +1415,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.875Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 11,
+    "timestamp": "2025-11-10T05:59:29.125Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -966,9 +1490,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.926Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 12,
+    "timestamp": "2025-11-10T05:59:29.177Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1041,9 +1565,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:34.976Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 13,
+    "timestamp": "2025-11-10T05:59:29.226Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1117,9 +1641,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.026Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 14,
+    "timestamp": "2025-11-10T05:59:29.269Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1198,9 +1722,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.080Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 15,
+    "timestamp": "2025-11-10T05:59:29.314Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1274,9 +1798,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.129Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 16,
+    "timestamp": "2025-11-10T05:59:29.360Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1352,9 +1876,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.179Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 17,
+    "timestamp": "2025-11-10T05:59:29.407Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -1425,9 +1949,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.227Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 18,
+    "timestamp": "2025-11-10T05:59:29.459Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -1498,9 +2022,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.274Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 19,
+    "timestamp": "2025-11-10T05:59:29.508Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -1571,9 +2095,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.323Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 20,
+    "timestamp": "2025-11-10T05:59:29.560Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -1644,9 +2168,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.370Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 21,
+    "timestamp": "2025-11-10T05:59:29.607Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -1717,9 +2241,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.419Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 22,
+    "timestamp": "2025-11-10T05:59:29.654Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -1790,9 +2314,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.469Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 23,
+    "timestamp": "2025-11-10T05:59:29.704Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -1868,9 +2392,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.518Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 24,
+    "timestamp": "2025-11-10T05:59:29.754Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -1941,9 +2465,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.568Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 25,
+    "timestamp": "2025-11-10T05:59:29.805Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -2014,9 +2538,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.619Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 26,
+    "timestamp": "2025-11-10T05:59:29.854Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta",
@@ -2087,9 +2611,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.668Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 27,
+    "timestamp": "2025-11-10T05:59:29.902Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -2160,9 +2684,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.715Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 28,
+    "timestamp": "2025-11-10T05:59:29.950Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -2210,503 +2734,6 @@
     }
   },
   {
-    "id": "1f9d4dc0bd81f86a8da3848134cf70737ca842a697ced18d9a333bb176e998e1",
-    "title": "Midi Croissant Bag\n\nLight Gray",
-    "img": [
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=1400",
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantLightGray2.jpg?v=1740777750&width=1400"
-    ],
-    "primaryImg": "//hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantLightGray1.jpg?v=1740777515&width=1400 1400w",
-    "link": "https://hivaatelier.com/products/midi-croissant-bag?variant=42501306351825",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-list .h6.text-subdued",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "All Bags",
-    "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.763Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 29,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://hivaatelier.com/products/midi-croissant-bag"
-      ]
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "Sale price19,550.00TL",
-          "selector": ".price-list .h6.text-subdued",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 19550,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺19.550,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "ba0db31c112900431140be373d65de3c83ff3a4cc06d2ae6cb148c92dccf72fb",
-    "title": "Midi Croissant Bag\n\nMink",
-    "img": [
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=1400",
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantMink2_125c6c54-82bc-4839-98da-a198262ffa0f.jpg?v=1740777750&width=1400"
-    ],
-    "primaryImg": "//hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantMink1_905c559b-30b5-4e79-9c8e-46da52bc0d53.jpg?v=1740777515&width=1400 1400w",
-    "link": "https://hivaatelier.com/products/midi-croissant-bag?variant=42501306384593",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-list .h6.text-subdued",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "All Bags",
-    "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.808Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 30,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "Sale price19,550.00TL",
-          "selector": ".price-list .h6.text-subdued",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 19550,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺19.550,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a3ee01a687802d439b758ac85b258f93ae19b73cb3929308c2350f6410d5aae9",
-    "title": "Midi Croissant Bag\n\nWood / Wood Suede",
-    "img": [
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=1400",
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede2.jpg?v=1740777750&width=1400"
-    ],
-    "primaryImg": "//hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantWoodSuede1.jpg?v=1740777515&width=1400 1400w",
-    "link": "https://hivaatelier.com/products/midi-croissant-bag?variant=42501306450129",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-list .h6.text-subdued",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "All Bags",
-    "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.859Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 31,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "Sale price19,550.00TL",
-          "selector": ".price-list .h6.text-subdued",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 19550,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺19.550,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "e4d2bf7ed541746ea8d6427a0a026ef20b1d0e152ddc3d0938ad079b145b98d2",
-    "title": "Midi Croissant Bag\n\nBlack",
-    "img": [
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=1400",
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantBlack3_63c63f3b-ed7a-42df-8010-5bc6cf900ac0.jpg?v=1740777750&width=1400"
-    ],
-    "primaryImg": "//hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantBlack1_e57f06b5-a38c-4ca1-a234-23431a077c3b.jpg?v=1740777515&width=1400 1400w",
-    "link": "https://hivaatelier.com/products/midi-croissant-bag?variant=42508890112209",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-list .h6.text-subdued",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "All Bags",
-    "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.908Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 32,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "Sale price19,550.00TL",
-          "selector": ".price-list .h6.text-subdued",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 19550,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺19.550,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "218cb97aa0a8518114ad6174dc2d4938eeac1afb968914265e55e9074e51729d",
-    "title": "Midi Croissant Bag\n\nNutshell",
-    "img": [
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=1400",
-      "//hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/MidiCroissantNutshell2.jpg?v=1740777750&width=1400"
-    ],
-    "primaryImg": "//hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/MidiCroissantNutshell1.jpg?v=1740777515&width=1400 1400w",
-    "link": "https://hivaatelier.com/products/midi-croissant-bag?variant=42518191538385",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-list .h6.text-subdued",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "All Bags",
-    "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:35.955Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 33,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "Sale price19,550.00TL",
-          "selector": ".price-list .h6.text-subdued",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 19550,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺19.550,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "dd5bb01584a65c22941655029672a89e8c3c22c040297a7d52321a5dd1349fe2",
-    "title": "Midi Croissant Bag\n\nKhaki",
-    "img": [
-      "//hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=1400",
-      "//hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=200 200w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=300 300w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=400 400w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=500 500w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=600 600w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=700 700w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=800 800w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/010150009FT-0009-2_a564b633-d87f-4eb0-99dc-277f25de7279.jpg?v=1740777750&width=1400"
-    ],
-    "primaryImg": "//hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010150009FT-0009-1_0df74b8a-7927-4d69-8bb0-dc51ed8a63fc.jpg?v=1740777515&width=1400 1400w",
-    "link": "https://hivaatelier.com/products/midi-croissant-bag?variant=42711365353681",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-list .h6.text-subdued",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "All Bags",
-    "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.007Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 34,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "Sale price19,550.00TL",
-          "selector": ".price-list .h6.text-subdued",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 19550,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺19.550,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "69b0dc447c11050379fec8678c15c8d62755dabb9340911d1733320ce4909e0b",
-    "title": "Midi Croissant Bag\n\nMidnight Plum",
-    "img": [
-      "//hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=1400",
-      "//hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=200 200w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=300 300w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=400 400w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=500 500w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=600 600w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=700 700w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=800 800w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=1400 1400w",
-      "https://hivaatelier.com/cdn/shop/files/010150013FT-0013-2.jpg?v=1740777750&width=1400"
-    ],
-    "primaryImg": "//hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=200 200w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=300 300w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=400 400w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=500 500w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=600 600w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=700 700w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=800 800w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010150013FT-0013-1.jpg?v=1740777515&width=1400 1400w",
-    "link": "https://hivaatelier.com/products/midi-croissant-bag?variant=42711365386449",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-list .h6.text-subdued",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "All Bags",
-    "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.072Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 35,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "Sale price19,550.00TL",
-          "selector": ".price-list .h6.text-subdued",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 19550,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺19.550,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "87b6e9de3b782f17c801b54b141d8d441772c37099cd0e83f6a2aca2a3b48e14",
     "title": "Midi Croissant Bag",
     "img": [
@@ -2730,8 +2757,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.165Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.036Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 36,
     "categories": {
       "productType": [
@@ -2750,10 +2777,8 @@
     "videoValid": false,
     "mediaType": "image",
     "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://hivaatelier.com/products/midi-croissant-bag?variant=42501306351825"
-      ]
+      "isDuplicate": false,
+      "duplicateOf": []
     },
     "linkValid": true,
     "titleValid": true,
@@ -2802,8 +2827,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.217Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.093Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 37,
     "categories": {
       "productType": [
@@ -2867,8 +2892,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.263Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.139Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 38,
     "categories": {
       "productType": [
@@ -2937,8 +2962,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.311Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.188Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 39,
     "categories": {
       "productType": [
@@ -3013,8 +3038,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.357Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.238Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 40,
     "categories": {
       "productType": [
@@ -3086,8 +3111,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.403Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.302Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 41,
     "categories": {
       "productType": [
@@ -3164,8 +3189,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.451Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.351Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 42,
     "categories": {
       "productType": [
@@ -3239,8 +3264,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.495Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.398Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 43,
     "categories": {
       "productType": [
@@ -3317,8 +3342,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.555Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.452Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 44,
     "categories": {
       "productType": [
@@ -3392,8 +3417,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.607Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.516Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 45,
     "categories": {
       "productType": [
@@ -3465,8 +3490,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.655Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.569Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 46,
     "categories": {
       "productType": [
@@ -3535,8 +3560,8 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.704Z",
-    "processId": "mhiqfk6v1x39j",
+    "timestamp": "2025-11-10T05:59:30.626Z",
+    "processId": "mhsqftoiaxj1p",
     "index": 47,
     "categories": {
       "productType": [
@@ -3587,6 +3612,81 @@
     }
   },
   {
+    "id": "ac7031e0dfb9b026cf48f52ced444d19ffd2bdc0fe1115c98d6c69e3461d495f",
+    "title": "Astrum Shoulder Bag",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=200 200w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=300 300w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=400 400w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=500 500w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=600 600w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=700 700w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=800 800w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=1400 1400w",
+      "//hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=1400",
+      "//hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=200 200w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=300 300w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=400 400w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=500 500w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=600 600w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=700 700w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=800 800w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=1400 1400w",
+      "//hivaatelier.com/cdn/shop/files/010060027NP-0027-2.jpg?v=1751583901&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=200 200w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=300 300w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=400 400w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=500 500w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=600 600w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=700 700w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=800 800w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=1000 1000w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=1200 1200w, //hivaatelier.com/cdn/shop/files/010060027NP-0027-1.jpg?v=1751583901&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/astrum-shoulder-bag-last-call-pieces",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:30.688Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 48,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price12,760.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 12760,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺12.760,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "1172eee8c669a502dd3b1d07c62e52a7fb321dafffc24d83db75aa3476e8823f",
     "title": "Onsra Cylinder Crossbody Bag",
     "img": [
@@ -3610,9 +3710,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.755Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 48,
+    "timestamp": "2025-11-10T05:59:30.737Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 49,
     "categories": {
       "productType": [
         "çanta",
@@ -3688,9 +3788,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.806Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 49,
+    "timestamp": "2025-11-10T05:59:30.787Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 50,
     "categories": {
       "productType": [
         "çanta",
@@ -3763,9 +3863,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.857Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 50,
+    "timestamp": "2025-11-10T05:59:30.835Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 51,
     "categories": {
       "productType": [
         "none"
@@ -3805,6 +3905,79 @@
     }
   },
   {
+    "id": "2976ac9aaed0f07b081c340205863cec7fbd6ce99101e50c9fc4247d7ff4e17d",
+    "title": "All Day Mini Bucket Bag",
+    "img": [
+      "//hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=1400 1400w",
+      "//hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=1400",
+      "//hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=1400 1400w",
+      "//hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood2copy.jpg?v=1724941771&width=1400"
+    ],
+    "primaryImg": "//hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=200 200w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=300 300w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=400 400w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=500 500w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=600 600w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=700 700w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=800 800w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=1000 1000w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=1200 1200w, //hivaatelier.com/cdn/shop/files/AllDayMiniSmoothWood1copy.jpg?v=1724941771&width=1400 1400w",
+    "link": "https://hivaatelier.com/products/all-day-mini-bucket-bag-last-call-pieces-nutshell",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-list .h6.text-on-sale",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "All Bags",
+    "pageURL": "https://hivaatelier.com/collections/all-bags",
+    "timestamp": "2025-11-10T05:59:30.903Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 52,
+    "categories": {
+      "productType": [
+        "çanta",
+        "mini çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "mini çanta",
+        "mini"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "Sale price11,960.00TL",
+          "selector": ".price-list .h6.text-on-sale",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 11960,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺11.960,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "d8f80c56c45ca9350053319bbb7aaf91faec1535a46d7431e6f86ea6c3c85959",
     "title": "Micro Mare Shoulder & Waist Bag",
     "img": [
@@ -3828,9 +4001,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.904Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 51,
+    "timestamp": "2025-11-10T05:59:30.973Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 53,
     "categories": {
       "productType": [
         "çanta",
@@ -3903,9 +4076,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:36.957Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 52,
+    "timestamp": "2025-11-10T05:59:31.019Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 54,
     "categories": {
       "productType": [
         "çanta",
@@ -3981,9 +4154,9 @@
     },
     "pageTitle": "All Bags",
     "pageURL": "https://hivaatelier.com/collections/all-bags",
-    "timestamp": "2025-11-03T06:01:37.008Z",
-    "processId": "mhiqfk6v1x39j",
-    "index": 53,
+    "timestamp": "2025-11-10T05:59:31.066Z",
+    "processId": "mhsqftoiaxj1p",
+    "index": 55,
     "categories": {
       "productType": [
         "çanta",
