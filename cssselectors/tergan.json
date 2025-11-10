@@ -2,61 +2,61 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     "[data-index].product-item": {
-      "count": 572,
+      "count": 558,
       "usedFor": {}
     },
     "a.product-title": {
-      "count": 572,
+      "count": 558,
       "usedFor": {}
     },
     ".ls-is-cached.lazyloaded": {
-      "count": 242,
+      "count": 256,
       "usedFor": {}
     },
     ".product-price-wrapper .current-price": {
-      "count": 572,
+      "count": 558,
       "usedFor": {}
     },
     ".image-inner img": {
-      "count": 330,
+      "count": 302,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 572,
+    "totalObjects": 558,
     "selectorsFound": 5,
     "mostCommonSelectors": [
       {
         "selector": "[data-index].product-item",
-        "count": 572,
+        "count": 558,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "a.product-title",
-        "count": 572,
+        "count": 558,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".product-price-wrapper .current-price",
-        "count": 572,
+        "count": 558,
         "usedFor": [
           "price"
         ]
       },
       {
         "selector": ".image-inner img",
-        "count": 330,
+        "count": 302,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".ls-is-cached.lazyloaded",
-        "count": 242,
+        "count": 256,
         "usedFor": [
           "image"
         ]
