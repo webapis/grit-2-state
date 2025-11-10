@@ -1,0 +1,55 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product-card": {
+      "count": 24,
+      "usedFor": {}
+    },
+    "a.product-title": {
+      "count": 24,
+      "usedFor": {}
+    },
+    "[srcset]": {
+      "count": 24,
+      "usedFor": {}
+    },
+    ".price-list .h6.text-subdued": {
+      "count": 24,
+      "usedFor": {}
+    }
+  },
+  "summary": {
+    "totalObjects": 24,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product-card",
+        "count": 24,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "a.product-title",
+        "count": 24,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[srcset]",
+        "count": 24,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".price-list .h6.text-subdued",
+        "count": 24,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
