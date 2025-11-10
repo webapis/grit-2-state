@@ -1,12 +1,17 @@
 [
   {
-    "id": "7acc9f502eb4e8b8c758aef32c42b8b08e0abd9eb1be6b0c6ff273d9010c10f0",
-    "title": "Süet shopper çanta kurdele",
+    "id": "1b100da2e429372ee8915288d259bef9dbeef7bde9314657667b00444a705d36",
+    "title": "Metal detaylı shopper çanta",
     "img": [
-      "https://shop.mango.com/assets/rcs/pics/static/T2/fotos/S/27071224_32_D9.jpg?ts=1760628914915"
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/outfit/S/87010365_99-99999999_01.jpg?ts=1732206865772",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_99_B.jpg?ts=1726671829577",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_99.jpg?ts=1726659444776",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_99_D1.jpg?ts=1726659444776",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_99_D2.jpg?ts=1726659444776",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_99_D6.jpg?ts=1755102944811"
     ],
-    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T2/fotos/S/27071224_32_D9.jpg?ts=1760628914915",
-    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/suet-shopper-canta-kurdele_27071224?c=32",
+    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/outfit/S/87010365_99-99999999_01.jpg?ts=1732206865772",
+    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/metal-detayl%C4%B1-shopper-canta_87010365",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -18,16 +23,16 @@
       "bestPriceSelector": "[class*=\"SinglePrice_\"]",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Indirimli kadin çantalari 2025 | MANGO Türkiye",
+    "pageTitle": "Kadin çantalari 2025 | MANGO Türkiye",
     "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
-    "timestamp": "2025-11-03T05:31:07.638Z",
-    "processId": "mhipccoe5q78d",
+    "timestamp": "2025-11-10T05:30:43.648Z",
+    "processId": "mhspesu4vj397",
     "index": 0,
     "categories": {
       "productType": [
         "çanta",
-        "süet çanta",
-        "alışveriş çantası"
+        "alışveriş çantası",
+        "askı detaylı çanta"
       ]
     },
     "seo": {
@@ -36,10 +41,11 @@
         "çantası",
         "bag",
         "çantasi",
-        "süet çanta",
-        "süet",
         "alışveriş çantası",
-        "shopper"
+        "shopper",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
       ]
     },
     "imgValid": true,
@@ -55,40 +61,76 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3.499,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3499.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.499,99"
+          "displayPrice": "₺2.299,99"
         },
         {
-          "value": "3.499,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3499.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.499,99"
+          "displayPrice": "₺2.299,99"
         },
         {
-          "value": "3.499,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3499.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.499,99"
+          "displayPrice": "₺2.299,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
         }
       ],
       "priceValid": true,
@@ -97,13 +139,16 @@
     }
   },
   {
-    "id": "f209497b06b9e7cdc6a70d5049b1df207b67b985ceddaece28230e9e019a6b4b",
-    "title": "Tokalı süet bucket çanta",
+    "id": "a83ffca898e558676bed88edb31254352f0bf7e2b4be04e9596337be2f31ca5a",
+    "title": "Metal detaylı shopper çanta",
     "img": [
-      "https://shop.mango.com/assets/rcs/pics/static/T2/fotos/outfit/S/27031212_32-99999999_01.jpg?ts=1760628914915"
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_92_B.jpg?ts=1726671829577",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_92.jpg?ts=1726659444776",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_92_D1.jpg?ts=1726671829577",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_92_D2.jpg?ts=1726671829577"
     ],
-    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T2/fotos/outfit/S/27031212_32-99999999_01.jpg?ts=1760628914915",
-    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/omuz/tokal%C4%B1-suet-bucket-canta_27031212",
+    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87010365_92_B.jpg?ts=1726671829577",
+    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/metal-detayl%C4%B1-shopper-canta_87010365?c=92",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -115,110 +160,16 @@
       "bestPriceSelector": "[class*=\"SinglePrice_\"]",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Indirimli kadin çantalari 2025 | MANGO Türkiye",
+    "pageTitle": "Kadin çantalari 2025 | MANGO Türkiye",
     "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
-    "timestamp": "2025-11-03T05:31:07.646Z",
-    "processId": "mhipccoe5q78d",
+    "timestamp": "2025-11-10T05:30:43.655Z",
+    "processId": "mhspesu4vj397",
     "index": 1,
     "categories": {
       "productType": [
         "çanta",
-        "süet çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "süet çanta",
-        "süet"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.499,99 TL",
-          "selector": "[class*=\"SinglePrice_\"]",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3499.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.499,99"
-        },
-        {
-          "value": "3.499,99 TL",
-          "selector": "[class*=\"SinglePrice_\"]",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3499.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.499,99"
-        },
-        {
-          "value": "3.499,99 TL",
-          "selector": "[class*=\"SinglePrice_\"]",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3499.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.499,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "c03a5004c7f90d14e242fb048bd5acc2c4b6a171c6ee9f9d7f5e34c2a5af833a",
-    "title": "Orta boy shopper çanta",
-    "img": [
-      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17025796_32-99999999_01.jpg?ts=1755619527950"
-    ],
-    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17025796_32-99999999_01.jpg?ts=1755619527950",
-    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/orta-boy-shopper-canta_17025796",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a[class*=\"ProductImage_\"])",
-      "matchedSelector": "[class^='ProductCard_productCard']",
-      "titleSelectorMatched": "[class*=\"ProductTitle_\"]",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('[itemprop=\"image\"]')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "[class*=\"SinglePrice_\"]",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Indirimli kadin çantalari 2025 | MANGO Türkiye",
-    "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
-    "timestamp": "2025-11-03T05:31:07.652Z",
-    "processId": "mhipccoe5q78d",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
         "alışveriş çantası",
-        "orta boy çanta"
+        "askı detaylı çanta"
       ]
     },
     "seo": {
@@ -229,9 +180,9 @@
         "çantasi",
         "alışveriş çantası",
         "shopper",
-        "orta boy çanta",
-        "orta boy",
-        "medium"
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
       ]
     },
     "imgValid": true,
@@ -247,40 +198,76 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.599,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1599.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.599,99"
+          "displayPrice": "₺2.299,99"
         },
         {
-          "value": "1.599,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1599.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.599,99"
+          "displayPrice": "₺2.299,99"
         },
         {
-          "value": "1.599,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1599.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.599,99"
+          "displayPrice": "₺2.299,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
         }
       ],
       "priceValid": true,
@@ -289,13 +276,19 @@
     }
   },
   {
-    "id": "11c2b1c6145dec3366ae91351df1a89260c1f981f6cc2d1c9f00871eaa4ce6b7",
-    "title": "Büyük süet bucket çanta tokalı",
+    "id": "4280ab4f175c51b58b6eb5e95af164a34fc14b50357b186e945ef263ab0f55b6",
+    "title": "Logo desenli jakar omuz çantası",
     "img": [
-      "https://shop.mango.com/assets/rcs/pics/static/T2/fotos_alt/S/27061225_32_01_O1.jpg?ts=1761302053000"
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17052539_32-99999999_01.jpg?ts=1751016929897",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052539_32_B.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052539_32.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052539_32_D1.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052539_32_D2.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052539_32_D3.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052539_32_D4.jpg?ts=1750867546629"
     ],
-    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T2/fotos_alt/S/27061225_32_01_O1.jpg?ts=1761302053000",
-    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/buyuk-suet-bucket-canta-tokal%C4%B1_27061225?l=01",
+    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17052539_32-99999999_01.jpg?ts=1751016929897",
+    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/omuz/logo-desenli-jakar-omuz-cantas%C4%B1_17052539",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -307,16 +300,15 @@
       "bestPriceSelector": "[class*=\"SinglePrice_\"]",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Indirimli kadin çantalari 2025 | MANGO Türkiye",
+    "pageTitle": "Kadin çantalari 2025 | MANGO Türkiye",
     "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
-    "timestamp": "2025-11-03T05:31:07.661Z",
-    "processId": "mhipccoe5q78d",
-    "index": 3,
+    "timestamp": "2025-11-10T05:30:43.664Z",
+    "processId": "mhspesu4vj397",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
-        "büyük çanta",
-        "süet çanta"
+        "omuz çantası"
       ]
     },
     "seo": {
@@ -325,12 +317,10 @@
         "çantası",
         "bag",
         "çantasi",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "süet çanta",
-        "süet"
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
       ]
     },
     "imgValid": true,
@@ -346,40 +336,76 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3.999,99 TL",
+          "value": "1.799,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3999.99,
+          "numericValue": 1799.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.999,99"
+          "displayPrice": "₺1.799,99"
         },
         {
-          "value": "3.999,99 TL",
+          "value": "1.799,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3999.99,
+          "numericValue": 1799.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.999,99"
+          "displayPrice": "₺1.799,99"
         },
         {
-          "value": "3.999,99 TL",
+          "value": "1.799,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3999.99,
+          "numericValue": 1799.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.999,99"
+          "displayPrice": "₺1.799,99"
+        },
+        {
+          "value": "1.399,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1399.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.399,99"
+        },
+        {
+          "value": "1.399,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1399.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.399,99"
+        },
+        {
+          "value": "1.399,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1399.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.399,99"
         }
       ],
       "priceValid": true,
@@ -388,13 +414,17 @@
     }
   },
   {
-    "id": "0d8f4b0e01b2f78ba1591b52fc740e76a41d19d9f60df44adb5ababd1837ca3a",
-    "title": "Naylon shopper çanta",
+    "id": "c71645010c14aadf8370106a70483c1d498f79059e2c8564b5e8699ce33d024a",
+    "title": "Süet shopper çanta",
     "img": [
-      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17032920_99_B.jpg?ts=1748370926746"
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17081281_32-99999999_01.jpg?ts=1756462217510",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17081281_32_B.jpg?ts=1755516886630",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17081281_32.jpg?ts=1755516886630",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17081281_32_D1.jpg?ts=1755516886630",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17081281_32_D2.jpg?ts=1755516886630"
     ],
-    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17032920_99_B.jpg?ts=1748370926746",
-    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/naylon-shopper-canta_17032920",
+    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17081281_32-99999999_01.jpg?ts=1756462217510",
+    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/suet-shopper-canta_17081281",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -406,14 +436,15 @@
       "bestPriceSelector": "[class*=\"SinglePrice_\"]",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Indirimli kadin çantalari 2025 | MANGO Türkiye",
+    "pageTitle": "Kadin çantalari 2025 | MANGO Türkiye",
     "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
-    "timestamp": "2025-11-03T05:31:07.668Z",
-    "processId": "mhipccoe5q78d",
-    "index": 4,
+    "timestamp": "2025-11-10T05:30:43.671Z",
+    "processId": "mhspesu4vj397",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
+        "süet çanta",
         "alışveriş çantası"
       ]
     },
@@ -423,6 +454,8 @@
         "çantası",
         "bag",
         "çantasi",
+        "süet çanta",
+        "süet",
         "alışveriş çantası",
         "shopper"
       ]
@@ -440,40 +473,76 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.499,99 TL",
+          "value": "3.499,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1499.99,
+          "numericValue": 3499.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.499,99"
+          "displayPrice": "₺3.499,99"
         },
         {
-          "value": "1.499,99 TL",
+          "value": "3.499,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1499.99,
+          "numericValue": 3499.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.499,99"
+          "displayPrice": "₺3.499,99"
         },
         {
-          "value": "1.499,99 TL",
+          "value": "3.499,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1499.99,
+          "numericValue": 3499.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.499,99"
+          "displayPrice": "₺3.499,99"
+        },
+        {
+          "value": "3.114,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3114.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.114,99"
+        },
+        {
+          "value": "3.114,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3114.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.114,99"
+        },
+        {
+          "value": "3.114,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3114.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.114,99"
         }
       ],
       "priceValid": true,
@@ -482,13 +551,20 @@
     }
   },
   {
-    "id": "645ce5123a05bcb6fce8716237fe4466ad9a29d18e6a8f29789dcc4675af4be1",
-    "title": "Süet el çantası",
+    "id": "6c597fc3f7740874cb7850ddc525ed8758660a0f728600ecd76cfaed1d587bfa",
+    "title": "Logo desenli jakar bucket çanta",
     "img": [
-      "https://shop.mango.com/assets/rcs/pics/static/T2/fotos/outfit/S/27051200_32-99999999_01.jpg?ts=1760544314911"
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17072538_32_D9.jpg?ts=1750932351838",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17072538_32_B.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17072538_32-99999999_01.jpg?ts=1750872933921",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17072538_32.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17072538_32_D1.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17072538_32_D2.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17072538_32_D3.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17072538_32_D4.jpg?ts=1750867546629"
     ],
-    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T2/fotos/outfit/S/27051200_32-99999999_01.jpg?ts=1760544314911",
-    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/deri/suet-el-cantas%C4%B1_27051200",
+    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17072538_32_D9.jpg?ts=1750932351838",
+    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/omuz-cantalari/logo-desenli-jakar-bucket-canta_17072538",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -500,16 +576,150 @@
       "bestPriceSelector": "[class*=\"SinglePrice_\"]",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Indirimli kadin çantalari 2025 | MANGO Türkiye",
+    "pageTitle": "Kadin çantalari 2025 | MANGO Türkiye",
     "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
-    "timestamp": "2025-11-03T05:31:07.675Z",
-    "processId": "mhipccoe5q78d",
+    "timestamp": "2025-11-10T05:30:43.679Z",
+    "processId": "mhspesu4vj397",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.799,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1799.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.799,99"
+        },
+        {
+          "value": "1.799,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1799.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.799,99"
+        },
+        {
+          "value": "1.799,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1799.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.799,99"
+        },
+        {
+          "value": "1.399,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1399.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.399,99"
+        },
+        {
+          "value": "1.399,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1399.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.399,99"
+        },
+        {
+          "value": "1.399,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1399.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.399,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "552fdfc2227e25820417b0debe678d11bd00d776e1c661a6a7a96e685fe60af0",
+    "title": "Metalik detaylı mini shopper çanta",
+    "img": [
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87030451_CU_B.jpg?ts=1733828747076",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87030451_CU.jpg?ts=1733828747076",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87030451_CU_D1.jpg?ts=1733828747076",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87030451_CU_D2.jpg?ts=1733828747076",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87030451_CU_D3.jpg?ts=1733828747076",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87030451_CU_D4.jpg?ts=1733828747076",
+      "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87030451_CU_D5.jpg?ts=1733828747076"
+    ],
+    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87030451_CU_B.jpg?ts=1733828747076",
+    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/metalik-detayl%C4%B1-mini-shopper-canta_87030451?c=CU",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[class*=\"ProductImage_\"])",
+      "matchedSelector": "[class^='ProductCard_productCard']",
+      "titleSelectorMatched": "[class*=\"ProductTitle_\"]",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('[itemprop=\"image\"]')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "[class*=\"SinglePrice_\"]",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadin çantalari 2025 | MANGO Türkiye",
+    "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
+    "timestamp": "2025-11-10T05:30:43.688Z",
+    "processId": "mhspesu4vj397",
     "index": 5,
     "categories": {
       "productType": [
         "çanta",
-        "el çantası",
-        "süet çanta"
+        "alışveriş çantası",
+        "mini çanta",
+        "askı detaylı çanta"
       ]
     },
     "seo": {
@@ -518,10 +728,13 @@
         "çantası",
         "bag",
         "çantasi",
-        "el çantası",
-        "el",
-        "süet çanta",
-        "süet"
+        "alışveriş çantası",
+        "shopper",
+        "mini çanta",
+        "mini",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
       ]
     },
     "imgValid": true,
@@ -537,40 +750,76 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.999,99 TL",
+          "value": "1.599,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2999.99,
+          "numericValue": 1599.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.999,99"
+          "displayPrice": "₺1.599,99"
         },
         {
-          "value": "2.999,99 TL",
+          "value": "1.599,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2999.99,
+          "numericValue": 1599.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.999,99"
+          "displayPrice": "₺1.599,99"
         },
         {
-          "value": "2.999,99 TL",
+          "value": "1.599,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2999.99,
+          "numericValue": 1599.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.999,99"
+          "displayPrice": "₺1.599,99"
+        },
+        {
+          "value": "849,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 849.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺849,99"
+        },
+        {
+          "value": "849,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 849.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺849,99"
+        },
+        {
+          "value": "849,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 849.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺849,99"
         }
       ],
       "priceValid": true,
@@ -579,13 +828,19 @@
     }
   },
   {
-    "id": "067a51f6858455e11b8f08c2ae15114b2f4877c54a240efe706692abc8af3f37",
-    "title": "Süet bucket çanta",
+    "id": "cba987f34d9761b8a478a01a77889c8779983caa3197bef9a9255d7f1c880bdf",
+    "title": "Tokalı mini shopper çanta",
     "img": [
-      "https://shop.mango.com/assets/rcs/pics/static/T2/fotos/outfit/S/27041211_30-99999999_01.jpg?ts=1760628914915"
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17042029_78-99999999_01.jpg?ts=1758017152468",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17042029_78_B.jpg?ts=1747402469446",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17042029_78.jpg?ts=1747402469446",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17042029_78_D1.jpg?ts=1747402469446",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17042029_78_D2.jpg?ts=1747402469446",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17042029_78_D3.jpg?ts=1747402469446",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17042029_78_D4.jpg?ts=1747402469446"
     ],
-    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T2/fotos/outfit/S/27041211_30-99999999_01.jpg?ts=1760628914915",
-    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/suet-bucket-canta_27041211",
+    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17042029_78-99999999_01.jpg?ts=1758017152468",
+    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/tokal%C4%B1-mini-shopper-canta_17042029",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -597,15 +852,16 @@
       "bestPriceSelector": "[class*=\"SinglePrice_\"]",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Indirimli kadin çantalari 2025 | MANGO Türkiye",
+    "pageTitle": "Kadin çantalari 2025 | MANGO Türkiye",
     "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
-    "timestamp": "2025-11-03T05:31:07.684Z",
-    "processId": "mhipccoe5q78d",
+    "timestamp": "2025-11-10T05:30:43.697Z",
+    "processId": "mhspesu4vj397",
     "index": 6,
     "categories": {
       "productType": [
         "çanta",
-        "süet çanta"
+        "alışveriş çantası",
+        "mini çanta"
       ]
     },
     "seo": {
@@ -614,8 +870,10 @@
         "çantası",
         "bag",
         "çantasi",
-        "süet çanta",
-        "süet"
+        "alışveriş çantası",
+        "shopper",
+        "mini çanta",
+        "mini"
       ]
     },
     "imgValid": true,
@@ -631,40 +889,76 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3.999,99 TL",
+          "value": "1.699,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3999.99,
+          "numericValue": 1699.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.999,99"
+          "displayPrice": "₺1.699,99"
         },
         {
-          "value": "3.999,99 TL",
+          "value": "1.699,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3999.99,
+          "numericValue": 1699.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.999,99"
+          "displayPrice": "₺1.699,99"
         },
         {
-          "value": "3.999,99 TL",
+          "value": "1.699,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3999.99,
+          "numericValue": 1699.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.999,99"
+          "displayPrice": "₺1.699,99"
+        },
+        {
+          "value": "1.099,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1099.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.099,99"
+        },
+        {
+          "value": "1.099,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1099.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.099,99"
+        },
+        {
+          "value": "1.099,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1099.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.099,99"
         }
       ],
       "priceValid": true,
@@ -673,13 +967,18 @@
     }
   },
   {
-    "id": "d372c8932be98760440a12d03b5f68d3d56162cade875bca34f2d2b410302dca",
-    "title": "Süet deri shopper çanta",
+    "id": "936c54aba642ceb87d117ee64573a2d7278dc1291d96ebb2f77282425a0a9481",
+    "title": "Logo desenli jakar bucket çanta",
     "img": [
-      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17012922_37-99999999_01.jpg?ts=1751016929897"
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17052540_32-99999999_01.jpg?ts=1750872933921",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052540_32_B.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052540_32.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052540_32_D1.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052540_32_D2.jpg?ts=1750867546629",
+      "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/S/17052540_32_D3.jpg?ts=1750867546629"
     ],
-    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17012922_37-99999999_01.jpg?ts=1751016929897",
-    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/shopper-cantalar/suet-deri-shopper-canta_17012922",
+    "primaryImg": "https://shop.mango.com/assets/rcs/pics/static/T1/fotos/outfit/S/17052540_32-99999999_01.jpg?ts=1750872933921",
+    "link": "https://shop.mango.com/tr/tr/p/kadin/canta/omuz/logo-desenli-jakar-bucket-canta_17052540",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -691,18 +990,14 @@
       "bestPriceSelector": "[class*=\"SinglePrice_\"]",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Indirimli kadin çantalari 2025 | MANGO Türkiye",
+    "pageTitle": "Kadin çantalari 2025 | MANGO Türkiye",
     "pageURL": "https://shop.mango.com/tr/tr/c/kadin/canta_8dff98e6",
-    "timestamp": "2025-11-03T05:31:07.693Z",
-    "processId": "mhipccoe5q78d",
+    "timestamp": "2025-11-10T05:30:43.705Z",
+    "processId": "mhspesu4vj397",
     "index": 7,
     "categories": {
       "productType": [
-        "çanta",
-        "deri çanta",
-        "süet çanta",
-        "alışveriş çantası",
-        "floater deri çanta"
+        "çanta"
       ]
     },
     "seo": {
@@ -710,16 +1005,7 @@
         "çanta",
         "çantası",
         "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "süet çanta",
-        "süet",
-        "alışveriş çantası",
-        "shopper",
-        "floater deri çanta",
-        "floater"
+        "çantasi"
       ]
     },
     "imgValid": true,
@@ -735,40 +1021,76 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.999,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2999.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.999,99"
+          "displayPrice": "₺2.299,99"
         },
         {
-          "value": "2.999,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2999.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.999,99"
+          "displayPrice": "₺2.299,99"
         },
         {
-          "value": "2.999,99 TL",
+          "value": "2.299,99 TL",
           "selector": "[class*=\"SinglePrice_\"]",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2999.99,
+          "numericValue": 2299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.999,99"
+          "displayPrice": "₺2.299,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
+        },
+        {
+          "value": "1.699,99 TL",
+          "selector": "[class*=\"SinglePrice_\"]",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,99"
         }
       ],
       "priceValid": true,
