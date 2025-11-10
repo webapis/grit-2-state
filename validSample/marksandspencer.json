@@ -1,21 +1,801 @@
 [
   {
+    "id": "f729222901867e5059103bca92a5dac993f2cf18fed8cd7ffea78dfa45b512a0",
+    "title": "Suni Deri Çapraz Askılı Çanta",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/149811f4-99c5-4920-8eea-3948c7b3f408_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/149811f4-99c5-4920-8eea-3948c7b3f408_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/9a202d2a-2534-4d85-b8a3-56857ddfb2f2_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/9a202d2a-2534-4d85-b8a3-56857ddfb2f2_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/81427bfd-1cce-4960-b6e3-072466ec663a_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/81427bfd-1cce-4960-b6e3-072466ec663a_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/149811f4-99c5-4920-8eea-3948c7b3f408_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/9a202d2a-2534-4d85-b8a3-56857ddfb2f2_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/81427bfd-1cce-4960-b6e3-072466ec663a_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/b2f96bef-27bd-4a04-a856-f6e0db1eb8af_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/b2f96bef-27bd-4a04-a856-f6e0db1eb8af_size500x650_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/149811f4-99c5-4920-8eea-3948c7b3f408_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-kirmizi-suni-deri-capraz-askili-canta-10000001194235/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:03.412Z",
+    "processId": "mhsozu3h43x14",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "deri çanta",
+        "suni deri çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "floater deri çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "floater deri çanta",
+        "floater"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.499,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2499.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.499,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "d0fc06e7cbc4364efcb817ac55e81368c804de1c8b87cdeb79d4cfa1d63da873",
+    "title": "Süet Mini Omuz ve Çapraz Askılı Çanta",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/2fcd9e5a-8161-4d34-b717-5a4ecb0bb9ea_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/2fcd9e5a-8161-4d34-b717-5a4ecb0bb9ea_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/d14e9d18-39ff-48b2-9292-bbee449d0b6c_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/d14e9d18-39ff-48b2-9292-bbee449d0b6c_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/7e4a01ba-4724-4978-8c87-6dcfb75bfde6_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/7e4a01ba-4724-4978-8c87-6dcfb75bfde6_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/2fcd9e5a-8161-4d34-b717-5a4ecb0bb9ea_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/d14e9d18-39ff-48b2-9292-bbee449d0b6c_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/7e4a01ba-4724-4978-8c87-6dcfb75bfde6_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/b7d3b9a2-6588-4db4-b078-3cd41f2dcaff_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/b7d3b9a2-6588-4db4-b078-3cd41f2dcaff_size500x650_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/2fcd9e5a-8161-4d34-b717-5a4ecb0bb9ea_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-yesil-suet-mini-omuz-ve-capraz-askili-canta-10000001194222/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:03.464Z",
+    "processId": "mhsozu3h43x14",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "çapraz çanta",
+        "zincir askılı çanta",
+        "süet çanta",
+        "mini çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "süet çanta",
+        "süet",
+        "mini çanta",
+        "mini",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.699,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "18aff842fc6154e09f018ef5c9de3295448ffacd13ef88556f6db9170d3f95ec",
+    "title": "Suni Deri Çapraz Askılı Çanta",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/a39d1bca-58c7-4d35-a7a8-f08301a57af1_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/a39d1bca-58c7-4d35-a7a8-f08301a57af1_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/78943bf8-d40d-40fe-a6d0-4a5b5fa9c727_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/78943bf8-d40d-40fe-a6d0-4a5b5fa9c727_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/a39d1bca-58c7-4d35-a7a8-f08301a57af1_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/78943bf8-d40d-40fe-a6d0-4a5b5fa9c727_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/b1d1074f-20ec-4cf8-bd46-b93fc26fd93d_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/b1d1074f-20ec-4cf8-bd46-b93fc26fd93d_size500x650_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/a39d1bca-58c7-4d35-a7a8-f08301a57af1_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-siyah-suni-deri-capraz-askili-canta-10000001194221/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:03.514Z",
+    "processId": "mhsozu3h43x14",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "deri çanta",
+        "suni deri çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "floater deri çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "floater deri çanta",
+        "floater"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.499,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2499.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.499,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "768754ebb2c8d8d3133f01a0e19dc9944fc2282cf580f4767583fed82197898c",
+    "title": "Suni Deri Çanta",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/a62d9124-af14-4c0f-ba14-fac08954445a_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/a62d9124-af14-4c0f-ba14-fac08954445a_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/4ca0d189-32fc-414f-a29e-637ede391f2d_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/4ca0d189-32fc-414f-a29e-637ede391f2d_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/1f3adf84-003b-406d-9678-0adbd9a33349_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/1f3adf84-003b-406d-9678-0adbd9a33349_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/a62d9124-af14-4c0f-ba14-fac08954445a_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/4ca0d189-32fc-414f-a29e-637ede391f2d_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/1f3adf84-003b-406d-9678-0adbd9a33349_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/fd4045d5-e33c-4b09-b28a-a46cea4901aa_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/fd4045d5-e33c-4b09-b28a-a46cea4901aa_size500x650_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/a62d9124-af14-4c0f-ba14-fac08954445a_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-kahverengi-suni-deri-canta-10000001194292/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:03.568Z",
+    "processId": "mhsozu3h43x14",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "suni deri çanta",
+        "floater deri çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "floater deri çanta",
+        "floater"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "d6a03d8153f4cc91f7828e4a3ac59a07c5cb5e9df00d84d4c43a71b2ea7f58af",
+    "title": "Parlak Deri Omuz Çantası",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/9e2e470c-b774-4535-a8b1-4db13066d9d6_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/9e2e470c-b774-4535-a8b1-4db13066d9d6_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/a86ca349-01fa-4a83-8893-1477709b12c3_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/a86ca349-01fa-4a83-8893-1477709b12c3_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/efd75de0-e6aa-49d8-89a4-e04e73014251_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/efd75de0-e6aa-49d8-89a4-e04e73014251_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/f356b0ba-2d7f-4bac-8412-00d25426ffc8_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/f356b0ba-2d7f-4bac-8412-00d25426ffc8_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/a86ca349-01fa-4a83-8893-1477709b12c3_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/efd75de0-e6aa-49d8-89a4-e04e73014251_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/f356b0ba-2d7f-4bac-8412-00d25426ffc8_size300x390_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/9e2e470c-b774-4535-a8b1-4db13066d9d6_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-bordo-parlak-deri-omuz-cantasi-10000001194281/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:03.619Z",
+    "processId": "mhsozu3h43x14",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.499,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2499.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.499,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "3ddf8d1ea2f43cea7b6ce6b898340fd68278c51731e391b8e90ee73ec656805d",
+    "title": "Parlak Deri Omuz Çantası",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/84741690-21eb-46e4-acab-6f814ca55c82_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/84741690-21eb-46e4-acab-6f814ca55c82_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/f8861c98-ff82-44d4-ae5f-f63e9aa4a5c5_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/f8861c98-ff82-44d4-ae5f-f63e9aa4a5c5_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/8d4e6e6c-ee66-4a13-8591-6060b6162d44_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/8d4e6e6c-ee66-4a13-8591-6060b6162d44_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/f8861c98-ff82-44d4-ae5f-f63e9aa4a5c5_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/8d4e6e6c-ee66-4a13-8591-6060b6162d44_size300x390_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/84741690-21eb-46e4-acab-6f814ca55c82_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-siyah-parlak-deri-omuz-cantasi-10000001194282/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:03.667Z",
+    "processId": "mhsozu3h43x14",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.499,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2499.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.499,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "f24390d897a83a9e8dbb618dcb6c7450dd8d9ee140bbbd779a6624cb8dca1d94",
+    "title": "Mini Bowler Çapraz Askılı Çanta",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/0d8d49a8-1a84-4a4c-9bb2-b647f56a1f63_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/0d8d49a8-1a84-4a4c-9bb2-b647f56a1f63_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/5c17c36a-4739-49c4-aac0-ee7ae6bb7301_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/5c17c36a-4739-49c4-aac0-ee7ae6bb7301_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/dbdf61da-b404-441c-9d58-31432b0403f2_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/dbdf61da-b404-441c-9d58-31432b0403f2_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/4275461c-dbeb-440e-8328-549381590d2e_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/4275461c-dbeb-440e-8328-549381590d2e_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/5c17c36a-4739-49c4-aac0-ee7ae6bb7301_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/dbdf61da-b404-441c-9d58-31432b0403f2_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/4275461c-dbeb-440e-8328-549381590d2e_size300x390_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/0d8d49a8-1a84-4a4c-9bb2-b647f56a1f63_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-siyah-mini-bowler-capraz-askili-canta-10000001194224/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:03.711Z",
+    "processId": "mhsozu3h43x14",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "zincir askılı çanta",
+        "mini çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "mini çanta",
+        "mini",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.699,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "bb0b55a8719cc66c1055e1493d7ea8c59be088626af90109eeb94eac45c4123b",
+    "title": "Süet Mini Omuz ve Çapraz Askılı Çanta",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/1691e8ca-daca-4961-b277-2f28e994ae94_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/1691e8ca-daca-4961-b277-2f28e994ae94_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/714a043d-f690-47fb-950c-feed23cf50ed_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/714a043d-f690-47fb-950c-feed23cf50ed_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/dd65516f-aec1-40b3-b92c-659cac513291_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/dd65516f-aec1-40b3-b92c-659cac513291_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/3923ff9b-125e-4254-bdaa-2293935f9c91_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/3923ff9b-125e-4254-bdaa-2293935f9c91_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/714a043d-f690-47fb-950c-feed23cf50ed_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/dd65516f-aec1-40b3-b92c-659cac513291_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/3923ff9b-125e-4254-bdaa-2293935f9c91_size300x390_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/1691e8ca-daca-4961-b277-2f28e994ae94_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-siyah-mix-suet-mini-omuz-ve-capraz-askili-canta-10000001194220/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:03.765Z",
+    "processId": "mhsozu3h43x14",
+    "index": 7,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "çapraz çanta",
+        "zincir askılı çanta",
+        "süet çanta",
+        "mini çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "süet çanta",
+        "süet",
+        "mini çanta",
+        "mini",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.699,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1699.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.699,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "69853fce62d9732b4baec9f9c75eae2cb33a9a58e8c27ce5e911693ca1b40508",
     "title": "%41\nKanvas Tote Çanta",
     "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/225b10fe-b1bd-4c4c-9e9c-7c325459d617_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/225b10fe-b1bd-4c4c-9e9c-7c325459d617_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/bf48fd20-c946-415c-a7e2-734e726cc9e9_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/bf48fd20-c946-415c-a7e2-734e726cc9e9_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/68f475d0-a950-48c3-9c58-682c6b2b4e52_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/68f475d0-a950-48c3-9c58-682c6b2b4e52_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/3a3c8795-2fc0-47a8-9fb6-59361649c902_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/3a3c8795-2fc0-47a8-9fb6-59361649c902_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/225b10fe-b1bd-4c4c-9e9c-7c325459d617_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/bf48fd20-c946-415c-a7e2-734e726cc9e9_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/68f475d0-a950-48c3-9c58-682c6b2b4e52_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/3a3c8795-2fc0-47a8-9fb6-59361649c902_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/225b10fe-b1bd-4c4c-9e9c-7c325459d617_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/225b10fe-b1bd-4c4c-9e9c-7c325459d617_size500x650_cropCenter.jpg"
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/3a3c8795-2fc0-47a8-9fb6-59361649c902_size300x390_cropCenter.jpg"
     ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/bf48fd20-c946-415c-a7e2-734e726cc9e9_size900x1170_cropCenter.jpg",
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/21/777852/225b10fe-b1bd-4c4c-9e9c-7c325459d617_size900x1170_cropCenter.jpg",
     "link": "https://www.marksandspencer.com.tr/kadin-pembe-mix-kanvas-tote-canta-10000000944963/",
     "videos": [],
     "productNotInStock": false,
@@ -30,9 +810,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:40.745Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 0,
+    "timestamp": "2025-11-10T05:19:03.821Z",
+    "processId": "mhsozu3h43x14",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -107,19 +887,20 @@
     "id": "62cc0a15a84189b2dd86094aa6508ce5ade309c808b5a2ed9ff9451090c69fc5",
     "title": "Suni Kürk Detaylı Tote Çanta",
     "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ee9fb63-6e46-443b-8abf-6c6e401e3e33_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ee9fb63-6e46-443b-8abf-6c6e401e3e33_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/a6ff54b5-97c6-4911-85db-8ec6bfd9eeba_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/a6ff54b5-97c6-4911-85db-8ec6bfd9eeba_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/2baaffbb-b753-4694-b15c-ef805cfe7458_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/2baaffbb-b753-4694-b15c-ef805cfe7458_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ea0dd05-81fe-48c9-a6c7-d7ee7971a967_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ea0dd05-81fe-48c9-a6c7-d7ee7971a967_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ee9fb63-6e46-443b-8abf-6c6e401e3e33_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/a6ff54b5-97c6-4911-85db-8ec6bfd9eeba_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/2baaffbb-b753-4694-b15c-ef805cfe7458_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ea0dd05-81fe-48c9-a6c7-d7ee7971a967_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ee9fb63-6e46-443b-8abf-6c6e401e3e33_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ee9fb63-6e46-443b-8abf-6c6e401e3e33_size500x650_cropCenter.jpg"
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ea0dd05-81fe-48c9-a6c7-d7ee7971a967_size300x390_cropCenter.jpg"
     ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/a6ff54b5-97c6-4911-85db-8ec6bfd9eeba_size900x1170_cropCenter.jpg",
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805343/9ee9fb63-6e46-443b-8abf-6c6e401e3e33_size900x1170_cropCenter.jpg",
     "link": "https://www.marksandspencer.com.tr/kadin-bej-suni-kurk-detayli-tote-canta-10000001153422/",
     "videos": [],
     "productNotInStock": false,
@@ -134,9 +915,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:40.798Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 1,
+    "timestamp": "2025-11-10T05:19:03.873Z",
+    "processId": "mhsozu3h43x14",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -188,117 +969,20 @@
     }
   },
   {
-    "id": "f24390d897a83a9e8dbb618dcb6c7450dd8d9ee140bbbd779a6624cb8dca1d94",
-    "title": "Mini Bowler Çapraz Askılı Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/5c17c36a-4739-49c4-aac0-ee7ae6bb7301_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/5c17c36a-4739-49c4-aac0-ee7ae6bb7301_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/dbdf61da-b404-441c-9d58-31432b0403f2_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/dbdf61da-b404-441c-9d58-31432b0403f2_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/4275461c-dbeb-440e-8328-549381590d2e_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/4275461c-dbeb-440e-8328-549381590d2e_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/5c17c36a-4739-49c4-aac0-ee7ae6bb7301_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/dbdf61da-b404-441c-9d58-31432b0403f2_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/4275461c-dbeb-440e-8328-549381590d2e_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/0d8d49a8-1a84-4a4c-9bb2-b647f56a1f63_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/0d8d49a8-1a84-4a4c-9bb2-b647f56a1f63_size500x650_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/22/805869/5c17c36a-4739-49c4-aac0-ee7ae6bb7301_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-siyah-mini-bowler-capraz-askili-canta-10000001194224/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:40.852Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "zincir askılı çanta",
-        "mini çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "mini çanta",
-        "mini",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.699,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1699.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.699,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "2e3daa84aab0534439a16260aa6e84906b2012036ccd4cf3ba4935f0c9d50ec2",
     "title": "Suni Kürk Detaylı Tote Çanta",
     "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/031605dd-b592-4ff1-809a-d0e12c4d1626_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/031605dd-b592-4ff1-809a-d0e12c4d1626_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/be090151-4d3a-45c3-8eb0-e7fbdd4e501b_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/be090151-4d3a-45c3-8eb0-e7fbdd4e501b_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/999280b2-c34b-4d15-80e9-443d3e630e63_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/999280b2-c34b-4d15-80e9-443d3e630e63_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/031605dd-b592-4ff1-809a-d0e12c4d1626_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/be090151-4d3a-45c3-8eb0-e7fbdd4e501b_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/999280b2-c34b-4d15-80e9-443d3e630e63_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/031605dd-b592-4ff1-809a-d0e12c4d1626_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/031605dd-b592-4ff1-809a-d0e12c4d1626_size500x650_cropCenter.jpg"
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/999280b2-c34b-4d15-80e9-443d3e630e63_size300x390_cropCenter.jpg"
     ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/be090151-4d3a-45c3-8eb0-e7fbdd4e501b_size900x1170_cropCenter.jpg",
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805344/031605dd-b592-4ff1-809a-d0e12c4d1626_size900x1170_cropCenter.jpg",
     "link": "https://www.marksandspencer.com.tr/kadin-kahverengi-suni-kurk-detayli-tote-canta-10000001153439/",
     "videos": [],
     "productNotInStock": false,
@@ -313,9 +997,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:40.898Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 3,
+    "timestamp": "2025-11-10T05:19:03.923Z",
+    "processId": "mhsozu3h43x14",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -359,113 +1043,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "bb0b55a8719cc66c1055e1493d7ea8c59be088626af90109eeb94eac45c4123b",
-    "title": "Süet Mini Omuz ve Çapraz Askılı Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/1691e8ca-daca-4961-b277-2f28e994ae94_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/1691e8ca-daca-4961-b277-2f28e994ae94_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/714a043d-f690-47fb-950c-feed23cf50ed_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/714a043d-f690-47fb-950c-feed23cf50ed_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/dd65516f-aec1-40b3-b92c-659cac513291_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/dd65516f-aec1-40b3-b92c-659cac513291_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/3923ff9b-125e-4254-bdaa-2293935f9c91_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/3923ff9b-125e-4254-bdaa-2293935f9c91_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/1691e8ca-daca-4961-b277-2f28e994ae94_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/714a043d-f690-47fb-950c-feed23cf50ed_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/dd65516f-aec1-40b3-b92c-659cac513291_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/3923ff9b-125e-4254-bdaa-2293935f9c91_size300x390_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/08/21/805677/1691e8ca-daca-4961-b277-2f28e994ae94_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-siyah-mix-suet-mini-omuz-ve-capraz-askili-canta-10000001194220/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:40.961Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "çapraz çanta",
-        "zincir askılı çanta",
-        "süet çanta",
-        "mini çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "süet çanta",
-        "süet",
-        "mini çanta",
-        "mini",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.699,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1699.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.699,95"
         }
       ],
       "priceValid": true,
@@ -505,9 +1082,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.018Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 5,
+    "timestamp": "2025-11-10T05:19:03.971Z",
+    "processId": "mhsozu3h43x14",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta"
@@ -595,9 +1172,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.069Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 6,
+    "timestamp": "2025-11-10T05:19:04.027Z",
+    "processId": "mhsozu3h43x14",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -708,9 +1285,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.118Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 7,
+    "timestamp": "2025-11-10T05:19:04.078Z",
+    "processId": "mhsozu3h43x14",
+    "index": 13,
     "categories": {
       "productType": [
         "none"
@@ -793,9 +1370,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.174Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 8,
+    "timestamp": "2025-11-10T05:19:04.144Z",
+    "processId": "mhsozu3h43x14",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -890,9 +1467,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.228Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 9,
+    "timestamp": "2025-11-10T05:19:04.202Z",
+    "processId": "mhsozu3h43x14",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -992,9 +1569,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.286Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 10,
+    "timestamp": "2025-11-10T05:19:04.265Z",
+    "processId": "mhsozu3h43x14",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1101,9 +1678,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.340Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 11,
+    "timestamp": "2025-11-10T05:19:04.319Z",
+    "processId": "mhsozu3h43x14",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta"
@@ -1203,9 +1780,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.391Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 12,
+    "timestamp": "2025-11-10T05:19:04.379Z",
+    "processId": "mhsozu3h43x14",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta"
@@ -1293,9 +1870,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.453Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 13,
+    "timestamp": "2025-11-10T05:19:04.436Z",
+    "processId": "mhsozu3h43x14",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1396,9 +1973,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.511Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 14,
+    "timestamp": "2025-11-10T05:19:04.497Z",
+    "processId": "mhsozu3h43x14",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1496,9 +2073,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.575Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 15,
+    "timestamp": "2025-11-10T05:19:04.550Z",
+    "processId": "mhsozu3h43x14",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1567,96 +2144,6 @@
     }
   },
   {
-    "id": "4f9628e464fcbf53d854e1b22345e871b4441010db9a3b1fc15f5c4ee6c02be1",
-    "title": "%29\nEl Çantası",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/70d0fd16-cfcc-4e7d-b392-cc951b681284_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/70d0fd16-cfcc-4e7d-b392-cc951b681284_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/9b29f1ce-1594-4b8e-a17b-5893f44ceed8_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/9b29f1ce-1594-4b8e-a17b-5893f44ceed8_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/abd9777b-a715-4bb4-9732-8f8a23f8c749_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/abd9777b-a715-4bb4-9732-8f8a23f8c749_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/70d0fd16-cfcc-4e7d-b392-cc951b681284_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/9b29f1ce-1594-4b8e-a17b-5893f44ceed8_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/abd9777b-a715-4bb4-9732-8f8a23f8c749_size300x390_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/70d0fd16-cfcc-4e7d-b392-cc951b681284_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-turuncu-el-cantasi-10000000870469/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.627Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 16,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.999,99 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1999.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.999,99"
-        },
-        {
-          "value": "2.799,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2799.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "7bc24bb06fe2c65cfedcb12577670a1f220f7f99b2763f9adad444d91e61e7b3",
     "title": "%33\nZincir Detaylı Omuz Çantası",
     "img": [
@@ -1688,9 +2175,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.685Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 17,
+    "timestamp": "2025-11-10T05:19:04.608Z",
+    "processId": "mhsozu3h43x14",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1760,6 +2247,96 @@
     }
   },
   {
+    "id": "4f9628e464fcbf53d854e1b22345e871b4441010db9a3b1fc15f5c4ee6c02be1",
+    "title": "%29\nEl Çantası",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/70d0fd16-cfcc-4e7d-b392-cc951b681284_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/70d0fd16-cfcc-4e7d-b392-cc951b681284_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/9b29f1ce-1594-4b8e-a17b-5893f44ceed8_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/9b29f1ce-1594-4b8e-a17b-5893f44ceed8_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/abd9777b-a715-4bb4-9732-8f8a23f8c749_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/abd9777b-a715-4bb4-9732-8f8a23f8c749_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/70d0fd16-cfcc-4e7d-b392-cc951b681284_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/9b29f1ce-1594-4b8e-a17b-5893f44ceed8_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/abd9777b-a715-4bb4-9732-8f8a23f8c749_size300x390_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/07/27/763652/70d0fd16-cfcc-4e7d-b392-cc951b681284_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-turuncu-el-cantasi-10000000870469/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:04.660Z",
+    "processId": "mhsozu3h43x14",
+    "index": 23,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.999,99 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1999.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.999,99"
+        },
+        {
+          "value": "2.799,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2799.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.799,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "5286a95c36a8696fe138fe0802a3d056fcdd1a6e7494a22d9d87d0e23dbee6e6",
     "title": "AÇEV 2'li Şeffaf Portföy Çanta",
     "img": [
@@ -1788,9 +2365,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.733Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 18,
+    "timestamp": "2025-11-10T05:19:04.716Z",
+    "processId": "mhsozu3h43x14",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -1865,9 +2442,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.784Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 19,
+    "timestamp": "2025-11-10T05:19:04.767Z",
+    "processId": "mhsozu3h43x14",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -1942,9 +2519,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.834Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 20,
+    "timestamp": "2025-11-10T05:19:04.822Z",
+    "processId": "mhsozu3h43x14",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -2019,163 +2596,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.885Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 21,
-    "categories": {
-      "productType": [
-        "çanta",
-        "portföy"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "portföy"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "649,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 649.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺649,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "16cf3c2e7251fa272194c0e44485861e751a269c5c2baf6948c7a594e162bc39",
-    "title": "AÇEV 2'li Şeffaf Portföy Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/ea9344a5-301d-4bbd-814a-c75cd401e87b_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/ea9344a5-301d-4bbd-814a-c75cd401e87b_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/9f5ac787-8e82-4813-a1bf-be16b5487074_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/9f5ac787-8e82-4813-a1bf-be16b5487074_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/45a97cb7-eda4-4dd5-aded-b4003415c9eb_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/45a97cb7-eda4-4dd5-aded-b4003415c9eb_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/ea9344a5-301d-4bbd-814a-c75cd401e87b_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/9f5ac787-8e82-4813-a1bf-be16b5487074_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/45a97cb7-eda4-4dd5-aded-b4003415c9eb_size300x390_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/ea9344a5-301d-4bbd-814a-c75cd401e87b_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/yesil-acev-2-li-seffaf-portfoy-canta-01880/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.939Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 22,
-    "categories": {
-      "productType": [
-        "çanta",
-        "portföy"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "portföy"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "649,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 649.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺649,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "f63990474ee497cad5901b3f9db9ce2230312295259d4219e28851c72412518d",
-    "title": "AÇEV 2'li Şeffaf Portföy Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/895e424f-492c-4dd3-a55f-12c0f29bfd78_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/895e424f-492c-4dd3-a55f-12c0f29bfd78_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/5ec7e1bc-a8f7-4ec6-8a3a-dc5557b0f4d4_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/5ec7e1bc-a8f7-4ec6-8a3a-dc5557b0f4d4_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/1b1761b1-662e-47f0-ac75-c77aa1dfd9ed_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/1b1761b1-662e-47f0-ac75-c77aa1dfd9ed_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/895e424f-492c-4dd3-a55f-12c0f29bfd78_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/5ec7e1bc-a8f7-4ec6-8a3a-dc5557b0f4d4_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/1b1761b1-662e-47f0-ac75-c77aa1dfd9ed_size300x390_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/895e424f-492c-4dd3-a55f-12c0f29bfd78_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/metalik-acev-2-li-seffaf-portfoy-canta-01865/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:41.988Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 23,
+    "timestamp": "2025-11-10T05:19:04.878Z",
+    "processId": "mhsozu3h43x14",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -2250,9 +2673,163 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.048Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 24,
+    "timestamp": "2025-11-10T05:19:04.921Z",
+    "processId": "mhsozu3h43x14",
+    "index": 28,
+    "categories": {
+      "productType": [
+        "çanta",
+        "portföy"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "portföy"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "649,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 649.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺649,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "f63990474ee497cad5901b3f9db9ce2230312295259d4219e28851c72412518d",
+    "title": "AÇEV 2'li Şeffaf Portföy Çanta",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/895e424f-492c-4dd3-a55f-12c0f29bfd78_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/895e424f-492c-4dd3-a55f-12c0f29bfd78_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/5ec7e1bc-a8f7-4ec6-8a3a-dc5557b0f4d4_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/5ec7e1bc-a8f7-4ec6-8a3a-dc5557b0f4d4_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/1b1761b1-662e-47f0-ac75-c77aa1dfd9ed_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/1b1761b1-662e-47f0-ac75-c77aa1dfd9ed_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/895e424f-492c-4dd3-a55f-12c0f29bfd78_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/5ec7e1bc-a8f7-4ec6-8a3a-dc5557b0f4d4_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/1b1761b1-662e-47f0-ac75-c77aa1dfd9ed_size300x390_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668063/895e424f-492c-4dd3-a55f-12c0f29bfd78_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/metalik-acev-2-li-seffaf-portfoy-canta-01865/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:04.970Z",
+    "processId": "mhsozu3h43x14",
+    "index": 29,
+    "categories": {
+      "productType": [
+        "çanta",
+        "portföy"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "portföy"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "649,95 TL",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 649.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺649,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "16cf3c2e7251fa272194c0e44485861e751a269c5c2baf6948c7a594e162bc39",
+    "title": "AÇEV 2'li Şeffaf Portföy Çanta",
+    "img": [
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/ea9344a5-301d-4bbd-814a-c75cd401e87b_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/ea9344a5-301d-4bbd-814a-c75cd401e87b_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/9f5ac787-8e82-4813-a1bf-be16b5487074_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/9f5ac787-8e82-4813-a1bf-be16b5487074_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/45a97cb7-eda4-4dd5-aded-b4003415c9eb_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/45a97cb7-eda4-4dd5-aded-b4003415c9eb_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/ea9344a5-301d-4bbd-814a-c75cd401e87b_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/9f5ac787-8e82-4813-a1bf-be16b5487074_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/45a97cb7-eda4-4dd5-aded-b4003415c9eb_size300x390_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2024/04/03/668061/ea9344a5-301d-4bbd-814a-c75cd401e87b_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/yesil-acev-2-li-seffaf-portfoy-canta-01880/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
+    "timestamp": "2025-11-10T05:19:05.017Z",
+    "processId": "mhsozu3h43x14",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -2327,9 +2904,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.101Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 25,
+    "timestamp": "2025-11-10T05:19:05.069Z",
+    "processId": "mhsozu3h43x14",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -2404,9 +2981,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.154Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 26,
+    "timestamp": "2025-11-10T05:19:05.120Z",
+    "processId": "mhsozu3h43x14",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -2453,24 +3030,24 @@
     }
   },
   {
-    "id": "2181aa355bfaba0dc8b1de1ddba83d4378aa52f749a5258e3ea1ad6d8e2d0653",
-    "title": "AÇEV Cache Mila Çanta",
+    "id": "ba4a18fc840dcbce97a9bfbf6ac2522a8788f544638abcf28421c7d1d247e36b",
+    "title": "AÇEV Cache Constance Çanta",
     "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/31dd5ba7-7655-401e-87b2-52a200bdc144_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/31dd5ba7-7655-401e-87b2-52a200bdc144_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/18e127ea-fca7-4cc8-9370-d5872386a69f_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/18e127ea-fca7-4cc8-9370-d5872386a69f_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/a3783d3e-300d-426d-8a1f-710744e2499f_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/a3783d3e-300d-426d-8a1f-710744e2499f_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/b554af60-c776-423c-bc1a-60b3423cab8a_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/b554af60-c776-423c-bc1a-60b3423cab8a_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/31dd5ba7-7655-401e-87b2-52a200bdc144_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/18e127ea-fca7-4cc8-9370-d5872386a69f_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/a3783d3e-300d-426d-8a1f-710744e2499f_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/b554af60-c776-423c-bc1a-60b3423cab8a_size300x390_cropCenter.jpg"
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/fb0882a2-b7a9-48b7-9cd1-19c4bbb021d7_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/fb0882a2-b7a9-48b7-9cd1-19c4bbb021d7_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/2fce4173-f949-4585-b35f-96197217f23a_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/2fce4173-f949-4585-b35f-96197217f23a_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/89a7fcf6-40fc-48c5-939f-a4e4c6f9dfa7_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/89a7fcf6-40fc-48c5-939f-a4e4c6f9dfa7_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/b652be20-a3eb-4e23-9900-ad5a5443779e_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/b652be20-a3eb-4e23-9900-ad5a5443779e_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/fb0882a2-b7a9-48b7-9cd1-19c4bbb021d7_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/2fce4173-f949-4585-b35f-96197217f23a_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/89a7fcf6-40fc-48c5-939f-a4e4c6f9dfa7_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/b652be20-a3eb-4e23-9900-ad5a5443779e_size300x390_cropCenter.jpg"
     ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649315/31dd5ba7-7655-401e-87b2-52a200bdc144_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/acev-cache-mila-canta-01709/",
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/fb0882a2-b7a9-48b7-9cd1-19c4bbb021d7_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/acev-cache-constance-canta-01567/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2484,9 +3061,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.196Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 27,
+    "timestamp": "2025-11-10T05:19:05.177Z",
+    "processId": "mhsozu3h43x14",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta"
@@ -2513,16 +3090,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3.690,95 TL",
+          "value": "2.699,95 TL",
           "selector": ".product-item__price pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3690.95,
+          "numericValue": 2699.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.690,95"
+          "displayPrice": "₺2.699,95"
         }
       ],
       "priceValid": true,
@@ -2531,24 +3108,18 @@
     }
   },
   {
-    "id": "d92b45cea2a8a50b7733f050513ec072fef5cc632d1caf522d63421c3b6d9516",
-    "title": "AÇEV Cache Mila Çanta",
+    "id": "3d08a3bdbccbe33bcc8e92e75dd6ea2532a3d44d38a0bf9ebd4da85641eb0576",
+    "title": "AÇEV Cache Constance Çanta",
     "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/f29d1599-d199-4a75-b0d2-17b46a9973fe_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/f29d1599-d199-4a75-b0d2-17b46a9973fe_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/8168e04d-4c8d-4fdc-b901-4f30bc10458a_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/8168e04d-4c8d-4fdc-b901-4f30bc10458a_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/9ee1e796-d974-4a02-ae0a-362b445bf1b5_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/9ee1e796-d974-4a02-ae0a-362b445bf1b5_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/cab1aef7-52b9-4bf2-8f48-329c9f3a8f9f_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/cab1aef7-52b9-4bf2-8f48-329c9f3a8f9f_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/f29d1599-d199-4a75-b0d2-17b46a9973fe_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/8168e04d-4c8d-4fdc-b901-4f30bc10458a_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/9ee1e796-d974-4a02-ae0a-362b445bf1b5_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/cab1aef7-52b9-4bf2-8f48-329c9f3a8f9f_size300x390_cropCenter.jpg"
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611438/093ad9c3-4fd3-42b3-b017-a9307014b020_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611438/093ad9c3-4fd3-42b3-b017-a9307014b020_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611438/ce52ed58-b531-4d04-8184-15ffe66f2885_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611438/ce52ed58-b531-4d04-8184-15ffe66f2885_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611438/093ad9c3-4fd3-42b3-b017-a9307014b020_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611438/ce52ed58-b531-4d04-8184-15ffe66f2885_size300x390_cropCenter.jpg"
     ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2024/01/12/649316/f29d1599-d199-4a75-b0d2-17b46a9973fe_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/acev-cache-mila-canta-01710/",
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611438/093ad9c3-4fd3-42b3-b017-a9307014b020_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/acev-cache-constance-canta-01577/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2562,9 +3133,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.257Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 28,
+    "timestamp": "2025-11-10T05:19:05.224Z",
+    "processId": "mhsozu3h43x14",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta"
@@ -2591,16 +3162,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3.690,95 TL",
+          "value": "2.699,95 TL",
           "selector": ".product-item__price pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3690.95,
+          "numericValue": 2699.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.690,95"
+          "displayPrice": "₺2.699,95"
         }
       ],
       "priceValid": true,
@@ -2640,9 +3211,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.313Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 29,
+    "timestamp": "2025-11-10T05:19:05.280Z",
+    "processId": "mhsozu3h43x14",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta"
@@ -2718,9 +3289,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.375Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 30,
+    "timestamp": "2025-11-10T05:19:05.343Z",
+    "processId": "mhsozu3h43x14",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta"
@@ -2793,9 +3364,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.425Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 31,
+    "timestamp": "2025-11-10T05:19:05.392Z",
+    "processId": "mhsozu3h43x14",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta"
@@ -2871,9 +3442,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.483Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 32,
+    "timestamp": "2025-11-10T05:19:05.450Z",
+    "processId": "mhsozu3h43x14",
+    "index": 38,
     "categories": {
       "productType": [
         "çanta"
@@ -2918,98 +3489,20 @@
     }
   },
   {
-    "id": "ba4a18fc840dcbce97a9bfbf6ac2522a8788f544638abcf28421c7d1d247e36b",
-    "title": "AÇEV Cache Constance Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/fb0882a2-b7a9-48b7-9cd1-19c4bbb021d7_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/fb0882a2-b7a9-48b7-9cd1-19c4bbb021d7_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/89a7fcf6-40fc-48c5-939f-a4e4c6f9dfa7_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/89a7fcf6-40fc-48c5-939f-a4e4c6f9dfa7_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/2fce4173-f949-4585-b35f-96197217f23a_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/2fce4173-f949-4585-b35f-96197217f23a_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/b652be20-a3eb-4e23-9900-ad5a5443779e_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/b652be20-a3eb-4e23-9900-ad5a5443779e_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/fb0882a2-b7a9-48b7-9cd1-19c4bbb021d7_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/89a7fcf6-40fc-48c5-939f-a4e4c6f9dfa7_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/2fce4173-f949-4585-b35f-96197217f23a_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/b652be20-a3eb-4e23-9900-ad5a5443779e_size300x390_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611434/fb0882a2-b7a9-48b7-9cd1-19c4bbb021d7_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/acev-cache-constance-canta-01567/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.542Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 33,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.699,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2699.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.699,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "09994866e17729ab2c0cf377abfc4dd41c6f4941d2d63cd44ffa08842124a61e",
     "title": "AÇEV Cache Çift Taraflı Carmen Çanta",
     "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/7c94798c-0f6d-43c9-9649-9f880ca1efc9_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/7c94798c-0f6d-43c9-9649-9f880ca1efc9_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/ccd5dd2d-da0b-4e9e-b221-d657831bc1a2_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/ccd5dd2d-da0b-4e9e-b221-d657831bc1a2_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/7c94798c-0f6d-43c9-9649-9f880ca1efc9_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/7c94798c-0f6d-43c9-9649-9f880ca1efc9_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/c6a4f1be-169c-47b0-999f-8db30393f9fa_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/c6a4f1be-169c-47b0-999f-8db30393f9fa_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/7c94798c-0f6d-43c9-9649-9f880ca1efc9_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/ccd5dd2d-da0b-4e9e-b221-d657831bc1a2_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/7c94798c-0f6d-43c9-9649-9f880ca1efc9_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/c6a4f1be-169c-47b0-999f-8db30393f9fa_size300x390_cropCenter.jpg"
     ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/7c94798c-0f6d-43c9-9649-9f880ca1efc9_size900x1170_cropCenter.jpg",
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611433/ccd5dd2d-da0b-4e9e-b221-d657831bc1a2_size900x1170_cropCenter.jpg",
     "link": "https://www.marksandspencer.com.tr/acev-cache-cift-tarafli-carmen-canta-01559/",
     "videos": [],
     "productNotInStock": false,
@@ -3024,9 +3517,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.593Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 34,
+    "timestamp": "2025-11-10T05:19:05.497Z",
+    "processId": "mhsozu3h43x14",
+    "index": 39,
     "categories": {
       "productType": [
         "çanta"
@@ -3074,20 +3567,19 @@
     "id": "75d0ffc7cbc332936a55759fb817ca288a3d200139ac2c61e05521dbf9407706",
     "title": "AÇEV Cache Cathy Çanta",
     "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/ba27e29d-a6cd-435c-ac90-fce617ce90af_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/ba27e29d-a6cd-435c-ac90-fce617ce90af_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/70ccca95-c0b8-428e-bece-cd528a5befe9_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/70ccca95-c0b8-428e-bece-cd528a5befe9_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/d1e47276-01a7-4804-bc59-091ca901b803_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/d1e47276-01a7-4804-bc59-091ca901b803_size500x650_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/b9a31677-ab89-474d-a2b9-f70af09a694d_size900x1170_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/b9a31677-ab89-474d-a2b9-f70af09a694d_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/ba27e29d-a6cd-435c-ac90-fce617ce90af_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/70ccca95-c0b8-428e-bece-cd528a5befe9_size300x390_cropCenter.jpg",
       "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/d1e47276-01a7-4804-bc59-091ca901b803_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/b9a31677-ab89-474d-a2b9-f70af09a694d_size300x390_cropCenter.jpg"
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/b9a31677-ab89-474d-a2b9-f70af09a694d_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/ba27e29d-a6cd-435c-ac90-fce617ce90af_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/ba27e29d-a6cd-435c-ac90-fce617ce90af_size500x650_cropCenter.jpg"
     ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/ba27e29d-a6cd-435c-ac90-fce617ce90af_size900x1170_cropCenter.jpg",
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2023/06/23/611442/70ccca95-c0b8-428e-bece-cd528a5befe9_size900x1170_cropCenter.jpg",
     "link": "https://www.marksandspencer.com.tr/acev-cache-cathy-canta-01583/",
     "videos": [],
     "productNotInStock": false,
@@ -3100,11 +3592,11 @@
       "bestPriceSelector": ".product-item__price pz-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.648Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 35,
+    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer - Sayfa 2",
+    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/?page=2",
+    "timestamp": "2025-11-10T05:19:14.660Z",
+    "processId": "mhsp01ambvvnt",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta"
@@ -3149,411 +3641,23 @@
     }
   },
   {
-    "id": "d6a03d8153f4cc91f7828e4a3ac59a07c5cb5e9df00d84d4c43a71b2ea7f58af",
-    "title": "Parlak Deri Omuz Çantası",
+    "id": "46ae4a1b40bca3be9230a761cb84dce10230865c236b1f2710f8bd314d285bf5",
+    "title": "2’li Pamuk Karışımlı Seyahat Çantası",
     "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/9e2e470c-b774-4535-a8b1-4db13066d9d6_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/9e2e470c-b774-4535-a8b1-4db13066d9d6_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/a86ca349-01fa-4a83-8893-1477709b12c3_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/a86ca349-01fa-4a83-8893-1477709b12c3_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/efd75de0-e6aa-49d8-89a4-e04e73014251_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/efd75de0-e6aa-49d8-89a4-e04e73014251_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/f356b0ba-2d7f-4bac-8412-00d25426ffc8_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/f356b0ba-2d7f-4bac-8412-00d25426ffc8_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/9e2e470c-b774-4535-a8b1-4db13066d9d6_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/a86ca349-01fa-4a83-8893-1477709b12c3_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/efd75de0-e6aa-49d8-89a4-e04e73014251_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/f356b0ba-2d7f-4bac-8412-00d25426ffc8_size300x390_cropCenter.jpg"
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/a8d7960d-b336-425b-afd9-9a37e940d35c_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/a8d7960d-b336-425b-afd9-9a37e940d35c_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/767068da-1823-4920-b07f-e27faf5d3883_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/767068da-1823-4920-b07f-e27faf5d3883_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/3bfd1e2b-f1bb-40c5-bfe2-80f3dd0e2ddb_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/3bfd1e2b-f1bb-40c5-bfe2-80f3dd0e2ddb_size500x650_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/a8d7960d-b336-425b-afd9-9a37e940d35c_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/767068da-1823-4920-b07f-e27faf5d3883_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/3bfd1e2b-f1bb-40c5-bfe2-80f3dd0e2ddb_size300x390_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/8cf70c45-41c4-4ee3-9661-b9dcf5a077a4_size900x1170_cropCenter.jpg",
+      "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/8cf70c45-41c4-4ee3-9661-b9dcf5a077a4_size500x650_cropCenter.jpg"
     ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818433/9e2e470c-b774-4535-a8b1-4db13066d9d6_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-bordo-parlak-deri-omuz-cantasi-10000001194281/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.703Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 36,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.499,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2499.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.499,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "768754ebb2c8d8d3133f01a0e19dc9944fc2282cf580f4767583fed82197898c",
-    "title": "Suni Deri Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/fd4045d5-e33c-4b09-b28a-a46cea4901aa_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/fd4045d5-e33c-4b09-b28a-a46cea4901aa_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/a62d9124-af14-4c0f-ba14-fac08954445a_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/a62d9124-af14-4c0f-ba14-fac08954445a_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/4ca0d189-32fc-414f-a29e-637ede391f2d_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/4ca0d189-32fc-414f-a29e-637ede391f2d_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/1f3adf84-003b-406d-9678-0adbd9a33349_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/1f3adf84-003b-406d-9678-0adbd9a33349_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/fd4045d5-e33c-4b09-b28a-a46cea4901aa_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/a62d9124-af14-4c0f-ba14-fac08954445a_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/4ca0d189-32fc-414f-a29e-637ede391f2d_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/1f3adf84-003b-406d-9678-0adbd9a33349_size300x390_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/03/818439/fd4045d5-e33c-4b09-b28a-a46cea4901aa_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-kahverengi-suni-deri-canta-10000001194292/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.761Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 37,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "suni deri çanta",
-        "floater deri çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "suni deri çanta",
-        "suni",
-        "floater deri çanta",
-        "floater"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d0fc06e7cbc4364efcb817ac55e81368c804de1c8b87cdeb79d4cfa1d63da873",
-    "title": "Süet Mini Omuz ve Çapraz Askılı Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/b7d3b9a2-6588-4db4-b078-3cd41f2dcaff_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/b7d3b9a2-6588-4db4-b078-3cd41f2dcaff_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/2fcd9e5a-8161-4d34-b717-5a4ecb0bb9ea_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/2fcd9e5a-8161-4d34-b717-5a4ecb0bb9ea_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/d14e9d18-39ff-48b2-9292-bbee449d0b6c_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/d14e9d18-39ff-48b2-9292-bbee449d0b6c_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/7e4a01ba-4724-4978-8c87-6dcfb75bfde6_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/7e4a01ba-4724-4978-8c87-6dcfb75bfde6_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/b7d3b9a2-6588-4db4-b078-3cd41f2dcaff_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/2fcd9e5a-8161-4d34-b717-5a4ecb0bb9ea_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/d14e9d18-39ff-48b2-9292-bbee449d0b6c_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/7e4a01ba-4724-4978-8c87-6dcfb75bfde6_size300x390_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/14/807090/b7d3b9a2-6588-4db4-b078-3cd41f2dcaff_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-yesil-suet-mini-omuz-ve-capraz-askili-canta-10000001194222/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.814Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 38,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "çapraz çanta",
-        "zincir askılı çanta",
-        "süet çanta",
-        "mini çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "süet çanta",
-        "süet",
-        "mini çanta",
-        "mini",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.699,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1699.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.699,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "18aff842fc6154e09f018ef5c9de3295448ffacd13ef88556f6db9170d3f95ec",
-    "title": "Suni Deri Çapraz Askılı Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/a39d1bca-58c7-4d35-a7a8-f08301a57af1_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/a39d1bca-58c7-4d35-a7a8-f08301a57af1_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/b1d1074f-20ec-4cf8-bd46-b93fc26fd93d_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/b1d1074f-20ec-4cf8-bd46-b93fc26fd93d_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/78943bf8-d40d-40fe-a6d0-4a5b5fa9c727_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/78943bf8-d40d-40fe-a6d0-4a5b5fa9c727_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/a39d1bca-58c7-4d35-a7a8-f08301a57af1_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/b1d1074f-20ec-4cf8-bd46-b93fc26fd93d_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/78943bf8-d40d-40fe-a6d0-4a5b5fa9c727_size300x390_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/16/823743/a39d1bca-58c7-4d35-a7a8-f08301a57af1_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-siyah-suni-deri-capraz-askili-canta-10000001194221/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-11-03T05:18:42.865Z",
-    "processId": "mhiowdyu6xu2y",
-    "index": 39,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "deri çanta",
-        "suni deri çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "floater deri çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "deri çanta",
-        "leather",
-        "deri",
-        "suni deri çanta",
-        "suni",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "floater deri çanta",
-        "floater"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.499,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2499.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.499,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "f729222901867e5059103bca92a5dac993f2cf18fed8cd7ffea78dfa45b512a0",
-    "title": "Suni Deri Çapraz Askılı Çanta",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/149811f4-99c5-4920-8eea-3948c7b3f408_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/149811f4-99c5-4920-8eea-3948c7b3f408_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/9a202d2a-2534-4d85-b8a3-56857ddfb2f2_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/9a202d2a-2534-4d85-b8a3-56857ddfb2f2_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/81427bfd-1cce-4960-b6e3-072466ec663a_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/81427bfd-1cce-4960-b6e3-072466ec663a_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/149811f4-99c5-4920-8eea-3948c7b3f408_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/9a202d2a-2534-4d85-b8a3-56857ddfb2f2_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/81427bfd-1cce-4960-b6e3-072466ec663a_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/b2f96bef-27bd-4a04-a856-f6e0db1eb8af_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/b2f96bef-27bd-4a04-a856-f6e0db1eb8af_size500x650_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820161/149811f4-99c5-4920-8eea-3948c7b3f408_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-kirmizi-suni-deri-capraz-askili-canta-10000001194235/",
+    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/11/05/828275/a8d7960d-b336-425b-afd9-9a37e940d35c_size900x1170_cropCenter.jpg",
+    "link": "https://www.marksandspencer.com.tr/kadin-siyah-mix-2li-pamuk-karisimli-seyahat-cantasi-10000001003186/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -3567,19 +3671,12 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer - Sayfa 2",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/?page=2",
-    "timestamp": "2025-11-03T05:18:51.611Z",
-    "processId": "mhiowku3egt7y",
-    "index": 0,
+    "timestamp": "2025-11-10T05:19:14.720Z",
+    "processId": "mhsp01ambvvnt",
+    "index": 1,
     "categories": {
       "productType": [
-        "çanta",
-        "çapraz çanta",
-        "deri çanta",
-        "suni deri çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "floater deri çanta"
+        "çanta"
       ]
     },
     "seo": {
@@ -3587,28 +3684,7 @@
         "çanta",
         "çantası",
         "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "deri çanta",
-        "leather",
-        "deri",
-        "suni deri çanta",
-        "suni",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "floater deri çanta",
-        "floater"
+        "çantasi"
       ]
     },
     "imgValid": true,
@@ -3624,16 +3700,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.499,95 TL",
+          "value": "899,95 TL",
           "selector": ".product-item__price pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2499.95,
+          "numericValue": 899.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.499,95"
+          "displayPrice": "₺899,95"
         }
       ],
       "priceValid": true,
@@ -3672,9 +3748,9 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer - Sayfa 2",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/?page=2",
-    "timestamp": "2025-11-03T05:18:51.670Z",
-    "processId": "mhiowku3egt7y",
-    "index": 1,
+    "timestamp": "2025-11-10T05:19:14.777Z",
+    "processId": "mhsp01ambvvnt",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta"
@@ -3731,92 +3807,6 @@
     }
   },
   {
-    "id": "3ddf8d1ea2f43cea7b6ce6b898340fd68278c51731e391b8e90ee73ec656805d",
-    "title": "Parlak Deri Omuz Çantası",
-    "img": [
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/f8861c98-ff82-44d4-ae5f-f63e9aa4a5c5_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/f8861c98-ff82-44d4-ae5f-f63e9aa4a5c5_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/8d4e6e6c-ee66-4a13-8591-6060b6162d44_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/8d4e6e6c-ee66-4a13-8591-6060b6162d44_size500x650_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/f8861c98-ff82-44d4-ae5f-f63e9aa4a5c5_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/8d4e6e6c-ee66-4a13-8591-6060b6162d44_size300x390_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/84741690-21eb-46e4-acab-6f814ca55c82_size900x1170_cropCenter.jpg",
-      "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/84741690-21eb-46e4-acab-6f814ca55c82_size500x650_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a53e12.a-cdn.akinoncloud.com/products/2025/10/08/820156/f8861c98-ff82-44d4-ae5f-f63e9aa4a5c5_size900x1170_cropCenter.jpg",
-    "link": "https://www.marksandspencer.com.tr/kadin-siyah-parlak-deri-omuz-cantasi-10000001194282/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer - Sayfa 2",
-    "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/?page=2",
-    "timestamp": "2025-11-03T05:18:51.722Z",
-    "processId": "mhiowku3egt7y",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.499,95 TL",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2499.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.499,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "4bd841f6a1175205acf530f0d865b218823e2b66b54ad1e9dbab26720a926913",
     "title": "%47\nHasır İp Askılı Tote Çanta",
     "img": [
@@ -3847,8 +3837,8 @@
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer - Sayfa 2",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/?page=2",
-    "timestamp": "2025-11-03T05:18:51.760Z",
-    "processId": "mhiowku3egt7y",
+    "timestamp": "2025-11-10T05:19:14.829Z",
+    "processId": "mhsp01ambvvnt",
     "index": 3,
     "categories": {
       "productType": [
