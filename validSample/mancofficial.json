@@ -9,20 +9,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=136 136w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=160 160w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=180 180w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=220 220w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=254 254w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=284 284w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=292 292w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=320 320w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=480 480w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=528 528w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=640 640w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=720 720w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=960 960w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=1080 1080w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=1296 1296w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=1512 1512w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=1728 1728w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=1950 1950w, //mancofficial.com/cdn/shop/files/19_03211d38-eb80-4ac0-bddb-fc1e158f45b9.png?v=1757325777&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-merlot-croc",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.553Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.296Z",
+    "processId": "mhsqnyyw8195w",
     "index": 0,
     "categories": {
       "productType": [
@@ -43,21 +43,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$575.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 575,
-          "unsetPrice": false,
-          "convertedPrice": 575,
-          "displayPrice": "₺575,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -72,20 +59,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=136 136w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=160 160w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=180 180w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=220 220w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=254 254w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=284 284w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=292 292w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=320 320w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=480 480w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=528 528w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=640 640w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=720 720w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=960 960w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=1080 1080w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=1296 1296w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=1512 1512w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=1728 1728w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=1950 1950w, //mancofficial.com/cdn/shop/files/15_4521aa90-cb61-47d0-9349-01ada64656c1.png?v=1757325775&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-tassel",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.582Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.348Z",
+    "processId": "mhsqnyyw8195w",
     "index": 1,
     "categories": {
       "productType": [
@@ -106,21 +93,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$600.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 600,
-          "unsetPrice": false,
-          "convertedPrice": 600,
-          "displayPrice": "₺600,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -135,20 +109,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-snow-white-pre-order-268856.png?v=1748544410&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-snow-white",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.622Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.397Z",
+    "processId": "mhsqnyyw8195w",
     "index": 2,
     "categories": {
       "productType": [
@@ -175,21 +149,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -204,20 +165,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-vanilla-pre-order-848007.png?v=1748428140&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-vanilla",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.652Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.440Z",
+    "processId": "mhsqnyyw8195w",
     "index": 3,
     "categories": {
       "productType": [
@@ -238,21 +199,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -267,20 +215,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-brown-sugar-540692.png?v=1747191249&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-brown-sugar",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.693Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.479Z",
+    "processId": "mhsqnyyw8195w",
     "index": 4,
     "categories": {
       "productType": [
@@ -310,21 +258,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -339,20 +274,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-granite-853953.png?v=1747191248&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-granite",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.726Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.515Z",
+    "processId": "mhsqnyyw8195w",
     "index": 5,
     "categories": {
       "productType": [
@@ -373,21 +308,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -402,20 +324,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-crimson-697648.png?v=1747191249&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-crimson",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.764Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.552Z",
+    "processId": "mhsqnyyw8195w",
     "index": 6,
     "categories": {
       "productType": [
@@ -436,21 +358,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -465,20 +374,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-copper-498089.png?v=1747191248&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-copper",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.801Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.589Z",
+    "processId": "mhsqnyyw8195w",
     "index": 7,
     "categories": {
       "productType": [
@@ -499,21 +408,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -528,20 +424,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-rouge-pre-order-358914.png?v=1741299489&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-rouge",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.849Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.625Z",
+    "processId": "mhsqnyyw8195w",
     "index": 8,
     "categories": {
       "productType": [
@@ -562,21 +458,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -591,20 +474,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-matcha-pre-order-645233.png?v=1741299492&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-matcha",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.904Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.662Z",
+    "processId": "mhsqnyyw8195w",
     "index": 9,
     "categories": {
       "productType": [
@@ -625,21 +508,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -654,20 +524,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-white-pre-order-192833.png?v=1741299489&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-white",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.941Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.701Z",
+    "processId": "mhsqnyyw8195w",
     "index": 10,
     "categories": {
       "productType": [
@@ -694,21 +564,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -723,20 +580,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-gold-669781.png?v=1746396492&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-baby-blue-gold",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:23.975Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.726Z",
+    "processId": "mhsqnyyw8195w",
     "index": 11,
     "categories": {
       "productType": [
@@ -764,21 +621,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -793,20 +637,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=136 136w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=160 160w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=180 180w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=220 220w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=254 254w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=284 284w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=292 292w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=320 320w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=480 480w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=528 528w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=640 640w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=720 720w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=960 960w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=1080 1080w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=1296 1296w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=1512 1512w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=1728 1728w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=1950 1950w, //mancofficial.com/cdn/shop/files/zouzou-nano-baby-blue-pre-order-195144.png?v=1741299494&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-nano-baby-blue",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.006Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.752Z",
+    "processId": "mhsqnyyw8195w",
     "index": 12,
     "categories": {
       "productType": [
@@ -827,21 +671,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -868,8 +699,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.042Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.780Z",
+    "processId": "mhsqnyyw8195w",
     "index": 13,
     "categories": {
       "productType": [
@@ -940,8 +771,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.077Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.821Z",
+    "processId": "mhsqnyyw8195w",
     "index": 14,
     "categories": {
       "productType": [
@@ -1003,8 +834,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.114Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.858Z",
+    "processId": "mhsqnyyw8195w",
     "index": 15,
     "categories": {
       "productType": [
@@ -1054,20 +885,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=136 136w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=160 160w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=180 180w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=220 220w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=254 254w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=284 284w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=292 292w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=320 320w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=480 480w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=528 528w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=640 640w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=720 720w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=960 960w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=1080 1080w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=1296 1296w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=1512 1512w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=1728 1728w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=1950 1950w, //mancofficial.com/cdn/shop/files/5_072177fc-b4c6-419e-be4f-95dee2e71d3e.png?v=1757325774&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/zouzou-26-teddy-cookie",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.151Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.895Z",
+    "processId": "mhsqnyyw8195w",
     "index": 16,
     "categories": {
       "productType": [
@@ -1088,21 +919,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$800.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 800,
-          "unsetPrice": false,
-          "convertedPrice": 800,
-          "displayPrice": "₺800,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -1129,8 +947,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.184Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.931Z",
+    "processId": "mhsqnyyw8195w",
     "index": 17,
     "categories": {
       "productType": [
@@ -1198,8 +1016,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.212Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.957Z",
+    "processId": "mhsqnyyw8195w",
     "index": 18,
     "categories": {
       "productType": [
@@ -1255,20 +1073,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=136 136w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=160 160w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=180 180w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=220 220w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=254 254w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=284 284w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=292 292w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=320 320w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=480 480w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=528 528w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=640 640w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=720 720w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=960 960w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=1080 1080w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=1296 1296w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=1512 1512w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=1728 1728w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=1950 1950w, //mancofficial.com/cdn/shop/files/lilithsmokegray1.png?v=1729280676&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/lilith-smoke-gray",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.247Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:50.992Z",
+    "processId": "mhsqnyyw8195w",
     "index": 19,
     "categories": {
       "productType": [
@@ -1289,21 +1107,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$475.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 475,
-          "unsetPrice": false,
-          "convertedPrice": 475,
-          "displayPrice": "₺475,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -1330,8 +1135,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.272Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:51.026Z",
+    "processId": "mhsqnyyw8195w",
     "index": 20,
     "categories": {
       "productType": [
@@ -1393,8 +1198,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.307Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:51.061Z",
+    "processId": "mhsqnyyw8195w",
     "index": 21,
     "categories": {
       "productType": [
@@ -1462,8 +1267,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.345Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:51.097Z",
+    "processId": "mhsqnyyw8195w",
     "index": 22,
     "categories": {
       "productType": [
@@ -1525,8 +1330,8 @@
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-11-03T06:06:24.384Z",
-    "processId": "mhiqlpxgrcp8v",
+    "timestamp": "2025-11-10T06:05:51.139Z",
+    "processId": "mhsqnyyw8195w",
     "index": 23,
     "categories": {
       "productType": [
@@ -1588,8 +1393,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:37.868Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.676Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 0,
     "categories": {
       "productType": [
@@ -1651,8 +1456,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:37.901Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.711Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 1,
     "categories": {
       "productType": [
@@ -1714,8 +1519,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:37.934Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.739Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 2,
     "categories": {
       "productType": [
@@ -1777,8 +1582,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:37.969Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.774Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 3,
     "categories": {
       "productType": [
@@ -1840,8 +1645,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.003Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.812Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 4,
     "categories": {
       "productType": [
@@ -1903,8 +1708,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.039Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.850Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 5,
     "categories": {
       "productType": [
@@ -1954,20 +1759,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=136 136w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=160 160w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=180 180w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=220 220w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=254 254w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=284 284w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=292 292w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=320 320w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=480 480w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=528 528w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=640 640w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=720 720w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=960 960w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=1080 1080w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=1296 1296w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=1512 1512w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=1728 1728w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=1950 1950w, //mancofficial.com/cdn/shop/files/miri-tote-black-797106.png?v=1733377578&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/miri-tote-black",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.075Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.885Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 6,
     "categories": {
       "productType": [
@@ -1994,21 +1799,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$390.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 390,
-          "unsetPrice": false,
-          "convertedPrice": 390,
-          "displayPrice": "₺390,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -2035,8 +1827,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.110Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.919Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 7,
     "categories": {
       "productType": [
@@ -2107,8 +1899,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.145Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.957Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 8,
     "categories": {
       "productType": [
@@ -2158,20 +1950,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=136 136w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=160 160w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=180 180w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=220 220w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=254 254w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=284 284w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=292 292w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=320 320w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=480 480w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=528 528w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=640 640w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=720 720w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=960 960w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=1080 1080w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=1296 1296w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=1512 1512w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=1728 1728w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=1950 1950w, //mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/mayfair-red",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.182Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:04.997Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 9,
     "categories": {
       "productType": [
@@ -2199,21 +1991,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$550.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 550,
-          "unsetPrice": false,
-          "convertedPrice": 550,
-          "displayPrice": "₺550,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -2228,20 +2007,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=136 136w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=160 160w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=180 180w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=220 220w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=254 254w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=284 284w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=292 292w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=320 320w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=480 480w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=528 528w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=640 640w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=720 720w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=960 960w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=1080 1080w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=1296 1296w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=1512 1512w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=1728 1728w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=1950 1950w, //mancofficial.com/cdn/shop/files/14_6a3b51bc-1f1e-4f4f-aeb9-1470cc961bce.png?v=1757326947&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/mayfair-green",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.217Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.036Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 10,
     "categories": {
       "productType": [
@@ -2262,21 +2041,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$550.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 550,
-          "unsetPrice": false,
-          "convertedPrice": 550,
-          "displayPrice": "₺550,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -2291,20 +2057,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=136 136w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=160 160w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=180 180w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=220 220w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=254 254w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=284 284w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=292 292w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=320 320w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=480 480w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=528 528w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=640 640w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=720 720w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=960 960w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=1080 1080w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=1296 1296w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=1512 1512w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=1728 1728w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=1950 1950w, //mancofficial.com/cdn/shop/files/11_4_1a3e385c-2629-44f2-86a9-42f45a972d09.png?v=1757327257&width=2048 2048w",
     "link": "https://mancofficial.com/collections/handbags/products/regina-george-red",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.253Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.076Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 11,
     "categories": {
       "productType": [
@@ -2332,21 +2098,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$550.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 550,
-          "unsetPrice": false,
-          "convertedPrice": 550,
-          "displayPrice": "₺550,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -2361,20 +2114,20 @@
     "primaryImg": "//mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=136 136w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=160 160w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=180 180w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=220 220w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=254 254w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=284 284w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=292 292w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=320 320w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=480 480w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=528 528w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=640 640w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=720 720w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=960 960w, //mancofficial.com/cdn/shop/files/1_36ddf3a6-b705-4355-a7d3-d6d201935169.png?v=1757327258&width=1000 1000w",
     "link": "https://mancofficial.com/collections/handbags/products/regina-george-green",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.new-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.285Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.112Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 12,
     "categories": {
       "productType": [
@@ -2395,21 +2148,8 @@
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$550.00 USD",
-          "selector": "span.new-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 550,
-          "unsetPrice": false,
-          "convertedPrice": 550,
-          "displayPrice": "₺550,00"
-        }
-      ],
-      "priceValid": true,
+      "parsedPrices": [],
+      "priceValid": false,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -2436,8 +2176,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.319Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.143Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 13,
     "categories": {
       "productType": [
@@ -2505,8 +2245,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.353Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.175Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 14,
     "categories": {
       "productType": [
@@ -2568,8 +2308,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.388Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.210Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 15,
     "categories": {
       "productType": [
@@ -2631,8 +2371,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.424Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.247Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 16,
     "categories": {
       "productType": [
@@ -2694,8 +2434,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.458Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.282Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 17,
     "categories": {
       "productType": [
@@ -2764,8 +2504,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.495Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.319Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 18,
     "categories": {
       "productType": [
@@ -2836,8 +2576,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.530Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.352Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 19,
     "categories": {
       "productType": [
@@ -2905,8 +2645,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.565Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.387Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 20,
     "categories": {
       "productType": [
@@ -2968,8 +2708,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.615Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.422Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 21,
     "categories": {
       "productType": [
@@ -3037,8 +2777,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.654Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.458Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 22,
     "categories": {
       "productType": [
@@ -3100,8 +2840,8 @@
     },
     "pageTitle": "HANDBAGS – Page 2 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=2",
-    "timestamp": "2025-11-03T06:06:38.687Z",
-    "processId": "mhiqm0yqazk4q",
+    "timestamp": "2025-11-10T06:06:05.493Z",
+    "processId": "mhsqoa0o7tzmw",
     "index": 23,
     "categories": {
       "productType": [
@@ -3163,8 +2903,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.482Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.129Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 0,
     "categories": {
       "productType": [
@@ -3226,8 +2966,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.518Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.164Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 1,
     "categories": {
       "productType": [
@@ -3289,8 +3029,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.557Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.200Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 2,
     "categories": {
       "productType": [
@@ -3352,8 +3092,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.590Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.239Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 3,
     "categories": {
       "productType": [
@@ -3422,8 +3162,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.626Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.274Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 4,
     "categories": {
       "productType": [
@@ -3485,8 +3225,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.665Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.310Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 5,
     "categories": {
       "productType": [
@@ -3548,8 +3288,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.700Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.344Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 6,
     "categories": {
       "productType": [
@@ -3611,8 +3351,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.728Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.377Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 7,
     "categories": {
       "productType": [
@@ -3661,8 +3401,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.764Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.412Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 8,
     "categories": {
       "productType": [
@@ -3711,8 +3451,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.799Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.446Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 9,
     "categories": {
       "productType": [
@@ -3767,8 +3507,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.832Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.479Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 10,
     "categories": {
       "productType": [
@@ -3817,8 +3557,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.870Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.522Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 11,
     "categories": {
       "productType": [
@@ -3867,8 +3607,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.909Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.553Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 12,
     "categories": {
       "productType": [
@@ -3923,8 +3663,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.944Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.588Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 13,
     "categories": {
       "productType": [
@@ -3973,8 +3713,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:53.981Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.616Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 14,
     "categories": {
       "productType": [
@@ -4023,8 +3763,8 @@
     },
     "pageTitle": "HANDBAGS – Page 3 – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags?page=3",
-    "timestamp": "2025-11-03T06:06:54.021Z",
-    "processId": "mhiqmcsnfrn5q",
+    "timestamp": "2025-11-10T06:06:19.651Z",
+    "processId": "mhsqokxy0sbgv",
     "index": 15,
     "categories": {
       "productType": [
