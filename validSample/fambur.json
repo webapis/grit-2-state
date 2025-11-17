@@ -23,8 +23,8 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-11-10T05:54:21.503Z",
-    "processId": "mhsq96yb5fv2s",
+    "timestamp": "2025-11-17T05:55:45.539Z",
+    "processId": "mi2qdyfo2wgwd",
     "index": 0,
     "categories": {
       "productType": [
@@ -58,16 +58,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "850.00TL",
+          "value": "975.00TL",
           "selector": ".item-price.textBase",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 850,
+          "numericValue": 975,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺850,00"
+          "displayPrice": "₺975,00"
         }
       ],
       "priceValid": true,
@@ -99,8 +99,8 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-11-10T05:54:21.541Z",
-    "processId": "mhsq96yb5fv2s",
+    "timestamp": "2025-11-17T05:55:45.575Z",
+    "processId": "mi2qdyfo2wgwd",
     "index": 1,
     "categories": {
       "productType": [
@@ -128,16 +128,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "550.00TL",
+          "value": "575.00TL",
           "selector": ".item-price.textBase",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 550,
+          "numericValue": 575,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺550,00"
+          "displayPrice": "₺575,00"
         }
       ],
       "priceValid": true,
@@ -169,8 +169,8 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-11-10T05:54:21.571Z",
-    "processId": "mhsq96yb5fv2s",
+    "timestamp": "2025-11-17T05:55:45.610Z",
+    "processId": "mi2qdyfo2wgwd",
     "index": 2,
     "categories": {
       "productType": [
@@ -198,16 +198,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "850.00TL",
+          "value": "975.00TL",
           "selector": ".item-price.textBase",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 850,
+          "numericValue": 975,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺850,00"
+          "displayPrice": "₺975,00"
         }
       ],
       "priceValid": true,
@@ -219,12 +219,12 @@
     "id": "fd06df83ca2aedd556418cb477c1a073cb0a1a12db3f20cbb0019710613e937b",
     "title": "Element Kanvas Çanta - Yeşil",
     "img": [
-      "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-04_01baca92-19d5-4510-8864-caa4fb6fef7a.jpg?v=1759096292&width={width}",
-      "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-04_01baca92-19d5-4510-8864-caa4fb6fef7a.jpg?v=1759096292",
       "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-01_6d8ab7b9-f39b-4d2c-b408-9bd6cddaa27f.jpg?v=1759096292&width={width}",
-      "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-01_6d8ab7b9-f39b-4d2c-b408-9bd6cddaa27f.jpg?v=1759096292"
+      "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-01_6d8ab7b9-f39b-4d2c-b408-9bd6cddaa27f.jpg?v=1759096292",
+      "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-04_01baca92-19d5-4510-8864-caa4fb6fef7a.jpg?v=1759096292&width={width}",
+      "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-04_01baca92-19d5-4510-8864-caa4fb6fef7a.jpg?v=1759096292"
     ],
-    "primaryImg": "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-04_01baca92-19d5-4510-8864-caa4fb6fef7a.jpg?v=1759096292&width={width}",
+    "primaryImg": "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-01_6d8ab7b9-f39b-4d2c-b408-9bd6cddaa27f.jpg?v=1759096292&width={width}",
     "link": "https://www.fambur.com/collections/canta/products/element-kanvas-canta-yesil",
     "videos": [],
     "productNotInStock": false,
@@ -232,15 +232,15 @@
       "linkSource": "titleElement (matched: a.product-name)",
       "matchedSelector": ".product-card",
       "titleSelectorMatched": "a.product-name",
-      "imgSelectorMatched": "[data-src]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-11-10T05:54:21.597Z",
-    "processId": "mhsq96yb5fv2s",
+    "timestamp": "2025-11-17T05:55:45.646Z",
+    "processId": "mi2qdyfo2wgwd",
     "index": 3,
     "categories": {
       "productType": [
@@ -272,16 +272,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "850.00TL",
+          "value": "900.00TL",
           "selector": ".item-price.textBase",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 850,
+          "numericValue": 900,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺850,00"
+          "displayPrice": "₺900,00"
         }
       ],
       "priceValid": true,
@@ -313,8 +313,8 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-11-10T05:54:21.627Z",
-    "processId": "mhsq96yb5fv2s",
+    "timestamp": "2025-11-17T05:55:45.683Z",
+    "processId": "mi2qdyfo2wgwd",
     "index": 4,
     "categories": {
       "productType": [
@@ -348,16 +348,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "850.00TL",
+          "value": "900.00TL",
           "selector": ".item-price.textBase",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 850,
+          "numericValue": 900,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺850,00"
+          "displayPrice": "₺900,00"
         }
       ],
       "priceValid": true,
