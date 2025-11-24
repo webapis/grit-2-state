@@ -1,5 +1,673 @@
 [
   {
+    "id": "f259d60894adc80e40af13e1edc116fecf9e961c055cc7edeb2add9a2cd95636",
+    "title": "Sigaro Süet Büyük Makyaj Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/sigaro-suet-buyuk-makyaj-cantasi-84ed-d.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/sigaro-suet-buyuk-makyaj-cantasi-84ed-d.jpg",
+    "link": "https://clothing.beautyomelette.com/sigaro-suet-buyuk-makyaj-cantasi-13677",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA - Sayfa 2",
+    "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
+    "timestamp": "2025-11-24T05:16:52.902Z",
+    "processId": "micp30bsnn878",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "büyük çanta",
+        "makyaj, kozmetik çantası",
+        "süet çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "makyaj, kozmetik çantası",
+        "makyaj",
+        "kozmetik",
+        "süet çanta",
+        "süet"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺5.600,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 5600,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺5.600,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "cb4266f4ccba95c2e48ce46bec0f2ff840d2b11deababe252441cf2d97e59ff4",
+    "title": "Kahverengi Süet Büyük Makyaj Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kahverengi-suet-buyuk-makyaj-cantasi--a370-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kahverengi-suet-buyuk-makyaj-cantasi--a370-.jpg",
+    "link": "https://clothing.beautyomelette.com/kahverengi-suet-buyuk-makyaj-cantasi-13678",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA - Sayfa 2",
+    "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
+    "timestamp": "2025-11-24T05:16:52.934Z",
+    "processId": "micp30bsnn878",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "büyük çanta",
+        "makyaj, kozmetik çantası",
+        "süet çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "makyaj, kozmetik çantası",
+        "makyaj",
+        "kozmetik",
+        "süet çanta",
+        "süet",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺5.600,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 5600,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺5.600,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "e574ae454c943b90c270b6f23c22bfe7ef4672d3eba1481b8580d9d223d295f9",
+    "title": "Haki Süet Büyük Makyaj Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/haki-suet-buyuk-makyaj-cantasi-820-f3.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/haki-suet-buyuk-makyaj-cantasi-820-f3.jpg",
+    "link": "https://clothing.beautyomelette.com/haki-suet-buyuk-makyaj-cantasi-13679",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA - Sayfa 2",
+    "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
+    "timestamp": "2025-11-24T05:16:52.974Z",
+    "processId": "micp30bsnn878",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "büyük çanta",
+        "makyaj, kozmetik çantası",
+        "süet çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "makyaj, kozmetik çantası",
+        "makyaj",
+        "kozmetik",
+        "süet çanta",
+        "süet"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺5.600,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 5600,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺5.600,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "6e5395eabf3146e1c76aa8469532b351364b87866a2e828c0af13ccf8178354c",
+    "title": "Kızıl Kahve Kırık Efektli Deri Büyük Makyaj Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kizil-kahve-kirik-efektli-deri-buyuk-m-4f6-4b.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kizil-kahve-kirik-efektli-deri-buyuk-m-4f6-4b.jpg",
+    "link": "https://clothing.beautyomelette.com/kizil-kahve-kirik-efektli-deri-buyuk-makyaj-cantasi-13680",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA - Sayfa 2",
+    "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
+    "timestamp": "2025-11-24T05:16:53.018Z",
+    "processId": "micp30bsnn878",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "büyük çanta",
+        "deri çanta",
+        "makyaj, kozmetik çantası",
+        "floater deri çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "deri çanta",
+        "leather",
+        "deri",
+        "makyaj, kozmetik çantası",
+        "makyaj",
+        "kozmetik",
+        "floater deri çanta",
+        "floater",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺5.600,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 5600,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺5.600,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "b212f77f3703c52576be4c48d13898f2d28d322d61e6aaf986b45a12daccd091",
+    "title": "Siyah Kırık Efektli Deri Büyük Makyaj Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/siyah-kirik-efektli-deri-buyuk-makyaj--eafc-d.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/siyah-kirik-efektli-deri-buyuk-makyaj--eafc-d.jpg",
+    "link": "https://clothing.beautyomelette.com/siyah-kirik-efektli-deri-buyuk-makyaj-cantasi-13681",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA - Sayfa 2",
+    "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
+    "timestamp": "2025-11-24T05:16:53.052Z",
+    "processId": "micp30bsnn878",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "büyük çanta",
+        "deri çanta",
+        "makyaj, kozmetik çantası",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "deri çanta",
+        "leather",
+        "deri",
+        "makyaj, kozmetik çantası",
+        "makyaj",
+        "kozmetik",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺5.600,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 5600,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺5.600,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "fad1d340380f6de90455d419c7b48dfe0d4eb151cb7d1d622c13ac2a0745bc05",
+    "title": "Kızıl Kahve Gabrielle Kırık Efektli Deri Day Bag Silver",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kizil-kahve-gabrielle-kirik-efektli-de-77d164.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kizil-kahve-gabrielle-kirik-efektli-de-77d164.jpg",
+    "link": "https://clothing.beautyomelette.com/kizil-kahve-gabrielle-kirik-efektli-deri-day-bag-silver-13674",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA - Sayfa 2",
+    "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
+    "timestamp": "2025-11-24T05:16:53.072Z",
+    "processId": "micp30bsnn878",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "kahverengi",
+        "gümüş/silver"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "gümüş/silver",
+        "gümüş",
+        "silver"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺19.500,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 19500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺19.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "e3d45f3f48b01abe36a357d93adb0d47d22338ef8a3d397a757a2793675d7f36",
+    "title": "Siyah Gabrielle Kırık Efektli Deri Day Bag Black",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/siyah-gabrielle-kirik-efektli-deri-day-bd8-4f.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/siyah-gabrielle-kirik-efektli-deri-day-bd8-4f.jpg",
+    "link": "https://clothing.beautyomelette.com/siyah-gabrielle-kirik-efektli-deri-day-bag-black-13675",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA - Sayfa 2",
+    "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
+    "timestamp": "2025-11-24T05:16:53.106Z",
+    "processId": "micp30bsnn878",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺19.500,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 19500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺19.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a1b69fff00d9328d41281f006cee4c1641c8baad39c6bce3f83f5cbc0f8b70b1",
+    "title": "Siyah Kırık Efektli Deri Kova Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/siyah-deri-buyuk-kova-canta-aef-79.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/siyah-deri-buyuk-kova-canta-aef-79.jpg",
+    "link": "https://clothing.beautyomelette.com/siyah-kirik-efektli-deri-kova-canta",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA - Sayfa 2",
+    "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
+    "timestamp": "2025-11-24T05:16:53.144Z",
+    "processId": "micp30bsnn878",
+    "index": 7,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺14.500,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 14500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺14.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "5b0c99edbefef47d26e492d9fb1e84c0313e9341704c5870961234734e8fe3ba",
     "title": "Kahverengi Süet Zarf Portföy Çanta",
     "img": [
@@ -20,9 +688,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.271Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 0,
+    "timestamp": "2025-11-24T05:16:53.178Z",
+    "processId": "micp30bsnn878",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -100,9 +768,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.303Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 1,
+    "timestamp": "2025-11-24T05:16:53.212Z",
+    "processId": "micp30bsnn878",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -184,9 +852,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.336Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 2,
+    "timestamp": "2025-11-24T05:16:53.245Z",
+    "processId": "micp30bsnn878",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -265,9 +933,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.367Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 3,
+    "timestamp": "2025-11-24T05:16:53.282Z",
+    "processId": "micp30bsnn878",
+    "index": 11,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -338,9 +1006,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.430Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 4,
+    "timestamp": "2025-11-24T05:16:53.317Z",
+    "processId": "micp30bsnn878",
+    "index": 12,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -411,9 +1079,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.474Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 5,
+    "timestamp": "2025-11-24T05:16:53.351Z",
+    "processId": "micp30bsnn878",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -490,9 +1158,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.510Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 6,
+    "timestamp": "2025-11-24T05:16:53.390Z",
+    "processId": "micp30bsnn878",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -568,9 +1236,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.544Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 7,
+    "timestamp": "2025-11-24T05:16:53.430Z",
+    "processId": "micp30bsnn878",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -613,16 +1281,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺2.600,00",
+          "value": "₺2.800,00",
           "selector": ".discountPrice .discountPriceSpan",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2600,
+          "numericValue": 2800,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.600,00"
+          "displayPrice": "₺2.800,00"
         }
       ],
       "priceValid": true,
@@ -651,9 +1319,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.576Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 8,
+    "timestamp": "2025-11-24T05:16:53.467Z",
+    "processId": "micp30bsnn878",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -693,16 +1361,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺2.600,00",
+          "value": "₺2.800,00",
           "selector": ".discountPrice .discountPriceSpan",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2600,
+          "numericValue": 2800,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.600,00"
+          "displayPrice": "₺2.800,00"
         }
       ],
       "priceValid": true,
@@ -731,9 +1399,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.609Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 9,
+    "timestamp": "2025-11-24T05:16:53.505Z",
+    "processId": "micp30bsnn878",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -813,9 +1481,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.645Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 10,
+    "timestamp": "2025-11-24T05:16:53.540Z",
+    "processId": "micp30bsnn878",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -871,13 +1539,13 @@
     }
   },
   {
-    "id": "de5af5212fd36d7ac77ceb0aeba6a06ab9c9fd3c3695795052a56dda2fac65c4",
-    "title": "Siyah Deri Mini Kova Çanta",
+    "id": "608b8bc38b628178c6eb32ef16aaca8945bb9930610ba838dce0befcf69bf42a",
+    "title": "Siyah Kırık Efektli Deri Mini Kova Çanta",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/siyah-deri-mini-kova-canta--4cb4-.jpg"
     ],
     "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/siyah-deri-mini-kova-canta--4cb4-.jpg",
-    "link": "https://clothing.beautyomelette.com/siyah-deri-mini-kova-canta-13580",
+    "link": "https://clothing.beautyomelette.com/siyah-kirik-efektli-deri-mini-kova-canta",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -891,9 +1559,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.676Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 11,
+    "timestamp": "2025-11-24T05:16:53.576Z",
+    "processId": "micp30bsnn878",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -973,9 +1641,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.708Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 12,
+    "timestamp": "2025-11-24T05:16:53.609Z",
+    "processId": "micp30bsnn878",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1051,9 +1719,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.743Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 13,
+    "timestamp": "2025-11-24T05:16:53.645Z",
+    "processId": "micp30bsnn878",
+    "index": 21,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -1124,9 +1792,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.776Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 14,
+    "timestamp": "2025-11-24T05:16:53.685Z",
+    "processId": "micp30bsnn878",
+    "index": 22,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -1194,9 +1862,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.807Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 15,
+    "timestamp": "2025-11-24T05:16:53.720Z",
+    "processId": "micp30bsnn878",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1273,9 +1941,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.842Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 16,
+    "timestamp": "2025-11-24T05:16:53.754Z",
+    "processId": "micp30bsnn878",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -1352,9 +2020,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.876Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 17,
+    "timestamp": "2025-11-24T05:16:53.792Z",
+    "processId": "micp30bsnn878",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -1433,9 +2101,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.907Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 18,
+    "timestamp": "2025-11-24T05:16:53.832Z",
+    "processId": "micp30bsnn878",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -1514,9 +2182,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.940Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 19,
+    "timestamp": "2025-11-24T05:16:53.868Z",
+    "processId": "micp30bsnn878",
+    "index": 27,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -1587,9 +2255,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:44.974Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 20,
+    "timestamp": "2025-11-24T05:16:53.906Z",
+    "processId": "micp30bsnn878",
+    "index": 28,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -1657,9 +2325,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.005Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 21,
+    "timestamp": "2025-11-24T05:16:53.942Z",
+    "processId": "micp30bsnn878",
+    "index": 29,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -1722,9 +2390,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.038Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 22,
+    "timestamp": "2025-11-24T05:16:53.978Z",
+    "processId": "micp30bsnn878",
+    "index": 30,
     "categories": {
       "productType": [
         "none"
@@ -1791,9 +2459,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.071Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 23,
+    "timestamp": "2025-11-24T05:16:54.016Z",
+    "processId": "micp30bsnn878",
+    "index": 31,
     "categories": {
       "productType": [
         "none"
@@ -1853,9 +2521,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.105Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 24,
+    "timestamp": "2025-11-24T05:16:54.047Z",
+    "processId": "micp30bsnn878",
+    "index": 32,
     "categories": {
       "productType": [
         "none"
@@ -1921,9 +2589,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.139Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 25,
+    "timestamp": "2025-11-24T05:16:54.083Z",
+    "processId": "micp30bsnn878",
+    "index": 33,
     "categories": {
       "productType": [
         "none"
@@ -1988,9 +2656,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.165Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 26,
+    "timestamp": "2025-11-24T05:16:54.117Z",
+    "processId": "micp30bsnn878",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -2059,9 +2727,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.196Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 27,
+    "timestamp": "2025-11-24T05:16:54.152Z",
+    "processId": "micp30bsnn878",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta"
@@ -2131,9 +2799,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.230Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 28,
+    "timestamp": "2025-11-24T05:16:54.191Z",
+    "processId": "micp30bsnn878",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta"
@@ -2203,9 +2871,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.265Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 29,
+    "timestamp": "2025-11-24T05:16:54.235Z",
+    "processId": "micp30bsnn878",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta"
@@ -2276,9 +2944,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.299Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 30,
+    "timestamp": "2025-11-24T05:16:54.273Z",
+    "processId": "micp30bsnn878",
+    "index": 38,
     "categories": {
       "productType": [
         "çanta",
@@ -2376,9 +3044,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.336Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 31,
+    "timestamp": "2025-11-24T05:16:54.310Z",
+    "processId": "micp30bsnn878",
+    "index": 39,
     "categories": {
       "productType": [
         "çanta",
@@ -2479,9 +3147,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.370Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 32,
+    "timestamp": "2025-11-24T05:16:54.346Z",
+    "processId": "micp30bsnn878",
+    "index": 40,
     "categories": {
       "productType": [
         "çanta",
@@ -2578,9 +3246,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.403Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 33,
+    "timestamp": "2025-11-24T05:16:54.381Z",
+    "processId": "micp30bsnn878",
+    "index": 41,
     "categories": {
       "productType": [
         "çanta"
@@ -2650,9 +3318,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.437Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 34,
+    "timestamp": "2025-11-24T05:16:54.416Z",
+    "processId": "micp30bsnn878",
+    "index": 42,
     "categories": {
       "productType": [
         "çanta"
@@ -2725,9 +3393,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.472Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 35,
+    "timestamp": "2025-11-24T05:16:54.446Z",
+    "processId": "micp30bsnn878",
+    "index": 43,
     "categories": {
       "productType": [
         "çanta",
@@ -2801,9 +3469,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.507Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 36,
+    "timestamp": "2025-11-24T05:16:54.481Z",
+    "processId": "micp30bsnn878",
+    "index": 44,
     "categories": {
       "productType": [
         "çanta",
@@ -2879,9 +3547,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.544Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 37,
+    "timestamp": "2025-11-24T05:16:54.511Z",
+    "processId": "micp30bsnn878",
+    "index": 45,
     "categories": {
       "productType": [
         "çanta",
@@ -2957,9 +3625,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.581Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 38,
+    "timestamp": "2025-11-24T05:16:54.545Z",
+    "processId": "micp30bsnn878",
+    "index": 46,
     "categories": {
       "productType": [
         "çanta",
@@ -3032,9 +3700,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.618Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 39,
+    "timestamp": "2025-11-24T05:16:54.582Z",
+    "processId": "micp30bsnn878",
+    "index": 47,
     "categories": {
       "productType": [
         "çanta",
@@ -3110,9 +3778,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.655Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 40,
+    "timestamp": "2025-11-24T05:16:54.616Z",
+    "processId": "micp30bsnn878",
+    "index": 48,
     "categories": {
       "productType": [
         "çanta",
@@ -3183,9 +3851,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.700Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 41,
+    "timestamp": "2025-11-24T05:16:54.654Z",
+    "processId": "micp30bsnn878",
+    "index": 49,
     "categories": {
       "productType": [
         "çanta",
@@ -3261,9 +3929,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.736Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 42,
+    "timestamp": "2025-11-24T05:16:54.691Z",
+    "processId": "micp30bsnn878",
+    "index": 50,
     "categories": {
       "productType": [
         "çanta",
@@ -3339,9 +4007,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.772Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 43,
+    "timestamp": "2025-11-24T05:16:54.727Z",
+    "processId": "micp30bsnn878",
+    "index": 51,
     "categories": {
       "productType": [
         "çanta",
@@ -3415,9 +4083,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.810Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 44,
+    "timestamp": "2025-11-24T05:16:54.766Z",
+    "processId": "micp30bsnn878",
+    "index": 52,
     "categories": {
       "productType": [
         "çanta",
@@ -3488,9 +4156,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.846Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 45,
+    "timestamp": "2025-11-24T05:16:54.804Z",
+    "processId": "micp30bsnn878",
+    "index": 53,
     "categories": {
       "productType": [
         "çanta",
@@ -3569,9 +4237,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.877Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 46,
+    "timestamp": "2025-11-24T05:16:54.840Z",
+    "processId": "micp30bsnn878",
+    "index": 54,
     "categories": {
       "productType": [
         "çanta",
@@ -3643,9 +4311,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.911Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 47,
+    "timestamp": "2025-11-24T05:16:54.878Z",
+    "processId": "micp30bsnn878",
+    "index": 55,
     "categories": {
       "productType": [
         "çanta",
@@ -3713,9 +4381,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.945Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 48,
+    "timestamp": "2025-11-24T05:16:54.914Z",
+    "processId": "micp30bsnn878",
+    "index": 56,
     "categories": {
       "productType": [
         "çanta",
@@ -3791,9 +4459,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:45.981Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 49,
+    "timestamp": "2025-11-24T05:16:54.946Z",
+    "processId": "micp30bsnn878",
+    "index": 57,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -3856,9 +4524,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.015Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 50,
+    "timestamp": "2025-11-24T05:16:54.977Z",
+    "processId": "micp30bsnn878",
+    "index": 58,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -3926,9 +4594,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.051Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 51,
+    "timestamp": "2025-11-24T05:16:55.011Z",
+    "processId": "micp30bsnn878",
+    "index": 59,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -3999,9 +4667,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.086Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 52,
+    "timestamp": "2025-11-24T05:16:55.046Z",
+    "processId": "micp30bsnn878",
+    "index": 60,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -4068,9 +4736,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.121Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 53,
+    "timestamp": "2025-11-24T05:16:55.081Z",
+    "processId": "micp30bsnn878",
+    "index": 61,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -4138,9 +4806,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.153Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 54,
+    "timestamp": "2025-11-24T05:16:55.116Z",
+    "processId": "micp30bsnn878",
+    "index": 62,
     "categories": {
       "productType": [
         "debriyaj çanta"
@@ -4211,9 +4879,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.187Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 55,
+    "timestamp": "2025-11-24T05:16:55.151Z",
+    "processId": "micp30bsnn878",
+    "index": 63,
     "categories": {
       "productType": [
         "çanta",
@@ -4291,9 +4959,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.223Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 56,
+    "timestamp": "2025-11-24T05:16:55.186Z",
+    "processId": "micp30bsnn878",
+    "index": 64,
     "categories": {
       "productType": [
         "çanta",
@@ -4371,9 +5039,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.256Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 57,
+    "timestamp": "2025-11-24T05:16:55.223Z",
+    "processId": "micp30bsnn878",
+    "index": 65,
     "categories": {
       "productType": [
         "çanta",
@@ -4453,9 +5121,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.291Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 58,
+    "timestamp": "2025-11-24T05:16:55.256Z",
+    "processId": "micp30bsnn878",
+    "index": 66,
     "categories": {
       "productType": [
         "çanta",
@@ -4535,9 +5203,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.327Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 59,
+    "timestamp": "2025-11-24T05:16:55.291Z",
+    "processId": "micp30bsnn878",
+    "index": 67,
     "categories": {
       "productType": [
         "çanta",
@@ -4615,9 +5283,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.359Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 60,
+    "timestamp": "2025-11-24T05:16:55.328Z",
+    "processId": "micp30bsnn878",
+    "index": 68,
     "categories": {
       "productType": [
         "çanta",
@@ -4691,9 +5359,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.393Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 61,
+    "timestamp": "2025-11-24T05:16:55.364Z",
+    "processId": "micp30bsnn878",
+    "index": 69,
     "categories": {
       "productType": [
         "çanta",
@@ -4771,9 +5439,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.430Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 62,
+    "timestamp": "2025-11-24T05:16:55.402Z",
+    "processId": "micp30bsnn878",
+    "index": 70,
     "categories": {
       "productType": [
         "çanta"
@@ -4850,9 +5518,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.465Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 63,
+    "timestamp": "2025-11-24T05:16:55.437Z",
+    "processId": "micp30bsnn878",
+    "index": 71,
     "categories": {
       "productType": [
         "çanta",
@@ -4931,9 +5599,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.500Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 64,
+    "timestamp": "2025-11-24T05:16:55.476Z",
+    "processId": "micp30bsnn878",
+    "index": 72,
     "categories": {
       "productType": [
         "çanta",
@@ -5009,9 +5677,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.536Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 65,
+    "timestamp": "2025-11-24T05:16:55.514Z",
+    "processId": "micp30bsnn878",
+    "index": 73,
     "categories": {
       "productType": [
         "çanta",
@@ -5088,9 +5756,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.572Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 66,
+    "timestamp": "2025-11-24T05:16:55.543Z",
+    "processId": "micp30bsnn878",
+    "index": 74,
     "categories": {
       "productType": [
         "çanta",
@@ -5170,9 +5838,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.608Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 67,
+    "timestamp": "2025-11-24T05:16:55.574Z",
+    "processId": "micp30bsnn878",
+    "index": 75,
     "categories": {
       "productType": [
         "çanta",
@@ -5255,9 +5923,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.641Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 68,
+    "timestamp": "2025-11-24T05:16:55.612Z",
+    "processId": "micp30bsnn878",
+    "index": 76,
     "categories": {
       "productType": [
         "çanta",
@@ -5334,9 +6002,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.675Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 69,
+    "timestamp": "2025-11-24T05:16:55.647Z",
+    "processId": "micp30bsnn878",
+    "index": 77,
     "categories": {
       "productType": [
         "çanta",
@@ -5419,9 +6087,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.710Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 70,
+    "timestamp": "2025-11-24T05:16:55.680Z",
+    "processId": "micp30bsnn878",
+    "index": 78,
     "categories": {
       "productType": [
         "çanta",
@@ -5504,9 +6172,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.743Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 71,
+    "timestamp": "2025-11-24T05:16:55.711Z",
+    "processId": "micp30bsnn878",
+    "index": 79,
     "categories": {
       "productType": [
         "çanta",
@@ -5587,9 +6255,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.777Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 72,
+    "timestamp": "2025-11-24T05:16:55.748Z",
+    "processId": "micp30bsnn878",
+    "index": 80,
     "categories": {
       "productType": [
         "çanta",
@@ -5671,9 +6339,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.813Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 73,
+    "timestamp": "2025-11-24T05:16:55.782Z",
+    "processId": "micp30bsnn878",
+    "index": 81,
     "categories": {
       "productType": [
         "çanta",
@@ -5753,9 +6421,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.845Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 74,
+    "timestamp": "2025-11-24T05:16:55.820Z",
+    "processId": "micp30bsnn878",
+    "index": 82,
     "categories": {
       "productType": [
         "çanta",
@@ -5838,9 +6506,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.877Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 75,
+    "timestamp": "2025-11-24T05:16:55.855Z",
+    "processId": "micp30bsnn878",
+    "index": 83,
     "categories": {
       "productType": [
         "çanta",
@@ -5920,9 +6588,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.909Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 76,
+    "timestamp": "2025-11-24T05:16:55.887Z",
+    "processId": "micp30bsnn878",
+    "index": 84,
     "categories": {
       "productType": [
         "çanta",
@@ -6003,9 +6671,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.944Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 77,
+    "timestamp": "2025-11-24T05:16:55.924Z",
+    "processId": "micp30bsnn878",
+    "index": 85,
     "categories": {
       "productType": [
         "çanta",
@@ -6086,9 +6754,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:46.978Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 78,
+    "timestamp": "2025-11-24T05:16:55.961Z",
+    "processId": "micp30bsnn878",
+    "index": 86,
     "categories": {
       "productType": [
         "çanta",
@@ -6168,9 +6836,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.015Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 79,
+    "timestamp": "2025-11-24T05:16:55.997Z",
+    "processId": "micp30bsnn878",
+    "index": 87,
     "categories": {
       "productType": [
         "çanta",
@@ -6250,9 +6918,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.052Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 80,
+    "timestamp": "2025-11-24T05:16:56.035Z",
+    "processId": "micp30bsnn878",
+    "index": 88,
     "categories": {
       "productType": [
         "çanta",
@@ -6336,9 +7004,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.089Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 81,
+    "timestamp": "2025-11-24T05:16:56.070Z",
+    "processId": "micp30bsnn878",
+    "index": 89,
     "categories": {
       "productType": [
         "çanta",
@@ -6416,9 +7084,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.126Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 82,
+    "timestamp": "2025-11-24T05:16:56.104Z",
+    "processId": "micp30bsnn878",
+    "index": 90,
     "categories": {
       "productType": [
         "çanta",
@@ -6496,9 +7164,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.157Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 83,
+    "timestamp": "2025-11-24T05:16:56.136Z",
+    "processId": "micp30bsnn878",
+    "index": 91,
     "categories": {
       "productType": [
         "çanta",
@@ -6580,9 +7248,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.190Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 84,
+    "timestamp": "2025-11-24T05:16:56.173Z",
+    "processId": "micp30bsnn878",
+    "index": 92,
     "categories": {
       "productType": [
         "çanta",
@@ -6664,9 +7332,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.235Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 85,
+    "timestamp": "2025-11-24T05:16:56.206Z",
+    "processId": "micp30bsnn878",
+    "index": 93,
     "categories": {
       "productType": [
         "çanta",
@@ -6744,9 +7412,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.272Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 86,
+    "timestamp": "2025-11-24T05:16:56.248Z",
+    "processId": "micp30bsnn878",
+    "index": 94,
     "categories": {
       "productType": [
         "çanta",
@@ -6831,9 +7499,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.302Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 87,
+    "timestamp": "2025-11-24T05:16:56.290Z",
+    "processId": "micp30bsnn878",
+    "index": 95,
     "categories": {
       "productType": [
         "çanta",
@@ -6916,9 +7584,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.339Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 88,
+    "timestamp": "2025-11-24T05:16:56.318Z",
+    "processId": "micp30bsnn878",
+    "index": 96,
     "categories": {
       "productType": [
         "çanta",
@@ -6997,9 +7665,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.375Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 89,
+    "timestamp": "2025-11-24T05:16:56.352Z",
+    "processId": "micp30bsnn878",
+    "index": 97,
     "categories": {
       "productType": [
         "çanta",
@@ -7080,9 +7748,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.408Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 90,
+    "timestamp": "2025-11-24T05:16:56.387Z",
+    "processId": "micp30bsnn878",
+    "index": 98,
     "categories": {
       "productType": [
         "çanta",
@@ -7160,9 +7828,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.444Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 91,
+    "timestamp": "2025-11-24T05:16:56.418Z",
+    "processId": "micp30bsnn878",
+    "index": 99,
     "categories": {
       "productType": [
         "çanta",
@@ -7246,9 +7914,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.480Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 92,
+    "timestamp": "2025-11-24T05:16:56.454Z",
+    "processId": "micp30bsnn878",
+    "index": 100,
     "categories": {
       "productType": [
         "çanta",
@@ -7328,9 +7996,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.512Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 93,
+    "timestamp": "2025-11-24T05:16:56.489Z",
+    "processId": "micp30bsnn878",
+    "index": 101,
     "categories": {
       "productType": [
         "çanta",
@@ -7395,9 +8063,9 @@
     "id": "94a4e79102a568de1ef1e6f51129f7f39f2240e3ebb80bede9c43c082a800c56",
     "title": "Kahverengi Gabrielle Süet Medium Bag Gold",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kahverengi-gabrielle-suet-medium-bag-g-9193d0.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kahverengi-gabrielle-suet-medium-bag-g--6f2e1.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kahverengi-gabrielle-suet-medium-bag-g-9193d0.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=479,quality=85/10821/uploads/urunresimleri/buyuk/kahverengi-gabrielle-suet-medium-bag-g--6f2e1.jpg",
     "link": "https://clothing.beautyomelette.com/kahverengi-gabrielle-suet-medium-bag-gold-12022",
     "videos": [],
     "productNotInStock": false,
@@ -7412,9 +8080,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.550Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 94,
+    "timestamp": "2025-11-24T05:16:56.526Z",
+    "processId": "micp30bsnn878",
+    "index": 102,
     "categories": {
       "productType": [
         "çanta",
@@ -7498,9 +8166,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.588Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 95,
+    "timestamp": "2025-11-24T05:16:56.565Z",
+    "processId": "micp30bsnn878",
+    "index": 103,
     "categories": {
       "productType": [
         "çanta",
@@ -7582,9 +8250,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.620Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 96,
+    "timestamp": "2025-11-24T05:16:56.599Z",
+    "processId": "micp30bsnn878",
+    "index": 104,
     "categories": {
       "productType": [
         "çanta",
@@ -7665,9 +8333,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.654Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 97,
+    "timestamp": "2025-11-24T05:16:56.632Z",
+    "processId": "micp30bsnn878",
+    "index": 105,
     "categories": {
       "productType": [
         "çanta",
@@ -7749,9 +8417,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.689Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 98,
+    "timestamp": "2025-11-24T05:16:56.662Z",
+    "processId": "micp30bsnn878",
+    "index": 106,
     "categories": {
       "productType": [
         "çanta",
@@ -7830,9 +8498,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.723Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 99,
+    "timestamp": "2025-11-24T05:16:56.697Z",
+    "processId": "micp30bsnn878",
+    "index": 107,
     "categories": {
       "productType": [
         "çanta",
@@ -7912,9 +8580,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.756Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 100,
+    "timestamp": "2025-11-24T05:16:56.731Z",
+    "processId": "micp30bsnn878",
+    "index": 108,
     "categories": {
       "productType": [
         "çanta",
@@ -7988,9 +8656,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.790Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 101,
+    "timestamp": "2025-11-24T05:16:56.763Z",
+    "processId": "micp30bsnn878",
+    "index": 109,
     "categories": {
       "productType": [
         "çanta",
@@ -8068,9 +8736,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.827Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 102,
+    "timestamp": "2025-11-24T05:16:56.802Z",
+    "processId": "micp30bsnn878",
+    "index": 110,
     "categories": {
       "productType": [
         "çanta",
@@ -8150,9 +8818,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.856Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 103,
+    "timestamp": "2025-11-24T05:16:56.836Z",
+    "processId": "micp30bsnn878",
+    "index": 111,
     "categories": {
       "productType": [
         "çanta",
@@ -8229,9 +8897,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.892Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 104,
+    "timestamp": "2025-11-24T05:16:56.869Z",
+    "processId": "micp30bsnn878",
+    "index": 112,
     "categories": {
       "productType": [
         "çanta",
@@ -8312,9 +8980,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.927Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 105,
+    "timestamp": "2025-11-24T05:16:56.900Z",
+    "processId": "micp30bsnn878",
+    "index": 113,
     "categories": {
       "productType": [
         "çanta",
@@ -8395,9 +9063,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.959Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 106,
+    "timestamp": "2025-11-24T05:16:56.932Z",
+    "processId": "micp30bsnn878",
+    "index": 114,
     "categories": {
       "productType": [
         "çanta"
@@ -8474,9 +9142,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:47.991Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 107,
+    "timestamp": "2025-11-24T05:16:56.966Z",
+    "processId": "micp30bsnn878",
+    "index": 115,
     "categories": {
       "productType": [
         "çanta",
@@ -8545,9 +9213,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:48.028Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 108,
+    "timestamp": "2025-11-24T05:16:56.997Z",
+    "processId": "micp30bsnn878",
+    "index": 116,
     "categories": {
       "productType": [
         "çanta",
@@ -8621,9 +9289,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:48.064Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 109,
+    "timestamp": "2025-11-24T05:16:57.024Z",
+    "processId": "micp30bsnn878",
+    "index": 117,
     "categories": {
       "productType": [
         "çanta"
@@ -8688,9 +9356,9 @@
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-11-17T05:14:48.098Z",
-    "processId": "mi2oxa5j9p3ao",
-    "index": 110,
+    "timestamp": "2025-11-24T05:16:57.057Z",
+    "processId": "micp30bsnn878",
+    "index": 118,
     "categories": {
       "productType": [
         "çanta"
