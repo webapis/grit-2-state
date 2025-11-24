@@ -21,8 +21,8 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.584Z",
-    "processId": "mi2ovhm0wkqnw",
+    "timestamp": "2025-11-24T05:15:18.000Z",
+    "processId": "micp0wjyofh96",
     "index": 0,
     "categories": {
       "productType": [
@@ -96,8 +96,8 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.648Z",
-    "processId": "mi2ovhm0wkqnw",
+    "timestamp": "2025-11-24T05:15:18.039Z",
+    "processId": "micp0wjyofh96",
     "index": 1,
     "categories": {
       "productType": [
@@ -133,16 +133,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.499,95 TL",
+          "value": "1.749,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2499.95,
+          "numericValue": 1749.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.499,95"
+          "displayPrice": "₺1.749,95"
         }
       ],
       "priceValid": true,
@@ -172,8 +172,8 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.704Z",
-    "processId": "mi2ovhm0wkqnw",
+    "timestamp": "2025-11-24T05:15:18.092Z",
+    "processId": "micp0wjyofh96",
     "index": 2,
     "categories": {
       "productType": [
@@ -224,14 +224,14 @@
     }
   },
   {
-    "id": "b0d588dcdeb67ecb377135d226cf6cb329cd8aaf988b692570d4944efe528068",
-    "title": "Olive Çanta\n+2 Renk",
+    "id": "24711d3aeaa2664ae3e4b255e9120b5e0e735f0d5e6aca6903ae787282bb2250",
+    "title": "Kahverengi Çanta\n+1 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_871_1.jpg",
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_871_2.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_615_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_615_2.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_871_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/olive-canta-p-12145392000-871",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_615_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/kahverengi-canta-p-12145404000-615",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -245,12 +245,15 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.743Z",
-    "processId": "mi2ovhm0wkqnw",
+    "timestamp": "2025-11-24T05:15:18.133Z",
+    "processId": "micp0wjyofh96",
     "index": 3,
     "categories": {
       "productType": [
         "çanta"
+      ],
+      "color": [
+        "kahverengi"
       ]
     },
     "seo": {
@@ -258,7 +261,12 @@
         "çanta",
         "çantası",
         "bag",
-        "çantasi"
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
       ]
     },
     "imgValid": true,
@@ -274,16 +282,617 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.299,95 TL",
+          "value": "2.999,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2299.95,
+          "numericValue": 2999.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.299,95"
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "b315bf55cdda8878eafa84de491d59a7c93913c0868368bcb3c1c0a0fc4dd15f",
+    "title": "Gold Parlak Deri Çanta\n+2 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_528_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_528_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_528_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/gold-parlak-deri-canta-p-12146142000-528",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.169Z",
+    "processId": "micp0wjyofh96",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "altın/gold"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "altın/gold",
+        "altın",
+        "gold"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "def2fba0c30dd4da90d0e112854fa99ccf80f098294021ad7c94edddc350212b",
+    "title": "Kahverengi Çanta\n+2 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145394000_010_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145394000_010_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145394000_010_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/kahverengi-canta-p-12145394000-010",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.206Z",
+    "processId": "micp0wjyofh96",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.799,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2799.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.799,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "47381084c1c62c11b42a2a4cb1e02cf61bbd859272ad452a006e410b47631d64",
+    "title": "Siyah Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_001_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_001_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145408000-001",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.242Z",
+    "processId": "micp0wjyofh96",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.449,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2449.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.449,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "210658271b2ee3f03b86843da20a8e2cc3a2660642be2fcb6ddb88ff3be9cb65",
+    "title": "Vizon Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_618_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_618_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_618_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/vizon-canta-p-12144170001-618",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.279Z",
+    "processId": "micp0wjyofh96",
+    "index": 7,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "vizon"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "vizon"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a14971ce05911945a7f6325066c64492180c7b7e8b400126ddeaa0175b6c5a38",
+    "title": "Siyah Çanta\n+2 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_001_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145392000-001",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.314Z",
+    "processId": "micp0wjyofh96",
+    "index": 8,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.599,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1599.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.599,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "bbdb8429f98de2bc9fe8d9515edafe0c361eeb69022b78c6addb968b6c908d5c",
+    "title": "Bordo Askılı Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145397000_012_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145397000_012_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/bordo-askili-canta-p-12145397000-012",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.349Z",
+    "processId": "micp0wjyofh96",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "bordo"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "bordo"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "2fcb63d6b45b43488408b8e0f8f5bd777ebff9265daff6f5788720bb5f8820ed",
+    "title": "Mürdüm Kumaş Kaplı Zincirli Çanta",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146061000_025_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146061000_025_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/murdum-kumas-kapli-zincirli-canta-p-12146061000-025",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.385Z",
+    "processId": "micp0wjyofh96",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "kumaş çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "kumaş çanta",
+        "kumaş"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.799,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1799.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.799,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "647bf2efef164d668bfec1263fe0a6259f9b065e82e8201491e0803229787544",
+    "title": "Bordo Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145405000_012_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145405000_012_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/bordo-canta-p-12145405000-012",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.419Z",
+    "processId": "micp0wjyofh96",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "bordo"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "bordo"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
         }
       ],
       "priceValid": true,
@@ -312,9 +921,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.780Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 4,
+    "timestamp": "2025-11-24T05:15:18.449Z",
+    "processId": "micp0wjyofh96",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta"
@@ -384,9 +993,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.812Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 5,
+    "timestamp": "2025-11-24T05:15:18.484Z",
+    "processId": "micp0wjyofh96",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta"
@@ -437,6 +1046,80 @@
     }
   },
   {
+    "id": "cea3b438f90ceabc100f96bbf4a021c6a0af0e4c3c592ea5b9e94df6c0e63ca6",
+    "title": "Lacivert Kumaş Kaplı Çanta",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146242000_018_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146242000_018_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/lacivert-kumas-kapli-canta-p-12146242000-018",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.523Z",
+    "processId": "micp0wjyofh96",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta",
+        "kumaş çanta"
+      ],
+      "color": [
+        "lacivert"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kumaş çanta",
+        "kumaş",
+        "lacivert"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.799,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1799.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.799,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "b7ee8142456fae2055d44e00da1745d1a6299c705a5381a2b3e992ff6c45e4ed",
     "title": "Yeşil Çanta\n+2 Renk",
     "img": [
@@ -457,9 +1140,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.840Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 6,
+    "timestamp": "2025-11-24T05:15:18.562Z",
+    "processId": "micp0wjyofh96",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
@@ -475,144 +1158,6 @@
         "bag",
         "çantasi",
         "yeşil"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.799,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2799.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "55b5fe0e1b8c0dd9bafc8be7ac59f8d8c618c248a88825aadac510fa265d729f",
-    "title": "Safran Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_077_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_077_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/safran-canta-p-12145393000-077",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.866Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.799,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2799.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "037845b50dc3ee195e5265c7a36e6b8abe808e40a581c77350c24ecd36f9295a",
-    "title": "Lacivert Çanta\n+1 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_018_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_018_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/lacivert-canta-p-12145395000-018",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.902Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "lacivert"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "lacivert"
       ]
     },
     "imgValid": true,
@@ -666,9 +1211,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.939Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 9,
+    "timestamp": "2025-11-24T05:15:18.592Z",
+    "processId": "micp0wjyofh96",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta"
@@ -718,13 +1263,13 @@
     }
   },
   {
-    "id": "47381084c1c62c11b42a2a4cb1e02cf61bbd859272ad452a006e410b47631d64",
-    "title": "Siyah Çanta\n+1 Renk",
+    "id": "037845b50dc3ee195e5265c7a36e6b8abe808e40a581c77350c24ecd36f9295a",
+    "title": "Lacivert Çanta\n+1 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_001_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_018_1.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_001_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145408000-001",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_018_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/lacivert-canta-p-12145395000-018",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -738,15 +1283,15 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:23.972Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 10,
+    "timestamp": "2025-11-24T05:15:18.646Z",
+    "processId": "micp0wjyofh96",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta"
       ],
       "color": [
-        "siyah"
+        "lacivert"
       ]
     },
     "seo": {
@@ -755,8 +1300,7 @@
         "çantası",
         "bag",
         "çantasi",
-        "siyah",
-        "black"
+        "lacivert"
       ]
     },
     "imgValid": true,
@@ -772,16 +1316,83 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3.499,95 TL",
+          "value": "2.799,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3499.95,
+          "numericValue": 2799.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.499,95"
+          "displayPrice": "₺2.799,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "55b5fe0e1b8c0dd9bafc8be7ac59f8d8c618c248a88825aadac510fa265d729f",
+    "title": "Safran Çanta\n+2 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_077_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_077_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/safran-canta-p-12145393000-077",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.687Z",
+    "processId": "micp0wjyofh96",
+    "index": 18,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.949,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1949.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.949,95"
         }
       ],
       "priceValid": true,
@@ -810,9 +1421,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.007Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 11,
+    "timestamp": "2025-11-24T05:15:18.723Z",
+    "processId": "micp0wjyofh96",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta"
@@ -861,151 +1472,6 @@
     }
   },
   {
-    "id": "6bd8ce102409ef4ab60c089f5da822cf340d8a357b593558cda68a82a177c169",
-    "title": "Kırmızı Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_006_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_006_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/kirmizi-canta-p-12145393000-006",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.043Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 12,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kırmızı"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.799,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2799.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a14971ce05911945a7f6325066c64492180c7b7e8b400126ddeaa0175b6c5a38",
-    "title": "Siyah Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_001_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_001_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145392000-001",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.080Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 13,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.299,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2299.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.299,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "4c5efe0e3721f14f850c45418df5cd4031d94a1fa2ff22cac8992bb8a9893c12",
     "title": "Siyah Çanta\n+1 Renk",
     "img": [
@@ -1026,9 +1492,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.116Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 14,
+    "timestamp": "2025-11-24T05:15:18.760Z",
+    "processId": "micp0wjyofh96",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta"
@@ -1098,9 +1564,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.151Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 15,
+    "timestamp": "2025-11-24T05:15:18.793Z",
+    "processId": "micp0wjyofh96",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta"
@@ -1153,13 +1619,13 @@
     }
   },
   {
-    "id": "def2fba0c30dd4da90d0e112854fa99ccf80f098294021ad7c94edddc350212b",
-    "title": "Kahverengi Çanta\n+2 Renk",
+    "id": "19e8195bfb1a4c38d85cb0c833a9175bb16cf993f79c0e440cae4148c5b1eb98",
+    "title": "Siyah Parlak Deri Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145394000_010_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_001_1.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145394000_010_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/kahverengi-canta-p-12145394000-010",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-parlak-deri-canta-p-12146142000-001",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1173,9 +1639,88 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.185Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 16,
+    "timestamp": "2025-11-24T05:15:18.823Z",
+    "processId": "micp0wjyofh96",
+    "index": 22,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "d7df9de4956d7a4553b4055d9e62bfe75a575d3ea41093a0baa522e2fe0f1ff3",
+    "title": "Kahverengi Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145405000_010_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145405000_010_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/kahverengi-canta-p-12145405000-010",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
+    "timestamp": "2025-11-24T05:15:18.860Z",
+    "processId": "micp0wjyofh96",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta"
@@ -1210,88 +1755,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.799,95 TL",
+          "value": "2.999,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2799.95,
+          "numericValue": 2999.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "bf084857e7e15af5a967cf7978578ccba7350dfb626a642bfdb50d997fa723ea",
-    "title": "Siyah Çanta\n+1 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145409000_001_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145409000_001_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145409000-001",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.214Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 17,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.499,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2499.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.499,95"
+          "displayPrice": "₺2.999,95"
         }
       ],
       "priceValid": true,
@@ -1303,7 +1776,8 @@
     "id": "554da251cc531fd9a67b8a08d3b120af9f9277ebc521938a9f9036c44b3042bf",
     "title": "Gri Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_524_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_524_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_524_2.jpg"
     ],
     "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_524_1.jpg",
     "link": "https://www.adl.com.tr/tr/canta/gri-canta-p-12145410000-524",
@@ -1318,11 +1792,11 @@
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.248Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 18,
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.342Z",
+    "processId": "micp13qrop4hj",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta"
@@ -1373,13 +1847,14 @@
     }
   },
   {
-    "id": "2fcb63d6b45b43488408b8e0f8f5bd777ebff9265daff6f5788720bb5f8820ed",
-    "title": "Mürdüm Kumaş Kaplı Zincirli Çanta",
+    "id": "05a99d42e93a99900820cacdf90f65f39ec737e2c7330afa058b207151896d09",
+    "title": "Bordo Parlak Deri Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146061000_025_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_012_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_012_2.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146061000_025_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/murdum-kumas-kapli-zincirli-canta-p-12146061000-025",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_012_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/bordo-parlak-deri-canta-p-12146142000-012",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1391,16 +1866,19 @@
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.287Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 19,
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.380Z",
+    "processId": "micp13qrop4hj",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
-        "zincir askılı çanta",
-        "kumaş çanta"
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "bordo"
       ]
     },
     "seo": {
@@ -1409,11 +1887,12 @@
         "çantası",
         "bag",
         "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "kumaş çanta",
-        "kumaş"
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "bordo"
       ]
     },
     "imgValid": true,
@@ -1429,16 +1908,310 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.799,95 TL",
+          "value": "1.999,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1799.95,
+          "numericValue": 1999.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.799,95"
+          "displayPrice": "₺1.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "bf084857e7e15af5a967cf7978578ccba7350dfb626a642bfdb50d997fa723ea",
+    "title": "Siyah Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145409000_001_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145409000_001_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145409000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145409000-001",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.427Z",
+    "processId": "micp13qrop4hj",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.749,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1749.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.749,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "24be09baefa568db98b9c7dbbbca7f05398e1109a8f0510d8e295ffd3c7efa11",
+    "title": "Bordo Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_012_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_012_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_012_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/bordo-canta-p-12145403000-012",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.466Z",
+    "processId": "micp13qrop4hj",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "bordo"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "bordo"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "4e5dd5fcc6e71d5ff29b08d849cc9197cabe6614802a02a44c30a9520214338a",
+    "title": "Siyah Metal Aksesuarlı Büyük Çanta\n+2 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_001_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_001_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-metal-aksesuarli-buyuk-canta-p-12144720000-001",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.502Z",
+    "processId": "micp13qrop4hj",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "büyük çanta",
+        "metal aksesuarlı çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "metal aksesuarlı çanta",
+        "metal aksesuarlı",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.949,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1949.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.949,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "81245a19e19c764bc9420d7ed1201a8012aa6b3340598a729d452796532a3e9a",
+    "title": "Mürdüm Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_025_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_025_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_025_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/murdum-canta-p-12145408000-025",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.540Z",
+    "processId": "micp13qrop4hj",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.449,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2449.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.449,95"
         }
       ],
       "priceValid": true,
@@ -1450,7 +2223,8 @@
     "id": "095bd5f8c5f907c0b6829d044113097bcc83418fe598e975ee6aef2ea3608d3f",
     "title": "Siyah Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_001_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_001_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_001_2.jpg"
     ],
     "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_001_1.jpg",
     "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145393000-001",
@@ -1465,11 +2239,227 @@
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.336Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 20,
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.578Z",
+    "processId": "micp13qrop4hj",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.949,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1949.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.949,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "82a68ddbb1a1ec90dd5bdba4ec6b69b2d02f6e2725eadd28b178cc4281fe0216",
+    "title": "Bordo Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_012_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_012_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_012_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/bordo-canta-p-12144170001-012",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.612Z",
+    "processId": "micp13qrop4hj",
+    "index": 7,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "bordo"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "bordo"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "eb8c96d6f2a82e5ea553b366bd5a00ff360c4f3792ec50a768bf08215ec660fb",
+    "title": "Siyah Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_001_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145403000-001",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.644Z",
+    "processId": "micp13qrop4hj",
+    "index": 8,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "0f49674671ac593118b77e4e9b58f865941a7cddcd2bf5694a92afd66dba830e",
+    "title": "Siyah Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_001_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145395000-001",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.682Z",
+    "processId": "micp13qrop4hj",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta"
@@ -1519,13 +2509,13 @@
     }
   },
   {
-    "id": "81245a19e19c764bc9420d7ed1201a8012aa6b3340598a729d452796532a3e9a",
-    "title": "Mürdüm Çanta\n+1 Renk",
+    "id": "e1312be414702b04f0275308000e5022b4e5294ba65e75177392dbc770ed8f5d",
+    "title": "Bordo Metal Aksesuarlı Büyük Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_025_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_012_1.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145408000_025_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/murdum-canta-p-12145408000-025",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_012_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/bordo-metal-aksesuarli-buyuk-canta-p-12144720000-012",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1537,14 +2527,19 @@
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.376Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 21,
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.717Z",
+    "processId": "micp13qrop4hj",
+    "index": 10,
     "categories": {
       "productType": [
-        "çanta"
+        "çanta",
+        "büyük çanta",
+        "metal aksesuarlı çanta"
+      ],
+      "color": [
+        "bordo"
       ]
     },
     "seo": {
@@ -1552,7 +2547,14 @@
         "çanta",
         "çantası",
         "bag",
-        "çantasi"
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "metal aksesuarlı çanta",
+        "metal aksesuarlı",
+        "bordo"
       ]
     },
     "imgValid": true,
@@ -1568,16 +2570,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3.499,95 TL",
+          "value": "1.949,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3499.95,
+          "numericValue": 1949.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.499,95"
+          "displayPrice": "₺1.949,95"
         }
       ],
       "priceValid": true,
@@ -1586,13 +2588,13 @@
     }
   },
   {
-    "id": "eb8c96d6f2a82e5ea553b366bd5a00ff360c4f3792ec50a768bf08215ec660fb",
-    "title": "Siyah Çanta\n+1 Renk",
+    "id": "4cd0cfe516cc384b40721e2ddb3a3e555d933c38faabdea7f10db7526455427a",
+    "title": "Siyah Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_001_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_001_1.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_001_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145403000-001",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145410000-001",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1604,11 +2606,11 @@
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.415Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 22,
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.755Z",
+    "processId": "micp13qrop4hj",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta"
@@ -1676,11 +2678,11 @@
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-11-17T05:13:24.454Z",
-    "processId": "mi2ovhm0wkqnw",
-    "index": 23,
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.786Z",
+    "processId": "micp13qrop4hj",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta"
@@ -1729,159 +2731,13 @@
     }
   },
   {
-    "id": "4cd0cfe516cc384b40721e2ddb3a3e555d933c38faabdea7f10db7526455427a",
-    "title": "Siyah Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_001_1.jpg",
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_001_2.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145410000_001_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145410000-001",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.535Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "24be09baefa568db98b9c7dbbbca7f05398e1109a8f0510d8e295ffd3c7efa11",
-    "title": "Bordo Çanta\n+1 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_012_1.jpg",
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_012_2.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145403000_012_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/bordo-canta-p-12145403000-012",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.571Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "bordo"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "bordo"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "5d64e8c8e0b9589a5b91c13c427b04581bc663d9fecc76d0e04c4d854c7bb846",
+    "id": "6bd8ce102409ef4ab60c089f5da822cf340d8a357b593558cda68a82a177c169",
     "title": "Kırmızı Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_006_1.jpg",
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_006_2.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_006_1.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_006_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/kirmizi-canta-p-12145392000-006",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145393000_006_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/kirmizi-canta-p-12145393000-006",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1895,9 +2751,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.604Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 2,
+    "timestamp": "2025-11-24T05:15:27.825Z",
+    "processId": "micp13qrop4hj",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta"
@@ -1930,16 +2786,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.299,95 TL",
+          "value": "1.949,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2299.95,
+          "numericValue": 1949.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.299,95"
+          "displayPrice": "₺1.949,95"
         }
       ],
       "priceValid": true,
@@ -1948,14 +2804,13 @@
     }
   },
   {
-    "id": "0f49674671ac593118b77e4e9b58f865941a7cddcd2bf5694a92afd66dba830e",
-    "title": "Siyah Çanta\n+1 Renk",
+    "id": "b658e394b1f54cc99c772fdcf59e16b6914ed8b5b96e32ac570f7e3e8675aeb8",
+    "title": "Camel Metal Aksesuarlı Büyük Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_001_1.jpg",
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_001_2.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_005_1.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145395000_001_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145395000-001",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_005_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/camel-metal-aksesuarli-buyuk-canta-p-12144720000-005",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1969,15 +2824,17 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.643Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 3,
+    "timestamp": "2025-11-24T05:15:27.864Z",
+    "processId": "micp13qrop4hj",
+    "index": 14,
     "categories": {
       "productType": [
-        "çanta"
+        "çanta",
+        "büyük çanta",
+        "metal aksesuarlı çanta"
       ],
       "color": [
-        "siyah"
+        "kahverengi"
       ]
     },
     "seo": {
@@ -1986,8 +2843,17 @@
         "çantası",
         "bag",
         "çantasi",
-        "siyah",
-        "black"
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "metal aksesuarlı çanta",
+        "metal aksesuarlı",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
       ]
     },
     "imgValid": true,
@@ -2003,16 +2869,89 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.799,95 TL",
+          "value": "1.949,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2799.95,
+          "numericValue": 1949.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
+          "displayPrice": "₺1.949,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5d64e8c8e0b9589a5b91c13c427b04581bc663d9fecc76d0e04c4d854c7bb846",
+    "title": "Kırmızı Çanta\n+2 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_006_1.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_006_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/kirmizi-canta-p-12145392000-006",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
+    "timestamp": "2025-11-24T05:15:27.896Z",
+    "processId": "micp13qrop4hj",
+    "index": 15,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kırmızı"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kırmızı",
+        "red",
+        "nar çiçeği"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.599,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1599.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.599,95"
         }
       ],
       "priceValid": true,
@@ -2041,9 +2980,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.672Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 4,
+    "timestamp": "2025-11-24T05:15:27.933Z",
+    "processId": "micp13qrop4hj",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta"
@@ -2088,13 +3027,13 @@
     }
   },
   {
-    "id": "4e5dd5fcc6e71d5ff29b08d849cc9197cabe6614802a02a44c30a9520214338a",
-    "title": "Siyah Metal Aksesuarlı Büyük Çanta\n+2 Renk",
+    "id": "b0d588dcdeb67ecb377135d226cf6cb329cd8aaf988b692570d4944efe528068",
+    "title": "Olive Çanta\n+2 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_001_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_871_1.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_001_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/siyah-metal-aksesuarli-buyuk-canta-p-12144720000-001",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145392000_871_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/olive-canta-p-12145392000-871",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2108,17 +3047,12 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.716Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 5,
+    "timestamp": "2025-11-24T05:15:27.965Z",
+    "processId": "micp13qrop4hj",
+    "index": 17,
     "categories": {
       "productType": [
-        "çanta",
-        "büyük çanta",
-        "metal aksesuarlı çanta"
-      ],
-      "color": [
-        "siyah"
+        "çanta"
       ]
     },
     "seo": {
@@ -2126,15 +3060,7 @@
         "çanta",
         "çantası",
         "bag",
-        "çantasi",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "metal aksesuarlı çanta",
-        "metal aksesuarlı",
-        "siyah",
-        "black"
+        "çantasi"
       ]
     },
     "imgValid": true,
@@ -2150,178 +3076,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.799,95 TL",
+          "value": "1.599,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2799.95,
+          "numericValue": 1599.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "e1312be414702b04f0275308000e5022b4e5294ba65e75177392dbc770ed8f5d",
-    "title": "Bordo Metal Aksesuarlı Büyük Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_012_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_012_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/bordo-metal-aksesuarli-buyuk-canta-p-12144720000-012",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.752Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 6,
-    "categories": {
-      "productType": [
-        "çanta",
-        "büyük çanta",
-        "metal aksesuarlı çanta"
-      ],
-      "color": [
-        "bordo"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "metal aksesuarlı çanta",
-        "metal aksesuarlı",
-        "bordo"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.799,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2799.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b658e394b1f54cc99c772fdcf59e16b6914ed8b5b96e32ac570f7e3e8675aeb8",
-    "title": "Camel Metal Aksesuarlı Büyük Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_005_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144720000_005_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/camel-metal-aksesuarli-buyuk-canta-p-12144720000-005",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.786Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta",
-        "büyük çanta",
-        "metal aksesuarlı çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "metal aksesuarlı çanta",
-        "metal aksesuarlı",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.799,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2799.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.799,95"
+          "displayPrice": "₺1.599,95"
         }
       ],
       "priceValid": true,
@@ -2350,9 +3114,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.820Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 8,
+    "timestamp": "2025-11-24T05:15:27.999Z",
+    "processId": "micp13qrop4hj",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta"
@@ -2425,9 +3189,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.853Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 9,
+    "timestamp": "2025-11-24T05:15:28.035Z",
+    "processId": "micp13qrop4hj",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta"
@@ -2497,9 +3261,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.885Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 10,
+    "timestamp": "2025-11-24T05:15:28.073Z",
+    "processId": "micp13qrop4hj",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta"
@@ -2569,9 +3333,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.925Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 11,
+    "timestamp": "2025-11-24T05:15:28.107Z",
+    "processId": "micp13qrop4hj",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -2651,9 +3415,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.963Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 12,
+    "timestamp": "2025-11-24T05:15:28.146Z",
+    "processId": "micp13qrop4hj",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -2716,13 +3480,13 @@
     }
   },
   {
-    "id": "82a68ddbb1a1ec90dd5bdba4ec6b69b2d02f6e2725eadd28b178cc4281fe0216",
-    "title": "Bordo Çanta\n+1 Renk",
+    "id": "5ff8deb365f0b2e56faeb0f36f5be00bfd02b73fd18494826a029a3ce72a327a",
+    "title": "Siyah Askılı Çanta\n+1 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_012_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145397000_001_1.jpg"
     ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_012_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/bordo-canta-p-12144170001-012",
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145397000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-askili-canta-p-12145397000-001",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2736,681 +3500,15 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:33.995Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 13,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "bordo"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "bordo"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "210658271b2ee3f03b86843da20a8e2cc3a2660642be2fcb6ddb88ff3be9cb65",
-    "title": "Vizon Çanta\n+1 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_618_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144170001_618_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/vizon-canta-p-12144170001-618",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.030Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 14,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "vizon"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "vizon"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "24711d3aeaa2664ae3e4b255e9120b5e0e735f0d5e6aca6903ae787282bb2250",
-    "title": "Kahverengi Çanta\n+1 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_615_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_615_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/kahverengi-canta-p-12145404000-615",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.066Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 15,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d7df9de4956d7a4553b4055d9e62bfe75a575d3ea41093a0baa522e2fe0f1ff3",
-    "title": "Kahverengi Çanta\n+1 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145405000_010_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145405000_010_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/kahverengi-canta-p-12145405000-010",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.101Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 16,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "647bf2efef164d668bfec1263fe0a6259f9b065e82e8201491e0803229787544",
-    "title": "Bordo Çanta\n+1 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145405000_012_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145405000_012_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/bordo-canta-p-12145405000-012",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.137Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 17,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "bordo"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "bordo"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a889bc19dbfcbc90ad47998b5edebae1f01d8c8d5b21843f848379fdba850266",
-    "title": "Bej Çift Kulplu Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145491000_011_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145491000_011_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/bej-cift-kulplu-canta-p-12145491000-011",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.169Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 18,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "bej"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "bej",
-        "ten"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b315bf55cdda8878eafa84de491d59a7c93913c0868368bcb3c1c0a0fc4dd15f",
-    "title": "Gold Parlak Deri Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_528_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_528_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/gold-parlak-deri-canta-p-12146142000-528",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.208Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 19,
+    "timestamp": "2025-11-24T05:15:28.176Z",
+    "processId": "micp13qrop4hj",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "altın/gold"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "altın/gold",
-        "altın",
-        "gold"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "cea3b438f90ceabc100f96bbf4a021c6a0af0e4c3c592ea5b9e94df6c0e63ca6",
-    "title": "Lacivert Kumaş Kaplı Çanta",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146242000_018_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146242000_018_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/lacivert-kumas-kapli-canta-p-12146242000-018",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.244Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 20,
-    "categories": {
-      "productType": [
-        "çanta",
-        "kumaş çanta"
-      ],
-      "color": [
-        "lacivert"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kumaş çanta",
-        "kumaş",
-        "lacivert"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.799,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1799.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.799,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "05a99d42e93a99900820cacdf90f65f39ec737e2c7330afa058b207151896d09",
-    "title": "Bordo Parlak Deri Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_012_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_012_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/bordo-parlak-deri-canta-p-12146142000-012",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.274Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 21,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "bordo"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "bordo"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.999,95 TL",
-          "selector": ".second-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "19e8195bfb1a4c38d85cb0c833a9175bb16cf993f79c0e440cae4148c5b1eb98",
-    "title": "Siyah Parlak Deri Çanta\n+2 Renk",
-    "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_001_1.jpg"
-    ],
-    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12146142000_001_1.jpg",
-    "link": "https://www.adl.com.tr/tr/canta/siyah-parlak-deri-canta-p-12146142000-001",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-content)",
-      "matchedSelector": ".product-list-item",
-      "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.310Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 22,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
       ],
       "color": [
         "siyah"
@@ -3422,11 +3520,14 @@
         "çantası",
         "bag",
         "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
         "siyah",
         "black"
       ]
@@ -3444,16 +3545,165 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.999,95 TL",
+          "value": "3.999,95 TL",
           "selector": ".second-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1999.95,
+          "numericValue": 3999.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.999,95"
+          "displayPrice": "₺3.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "60a547a5032b0c9c87657b86f253a75eafcc69750068c81b3d3ab51b31a9eeaf",
+    "title": "Siyah Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145400000_001_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145400000_001_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145400000_001_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145400000-001",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -3",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=3",
+    "timestamp": "2025-11-24T05:15:36.284Z",
+    "processId": "micp1a2j8fln6",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "db7a03c6476444bf5206fb274996772af64acd76bed052710c315fe6ff997d9c",
+    "title": "Kahverengi Çanta\n+1 Renk",
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145400000_010_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145400000_010_2.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145400000_010_1.jpg",
+    "link": "https://www.adl.com.tr/tr/canta/kahverengi-canta-p-12145400000-010",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -3",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=3",
+    "timestamp": "2025-11-24T05:15:36.321Z",
+    "processId": "micp1a2j8fln6",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": ".second-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
         }
       ],
       "priceValid": true,
@@ -3465,7 +3715,8 @@
     "id": "72c42a82f1b636d7ab4247c4a211019498c4cb92ce4954bf2d98dc0231d578b0",
     "title": "Siyah Çanta\n+1 Renk",
     "img": [
-      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_001_1.jpg"
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_001_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_001_2.jpg"
     ],
     "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145404000_001_1.jpg",
     "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145404000-001",
@@ -3480,11 +3731,11 @@
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -2",
-    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=2",
-    "timestamp": "2025-11-17T05:13:34.347Z",
-    "processId": "mi2ovp8tz40s6",
-    "index": 23,
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | adL -3",
+    "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020?currentPage=3",
+    "timestamp": "2025-11-24T05:15:36.362Z",
+    "processId": "micp1a2j8fln6",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta"
