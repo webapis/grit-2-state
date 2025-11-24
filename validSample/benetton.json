@@ -1,5 +1,109 @@
 [
   {
+    "id": "a8effbbb10f3d7c116c4d83527f7c25e155c209aa2e1fcb285bbc2a0714d048c",
+    "title": "Kadın Koyu Kahverengi Suni Deri Parlak Baget Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638991128677822880.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638991128628336476.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638991128677822880.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638991128628336476.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638991128677822880.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-koyu-kahverengi-suni-deri-parlak-baget-omuz-cantasi_168994",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-11-24T05:26:14.015Z",
+    "processId": "micpeym0onhmp",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "baget çanta",
+        "deri çanta",
+        "suni deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "baget çanta",
+        "baget",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "floater deri çanta",
+        "floater",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,99 TL",
+          "selector": ".p-price .one-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "e82eecbee2c22500978768725bccd5bffff2bbee77bda6a36a7529919c872160",
     "title": "Kadın Koyu Kahverengi Suni Deri Parlak Fermuarlı Omuz Çantası",
     "img": [
@@ -23,9 +127,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.671Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 0,
+    "timestamp": "2025-11-24T05:26:14.042Z",
+    "processId": "micpeym0onhmp",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -127,9 +231,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.710Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 1,
+    "timestamp": "2025-11-24T05:26:14.081Z",
+    "processId": "micpeym0onhmp",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -230,9 +334,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.745Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 2,
+    "timestamp": "2025-11-24T05:26:14.118Z",
+    "processId": "micpeym0onhmp",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -291,12 +395,12 @@
     "id": "4f7263e4c82df095ad38b4dbdd6910cf05b8acab4f33a3e334f817c187f00e05",
     "title": "Kadın Mürdüm Suni Deri Detaylı Büzme İpli Kadife Tote Çanta",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480844501333.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480895595144.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638963480844501333.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638963480895595144.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638963480895595144.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480844501333.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480844501333.jpeg",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480895595144.jpeg",
     "link": "https://tr.benetton.com/kadin/kadin-murdum-suni-deri-detayli-buzme-ipli-kadife-tote-canta_168533",
     "videos": [],
     "productNotInStock": false,
@@ -311,9 +415,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.784Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 3,
+    "timestamp": "2025-11-24T05:26:14.154Z",
+    "processId": "micpeym0onhmp",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -383,6 +487,87 @@
     }
   },
   {
+    "id": "08102c863eab03726b013ab891fead32be10ebbbfa3581da6d134284fae79d67",
+    "title": "Kadın Krem Kürk Görünümlü Tote Çanta",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480459653204.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638963480405590185.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638963480459653204.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480405590185.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480459653204.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-krem-kurk-gorunumlu-tote-canta_168531",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-11-24T05:26:14.197Z",
+    "processId": "micpeym0onhmp",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.499,99 TL",
+          "selector": ".p-price .one-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3499.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.499,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "a047113802a46c34e4bcb58109f3650c4c144c51f35da4e0123189cdb2bd127d",
     "title": "Kadın Siyah Suni Deri Detaylı Büzme İpli Kadife Tote Çanta",
     "img": [
@@ -406,9 +591,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.823Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 4,
+    "timestamp": "2025-11-24T05:26:14.232Z",
+    "processId": "micpeym0onhmp",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -483,87 +668,6 @@
     }
   },
   {
-    "id": "08102c863eab03726b013ab891fead32be10ebbbfa3581da6d134284fae79d67",
-    "title": "Kadın Krem Kürk Görünümlü Tote Çanta",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480405590185.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480459653204.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638963480405590185.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638963480459653204.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638963480405590185.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-krem-kurk-gorunumlu-tote-canta_168531",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".product-list.js-customize .p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.862Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 5,
-    "categories": {
-      "productType": [
-        "çanta",
-        "tote çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "tote çanta",
-        "tote",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.499,99 TL",
-          "selector": ".p-price .one-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3499.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.499,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "7a15b81fec00b8d9ff1198de97d602b6771021cfeddf42710e40c2abfd91572b",
     "title": "Kadın Siyah %100 Koton The Beatles Tote Çanta",
     "img": [
@@ -587,9 +691,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.900Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 6,
+    "timestamp": "2025-11-24T05:26:14.262Z",
+    "processId": "micpeym0onhmp",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -653,12 +757,12 @@
     "id": "2737b440d42cf60b64697eab4b07cf228d29cbfa6b4882e6d48a113696b011f8",
     "title": "Kadın Haki Yeşili Metal Detaylı Cepli Askılı Omuz Çantası",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301787036984.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301835474719.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301787036984.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301835474719.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301835474719.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301787036984.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301835474719.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301787036984.jpeg",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301787036984.jpeg",
     "link": "https://tr.benetton.com/kadin/kadin-haki-yesili-metal-detayli-cepli-askili-omuz-cantasi_168328",
     "videos": [],
     "productNotInStock": false,
@@ -666,16 +770,16 @@
       "linkSource": "titleElement (matched: .p-name a)",
       "matchedSelector": ".product-list.js-customize .p-item.col",
       "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".p-price .one-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.940Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 7,
+    "timestamp": "2025-11-24T05:26:14.303Z",
+    "processId": "micpeym0onhmp",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -771,9 +875,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:15.984Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 8,
+    "timestamp": "2025-11-24T05:26:14.337Z",
+    "processId": "micpeym0onhmp",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -870,9 +974,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.020Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 9,
+    "timestamp": "2025-11-24T05:26:14.378Z",
+    "processId": "micpeym0onhmp",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -971,9 +1075,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.062Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 10,
+    "timestamp": "2025-11-24T05:26:14.421Z",
+    "processId": "micpeym0onhmp",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -1073,9 +1177,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.104Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 11,
+    "timestamp": "2025-11-24T05:26:14.464Z",
+    "processId": "micpeym0onhmp",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -1167,9 +1271,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.139Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 12,
+    "timestamp": "2025-11-24T05:26:14.505Z",
+    "processId": "micpeym0onhmp",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -1256,9 +1360,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.178Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 13,
+    "timestamp": "2025-11-24T05:26:14.550Z",
+    "processId": "micpeym0onhmp",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1350,9 +1454,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.220Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 14,
+    "timestamp": "2025-11-24T05:26:14.583Z",
+    "processId": "micpeym0onhmp",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -1439,9 +1543,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.263Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 15,
+    "timestamp": "2025-11-24T05:26:14.620Z",
+    "processId": "micpeym0onhmp",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1545,9 +1649,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.320Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 16,
+    "timestamp": "2025-11-24T05:26:14.663Z",
+    "processId": "micpeym0onhmp",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1652,9 +1756,9 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-11-17T05:24:16.364Z",
-    "processId": "mi2p9gmmnff8q",
-    "index": 17,
+    "timestamp": "2025-11-24T05:26:14.707Z",
+    "processId": "micpeym0onhmp",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
