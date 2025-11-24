@@ -13,14 +13,18 @@
       "count": 28,
       "usedFor": {}
     },
+    ".price-list .h6.text-on-sale": {
+      "count": 27,
+      "usedFor": {}
+    },
     ".price-list .h6.text-subdued": {
-      "count": 28,
+      "count": 1,
       "usedFor": {}
     }
   },
   "summary": {
     "totalObjects": 28,
-    "selectorsFound": 4,
+    "selectorsFound": 5,
     "mostCommonSelectors": [
       {
         "selector": ".product-card",
@@ -44,8 +48,15 @@
         ]
       },
       {
+        "selector": ".price-list .h6.text-on-sale",
+        "count": 27,
+        "usedFor": [
+          "price"
+        ]
+      },
+      {
         "selector": ".price-list .h6.text-subdued",
-        "count": 28,
+        "count": 1,
         "usedFor": [
           "price"
         ]
