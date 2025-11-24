@@ -1,15 +1,97 @@
 [
   {
+    "id": "fe7de494307553162cf77c55542d058d307b9fb30c7b917a5c2189198406bd9b",
+    "title": "Acı Kahve Cove Büzgülü El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--ac63-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-2a8ae-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-9803f8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--4ceb-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-069386.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--ac63-.jpg",
+    "link": "https://www.suudcollection.com/aci-kahve-cove-buzgulu-el-cantasi-4153",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-11-24T05:58:40.306Z",
+    "processId": "micqkq3ckx02s",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$50.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 50,
+          "unsetPrice": false,
+          "convertedPrice": 50,
+          "displayPrice": "₺50,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "641b2c80c34e2cdd623f12f55582a21f90313317a9b60a2b01d514b76c13f57c",
     "title": "Kahverengi Rosa Mini Deri Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-rosa-mini-deri-canta-4d-419.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-rosa-mini-deri-canta-85710c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-rosa-mini-deri-canta-4d-419.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-rosa-mini-deri-canta-dbca62.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-rosa-mini-deri-canta-5-8d21.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-rosa-mini-deri-canta-0da1ea.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-rosa-mini-deri-canta-4d-419.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-rosa-mini-deri-canta-85710c.jpg",
     "link": "https://www.suudcollection.com/kahverengi-rosa-mini-deri-canta-4191",
     "videos": [],
     "productNotInStock": false,
@@ -24,9 +106,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.622Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 0,
+    "timestamp": "2025-11-24T05:58:40.352Z",
+    "processId": "micqkq3ckx02s",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -113,9 +195,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.665Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 1,
+    "timestamp": "2025-11-24T05:58:40.399Z",
+    "processId": "micqkq3ckx02s",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -202,9 +284,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.706Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 2,
+    "timestamp": "2025-11-24T05:58:40.448Z",
+    "processId": "micqkq3ckx02s",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -288,9 +370,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.755Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 3,
+    "timestamp": "2025-11-24T05:58:40.491Z",
+    "processId": "micqkq3ckx02s",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -347,6 +429,92 @@
     }
   },
   {
+    "id": "32fbe988f58eb5868b974e04dc66e6fb48e55a74c9f9fabdb1443ce47282c205",
+    "title": "Siyah Cove Deri Büzgülü El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-002feb.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-940fae.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-6a-d79.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-7d45a-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-9c56-a.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-002feb.jpg",
+    "link": "https://www.suudcollection.com/siyah-cove-deri-buzgulu-el-cantasi-4192",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-11-24T05:58:40.534Z",
+    "processId": "micqkq3ckx02s",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$49.50",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 49.5,
+          "unsetPrice": false,
+          "convertedPrice": 49.5,
+          "displayPrice": "₺49,50"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "fb5690a8a27be694b78a5ad7db27bafc016227070c472702e598c8a715225d62",
     "title": "Taba Cove Büzgülü El Çantası",
     "img": [
@@ -371,9 +539,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.792Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 4,
+    "timestamp": "2025-11-24T05:58:40.575Z",
+    "processId": "micqkq3ckx02s",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -453,9 +621,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.830Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 5,
+    "timestamp": "2025-11-24T05:58:40.620Z",
+    "processId": "micqkq3ckx02s",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -539,9 +707,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.870Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 6,
+    "timestamp": "2025-11-24T05:58:40.673Z",
+    "processId": "micqkq3ckx02s",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -622,9 +790,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.911Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 7,
+    "timestamp": "2025-11-24T05:58:40.711Z",
+    "processId": "micqkq3ckx02s",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -708,9 +876,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:04.961Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 8,
+    "timestamp": "2025-11-24T05:58:40.756Z",
+    "processId": "micqkq3ckx02s",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -794,9 +962,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.009Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 9,
+    "timestamp": "2025-11-24T05:58:40.807Z",
+    "processId": "micqkq3ckx02s",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -876,9 +1044,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.051Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 10,
+    "timestamp": "2025-11-24T05:58:40.852Z",
+    "processId": "micqkq3ckx02s",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -955,9 +1123,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.096Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 11,
+    "timestamp": "2025-11-24T05:58:40.902Z",
+    "processId": "micqkq3ckx02s",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -1025,9 +1193,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.145Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 12,
+    "timestamp": "2025-11-24T05:58:40.956Z",
+    "processId": "micqkq3ckx02s",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1113,9 +1281,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.193Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 13,
+    "timestamp": "2025-11-24T05:58:41.009Z",
+    "processId": "micqkq3ckx02s",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
@@ -1184,9 +1352,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.245Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 14,
+    "timestamp": "2025-11-24T05:58:41.061Z",
+    "processId": "micqkq3ckx02s",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1264,9 +1432,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.297Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 15,
+    "timestamp": "2025-11-24T05:58:41.113Z",
+    "processId": "micqkq3ckx02s",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1343,9 +1511,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.344Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 16,
+    "timestamp": "2025-11-24T05:58:41.162Z",
+    "processId": "micqkq3ckx02s",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1423,9 +1591,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.395Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 17,
+    "timestamp": "2025-11-24T05:58:41.210Z",
+    "processId": "micqkq3ckx02s",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta"
@@ -1499,9 +1667,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.443Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 18,
+    "timestamp": "2025-11-24T05:58:41.251Z",
+    "processId": "micqkq3ckx02s",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta"
@@ -1569,9 +1737,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.490Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 19,
+    "timestamp": "2025-11-24T05:58:41.302Z",
+    "processId": "micqkq3ckx02s",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1591,82 +1759,6 @@
         "telefon",
         "siyah",
         "black"
-      ]
-    },
-    "imgValid": false,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$15.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 15,
-          "unsetPrice": false,
-          "convertedPrice": 15,
-          "displayPrice": "₺15,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "1fd9ef301d9a3f8c2c9e93506c9bf9e73beb5c837f5a7f7b10a68c2cd584313f",
-    "title": "Acı Kahve Mia Telefon Çantası",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.suudcollection.com/aci-kahve-phone-bag-3797",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.540Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 20,
-    "categories": {
-      "productType": [
-        "çanta",
-        "telefon çantası"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "telefon çantası",
-        "telefon",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
       ]
     },
     "imgValid": false,
@@ -1723,9 +1815,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.585Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 21,
+    "timestamp": "2025-11-24T05:58:41.355Z",
+    "processId": "micqkq3ckx02s",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1802,9 +1894,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.637Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 22,
+    "timestamp": "2025-11-24T05:58:41.403Z",
+    "processId": "micqkq3ckx02s",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1876,9 +1968,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.688Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 23,
+    "timestamp": "2025-11-24T05:58:41.451Z",
+    "processId": "micqkq3ckx02s",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -1958,9 +2050,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.740Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 24,
+    "timestamp": "2025-11-24T05:58:41.501Z",
+    "processId": "micqkq3ckx02s",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -2014,86 +2106,6 @@
     }
   },
   {
-    "id": "0ae764a3d515bf6525a52c8637dfff024efba468244f977ca31e791c25179cc7",
-    "title": "Siyah Pia Hasır Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-d38853.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-e1-1ca.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-afd2e5.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-867-1d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-d5ea56.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-d38853.jpg",
-    "link": "https://www.suudcollection.com/siyah-pia-hasir-canta-3586",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.801Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 25,
-    "categories": {
-      "productType": [
-        "çanta",
-        "hasır çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hasır çanta",
-        "hasır",
-        "hasir",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$39.90",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 39.9,
-          "unsetPrice": false,
-          "convertedPrice": 39.9,
-          "displayPrice": "₺39,90"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "d733cbbd969902b199ddbbf69123297ed2844c9ae29bce957731c68ba37f86cb",
     "title": "Bordo Sallie Bag",
     "img": [
@@ -2117,8 +2129,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.845Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:41.548Z",
+    "processId": "micqkq3ckx02s",
     "index": 26,
     "categories": {
       "productType": [
@@ -2168,77 +2180,6 @@
     }
   },
   {
-    "id": "323d187ca5f6eb8eea8f06a0ad2bf1c720a3380c258c4cec19b2bf4e30343f11",
-    "title": "Krem Archi Bonbon Bag",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-ed-e3b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-c9-85e.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-9-bcb1.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag--888c-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-609c8-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-ed-e3b.jpg",
-    "link": "https://www.suudcollection.com/siyah-archi-bonbon-bag",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.893Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 27,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$47.90",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 47.9,
-          "unsetPrice": false,
-          "convertedPrice": 47.9,
-          "displayPrice": "₺47,90"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "fe97197039ff3f7fbff8d6c5c2760740b8f3b001e80eade00a906f488bf4b777",
     "title": "Acı Kahve XL Bowl Bag",
     "img": [
@@ -2261,9 +2202,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.944Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 28,
+    "timestamp": "2025-11-24T05:58:41.600Z",
+    "processId": "micqkq3ckx02s",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta"
@@ -2316,84 +2257,6 @@
     }
   },
   {
-    "id": "7beb906e4abe23b43ea5ebd8d21222ab9f31225640f5eac282abc9c45de00944",
-    "title": "Acı Kahve Archi Bonbon Bag",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag-e8f34e.jpeg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag-c00a72.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag--bec5-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag-d83213.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag-e8f34e.jpeg",
-    "link": "https://www.suudcollection.com/aci-kahve-archi-bonbon-bag",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:05.997Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 29,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$47.90",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 47.9,
-          "unsetPrice": false,
-          "convertedPrice": 47.9,
-          "displayPrice": "₺47,90"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "bdb0f7be8835feb78f595e4b0ee474b601a9d5c2ba52930badde657a11d62b1c",
     "title": "Siyah XL Bowl Bag",
     "img": [
@@ -2417,9 +2280,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.049Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 30,
+    "timestamp": "2025-11-24T05:58:41.644Z",
+    "processId": "micqkq3ckx02s",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta"
@@ -2469,84 +2332,6 @@
     }
   },
   {
-    "id": "639ca895afd3f7e8ae0329fe4a7f22614aedf4b5b1434ec4b1ae3a6ea2bf4e58",
-    "title": "Kahverengi Sallie Bag",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-f1-b6c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-e7a69f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-19f564.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-081a-4.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-f1-b6c.jpg",
-    "link": "https://www.suudcollection.com/sallie-deri-bag-3279",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.098Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 31,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$40.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 40,
-          "unsetPrice": false,
-          "convertedPrice": 40,
-          "displayPrice": "₺40,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "699dab465948650b3d5ca88e69a64abb80784c8f12c221d43e7519d523d0377d",
     "title": "Siyah Sallie Bag",
     "img": [
@@ -2571,9 +2356,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.152Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 32,
+    "timestamp": "2025-11-24T05:58:41.697Z",
+    "processId": "micqkq3ckx02s",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta"
@@ -2623,88 +2408,6 @@
     }
   },
   {
-    "id": "fe7de494307553162cf77c55542d058d307b9fb30c7b917a5c2189198406bd9b",
-    "title": "Acı Kahve Cove Büzgülü El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--ac63-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-2a8ae-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-9803f8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--4ceb-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-069386.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--ac63-.jpg",
-    "link": "https://www.suudcollection.com/aci-kahve-cove-buzgulu-el-cantasi-4153",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.202Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 33,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$50.00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 50,
-          "unsetPrice": false,
-          "convertedPrice": 50,
-          "displayPrice": "₺50,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "a20e31e26479e0338c327fc9ad8db23b247423e1788e4ed4457d31cfe9b82dd4",
     "title": "Siyah Margo Büyük Deri Çanta",
     "img": [
@@ -2729,9 +2432,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.253Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 34,
+    "timestamp": "2025-11-24T05:58:41.747Z",
+    "processId": "micqkq3ckx02s",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -2817,9 +2520,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.305Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 35,
+    "timestamp": "2025-11-24T05:58:41.797Z",
+    "processId": "micqkq3ckx02s",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -2883,92 +2586,6 @@
     }
   },
   {
-    "id": "32fbe988f58eb5868b974e04dc66e6fb48e55a74c9f9fabdb1443ce47282c205",
-    "title": "Siyah Cove Deri Büzgülü El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-002feb.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-940fae.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-6a-d79.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-7d45a-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-9c56-a.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-cove-deri-buzgulu-el-cantasi-002feb.jpg",
-    "link": "https://www.suudcollection.com/siyah-cove-deri-buzgulu-el-cantasi-4192",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.350Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 36,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "$49.50",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 49.5,
-          "unsetPrice": false,
-          "convertedPrice": 49.5,
-          "displayPrice": "₺49,50"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "c9caee194df028ba7eabef1d1cc0ebc637f78068ec1734b8aaf98f98c0719fdd",
     "title": "Siyah Milan Zincirli Deri Çanta",
     "img": [
@@ -2993,9 +2610,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.404Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 37,
+    "timestamp": "2025-11-24T05:58:41.849Z",
+    "processId": "micqkq3ckx02s",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -3080,9 +2697,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.452Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 38,
+    "timestamp": "2025-11-24T05:58:41.896Z",
+    "processId": "micqkq3ckx02s",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta",
@@ -3165,9 +2782,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.505Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 39,
+    "timestamp": "2025-11-24T05:58:41.948Z",
+    "processId": "micqkq3ckx02s",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -3244,9 +2861,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.560Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 40,
+    "timestamp": "2025-11-24T05:58:42.002Z",
+    "processId": "micqkq3ckx02s",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -3333,9 +2950,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.621Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 41,
+    "timestamp": "2025-11-24T05:58:42.059Z",
+    "processId": "micqkq3ckx02s",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
@@ -3405,9 +3022,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.673Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 42,
+    "timestamp": "2025-11-24T05:58:42.111Z",
+    "processId": "micqkq3ckx02s",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta",
@@ -3463,6 +3080,82 @@
     }
   },
   {
+    "id": "1fd9ef301d9a3f8c2c9e93506c9bf9e73beb5c837f5a7f7b10a68c2cd584313f",
+    "title": "Acı Kahve Mia Telefon Çantası",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.suudcollection.com/aci-kahve-phone-bag-3797",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-11-24T05:58:42.157Z",
+    "processId": "micqkq3ckx02s",
+    "index": 38,
+    "categories": {
+      "productType": [
+        "çanta",
+        "telefon çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "telefon çantası",
+        "telefon",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": false,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$15.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 15,
+          "unsetPrice": false,
+          "convertedPrice": 15,
+          "displayPrice": "₺15,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "487b36740d4cf6fc83a6262feb1ec663deb50bc7d65993ea5e5176332b8cd56d",
     "title": "Taba Archi Maxi Bag",
     "img": [
@@ -3486,9 +3179,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.723Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 43,
+    "timestamp": "2025-11-24T05:58:42.211Z",
+    "processId": "micqkq3ckx02s",
+    "index": 39,
     "categories": {
       "productType": [
         "çanta"
@@ -3541,6 +3234,86 @@
     }
   },
   {
+    "id": "0ae764a3d515bf6525a52c8637dfff024efba468244f977ca31e791c25179cc7",
+    "title": "Siyah Pia Hasır Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-d38853.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-e1-1ca.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-afd2e5.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-867-1d.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-d5ea56.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-pia-hasir-canta-d38853.jpg",
+    "link": "https://www.suudcollection.com/siyah-pia-hasir-canta-3586",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-11-24T05:58:42.261Z",
+    "processId": "micqkq3ckx02s",
+    "index": 40,
+    "categories": {
+      "productType": [
+        "çanta",
+        "hasır çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "hasır çanta",
+        "hasır",
+        "hasir",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$39.90",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 39.9,
+          "unsetPrice": false,
+          "convertedPrice": 39.9,
+          "displayPrice": "₺39,90"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "5a46e9787c16580d05a8d60a1dcc832222c04e965f2ef750ac8fdf55c98ddbcb",
     "title": "Vizon Gina Süet Bag",
     "img": [
@@ -3565,9 +3338,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.779Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 44,
+    "timestamp": "2025-11-24T05:58:42.310Z",
+    "processId": "micqkq3ckx02s",
+    "index": 41,
     "categories": {
       "productType": [
         "çanta",
@@ -3643,9 +3416,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.822Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 45,
+    "timestamp": "2025-11-24T05:58:42.362Z",
+    "processId": "micqkq3ckx02s",
+    "index": 42,
     "categories": {
       "productType": [
         "çanta",
@@ -3719,9 +3492,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.866Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 46,
+    "timestamp": "2025-11-24T05:58:42.405Z",
+    "processId": "micqkq3ckx02s",
+    "index": 43,
     "categories": {
       "productType": [
         "çanta",
@@ -3799,9 +3572,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.923Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 47,
+    "timestamp": "2025-11-24T05:58:42.460Z",
+    "processId": "micqkq3ckx02s",
+    "index": 44,
     "categories": {
       "productType": [
         "çanta",
@@ -3883,9 +3656,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:06.971Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 48,
+    "timestamp": "2025-11-24T05:58:42.507Z",
+    "processId": "micqkq3ckx02s",
+    "index": 45,
     "categories": {
       "productType": [
         "çanta"
@@ -3935,6 +3708,155 @@
     }
   },
   {
+    "id": "323d187ca5f6eb8eea8f06a0ad2bf1c720a3380c258c4cec19b2bf4e30343f11",
+    "title": "Krem Archi Bonbon Bag",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-ed-e3b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-c9-85e.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-9-bcb1.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag--888c-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-609c8-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/krem-archi-bonbon-bag-ed-e3b.jpg",
+    "link": "https://www.suudcollection.com/siyah-archi-bonbon-bag",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-11-24T05:58:42.556Z",
+    "processId": "micqkq3ckx02s",
+    "index": 46,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$47.90",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 47.9,
+          "unsetPrice": false,
+          "convertedPrice": 47.9,
+          "displayPrice": "₺47,90"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "7beb906e4abe23b43ea5ebd8d21222ab9f31225640f5eac282abc9c45de00944",
+    "title": "Acı Kahve Archi Bonbon Bag",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag-e8f34e.jpeg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag-c00a72.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag--bec5-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag-d83213.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-archi-bonbon-bag-e8f34e.jpeg",
+    "link": "https://www.suudcollection.com/aci-kahve-archi-bonbon-bag",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-11-24T05:58:42.612Z",
+    "processId": "micqkq3ckx02s",
+    "index": 47,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$47.90",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 47.9,
+          "unsetPrice": false,
+          "convertedPrice": 47.9,
+          "displayPrice": "₺47,90"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "7079647ce9e9a173ba810694f9e5cd651f6bc40212951910e524ea382e412bd8",
     "title": "Acı Kahve Everyday Vegan Süet  Çanta",
     "img": [
@@ -3959,9 +3881,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.022Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 49,
+    "timestamp": "2025-11-24T05:58:42.663Z",
+    "processId": "micqkq3ckx02s",
+    "index": 48,
     "categories": {
       "productType": [
         "çanta",
@@ -4044,9 +3966,9 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.083Z",
-    "processId": "mi2qbupvdcin4",
-    "index": 50,
+    "timestamp": "2025-11-24T05:58:42.719Z",
+    "processId": "micqkq3ckx02s",
+    "index": 49,
     "categories": {
       "productType": [
         "çanta",
@@ -4102,6 +4024,84 @@
     }
   },
   {
+    "id": "639ca895afd3f7e8ae0329fe4a7f22614aedf4b5b1434ec4b1ae3a6ea2bf4e58",
+    "title": "Kahverengi Sallie Bag",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-f1-b6c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-e7a69f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-19f564.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-081a-4.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-sallie-deri-bag-f1-b6c.jpg",
+    "link": "https://www.suudcollection.com/sallie-deri-bag-3279",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-11-24T05:58:42.768Z",
+    "processId": "micqkq3ckx02s",
+    "index": 50,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "$40.00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 40,
+          "unsetPrice": false,
+          "convertedPrice": 40,
+          "displayPrice": "₺40,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "8cad86071a560128974ed33b69dc74cb0887fa022e84126607dbfe74a04f0d01",
     "title": "Bej Lal Baget Çanta",
     "img": [
@@ -4126,8 +4126,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.134Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:42.815Z",
+    "processId": "micqkq3ckx02s",
     "index": 51,
     "categories": {
       "productType": [
@@ -4202,8 +4202,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.184Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:42.866Z",
+    "processId": "micqkq3ckx02s",
     "index": 52,
     "categories": {
       "productType": [
@@ -4280,8 +4280,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.235Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:42.913Z",
+    "processId": "micqkq3ckx02s",
     "index": 53,
     "categories": {
       "productType": [
@@ -4355,8 +4355,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.290Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:42.972Z",
+    "processId": "micqkq3ckx02s",
     "index": 54,
     "categories": {
       "productType": [
@@ -4434,8 +4434,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.339Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:43.017Z",
+    "processId": "micqkq3ckx02s",
     "index": 55,
     "categories": {
       "productType": [
@@ -4516,8 +4516,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.392Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:43.068Z",
+    "processId": "micqkq3ckx02s",
     "index": 56,
     "categories": {
       "productType": [
@@ -4587,8 +4587,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.450Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:43.118Z",
+    "processId": "micqkq3ckx02s",
     "index": 57,
     "categories": {
       "productType": [
@@ -4665,8 +4665,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.503Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:43.173Z",
+    "processId": "micqkq3ckx02s",
     "index": 58,
     "categories": {
       "productType": [
@@ -4747,8 +4747,8 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-11-17T05:54:07.551Z",
-    "processId": "mi2qbupvdcin4",
+    "timestamp": "2025-11-24T05:58:43.220Z",
+    "processId": "micqkq3ckx02s",
     "index": 59,
     "categories": {
       "productType": [
