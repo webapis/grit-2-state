@@ -1,13 +1,13 @@
 [
   {
-    "id": "9698ee9540bea0a1689add9bde915330f8405754582403a2a30d6189ab33b76b",
+    "id": "2449ec76649d54403a6a42d53d19da36facbccd30976d0fb72e7e860452403c5",
     "title": "Alira",
     "img": [
-      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-1000x1000h.jpg"
+      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-1000x1000h.jpg"
     ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=510",
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=511",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -21,8 +21,8 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.183Z",
-    "processId": "micr4bmsv2kvd",
+    "timestamp": "2025-12-01T06:19:21.079Z",
+    "processId": "mimre884he531",
     "index": 0,
     "categories": {
       "productType": [
@@ -63,14 +63,14 @@
     }
   },
   {
-    "id": "2449ec76649d54403a6a42d53d19da36facbccd30976d0fb72e7e860452403c5",
+    "id": "9698ee9540bea0a1689add9bde915330f8405754582403a2a30d6189ab33b76b",
     "title": "Alira",
     "img": [
-      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-1000x1000h.jpg"
+      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-1000x1000h.jpg"
     ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1001-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=511",
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_1005-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=510",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -84,8 +84,8 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.230Z",
-    "processId": "micr4bmsv2kvd",
+    "timestamp": "2025-12-01T06:19:21.121Z",
+    "processId": "mimre884he531",
     "index": 1,
     "categories": {
       "productType": [
@@ -101,6 +101,72 @@
     "imageAnalysis": {
       "isDuplicate": true,
       "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "935,00TL",
+          "selector": ".price .price-normal",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 935,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺935,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "c994772a341d8889d39d45ad9f59c1298746a01d2b78ff3f3aad1e51cf90920d",
+    "title": "Aura",
+    "img": [
+      "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-1000x1000h.jpg"
+    ],
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=526",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".main-products.product-grid .product-thumb",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".img-responsive.img-first",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .price-normal",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "EL ÇANTASI",
+    "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
+    "timestamp": "2025-12-01T06:19:21.166Z",
+    "processId": "mimre884he531",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": []
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": [
+        "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=526",
+        "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=526"
+      ]
     },
     "linkValid": true,
     "titleValid": true,
@@ -147,9 +213,9 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.271Z",
-    "processId": "micr4bmsv2kvd",
-    "index": 2,
+    "timestamp": "2025-12-01T06:19:21.205Z",
+    "processId": "mimre884he531",
+    "index": 3,
     "categories": {
       "productType": [
         "none"
@@ -213,9 +279,9 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.307Z",
-    "processId": "micr4bmsv2kvd",
-    "index": 3,
+    "timestamp": "2025-12-01T06:19:21.243Z",
+    "processId": "mimre884he531",
+    "index": 4,
     "categories": {
       "productType": [
         "none"
@@ -258,135 +324,6 @@
     }
   },
   {
-    "id": "c994772a341d8889d39d45ad9f59c1298746a01d2b78ff3f3aad1e51cf90920d",
-    "title": "Aura",
-    "img": [
-      "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-1000x1000h.jpg"
-    ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1361-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=526",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".main-products.product-grid .product-thumb",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".img-responsive.img-first",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price-normal",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "EL ÇANTASI",
-    "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.346Z",
-    "processId": "micr4bmsv2kvd",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "none"
-      ]
-    },
-    "seo": {
-      "keywords": []
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=526",
-        "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=526"
-      ]
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "935,00TL",
-          "selector": ".price .price-normal",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 935,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺935,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "5b14405835d45d7bf2829407244ce5e5b6b407255a9cd3af9e834da19477f5df",
-    "title": "Liora",
-    "img": [
-      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-1000x1000h.jpg"
-    ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=532",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".main-products.product-grid .product-thumb",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".img-responsive.img-first",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price-normal",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "EL ÇANTASI",
-    "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.382Z",
-    "processId": "micr4bmsv2kvd",
-    "index": 5,
-    "categories": {
-      "productType": [
-        "none"
-      ]
-    },
-    "seo": {
-      "keywords": []
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.083,50TL",
-          "selector": ".price .price-normal",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1083.5,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.083,50"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "6953f7f14200d1b64e7d82495dd8432eff3d9321e6f6d164d517caefe0ed48ee",
     "title": "Liora",
     "img": [
@@ -408,9 +345,9 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.419Z",
-    "processId": "micr4bmsv2kvd",
-    "index": 6,
+    "timestamp": "2025-12-01T06:19:21.281Z",
+    "processId": "mimre884he531",
+    "index": 5,
     "categories": {
       "productType": [
         "none"
@@ -471,9 +408,9 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.453Z",
-    "processId": "micr4bmsv2kvd",
-    "index": 7,
+    "timestamp": "2025-12-01T06:19:21.319Z",
+    "processId": "mimre884he531",
+    "index": 6,
     "categories": {
       "productType": [
         "none"
@@ -534,9 +471,9 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.490Z",
-    "processId": "micr4bmsv2kvd",
-    "index": 8,
+    "timestamp": "2025-12-01T06:19:21.355Z",
+    "processId": "mimre884he531",
+    "index": 7,
     "categories": {
       "productType": [
         "none"
@@ -597,9 +534,9 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.527Z",
-    "processId": "micr4bmsv2kvd",
-    "index": 9,
+    "timestamp": "2025-12-01T06:19:21.393Z",
+    "processId": "mimre884he531",
+    "index": 8,
     "categories": {
       "productType": [
         "none"
@@ -660,8 +597,71 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.566Z",
-    "processId": "micr4bmsv2kvd",
+    "timestamp": "2025-12-01T06:19:21.431Z",
+    "processId": "mimre884he531",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": []
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.083,50TL",
+          "selector": ".price .price-normal",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1083.5,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.083,50"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5b14405835d45d7bf2829407244ce5e5b6b407255a9cd3af9e834da19477f5df",
+    "title": "Liora",
+    "img": [
+      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-1000x1000h.jpg"
+    ],
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0745-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=532",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".main-products.product-grid .product-thumb",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".img-responsive.img-first",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .price-normal",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "EL ÇANTASI",
+    "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
+    "timestamp": "2025-12-01T06:19:21.471Z",
+    "processId": "mimre884he531",
     "index": 10,
     "categories": {
       "productType": [
@@ -723,8 +723,8 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-11-24T06:13:57.601Z",
-    "processId": "micr4bmsv2kvd",
+    "timestamp": "2025-12-01T06:19:21.507Z",
+    "processId": "mimre884he531",
     "index": 11,
     "categories": {
       "productType": [
@@ -786,8 +786,8 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.555Z",
-    "processId": "micr4hb4bxyyc",
+    "timestamp": "2025-12-01T06:19:28.256Z",
+    "processId": "mimredr3z6zh3",
     "index": 0,
     "categories": {
       "productType": [
@@ -849,8 +849,8 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.597Z",
-    "processId": "micr4hb4bxyyc",
+    "timestamp": "2025-12-01T06:19:28.297Z",
+    "processId": "mimredr3z6zh3",
     "index": 1,
     "categories": {
       "productType": [
@@ -912,8 +912,8 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.633Z",
-    "processId": "micr4hb4bxyyc",
+    "timestamp": "2025-12-01T06:19:28.332Z",
+    "processId": "mimredr3z6zh3",
     "index": 2,
     "categories": {
       "productType": [
@@ -975,8 +975,8 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.673Z",
-    "processId": "micr4hb4bxyyc",
+    "timestamp": "2025-12-01T06:19:28.369Z",
+    "processId": "mimredr3z6zh3",
     "index": 3,
     "categories": {
       "productType": [
@@ -1017,6 +1017,72 @@
     }
   },
   {
+    "id": "ea1dfaf0fefdf5f85eb9e86454ca98c623bd6807bcef51ed561acc909c492930",
+    "title": "Aura",
+    "img": [
+      "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-1000x1000h.jpg"
+    ],
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=524",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".main-products.product-grid .product-thumb",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".img-responsive.img-first",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .price-normal",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "OMUZ ÇANTASI",
+    "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
+    "timestamp": "2025-12-01T06:19:28.406Z",
+    "processId": "mimredr3z6zh3",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": []
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": [
+        "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=524",
+        "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=524"
+      ]
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "935,00TL",
+          "selector": ".price .price-normal",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 935,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺935,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "8d0493a07d50398213e85d0441142b50d25b715be443266cc2db44dd696e375d",
     "title": "Aura",
     "img": [
@@ -1038,9 +1104,9 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.709Z",
-    "processId": "micr4hb4bxyyc",
-    "index": 4,
+    "timestamp": "2025-12-01T06:19:28.443Z",
+    "processId": "mimredr3z6zh3",
+    "index": 5,
     "categories": {
       "productType": [
         "none"
@@ -1104,9 +1170,9 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.746Z",
-    "processId": "micr4hb4bxyyc",
-    "index": 5,
+    "timestamp": "2025-12-01T06:19:28.475Z",
+    "processId": "mimredr3z6zh3",
+    "index": 6,
     "categories": {
       "productType": [
         "none"
@@ -1149,14 +1215,14 @@
     }
   },
   {
-    "id": "ea1dfaf0fefdf5f85eb9e86454ca98c623bd6807bcef51ed561acc909c492930",
-    "title": "Aura",
+    "id": "657c98f7436f6aab995147e7809fe2fc1d7e62fda7e8eb543c876243da00a17c",
+    "title": "Ava",
     "img": [
-      "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-1000x1000h.jpg"
+      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-1000x1000h.jpg"
     ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSP_BAG_SS25_0000L_1349-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=524",
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=509",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1170,9 +1236,9 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.784Z",
-    "processId": "micr4hb4bxyyc",
-    "index": 6,
+    "timestamp": "2025-12-01T06:19:28.510Z",
+    "processId": "mimredr3z6zh3",
+    "index": 7,
     "categories": {
       "productType": [
         "none"
@@ -1186,10 +1252,7 @@
     "mediaType": "image",
     "imageAnalysis": {
       "isDuplicate": true,
-      "duplicateOf": [
-        "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=524",
-        "https://yourbagshop.com/index.php?route=product/product&path=254&product_id=524"
-      ]
+      "duplicateOf": []
     },
     "linkValid": true,
     "titleValid": true,
@@ -1197,16 +1260,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "935,00TL",
+          "value": "1.705,00TL",
           "selector": ".price .price-normal",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 935,
+          "numericValue": 1705,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺935,00"
+          "displayPrice": "₺1.705,00"
         }
       ],
       "priceValid": true,
@@ -1236,9 +1299,9 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.816Z",
-    "processId": "micr4hb4bxyyc",
-    "index": 7,
+    "timestamp": "2025-12-01T06:19:28.549Z",
+    "processId": "mimredr3z6zh3",
+    "index": 8,
     "categories": {
       "productType": [
         "none"
@@ -1299,71 +1362,8 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.849Z",
-    "processId": "micr4hb4bxyyc",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "none"
-      ]
-    },
-    "seo": {
-      "keywords": []
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.705,00TL",
-          "selector": ".price .price-normal",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1705,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.705,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "657c98f7436f6aab995147e7809fe2fc1d7e62fda7e8eb543c876243da00a17c",
-    "title": "Ava",
-    "img": [
-      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-1000x1000h.jpg"
-    ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/BSPBAG_SS26_0000_0994-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=509",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".main-products.product-grid .product-thumb",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".img-responsive.img-first",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price-normal",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "OMUZ ÇANTASI",
-    "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.887Z",
-    "processId": "micr4hb4bxyyc",
+    "timestamp": "2025-12-01T06:19:28.585Z",
+    "processId": "mimredr3z6zh3",
     "index": 9,
     "categories": {
       "productType": [
@@ -1404,16 +1404,16 @@
     }
   },
   {
-    "id": "91b6084d5208d1f23476e5af825a22d6196c3a4ff76408daf2e1271ecd336742",
+    "id": "78b59d6fedc6566be6ee2ab774578ad6c2a1719362bfac6ada1ac6fea1dcf4e2",
     "title": "Eve",
     "img": [
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-1000x1000h.jpg",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1155-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1155-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1155-1000x1000h.jpg"
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-1000x1000h.jpg",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1150-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1150-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1150-1000x1000h.jpg"
     ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=496",
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=497",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1427,8 +1427,8 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.922Z",
-    "processId": "micr4hb4bxyyc",
+    "timestamp": "2025-12-01T06:19:28.627Z",
+    "processId": "mimredr3z6zh3",
     "index": 10,
     "categories": {
       "productType": [
@@ -1469,16 +1469,16 @@
     }
   },
   {
-    "id": "78b59d6fedc6566be6ee2ab774578ad6c2a1719362bfac6ada1ac6fea1dcf4e2",
+    "id": "91b6084d5208d1f23476e5af825a22d6196c3a4ff76408daf2e1271ecd336742",
     "title": "Eve",
     "img": [
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-1000x1000h.jpg",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1150-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1150-2000x2000h.jpg 2x",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1150-1000x1000h.jpg"
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-1000x1000h.jpg",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1155-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1155-2000x2000h.jpg 2x",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1155-1000x1000h.jpg"
     ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1147-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=497",
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_SS25_0000_1152-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=496",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1492,8 +1492,8 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-11-24T06:14:04.959Z",
-    "processId": "micr4hb4bxyyc",
+    "timestamp": "2025-12-01T06:19:28.670Z",
+    "processId": "mimredr3z6zh3",
     "index": 11,
     "categories": {
       "productType": [
