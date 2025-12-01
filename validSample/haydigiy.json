@@ -1,5 +1,162 @@
 [
   {
+    "id": "9a12f0679cef26bf728f039749f5320abc19e0e59c47cb80fc07e0fc6acdcfa5",
+    "title": "Kol Çantası Siyah - 31560.2063.",
+    "img": [
+      "https://www.haydigiy.com/i/m/110/1101597_kol-cantasi-siyah-315602063.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/110/1101597_kol-cantasi-siyah-315602063.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-siyah-315602063/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.305Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "209,99 TL",
+          "selector": ".price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 209.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺209,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5067cd39f2d5ac04d3187fe63e4631d80ebab7fcbbaee2b592f5b9b498aeef00",
+    "title": "Orıgınal Armine Kadın Çanta Siyahpia - 266.1853.",
+    "img": [
+      "https://www.haydigiy.com/i/m/102/1026944_original-armine-kadin-canta-siyahpia-2661853.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026944_original-armine-kadin-canta-siyahpia-2661853.jpeg",
+    "link": "https://www.haydigiy.com/original-armine-kadin-canta-siyahpia-2661853/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.348Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "503,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 503.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺503,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "88e9ec8495132b10bdf464fc5072b5945ce98f8bef93288d1624cf494ededde3",
     "title": "Kol Çanta Bordo - 3016.1853.",
     "img": [
@@ -15,14 +172,14 @@
       "titleSelectorMatched": ".name a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": ".old-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.093Z",
-    "processId": "micqqrvate7mj",
-    "index": 0,
+    "timestamp": "2025-12-01T06:11:19.397Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -58,167 +215,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "214,99 TL",
-          "selector": ".price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 214.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺214,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "bdf4769d0df25daaca8354295a66efa4fcfb882cff260381709d7a00f710aecc",
-    "title": "Çok Yönlü Niş Çanta Siyah - 3016.1853.",
-    "img": [
-      "https://www.haydigiy.com/i/m/081/0816579_cok-yonlu-nis-canta-siyah-30161853.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/081/0816579_cok-yonlu-nis-canta-siyah-30161853.jpeg",
-    "link": "https://www.haydigiy.com/cok-yonlu-nis-canta-siyah-30161853/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.148Z",
-    "processId": "micqqrvate7mj",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "199,99 TL",
-          "selector": ".price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 199.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺199,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "cd8369e92e5d4e0b91ed31641c1ec105676c0334c4dabfedef5511778a1b8a36",
-    "title": "Orıgınal Armine Pia Çanta Siyahpia - 397.1853.",
-    "img": [
-      "https://www.haydigiy.com/i/m/102/1026696_original-armine-pia-canta-siyahpia-3971853.jpeg",
-      "https://www.haydigiy.com/i/l/033/0332970.png"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026696_original-armine-pia-canta-siyahpia-3971853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-pia-canta-siyahpia-3971853/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.218Z",
-    "processId": "micqqrvate7mj",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://www.haydigiy.com/baget-omuz-canta-kahve-30131853/?product=True",
-        "https://www.haydigiy.com/original-armine-kadin-canta-siyahpia-2661853/?product=True",
-        "https://www.haydigiy.com/original-armine-kol-cantasi-kahvenoktali-4001853/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31096592/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31108401/?product=True"
-      ]
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.313,99 TL",
+          "value": "269,99 TL",
           "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1313.99,
+          "numericValue": 269.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.313,99"
+          "displayPrice": "₺269,99"
         }
       ],
       "priceValid": true,
@@ -247,8 +253,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.263Z",
-    "processId": "micqqrvate7mj",
+    "timestamp": "2025-12-01T06:11:19.431Z",
+    "processId": "mimr3x4izcf2q",
     "index": 3,
     "categories": {
       "productType": [
@@ -299,14 +305,13 @@
     }
   },
   {
-    "id": "a3585565d352b471e1adc33842a53c6a1ebb14f5af6367ce67793c846c3ea145",
-    "title": "Baget Omuz Çanta Kahve - 3013.1853.",
+    "id": "cd8369e92e5d4e0b91ed31641c1ec105676c0334c4dabfedef5511778a1b8a36",
+    "title": "Orıgınal Armine Pia Çanta Siyahpia - 397.1853.",
     "img": [
-      "https://www.haydigiy.com/i/m/094/0940628_baget-omuz-canta-kahve-30131853.jpeg",
-      "https://www.haydigiy.com/i/l/033/0332970.png"
+      "https://www.haydigiy.com/i/m/102/1026696_original-armine-pia-canta-siyahpia-3971853.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/094/0940628_baget-omuz-canta-kahve-30131853.jpeg",
-    "link": "https://www.haydigiy.com/baget-omuz-canta-kahve-30131853/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026696_original-armine-pia-canta-siyahpia-3971853.jpeg",
+    "link": "https://www.haydigiy.com/original-armine-pia-canta-siyahpia-3971853/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -320,9 +325,157 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.316Z",
-    "processId": "micqqrvate7mj",
+    "timestamp": "2025-12-01T06:11:19.485Z",
+    "processId": "mimr3x4izcf2q",
     "index": 4,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.313,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1313.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.313,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "87e32d2b5e7589261773f9bc8f79518bc70f1a69a335795a572a98cee0ed62a7",
+    "title": "Kol Çantası Pudra - 31083.519.",
+    "img": [
+      "https://www.haydigiy.com/i/m/101/1010007_kol-cantasi-pudra-31083519.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1010007_kol-cantasi-pudra-31083519.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-pudra-31083519/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.529Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "pudra"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "pudra"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "450,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 450.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺450,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "8c0b72d760fffd28681c27a3801f3883f7b8bb939574747cd8404070f38c70ba",
+    "title": "Baget Omuz Çanta Taba - 3013.1853.",
+    "img": [
+      "https://www.haydigiy.com/i/m/081/0810566_baget-omuz-canta-taba-30131853.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/081/0810566_baget-omuz-canta-taba-30131853.jpeg",
+    "link": "https://www.haydigiy.com/baget-omuz-canta-taba-30131853/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.575Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -356,14 +509,8 @@
     "videoValid": false,
     "mediaType": "image",
     "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://www.haydigiy.com/original-armine-pia-canta-siyahpia-3971853/?product=True",
-        "https://www.haydigiy.com/original-armine-kadin-canta-siyahpia-2661853/?product=True",
-        "https://www.haydigiy.com/original-armine-kol-cantasi-kahvenoktali-4001853/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31096592/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31108401/?product=True"
-      ]
+      "isDuplicate": false,
+      "duplicateOf": []
     },
     "linkValid": true,
     "titleValid": true,
@@ -389,13 +536,13 @@
     }
   },
   {
-    "id": "45b7121f88dedf8f87e5fed3512b676c06fa68fc3a3e8c2801eb6712e1d7dae7",
-    "title": "Omuz Çanta Taba - 3015.1853.",
+    "id": "2642c276a7c029180badee8333f80b11aba351e5735d6ea8cee441856df20565",
+    "title": "Askılı Çanta Kırmızı - 31097.592.",
     "img": [
-      "https://www.haydigiy.com/i/m/109/1093907_omuz-canta-taba-30151853.jpeg"
+      "https://www.haydigiy.com/i/m/100/1008324_askili-canta-kirmizi-31097592.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/109/1093907_omuz-canta-taba-30151853.jpeg",
-    "link": "https://www.haydigiy.com/omuz-canta-taba-30151853/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/100/1008324_askili-canta-kirmizi-31097592.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-kirmizi-31097592/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -404,21 +551,23 @@
       "titleSelectorMatched": ".name a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": ".old-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.360Z",
-    "processId": "micqqrvate7mj",
-    "index": 5,
+    "timestamp": "2025-12-01T06:11:19.630Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası"
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
       ],
       "color": [
-        "kahverengi"
+        "kırmızı"
       ]
     },
     "seo": {
@@ -427,15 +576,17 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "kırmızı",
+        "red",
+        "nar çiçeği"
       ]
     },
     "imgValid": true,
@@ -451,16 +602,259 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "249,99 TL",
-          "selector": ".price",
+          "value": "333,99 TL",
+          "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 249.99,
+          "numericValue": 333.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺249,99"
+          "displayPrice": "₺333,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "c3d373a3c2db2dd97e56d12720eae8375c2951a30ffc7df854bcc0ad6c0e7bd7",
+    "title": "Askılı Çanta Siyah - 31096.592.",
+    "img": [
+      "https://www.haydigiy.com/i/m/100/1007572_askili-canta-siyah-31096592.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/100/1007572_askili-canta-siyah-31096592.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-siyah-31096592/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.671Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 8,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "396,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 396.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺396,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "be16585c98b70b58b0d9ae1ef439d70c0f24dd9e7d2ce219b05edb083f461888",
+    "title": "Kol Çantası Siyah - 31086.519.",
+    "img": [
+      "https://www.haydigiy.com/i/m/108/1082772_kol-cantasi-siyah-31086519.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/108/1082772_kol-cantasi-siyah-31086519.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-siyah-31086519/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.711Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "486,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 486.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺486,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "482c4a117c8425aa7331a437db96d1bab17172e6af69be95a36876a274605043",
+    "title": "Askılı Çanta Ten - 31097.592.",
+    "img": [
+      "https://www.haydigiy.com/i/m/101/1015866_askili-canta-ten-31097592.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1015866_askili-canta-ten-31097592.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-ten-31097592/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.752Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "bej"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "bej",
+        "ten"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "333,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 333.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺333,99"
         }
       ],
       "priceValid": true,
@@ -489,9 +883,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.403Z",
-    "processId": "micqqrvate7mj",
-    "index": 6,
+    "timestamp": "2025-12-01T06:11:19.789Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -545,14 +939,13 @@
     }
   },
   {
-    "id": "5067cd39f2d5ac04d3187fe63e4631d80ebab7fcbbaee2b592f5b9b498aeef00",
-    "title": "Orıgınal Armine Kadın Çanta Siyahpia - 266.1853.",
+    "id": "2ceeee4a11a7f20997e93fdac11cff97de4e5dbf5b1f66b299d10dc402f811aa",
+    "title": "Askılı Çanta Krem - 31092.1059.",
     "img": [
-      "https://www.haydigiy.com/i/m/102/1026944_original-armine-kadin-canta-siyahpia-2661853.jpeg",
-      "https://www.haydigiy.com/i/l/033/0332970.png"
+      "https://www.haydigiy.com/i/m/100/1007665_askili-canta-krem-310921059.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026944_original-armine-kadin-canta-siyahpia-2661853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-kadin-canta-siyahpia-2661853/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/100/1007665_askili-canta-krem-310921059.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-krem-310921059/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -566,18 +959,15 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.448Z",
-    "processId": "micqqrvate7mj",
-    "index": 7,
+    "timestamp": "2025-12-01T06:11:19.820Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 12,
     "categories": {
       "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
       ]
     },
     "seo": {
@@ -586,99 +976,14 @@
         "çantası",
         "bag",
         "çantasi",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://www.haydigiy.com/original-armine-pia-canta-siyahpia-3971853/?product=True",
-        "https://www.haydigiy.com/baget-omuz-canta-kahve-30131853/?product=True",
-        "https://www.haydigiy.com/original-armine-kol-cantasi-kahvenoktali-4001853/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31096592/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31108401/?product=True"
-      ]
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "503,99 TL",
-          "selector": ".old-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 503.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺503,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "4b51bda7ad1331490ba8c2da5a66144ff01917d6d3258baad45c5c93fa8029e8",
-    "title": "Original Armine Kol Çantası Taba - 402.1853.",
-    "img": [
-      "https://www.haydigiy.com/i/m/102/1026624_original-armine-kol-cantasi-taba-4021853.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026624_original-armine-kol-cantasi-taba-4021853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-kol-cantasi-taba-4021853/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.501Z",
-    "processId": "micqqrvate7mj",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
       ]
     },
     "imgValid": true,
@@ -694,16 +999,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.259,99 TL",
+          "value": "396,99 TL",
           "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1259.99,
+          "numericValue": 396.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.259,99"
+          "displayPrice": "₺396,99"
         }
       ],
       "priceValid": true,
@@ -712,13 +1017,13 @@
     }
   },
   {
-    "id": "fb8f49c758dae36c96d9dd937f4bf9ebe303382bfb8dff2e048623b34fe728ce",
-    "title": "Kol Çanta Siyah - 3004.1853.",
+    "id": "5222cabc823569706c2b60714ac1cbf0a3c356111e200ccd360db49a4d5c468b",
+    "title": "Kol Çantası Bebemavi - 31086.519.",
     "img": [
-      "https://www.haydigiy.com/i/m/102/1026721_kol-canta-siyah-30041853.jpeg"
+      "https://www.haydigiy.com/i/m/101/1010589_kol-cantasi-bebemavi-31086519.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026721_kol-canta-siyah-30041853.jpeg",
-    "link": "https://www.haydigiy.com/kol-canta-siyah-30041853/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1010589_kol-cantasi-bebemavi-31086519.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-bebemavi-31086519/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -732,9 +1037,399 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.554Z",
-    "processId": "micqqrvate7mj",
-    "index": 9,
+    "timestamp": "2025-12-01T06:11:19.855Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "mavi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "mavi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "486,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 486.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺486,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "df1f71d6880c84f1463deb63cd8117024ae808f4047e3c0b1b81ee5e84be9996",
+    "title": "Kol Çantası Bordo - 31086.519.",
+    "img": [
+      "https://www.haydigiy.com/i/m/101/1010597_kol-cantasi-bordo-31086519.jpeg",
+      "https://www.haydigiy.com/i/l/033/0332970.png"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1010597_kol-cantasi-bordo-31086519.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-bordo-31086519/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.899Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "bordo"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "bordo"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "486,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 486.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺486,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "bdb3c71420826b3fa577865c6efa457267169c123816bf4d2035048c3251c642",
+    "title": "Kol Çantası Pudra - 31086.519.",
+    "img": [
+      "https://www.haydigiy.com/i/m/101/1010011_kol-cantasi-pudra-31086519.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1010011_kol-cantasi-pudra-31086519.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-pudra-31086519/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.933Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 15,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "pudra"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "pudra"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "486,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 486.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺486,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "1607524b6c9f1a9b8f090d3f461ba901aefebcc534e81164befdd65459a229d4",
+    "title": "Askılı Çanta Acıkahve - 31092.1059.",
+    "img": [
+      "https://www.haydigiy.com/i/m/101/1010530_askili-canta-acikahve-310921059.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1010530_askili-canta-acikahve-310921059.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-acikahve-310921059/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:19.973Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 16,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "396,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 396.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺396,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "0c6d8bc82050ec7f8b5d42636f95f3dd287462373130c4f34f8f703cc6a9fd85",
+    "title": "Askılı Çanta Siyah - 31105.401.",
+    "img": [
+      "https://www.haydigiy.com/i/m/100/1008929_askili-canta-siyah-31105401.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/100/1008929_askili-canta-siyah-31105401.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-siyah-31105401/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:20.009Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 17,
+    "categories": {
+      "productType": [
+        "çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "396,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 396.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺396,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "34d2cc8bde8428d0f2827d87f2a07a138602df93733e08ca09051d55ac959f1a",
+    "title": "Kol Çantası Siyah - 31079.519.",
+    "img": [
+      "https://www.haydigiy.com/i/m/100/1007850_kol-cantasi-siyah-31079519.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/100/1007850_kol-cantasi-siyah-31079519.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-siyah-31079519/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:20.051Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -771,16 +1466,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "305,99 TL",
+          "value": "432,99 TL",
           "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 305.99,
+          "numericValue": 432.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺305,99"
+          "displayPrice": "₺432,99"
         }
       ],
       "priceValid": true,
@@ -789,13 +1484,13 @@
     }
   },
   {
-    "id": "3cd55f84b8a098693eef8ee2b01d9da8885c18ae2ac22c98ec2c3291d94fc13f",
-    "title": "Original Armine El Çantası Kremörgü - 409.1853.",
+    "id": "be6b6583480792f9e77f53b1419c7550f72515b8e71e4a817042ac19f698250b",
+    "title": "Askılı Çanta Beyaz - 31082.519.",
     "img": [
-      "https://www.haydigiy.com/i/m/102/1026896_original-armine-el-cantasi-kremorgu-4091853.jpeg"
+      "https://www.haydigiy.com/i/m/100/1007763_askili-canta-beyaz-31082519.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026896_original-armine-el-cantasi-kremorgu-4091853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-el-cantasi-kremorgu-4091853/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/100/1007763_askili-canta-beyaz-31082519.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-beyaz-31082519/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -804,18 +1499,23 @@
       "titleSelectorMatched": ".name a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
+      "bestPriceSelector": ".price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.618Z",
-    "processId": "micqqrvate7mj",
-    "index": 10,
+    "timestamp": "2025-12-01T06:11:20.088Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
-        "el çantası"
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "beyaz"
       ]
     },
     "seo": {
@@ -824,8 +1524,16 @@
         "çantası",
         "bag",
         "çantasi",
-        "el çantası",
-        "el"
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "beyaz",
+        "white"
       ]
     },
     "imgValid": true,
@@ -841,16 +1549,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.313,99 TL",
-          "selector": ".old-price",
+          "value": "329,99 TL",
+          "selector": ".price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1313.99,
+          "numericValue": 329.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.313,99"
+          "displayPrice": "₺329,99"
         }
       ],
       "priceValid": true,
@@ -859,13 +1567,13 @@
     }
   },
   {
-    "id": "df1f71d6880c84f1463deb63cd8117024ae808f4047e3c0b1b81ee5e84be9996",
-    "title": "Kol Çantası Bordo - 31086.519.",
+    "id": "cc3f831fda9045893e139905869403fb82ae8426ab9ed5b33433bb655306207a",
+    "title": "Kol Çantası Bordo - 31079.519.",
     "img": [
-      "https://www.haydigiy.com/i/m/101/1010597_kol-cantasi-bordo-31086519.jpeg"
+      "https://www.haydigiy.com/i/m/101/1015959_kol-cantasi-bordo-31079519.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/101/1010597_kol-cantasi-bordo-31086519.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-bordo-31086519/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1015959_kol-cantasi-bordo-31079519.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-bordo-31079519/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -874,14 +1582,14 @@
       "titleSelectorMatched": ".name a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": ".old-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.669Z",
-    "processId": "micqqrvate7mj",
-    "index": 11,
+    "timestamp": "2025-12-01T06:11:20.127Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -917,16 +1625,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "384,99 TL",
-          "selector": ".price",
+          "value": "432,99 TL",
+          "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 384.99,
+          "numericValue": 432.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺384,99"
+          "displayPrice": "₺432,99"
         }
       ],
       "priceValid": true,
@@ -935,13 +1643,13 @@
     }
   },
   {
-    "id": "4c9c054f71ae1d1848b6d7837f7107381c0407a021275f8dd6740c0839744062",
-    "title": "Original Armine El Çantası Tabaörgü - 409.1853.",
+    "id": "023a21c7ab38594365ba17cb5885c42d392fe2bfc7c69f26ea87cab0f2b47347",
+    "title": "Askılı Kol Çantası Acıkahve - 31115.401.",
     "img": [
-      "https://www.haydigiy.com/i/m/102/1026647_original-armine-el-cantasi-tabaorgu-4091853.jpeg"
+      "https://www.haydigiy.com/i/m/101/1010623_askili-kol-cantasi-acikahve-31115401.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026647_original-armine-el-cantasi-tabaorgu-4091853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-el-cantasi-tabaorgu-4091853/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1010623_askili-kol-cantasi-acikahve-31115401.jpeg",
+    "link": "https://www.haydigiy.com/askili-kol-cantasi-acikahve-31115401/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -955,13 +1663,16 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.717Z",
-    "processId": "micqqrvate7mj",
-    "index": 12,
+    "timestamp": "2025-12-01T06:11:20.165Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
-        "el çantası"
+        "omuz çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
       ]
     },
     "seo": {
@@ -970,8 +1681,18 @@
         "çantası",
         "bag",
         "çantasi",
-        "el çantası",
-        "el"
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
       ]
     },
     "imgValid": true,
@@ -987,16 +1708,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.313,99 TL",
+          "value": "396,99 TL",
           "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1313.99,
+          "numericValue": 396.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.313,99"
+          "displayPrice": "₺396,99"
         }
       ],
       "priceValid": true,
@@ -1025,9 +1746,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.767Z",
-    "processId": "micqqrvate7mj",
-    "index": 13,
+    "timestamp": "2025-12-01T06:11:20.197Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1088,234 +1809,6 @@
     }
   },
   {
-    "id": "485c1fd6386909d029d70f331bcae1cb1529c90b46f4c7c307068689e162a585",
-    "title": "Original Armine Kol Çantası Tabaörgü - 408.1853.",
-    "img": [
-      "https://www.haydigiy.com/i/m/102/1026649_original-armine-kol-cantasi-tabaorgu-4081853.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026649_original-armine-kol-cantasi-tabaorgu-4081853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-kol-cantasi-tabaorgu-4081853/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.807Z",
-    "processId": "micqqrvate7mj",
-    "index": 14,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.331,99 TL",
-          "selector": ".old-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1331.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.331,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "0f519c1f0a0247fca9be8b4fcbeaa4191624fe8ca0b155c1fc0919daa0b0f926",
-    "title": "Original Armine Kol Çantası Kahvenoktalı - 400.1853.",
-    "img": [
-      "https://www.haydigiy.com/i/m/102/1027261_original-armine-kol-cantasi-kahvenoktali-4001853.jpeg",
-      "https://www.haydigiy.com/i/l/033/0332970.png"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1027261_original-armine-kol-cantasi-kahvenoktali-4001853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-kol-cantasi-kahvenoktali-4001853/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.857Z",
-    "processId": "micqqrvate7mj",
-    "index": 15,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://www.haydigiy.com/original-armine-pia-canta-siyahpia-3971853/?product=True",
-        "https://www.haydigiy.com/baget-omuz-canta-kahve-30131853/?product=True",
-        "https://www.haydigiy.com/original-armine-kadin-canta-siyahpia-2661853/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31096592/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31108401/?product=True"
-      ]
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.313,99 TL",
-          "selector": ".old-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1313.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.313,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "be16585c98b70b58b0d9ae1ef439d70c0f24dd9e7d2ce219b05edb083f461888",
-    "title": "Kol Çantası Siyah - 31086.519.",
-    "img": [
-      "https://www.haydigiy.com/i/m/108/1082772_kol-cantasi-siyah-31086519.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/108/1082772_kol-cantasi-siyah-31086519.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-siyah-31086519/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.901Z",
-    "processId": "micqqrvate7mj",
-    "index": 16,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "486,99 TL",
-          "selector": ".old-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 486.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺486,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "4ec84d1448b041ec94f95167ac87df5a1d741b2298b73bb18113dea56633491e",
     "title": "Original Armine Kol Çantası Kremörgü - 357.1853.",
     "img": [
@@ -1336,9 +1829,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.945Z",
-    "processId": "micqqrvate7mj",
-    "index": 17,
+    "timestamp": "2025-12-01T06:11:20.238Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1388,13 +1881,13 @@
     }
   },
   {
-    "id": "8c0b72d760fffd28681c27a3801f3883f7b8bb939574747cd8404070f38c70ba",
-    "title": "Baget Omuz Çanta Taba - 3013.1853.",
+    "id": "4b51bda7ad1331490ba8c2da5a66144ff01917d6d3258baad45c5c93fa8029e8",
+    "title": "Original Armine Kol Çantası Taba - 402.1853.",
     "img": [
-      "https://www.haydigiy.com/i/m/081/0810566_baget-omuz-canta-taba-30131853.jpeg"
+      "https://www.haydigiy.com/i/m/102/1026624_original-armine-kol-cantasi-taba-4021853.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/081/0810566_baget-omuz-canta-taba-30131853.jpeg",
-    "link": "https://www.haydigiy.com/baget-omuz-canta-taba-30131853/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026624_original-armine-kol-cantasi-taba-4021853.jpeg",
+    "link": "https://www.haydigiy.com/original-armine-kol-cantasi-taba-4021853/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1408,14 +1901,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:24.987Z",
-    "processId": "micqqrvate7mj",
-    "index": 18,
+    "timestamp": "2025-12-01T06:11:20.294Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası",
-        "baget çanta"
+        "omuz çantası"
       ],
       "color": [
         "kahverengi"
@@ -1431,429 +1923,11 @@
         "omuz",
         "shoulder",
         "kol",
-        "baget çanta",
-        "baget",
         "kahverengi",
         "kahve",
         "brown",
         "taba",
         "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "287,99 TL",
-          "selector": ".old-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 287.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺287,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "7f2d4e8612bdeb58b9b053806ccc68065a1a50533104d68422f6107516aedf5b",
-    "title": "Askılı Çanta Siyah - 31092.1059.",
-    "img": [
-      "https://www.haydigiy.com/i/m/101/1015963_askili-canta-siyah-310921059.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/101/1015963_askili-canta-siyah-310921059.jpeg",
-    "link": "https://www.haydigiy.com/askili-canta-siyah-310921059/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.024Z",
-    "processId": "micqqrvate7mj",
-    "index": 19,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "314,99 TL",
-          "selector": ".price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 314.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺314,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "c3d373a3c2db2dd97e56d12720eae8375c2951a30ffc7df854bcc0ad6c0e7bd7",
-    "title": "Askılı Çanta Siyah - 31096.592.",
-    "img": [
-      "https://www.haydigiy.com/i/m/100/1007572_askili-canta-siyah-31096592.jpeg",
-      "https://www.haydigiy.com/i/l/033/0332970.png"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/100/1007572_askili-canta-siyah-31096592.jpeg",
-    "link": "https://www.haydigiy.com/askili-canta-siyah-31096592/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.061Z",
-    "processId": "micqqrvate7mj",
-    "index": 20,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://www.haydigiy.com/original-armine-pia-canta-siyahpia-3971853/?product=True",
-        "https://www.haydigiy.com/baget-omuz-canta-kahve-30131853/?product=True",
-        "https://www.haydigiy.com/original-armine-kadin-canta-siyahpia-2661853/?product=True",
-        "https://www.haydigiy.com/original-armine-kol-cantasi-kahvenoktali-4001853/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31108401/?product=True"
-      ]
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "396,99 TL",
-          "selector": ".old-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 396.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺396,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "6a0ed5ad9358086c605cdf5944de2b172bd0ef28d9f762139177ac144343a06f",
-    "title": "Askılı Çanta Siyah - 31108.401.",
-    "img": [
-      "https://www.haydigiy.com/i/m/101/1010525_askili-canta-siyah-31108401.jpeg",
-      "https://www.haydigiy.com/i/l/033/0332970.png"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/101/1010525_askili-canta-siyah-31108401.jpeg",
-    "link": "https://www.haydigiy.com/askili-canta-siyah-31108401/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.106Z",
-    "processId": "micqqrvate7mj",
-    "index": 21,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": [
-        "https://www.haydigiy.com/original-armine-pia-canta-siyahpia-3971853/?product=True",
-        "https://www.haydigiy.com/baget-omuz-canta-kahve-30131853/?product=True",
-        "https://www.haydigiy.com/original-armine-kadin-canta-siyahpia-2661853/?product=True",
-        "https://www.haydigiy.com/original-armine-kol-cantasi-kahvenoktali-4001853/?product=True",
-        "https://www.haydigiy.com/askili-canta-siyah-31096592/?product=True"
-      ]
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "378,99 TL",
-          "selector": ".old-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 378.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺378,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "87e32d2b5e7589261773f9bc8f79518bc70f1a69a335795a572a98cee0ed62a7",
-    "title": "Kol Çantası Pudra - 31083.519.",
-    "img": [
-      "https://www.haydigiy.com/i/m/101/1010007_kol-cantasi-pudra-31083519.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/101/1010007_kol-cantasi-pudra-31083519.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-pudra-31083519/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.150Z",
-    "processId": "micqqrvate7mj",
-    "index": 22,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "pudra"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "pudra"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "450,99 TL",
-          "selector": ".old-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 450.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺450,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "bf621c2e2a169231bba40d66c1cd3830ac6950411b937fe84512205f0f90d567",
-    "title": "Original Armine Kol Çantası Siyah - 402.1853.",
-    "img": [
-      "https://www.haydigiy.com/i/m/102/1026676_original-armine-kol-cantasi-siyah-4021853.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026676_original-armine-kol-cantasi-siyah-4021853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-kol-cantasi-siyah-4021853/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.182Z",
-    "processId": "micqqrvate7mj",
-    "index": 23,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black"
       ]
     },
     "imgValid": true,
@@ -1887,13 +1961,13 @@
     }
   },
   {
-    "id": "8b171e96df1c027ec8df3a00a9c7b60e12bc51e15da1b2687947871519319141",
-    "title": "Kol Çantası Acıkahve - 31533.2063.",
+    "id": "3cd55f84b8a098693eef8ee2b01d9da8885c18ae2ac22c98ec2c3291d94fc13f",
+    "title": "Original Armine El Çantası Kremörgü - 409.1853.",
     "img": [
-      "https://www.haydigiy.com/i/m/109/1098277_kol-cantasi-acikahve-315332063.jpeg"
+      "https://www.haydigiy.com/i/m/102/1026896_original-armine-el-cantasi-kremorgu-4091853.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/109/1098277_kol-cantasi-acikahve-315332063.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-acikahve-315332063/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026896_original-armine-el-cantasi-kremorgu-4091853.jpeg",
+    "link": "https://www.haydigiy.com/original-armine-el-cantasi-kremorgu-4091853/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1902,90 +1976,18 @@
       "titleSelectorMatched": ".name a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": ".old-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.225Z",
-    "processId": "micqqrvate7mj",
-    "index": 24,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "244,99 TL",
-          "selector": ".price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 244.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺244,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "9a5e4158747364d21d14d44649f2e521727a9d0a694d0cabdd65b067324380e5",
-    "title": "Kol Çantası Acıkahve - 31560.2063.",
-    "img": [
-      "https://www.haydigiy.com/i/m/109/1098268_kol-cantasi-acikahve-315602063.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/109/1098268_kol-cantasi-acikahve-315602063.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-acikahve-315602063/?product=True",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.273Z",
-    "processId": "micqqrvate7mj",
+    "timestamp": "2025-12-01T06:11:20.336Z",
+    "processId": "mimr3x4izcf2q",
     "index": 25,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası"
+        "el çantası"
       ]
     },
     "seo": {
@@ -1994,10 +1996,8 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
+        "el çantası",
+        "el"
       ]
     },
     "imgValid": true,
@@ -2013,16 +2013,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "209,99 TL",
-          "selector": ".price",
+          "value": "1.313,99 TL",
+          "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 209.99,
+          "numericValue": 1313.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺209,99"
+          "displayPrice": "₺1.313,99"
         }
       ],
       "priceValid": true,
@@ -2031,13 +2031,13 @@
     }
   },
   {
-    "id": "c2a6180569196a8b4d1eaa74545d01bc6ccdc9dd9ac77540672881162ebeef63",
-    "title": "Kol Çantası Bordo - 31533.2063.",
+    "id": "69a8edd9552784e47bd2b0760048fb85ffb6aefbd7e50eea97d17449e2f8900e",
+    "title": "Askılı Çanta Bordo - 31077.519.",
     "img": [
-      "https://www.haydigiy.com/i/m/109/1098275_kol-cantasi-bordo-315332063.jpeg"
+      "https://www.haydigiy.com/i/m/102/1025556_askili-canta-bordo-31077519.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/109/1098275_kol-cantasi-bordo-315332063.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-bordo-315332063/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1025556_askili-canta-bordo-31077519.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-bordo-31077519/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2046,18 +2046,20 @@
       "titleSelectorMatched": ".name a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": ".old-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.318Z",
-    "processId": "micqqrvate7mj",
+    "timestamp": "2025-12-01T06:11:20.373Z",
+    "processId": "mimr3x4izcf2q",
     "index": 26,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası"
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
       ],
       "color": [
         "bordo"
@@ -2069,10 +2071,14 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
         "bordo"
       ]
     },
@@ -2089,16 +2095,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "244,99 TL",
-          "selector": ".price",
+          "value": "450,99 TL",
+          "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 244.99,
+          "numericValue": 450.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺244,99"
+          "displayPrice": "₺450,99"
         }
       ],
       "priceValid": true,
@@ -2107,13 +2113,13 @@
     }
   },
   {
-    "id": "20b2b11f1be8cc29c1730a4d19aee053bab76f49b150038056a3ffb30b60718b",
-    "title": "Kol Çantası Bordo - 31560.2063.",
+    "id": "2e07f0619820c0e6f0ca0f85290a761ff8a520e075768be9217b3de4f431d8a1",
+    "title": "Kol Çantası Tereyağsarı - 31079.519.",
     "img": [
-      "https://www.haydigiy.com/i/m/109/1098266_kol-cantasi-bordo-315602063.jpeg"
+      "https://www.haydigiy.com/i/m/102/1029022_kol-cantasi-tereyagsari-31079519.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/109/1098266_kol-cantasi-bordo-315602063.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-bordo-315602063/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1029022_kol-cantasi-tereyagsari-31079519.jpeg",
+    "link": "https://www.haydigiy.com/kol-cantasi-tereyagsari-31079519/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2122,13 +2128,13 @@
       "titleSelectorMatched": ".name a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": ".old-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.357Z",
-    "processId": "micqqrvate7mj",
+    "timestamp": "2025-12-01T06:11:20.413Z",
+    "processId": "mimr3x4izcf2q",
     "index": 27,
     "categories": {
       "productType": [
@@ -2136,7 +2142,7 @@
         "omuz çantası"
       ],
       "color": [
-        "bordo"
+        "sarı"
       ]
     },
     "seo": {
@@ -2149,7 +2155,7 @@
         "omuz",
         "shoulder",
         "kol",
-        "bordo"
+        "sarı"
       ]
     },
     "imgValid": true,
@@ -2165,16 +2171,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "209,99 TL",
-          "selector": ".price",
+          "value": "432,99 TL",
+          "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 209.99,
+          "numericValue": 432.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺209,99"
+          "displayPrice": "₺432,99"
         }
       ],
       "priceValid": true,
@@ -2183,13 +2189,13 @@
     }
   },
   {
-    "id": "595a2e2b5db9c8d435cd765c9663b9d206f22d50eb61d88dc01c8fcf378a5906",
-    "title": "Kol Çantası Siyah - 31533.2063.",
+    "id": "f70d6206c3915a1c85b60f9e5266b14a326c83b836202249b5de0764c000b84d",
+    "title": "Hasır Kol Çanta Bej - 3033.1853.",
     "img": [
-      "https://www.haydigiy.com/i/m/109/1098465_kol-cantasi-siyah-315332063.jpeg"
+      "https://www.haydigiy.com/i/m/102/1026829_hasir-kol-canta-bej-30331853.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/109/1098465_kol-cantasi-siyah-315332063.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-siyah-315332063/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026829_hasir-kol-canta-bej-30331853.jpeg",
+    "link": "https://www.haydigiy.com/hasir-kol-canta-bej-30331853/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2198,14 +2204,165 @@
       "titleSelectorMatched": ".name a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": ".old-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.407Z",
-    "processId": "micqqrvate7mj",
+    "timestamp": "2025-12-01T06:11:20.453Z",
+    "processId": "mimr3x4izcf2q",
     "index": 28,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "hasır çanta"
+      ],
+      "color": [
+        "bej"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "hasır çanta",
+        "hasır",
+        "hasir",
+        "bej",
+        "ten"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "287,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 287.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺287,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "4c9c054f71ae1d1848b6d7837f7107381c0407a021275f8dd6740c0839744062",
+    "title": "Original Armine El Çantası Tabaörgü - 409.1853.",
+    "img": [
+      "https://www.haydigiy.com/i/m/102/1026647_original-armine-el-cantasi-tabaorgu-4091853.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026647_original-armine-el-cantasi-tabaorgu-4091853.jpeg",
+    "link": "https://www.haydigiy.com/original-armine-el-cantasi-tabaorgu-4091853/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:20.489Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 29,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.313,99 TL",
+          "selector": ".old-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1313.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.313,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "8b25510ed23d3ea7a700f63538d449b4e3f13200748ba0c11d3a9226eb2669cb",
+    "title": "Original Armine Kol Çantası Siyahnoktalı - 400.1853.",
+    "img": [
+      "https://www.haydigiy.com/i/m/102/1026700_original-armine-kol-cantasi-siyahnoktali-4001853.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026700_original-armine-kol-cantasi-siyahnoktali-4001853.jpeg",
+    "link": "https://www.haydigiy.com/original-armine-kol-cantasi-siyahnoktali-4001853/?product=True",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-12-01T06:11:20.523Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -2242,16 +2399,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "244,99 TL",
-          "selector": ".price",
+          "value": "1.313,99 TL",
+          "selector": ".old-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 244.99,
+          "numericValue": 1313.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺244,99"
+          "displayPrice": "₺1.313,99"
         }
       ],
       "priceValid": true,
@@ -2260,13 +2417,13 @@
     }
   },
   {
-    "id": "8b25510ed23d3ea7a700f63538d449b4e3f13200748ba0c11d3a9226eb2669cb",
-    "title": "Original Armine Kol Çantası Siyahnoktalı - 400.1853.",
+    "id": "c6ed3b08af7bc57ec641df76affd74344563e2062feadc33ea3db692b3f9e38d",
+    "title": "Original Armine El Çantası Siyahörgü - 409.1853.",
     "img": [
-      "https://www.haydigiy.com/i/m/102/1026700_original-armine-kol-cantasi-siyahnoktali-4001853.jpeg"
+      "https://www.haydigiy.com/i/m/102/1026930_original-armine-el-cantasi-siyahorgu-4091853.jpeg"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1026700_original-armine-kol-cantasi-siyahnoktali-4001853.jpeg",
-    "link": "https://www.haydigiy.com/original-armine-kol-cantasi-siyahnoktali-4001853/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026930_original-armine-el-cantasi-siyahorgu-4091853.jpeg",
+    "link": "https://www.haydigiy.com/original-armine-el-cantasi-siyahorgu-4091853/?product=True",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2280,13 +2437,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-11-24T06:03:25.458Z",
-    "processId": "micqqrvate7mj",
-    "index": 29,
+    "timestamp": "2025-12-01T06:11:20.559Z",
+    "processId": "mimr3x4izcf2q",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası"
+        "el çantası"
       ],
       "color": [
         "siyah"
@@ -2298,10 +2455,8 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
+        "el çantası",
+        "el",
         "siyah",
         "black"
       ]
