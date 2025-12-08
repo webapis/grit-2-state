@@ -22,8 +22,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:08.706Z",
-    "processId": "mimpgj2jlld2n",
+    "timestamp": "2025-12-08T05:19:07.817Z",
+    "processId": "miwpbr7mzcm45",
     "index": 0,
     "categories": {
       "productType": [
@@ -96,8 +96,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:08.743Z",
-    "processId": "mimpgj2jlld2n",
+    "timestamp": "2025-12-08T05:19:07.848Z",
+    "processId": "miwpbr7mzcm45",
     "index": 1,
     "categories": {
       "productType": [
@@ -141,16 +141,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺499,99",
+          "value": "₺374,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 499.99,
+          "numericValue": 374.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺499,99"
+          "displayPrice": "₺374,99"
         }
       ],
       "priceValid": true,
@@ -181,8 +181,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:08.781Z",
-    "processId": "mimpgj2jlld2n",
+    "timestamp": "2025-12-08T05:19:07.875Z",
+    "processId": "miwpbr7mzcm45",
     "index": 2,
     "categories": {
       "productType": [
@@ -219,16 +219,317 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺499,99",
+          "value": "₺374,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 499.99,
+          "numericValue": 374.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺499,99"
+          "displayPrice": "₺374,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "cc3ce300874f3c5b67debf0073548f2315bec7c15ccfd5bd4fc37c2c9458eff9",
+    "title": "Bordo Jessica Çanta",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_view3.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/bordo-jessica-canta/p/PY88GUEU25SK-BRG",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-12-08T05:19:07.904Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "bordo"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "bordo"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.949,99",
+          "selector": ".prc.prc-last",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1949.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.949,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "16208b6b6690fa064a0dec02bfa0f921f3422cce4df1512c55941c84eaa92172",
+    "title": "Ekru Gloria Çanta",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_view3.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/ekru-gloria-canta/p/PY8JM3B525SK-E10",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-12-08T05:19:07.933Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺599,99",
+          "selector": ".prc.prc-last",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 599.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺599,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "19766b7d756cd245ef6f6419d8543520ae30e78576ba0555be287064f692ffa6",
+    "title": "Mor Emma Makyaj Çantası",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYG7Z12O25SK-MNK_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYG7Z12O25SK-MNK_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYG7Z12O25SK-MNK_view2.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYG7Z12O25SK-MNK_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/mor-emma-makyaj-cantasi/p/PYG7Z12O25SK-MNK",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-12-08T05:19:07.964Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "makyaj, kozmetik çantası"
+      ],
+      "color": [
+        "mor/lila"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "makyaj, kozmetik çantası",
+        "makyaj",
+        "kozmetik",
+        "mor/lila",
+        "mor",
+        "lila"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺299,99",
+          "selector": ".prc.prc-last",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 299.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺299,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "4cb306ff4a85ddf8f51bec3dfd7ddd945743bf42f2158b97bd6c0165d514eec5",
+    "title": "Siyah Patricia Günlük Çanta",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_view3.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-patricia-gunluk-canta/p/PYYWB70925SK-500",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-12-08T05:19:07.995Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta",
+        "günlük çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "günlük çanta",
+        "günlük",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺899,99",
+          "selector": ".prc.prc-last",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 899.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺899,99"
         }
       ],
       "priceValid": true,
@@ -260,9 +561,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:08.825Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 3,
+    "timestamp": "2025-12-08T05:19:08.038Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta"
@@ -297,315 +598,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺1.199,99",
+          "value": "₺899,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1199.99,
+          "numericValue": 899.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.199,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "2ee75d606b213c21d0be47caf4547984e024cd6adc3c98128bb2f9912706467e",
-    "title": "Siyah Agatha Büyük Boy Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY0IE0JD25SK-500_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY0IE0JD25SK-500_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY0IE0JD25SK-500_view3.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY0IE0JD25SK-500_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-agatha-buyuk-boy-canta/p/PY0IE0JD25SK-500",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:08.860Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "büyük çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺1.999,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1999.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.999,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a592040bc7bef98e1caeca012f819656aaeca93ac2ce7923c7079143eb0af061",
-    "title": "Siyah Joanna Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view3.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-joanna-canta/p/PY1RO1KX25SK-500",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:08.900Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 5,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺1.199,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1199.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.199,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "8a4b40635bf328183be63af8bf77323272c5ee0864cc438ff45d89f8ba57fad8",
-    "title": "Haki Joanna Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_view3.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/haki-joanna-canta/p/PYUPKM6L25SK-76",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:08.944Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 6,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺1.199,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1199.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.199,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a01c7ce87fd36d5f14be9d7decada1c078afde7cad8ff189278347261170f485",
-    "title": "Siyah Ora Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYORYRY725SK-500_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYORYRY725SK-500_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYORYRY725SK-500_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYORYRY725SK-500_view3.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYORYRY725SK-500_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-ora-canta/p/PYORYRY725SK-500",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:08.986Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺1.299,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1299.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.299,99"
+          "displayPrice": "₺899,99"
         }
       ],
       "priceValid": true,
@@ -636,8 +638,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.023Z",
-    "processId": "mimpgj2jlld2n",
+    "timestamp": "2025-12-08T05:19:08.072Z",
+    "processId": "miwpbr7mzcm45",
     "index": 8,
     "categories": {
       "productType": [
@@ -677,16 +679,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺399,99",
+          "value": "₺299,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 399.99,
+          "numericValue": 299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺399,99"
+          "displayPrice": "₺299,99"
         }
       ],
       "priceValid": true,
@@ -695,16 +697,15 @@
     }
   },
   {
-    "id": "6d58ea92eb9bc611f6311f45c80c44e249a2e7fd4e4117733a133d5bc68bb1de",
-    "title": "Bordo Ora Çanta",
+    "id": "2ee75d606b213c21d0be47caf4547984e024cd6adc3c98128bb2f9912706467e",
+    "title": "Siyah Agatha Büyük Boy Çanta",
     "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_view3.jpg"
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY0IE0JD25SK-500_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY0IE0JD25SK-500_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY0IE0JD25SK-500_view3.jpg"
     ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/bordo-ora-canta/p/PY6N04E625SK-BRG",
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY0IE0JD25SK-500_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-agatha-buyuk-boy-canta/p/PY0IE0JD25SK-500",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -718,157 +719,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.063Z",
-    "processId": "mimpgj2jlld2n",
+    "timestamp": "2025-12-08T05:19:08.147Z",
+    "processId": "miwpbr7mzcm45",
     "index": 9,
     "categories": {
       "productType": [
-        "çanta"
-      ],
-      "color": [
-        "bordo"
-      ]
-    },
-    "seo": {
-      "keywords": [
         "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "bordo"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺1.299,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1299.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.299,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "16208b6b6690fa064a0dec02bfa0f921f3422cce4df1512c55941c84eaa92172",
-    "title": "Ekru Gloria Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_view3.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/ekru-gloria-canta/p/PY8JM3B525SK-E10",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.105Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 10,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺799,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 799.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺799,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "4cb306ff4a85ddf8f51bec3dfd7ddd945743bf42f2158b97bd6c0165d514eec5",
-    "title": "Siyah Patricia Günlük Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_view3.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYYWB70925SK-500_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-patricia-gunluk-canta/p/PYYWB70925SK-500",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.145Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 11,
-    "categories": {
-      "productType": [
-        "çanta",
-        "günlük çanta"
+        "büyük çanta"
       ],
       "color": [
         "siyah"
@@ -880,8 +737,10 @@
         "çantası",
         "bag",
         "çantasi",
-        "günlük çanta",
-        "günlük",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
         "siyah",
         "black"
       ]
@@ -899,16 +758,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺1.199,99",
+          "value": "₺1.499,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1199.99,
+          "numericValue": 1499.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.199,99"
+          "displayPrice": "₺1.499,99"
         }
       ],
       "priceValid": true,
@@ -917,16 +776,16 @@
     }
   },
   {
-    "id": "b9f39fd85ce74bc7da92a89d02a50e01505285a42cb1bbf858776444e5ff1675",
-    "title": "Kahve Melanj Fiona Çanta",
+    "id": "a592040bc7bef98e1caeca012f819656aaeca93ac2ce7923c7079143eb0af061",
+    "title": "Siyah Joanna Çanta",
     "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_view3.jpg"
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view3.jpg"
     ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/kahve-melanj-fiona-canta/p/PY2X8JFA25SK-46",
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-joanna-canta/p/PY1RO1KX25SK-500",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -940,15 +799,15 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.178Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 12,
+    "timestamp": "2025-12-08T05:19:08.191Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta"
       ],
       "color": [
-        "kahverengi"
+        "siyah"
       ]
     },
     "seo": {
@@ -957,11 +816,8 @@
         "çantası",
         "bag",
         "çantasi",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
+        "siyah",
+        "black"
       ]
     },
     "imgValid": true,
@@ -977,16 +833,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺599,99",
+          "value": "₺899,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 599.99,
+          "numericValue": 899.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺599,99"
+          "displayPrice": "₺899,99"
         }
       ],
       "priceValid": true,
@@ -1017,9 +873,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.216Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 13,
+    "timestamp": "2025-12-08T05:19:08.250Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -1053,16 +909,89 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺699,99",
+          "value": "₺524,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 699.99,
+          "numericValue": 524.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺699,99"
+          "displayPrice": "₺524,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "1972e5103836d5544613ab4834bb980607dda3689dcd56d8cec6cd7419210685",
+    "title": "Petrol Mavisi Agatha Çanta",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJZFPZG25SK-PTB_view3.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJZFPZG25SK-PTB_view4.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJZFPZG25SK-PTB_view5.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJZFPZG25SK-PTB_view3.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/petrol-mavisi-agatha-canta/p/PYJZFPZG25SK-PTB",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-12-08T05:19:08.295Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "mavi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "mavi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.499,99",
+          "selector": ".prc.prc-last",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1499.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.499,99"
         }
       ],
       "priceValid": true,
@@ -1094,9 +1023,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.251Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 14,
+    "timestamp": "2025-12-08T05:19:08.352Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -1131,89 +1060,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺1.199,99",
+          "value": "₺899,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1199.99,
+          "numericValue": 899.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.199,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "1972e5103836d5544613ab4834bb980607dda3689dcd56d8cec6cd7419210685",
-    "title": "Petrol Mavisi Agatha Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJZFPZG25SK-PTB_view3.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJZFPZG25SK-PTB_view4.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJZFPZG25SK-PTB_view5.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJZFPZG25SK-PTB_view3.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/petrol-mavisi-agatha-canta/p/PYJZFPZG25SK-PTB",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.296Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 15,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "mavi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "mavi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺1.999,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1999.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.999,99"
+          "displayPrice": "₺899,99"
         }
       ],
       "priceValid": true,
@@ -1244,9 +1100,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.332Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 16,
+    "timestamp": "2025-12-08T05:19:08.402Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1283,16 +1139,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺399,99",
+          "value": "₺299,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 399.99,
+          "numericValue": 299.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺399,99"
+          "displayPrice": "₺299,99"
         }
       ],
       "priceValid": true,
@@ -1301,16 +1157,16 @@
     }
   },
   {
-    "id": "cc3ce300874f3c5b67debf0073548f2315bec7c15ccfd5bd4fc37c2c9458eff9",
-    "title": "Bordo Jessica Çanta",
+    "id": "6d58ea92eb9bc611f6311f45c80c44e249a2e7fd4e4117733a133d5bc68bb1de",
+    "title": "Bordo Ora Çanta",
     "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_view3.jpg"
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_view3.jpg"
     ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY88GUEU25SK-BRG_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/bordo-jessica-canta/p/PY88GUEU25SK-BRG",
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY6N04E625SK-BRG_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/bordo-ora-canta/p/PY6N04E625SK-BRG",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1324,9 +1180,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.368Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 17,
+    "timestamp": "2025-12-08T05:19:08.440Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
@@ -1357,16 +1213,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺2.599,99",
+          "value": "₺974,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2599.99,
+          "numericValue": 974.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.599,99"
+          "displayPrice": "₺974,99"
         }
       ],
       "priceValid": true,
@@ -1375,15 +1231,16 @@
     }
   },
   {
-    "id": "19766b7d756cd245ef6f6419d8543520ae30e78576ba0555be287064f692ffa6",
-    "title": "Mor Emma Makyaj Çantası",
+    "id": "b9f39fd85ce74bc7da92a89d02a50e01505285a42cb1bbf858776444e5ff1675",
+    "title": "Kahve Melanj Fiona Çanta",
     "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYG7Z12O25SK-MNK_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYG7Z12O25SK-MNK_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYG7Z12O25SK-MNK_view2.jpg"
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_view3.jpg"
     ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYG7Z12O25SK-MNK_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/mor-emma-makyaj-cantasi/p/PYG7Z12O25SK-MNK",
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY2X8JFA25SK-46_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/kahve-melanj-fiona-canta/p/PY2X8JFA25SK-46",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1397,16 +1254,15 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.403Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 18,
+    "timestamp": "2025-12-08T05:19:08.478Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 16,
     "categories": {
       "productType": [
-        "çanta",
-        "makyaj, kozmetik çantası"
+        "çanta"
       ],
       "color": [
-        "mor/lila"
+        "kahverengi"
       ]
     },
     "seo": {
@@ -1415,12 +1271,11 @@
         "çantası",
         "bag",
         "çantasi",
-        "makyaj, kozmetik çantası",
-        "makyaj",
-        "kozmetik",
-        "mor/lila",
-        "mor",
-        "lila"
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
       ]
     },
     "imgValid": true,
@@ -1436,16 +1291,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺399,99",
+          "value": "₺449,99",
           "selector": ".prc.prc-last",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 399.99,
+          "numericValue": 449.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺399,99"
+          "displayPrice": "₺449,99"
         }
       ],
       "priceValid": true,
@@ -1475,9 +1330,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.437Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 19,
+    "timestamp": "2025-12-08T05:19:08.517Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta"
@@ -1522,6 +1377,146 @@
     }
   },
   {
+    "id": "aa2d57422a0d3ff4745c651ff59328a151fa3440ceb0c585f5642b830307bb65",
+    "title": "Haki Alışveriş Çantası",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY5R533K24IY-KH24_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/240/360/pentiimages/PY5R533K24IY-166_front.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY5R533K24IY-KH24_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/haki-alisveris-cantasi/p/PY5R533K24IY-KH24",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-12-08T05:19:08.554Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 18,
+    "categories": {
+      "productType": [
+        "çanta",
+        "alışveriş çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "alışveriş çantası",
+        "alışveriş"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺119,99",
+          "selector": ".prc.prc-last",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 119.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺119,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "64ef1158e069a903b99c1461575a07afc8d9772596e804df4fab263a15d361c9",
+    "title": "Aqua Çok Renkli Çanta",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYP29Q3B25IY-CLR_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYP29Q3B25IY-CLR_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYP29Q3B25IY-CLR_view2.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYP29Q3B25IY-CLR_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/aqua-cok-renkli-canta/p/PYP29Q3B25IY-CLR",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-12-08T05:19:08.592Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 19,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺266,99",
+          "selector": ".prc.prc-last",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 266.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺266,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "ffc77821c548c023ca55c5480fe033f9016839032d89c2842b6296440aafe0d6",
     "title": "Big Stripe Ekru Çanta",
     "img": [
@@ -1545,8 +1540,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.480Z",
-    "processId": "mimpgj2jlld2n",
+    "timestamp": "2025-12-08T05:19:08.636Z",
+    "processId": "miwpbr7mzcm45",
     "index": 20,
     "categories": {
       "productType": [
@@ -1597,75 +1592,6 @@
     }
   },
   {
-    "id": "64ef1158e069a903b99c1461575a07afc8d9772596e804df4fab263a15d361c9",
-    "title": "Aqua Çok Renkli Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYP29Q3B25IY-CLR_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYP29Q3B25IY-CLR_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYP29Q3B25IY-CLR_view2.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYP29Q3B25IY-CLR_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/aqua-cok-renkli-canta/p/PYP29Q3B25IY-CLR",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.519Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 21,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺266,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 266.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺266,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "fe1660135fdcb5756e81cfb9d103f01e3b9e2963ad44283d51f5ac468448bade",
     "title": "Alışveriş Çantası",
     "img": [
@@ -1687,9 +1613,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.558Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 22,
+    "timestamp": "2025-12-08T05:19:08.672Z",
+    "processId": "miwpbr7mzcm45",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1729,151 +1655,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺119,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "aa2d57422a0d3ff4745c651ff59328a151fa3440ceb0c585f5642b830307bb65",
-    "title": "Haki Alışveriş Çantası",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY5R533K24IY-KH24_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/240/360/pentiimages/PY5R533K24IY-166_front.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY5R533K24IY-KH24_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/haki-alisveris-cantasi/p/PY5R533K24IY-KH24",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.598Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 23,
-    "categories": {
-      "productType": [
-        "çanta",
-        "alışveriş çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "alışveriş çantası",
-        "alışveriş"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺119,99",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 119.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺119,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "29edb6c8a23ba188f1150c71cac8dafc3a5f58e995ba5971a88a0d50aa6a35c5",
-    "title": "Evelyn Naturel Hasır Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYKLKW2325IY-NAT_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYKLKW2325IY-NAT_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYKLKW2325IY-NAT_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYKLKW2325IY-NAT_view3.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYKLKW2325IY-NAT_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/evelyn-naturel-canta/p/PYKLKW2325IY-NAT",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-12-01T05:25:09.641Z",
-    "processId": "mimpgj2jlld2n",
-    "index": 24,
-    "categories": {
-      "productType": [
-        "çanta",
-        "hasır çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hasır çanta",
-        "hasır",
-        "hasir"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺640,19",
-          "selector": ".prc.prc-last",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 640.19,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺640,19"
         }
       ],
       "priceValid": true,
