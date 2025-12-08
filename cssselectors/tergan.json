@@ -2,61 +2,61 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     "[data-index].product-item": {
-      "count": 485,
+      "count": 380,
       "usedFor": {}
     },
     "a.product-title": {
-      "count": 485,
+      "count": 380,
       "usedFor": {}
     },
     ".ls-is-cached.lazyloaded": {
-      "count": 180,
+      "count": 190,
       "usedFor": {}
     },
     ".product-price-wrapper .current-price": {
-      "count": 485,
+      "count": 380,
       "usedFor": {}
     },
     ".image-inner img": {
-      "count": 305,
+      "count": 190,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 485,
+    "totalObjects": 380,
     "selectorsFound": 5,
     "mostCommonSelectors": [
       {
         "selector": "[data-index].product-item",
-        "count": 485,
+        "count": 380,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "a.product-title",
-        "count": 485,
+        "count": 380,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".product-price-wrapper .current-price",
-        "count": 485,
+        "count": 380,
         "usedFor": [
           "price"
         ]
       },
       {
-        "selector": ".image-inner img",
-        "count": 305,
+        "selector": ".ls-is-cached.lazyloaded",
+        "count": 190,
         "usedFor": [
           "image"
         ]
       },
       {
-        "selector": ".ls-is-cached.lazyloaded",
-        "count": 180,
+        "selector": ".image-inner img",
+        "count": 190,
         "usedFor": [
           "image"
         ]
