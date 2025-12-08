@@ -1,5 +1,88 @@
 [
   {
+    "id": "0f30d8e8df28a983a2525938fb0eeff814d4a3b80742ff158432951fb502bc54",
+    "title": "KADIN ÇAPRAZ ÇANTA - JESS",
+    "img": [
+      "https://images.jackjones.com.tr/12282756/4824460/003/jackjones-jxjesscrossoverbagacc-pink.jpg?v=22793aabda9f60bc9a5d3fbf982dc44a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12282756/4824460/003/jackjones-jxjesscrossoverbagacc-pink.jpg?v=22793aabda9f60bc9a5d3fbf982dc44a&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12282756/4824460/003/jackjones-jxjesscrossoverbagacc-pink.jpg?v=22793aabda9f60bc9a5d3fbf982dc44a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12282756_804/ayarlanabilir-kayis-canta",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.267Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.190,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1190,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.190,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "727e832650ab967f1ab711217575a23dfaaaea4228c37353bfc7effe95f44922",
     "title": "KADIN LOGO ETİKETLİ BERE - OTHELIA",
     "img": [
@@ -21,9 +104,153 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.181Z",
-    "processId": "mimpkofn1n2so",
-    "index": 0,
+    "timestamp": "2025-12-08T05:24:11.302Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "790,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 790,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺790,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "4d03434ab892fa2da2a9deda8e42f1cfdd6f091cb82da0a08e53e84e486ad88a",
+    "title": "KADIN LOGO ETİKETLİ BERE - OTHELIA",
+    "img": [
+      "https://images.jackjones.com.tr/12222919/4810687/003/jackjones-jxotheliaknitbeanieaccsn-brown.jpg?v=f7effb2eba0b3f3e43edb7d632fa8b1a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12222919/4810687/003/jackjones-jxotheliaknitbeanieaccsn-brown.jpg?v=f7effb2eba0b3f3e43edb7d632fa8b1a&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12222919/4810687/003/jackjones-jxotheliaknitbeanieaccsn-brown.jpg?v=f7effb2eba0b3f3e43edb7d632fa8b1a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12222919_562/kadin-logo-etiketli-bere-othelia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.361Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "790,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 790,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺790,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "7346d7a7a6fd17be8e57467836410dcd5d32b3d7eb32a7ec4ba41b7fa3bf80fa",
+    "title": "KADIN LOGO ETİKETLİ BERE - OTHELIA",
+    "img": [
+      "https://images.jackjones.com.tr/12222919/4558274/003/jackjones-jxotheliaknitbeanieaccsn-grey.jpg?v=f46d6d92736f392745e78135bd1ef09f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12222919/4558274/003/jackjones-jxotheliaknitbeanieaccsn-grey.jpg?v=f46d6d92736f392745e78135bd1ef09f&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12222919/4558274/003/jackjones-jxotheliaknitbeanieaccsn-grey.jpg?v=f46d6d92736f392745e78135bd1ef09f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12222919_3000/kadin-logo-etiketli-bere-othelia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.406Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 3,
     "categories": {
       "productType": [
         "none"
@@ -93,9 +320,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.215Z",
-    "processId": "mimpkofn1n2so",
-    "index": 1,
+    "timestamp": "2025-12-08T05:24:11.448Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta"
@@ -169,9 +396,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.263Z",
-    "processId": "mimpkofn1n2so",
-    "index": 2,
+    "timestamp": "2025-12-08T05:24:11.485Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -228,78 +455,6 @@
     }
   },
   {
-    "id": "4d03434ab892fa2da2a9deda8e42f1cfdd6f091cb82da0a08e53e84e486ad88a",
-    "title": "KADIN LOGO ETİKETLİ BERE - OTHELIA",
-    "img": [
-      "https://images.jackjones.com.tr/12222919/4810687/003/jackjones-jxotheliaknitbeanieaccsn-brown.jpg?v=f7effb2eba0b3f3e43edb7d632fa8b1a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12222919/4810687/003/jackjones-jxotheliaknitbeanieaccsn-brown.jpg?v=f7effb2eba0b3f3e43edb7d632fa8b1a&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12222919/4810687/003/jackjones-jxotheliaknitbeanieaccsn-brown.jpg?v=f7effb2eba0b3f3e43edb7d632fa8b1a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12222919_562/kadin-logo-etiketli-bere-othelia",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.309Z",
-    "processId": "mimpkofn1n2so",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "790,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 790,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺790,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "bc8042bd3a1eb6a2c0469dddb983ac87d02a99a93ffd82973bf28130fc54e041",
     "title": "KADIN LOGO DETAYLI ÇANTA - SANTAFE",
     "img": [
@@ -321,9 +476,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.346Z",
-    "processId": "mimpkofn1n2so",
-    "index": 4,
+    "timestamp": "2025-12-08T05:24:11.524Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta"
@@ -376,6 +531,78 @@
     }
   },
   {
+    "id": "190f747349ae5d0c805f4cbd9baf83cee492c646dc7e7da117912cd5d65f3bc8",
+    "title": "KADIN LOGO ETİKETLİ BERE - OTHELIA",
+    "img": [
+      "https://images.jackjones.com.tr/12222919/4810689/003/jackjones-jxotheliaknitbeanieaccsn-turquiose.jpg?v=63278f8ed94f258154a5ca0d20a368a7&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12222919/4810689/003/jackjones-jxotheliaknitbeanieaccsn-turquiose.jpg?v=63278f8ed94f258154a5ca0d20a368a7&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12222919/4810689/003/jackjones-jxotheliaknitbeanieaccsn-turquiose.jpg?v=63278f8ed94f258154a5ca0d20a368a7&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12222919_8603/kadin-logo-etiketli-bere-othelia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.560Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 7,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "790,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 790,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺790,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "26e4419e7f33e625b4df1d56bae42b4d237d6c38d9c0bd1f7ba297ff49770a07",
     "title": "KADIN SÜET OMUZ ÇANTASI - ORLANDO",
     "img": [
@@ -397,9 +624,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.385Z",
-    "processId": "mimpkofn1n2so",
-    "index": 5,
+    "timestamp": "2025-12-08T05:24:11.594Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -460,78 +687,6 @@
     }
   },
   {
-    "id": "7346d7a7a6fd17be8e57467836410dcd5d32b3d7eb32a7ec4ba41b7fa3bf80fa",
-    "title": "KADIN LOGO ETİKETLİ BERE - OTHELIA",
-    "img": [
-      "https://images.jackjones.com.tr/12222919/4558274/003/jackjones-jxotheliaknitbeanieaccsn-grey.jpg?v=f46d6d92736f392745e78135bd1ef09f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12222919/4558274/003/jackjones-jxotheliaknitbeanieaccsn-grey.jpg?v=f46d6d92736f392745e78135bd1ef09f&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12222919/4558274/003/jackjones-jxotheliaknitbeanieaccsn-grey.jpg?v=f46d6d92736f392745e78135bd1ef09f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12222919_3000/kadin-logo-etiketli-bere-othelia",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.422Z",
-    "processId": "mimpkofn1n2so",
-    "index": 6,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "790,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 790,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺790,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "daffe5535976fa5ecb691746ed3f4ead847e75bf837208c8a372c3a7e1ccef44",
     "title": "KADIN SUNİ DERİ ÇANTA - ATHENA",
     "img": [
@@ -553,180 +708,8 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.455Z",
-    "processId": "mimpkofn1n2so",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "suni deri çanta",
-        "floater deri çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "suni deri çanta",
-        "suni",
-        "floater deri çanta",
-        "floater",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.790,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1790,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.790,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "f2f12fa4dee5980e16f99fd07608bd80f49a347d9278524043d2ddb1ccd2022c",
-    "title": "KADIN SUNİ DERİ ÇANTA - ATHENA",
-    "img": [
-      "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12274401_2161/ayarlanabilir-kayis-canta",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.492Z",
-    "processId": "mimpkofn1n2so",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "suni deri çanta",
-        "floater deri çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "suni deri çanta",
-        "suni",
-        "floater deri çanta",
-        "floater",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.790,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1790,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.790,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "cf0345a71858570e44c243983740004a370f71800f9e1900e733ad8e2f7940fc",
-    "title": "KADIN SUNİ DERİ ÇANTA - CAMMY",
-    "img": [
-      "https://images.jackjones.com.tr/12282653/4823294/001/jackjones-jxcammyshoulderbag-brown.png?v=69546eb2e6c49975d4007040de58e48f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12282653/4823294/001/jackjones-jxcammyshoulderbag-brown.png?v=69546eb2e6c49975d4007040de58e48f&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12282653/4823294/001/jackjones-jxcammyshoulderbag-brown.png?v=69546eb2e6c49975d4007040de58e48f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12282653_279/canta",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.529Z",
-    "processId": "mimpkofn1n2so",
+    "timestamp": "2025-12-08T05:24:11.629Z",
+    "processId": "miwpi9j0t67cp",
     "index": 9,
     "categories": {
       "productType": [
@@ -790,84 +773,6 @@
     }
   },
   {
-    "id": "bb3c63304a209b87ed43f011d3a35189288cc33d7437040822f361916d72b08c",
-    "title": "KADIN 3'LÜ ÇORAP PAKETİ - MORENO",
-    "img": [
-      "https://images.jackjones.com.tr/12281778/4811495/003/jackjones-jxmorenostudiosocks3-packacc-white.png?v=e669578e8ea55b9b7af8737f1d7fdf60&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12281778/4811495/003/jackjones-jxmorenostudiosocks3-packacc-white.png?v=e669578e8ea55b9b7af8737f1d7fdf60&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12281778/4811495/003/jackjones-jxmorenostudiosocks3-packacc-white.png?v=e669578e8ea55b9b7af8737f1d7fdf60&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12281778_2206_1204057/coraplar",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.567Z",
-    "processId": "mimpkofn1n2so",
-    "index": 10,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "color": [
-        "mor/lila"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "mor/lila",
-        "mor",
-        "lila",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "390,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 390,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺390,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "6148dcb6c0f4e4644c37f1705b1390f977517ec25c16640208e44e26e85e6196",
     "title": "KADIN TAŞ İŞLEMELİ ÇANTA - MORGAN",
     "img": [
@@ -889,9 +794,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.607Z",
-    "processId": "mimpkofn1n2so",
-    "index": 11,
+    "timestamp": "2025-12-08T05:24:11.664Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta"
@@ -950,14 +855,14 @@
     }
   },
   {
-    "id": "0f30d8e8df28a983a2525938fb0eeff814d4a3b80742ff158432951fb502bc54",
-    "title": "KADIN ÇAPRAZ ÇANTA - JESS",
+    "id": "d2b7054e06a250c4b17748b6e08aa1e2b2c890327863bd755c9aa86cf668eb27",
+    "title": "KADIN KEMER - SANTAANA",
     "img": [
-      "https://images.jackjones.com.tr/12282756/4824460/003/jackjones-jxjesscrossoverbagacc-pink.jpg?v=22793aabda9f60bc9a5d3fbf982dc44a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12282756/4824460/003/jackjones-jxjesscrossoverbagacc-pink.jpg?v=22793aabda9f60bc9a5d3fbf982dc44a&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+      "https://images.jackjones.com.tr/12281911/4813133/003/jackjones-jxsantaanaaopbeltacc-yellow.jpg?v=4e1a350e9787bef4c8d362b7eef6acf9&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12281911/4813133/003/jackjones-jxsantaanaaopbeltacc-yellow.jpg?v=4e1a350e9787bef4c8d362b7eef6acf9&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
     ],
-    "primaryImg": "https://images.jackjones.com.tr/12282756/4824460/003/jackjones-jxjesscrossoverbagacc-pink.jpg?v=22793aabda9f60bc9a5d3fbf982dc44a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12282756_804/ayarlanabilir-kayis-canta",
+    "primaryImg": "https://images.jackjones.com.tr/12281911/4813133/003/jackjones-jxsantaanaaopbeltacc-yellow.jpg?v=4e1a350e9787bef4c8d362b7eef6acf9&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12281911_15_1204785/kemerler",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -971,13 +876,12 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.643Z",
-    "processId": "mimpkofn1n2so",
-    "index": 12,
+    "timestamp": "2025-12-08T05:24:11.700Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 11,
     "categories": {
       "productType": [
-        "çanta",
-        "çapraz çanta"
+        "none"
       ],
       "gender": [
         "kadın"
@@ -985,16 +889,6 @@
     },
     "seo": {
       "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
         "kadın",
         "kadin",
         "bayan",
@@ -1015,16 +909,256 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.190,00 TL",
+          "value": "790,00 TL",
           "selector": ".product-price__list-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1190,
+          "numericValue": 790,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.190,00"
+          "displayPrice": "₺790,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "bb3c63304a209b87ed43f011d3a35189288cc33d7437040822f361916d72b08c",
+    "title": "KADIN 3'LÜ ÇORAP PAKETİ - MORENO",
+    "img": [
+      "https://images.jackjones.com.tr/12281778/4811495/003/jackjones-jxmorenostudiosocks3-packacc-white.png?v=e669578e8ea55b9b7af8737f1d7fdf60&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12281778/4811495/003/jackjones-jxmorenostudiosocks3-packacc-white.png?v=e669578e8ea55b9b7af8737f1d7fdf60&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12281778/4811495/003/jackjones-jxmorenostudiosocks3-packacc-white.png?v=e669578e8ea55b9b7af8737f1d7fdf60&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12281778_2206_1204057/coraplar",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.738Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "mor/lila"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "mor/lila",
+        "mor",
+        "lila",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "390,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 390,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺390,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "f2f12fa4dee5980e16f99fd07608bd80f49a347d9278524043d2ddb1ccd2022c",
+    "title": "KADIN SUNİ DERİ ÇANTA - ATHENA",
+    "img": [
+      "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274401_2161/ayarlanabilir-kayis-canta",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.774Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "suni deri çanta",
+        "floater deri çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "floater deri çanta",
+        "floater",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.790,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1790,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.790,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ea56e251db749081c1483a5dba31dfd701fea859a229244b90679529835cfec2",
+    "title": "KADIN ÖRME ÇANTA - IVY",
+    "img": [
+      "https://images.jackjones.com.tr/12274423/4717305/003/jackjones-jxivyknittedbeachbagacc-blue.jpg?v=f07c573b10c3ce57ae591299ec8a5c5d&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12274423/4717305/003/jackjones-jxivyknittedbeachbagacc-blue.jpg?v=f07c573b10c3ce57ae591299ec8a5c5d&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12274423/4717305/003/jackjones-jxivyknittedbeachbagacc-blue.jpg?v=f07c573b10c3ce57ae591299ec8a5c5d&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274423_1271_1175103/canta",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.809Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "750,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 750,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺750,00"
         }
       ],
       "priceValid": true,
@@ -1054,9 +1188,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.681Z",
-    "processId": "mimpkofn1n2so",
-    "index": 13,
+    "timestamp": "2025-12-08T05:24:11.847Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -1120,6 +1254,468 @@
     }
   },
   {
+    "id": "cf0345a71858570e44c243983740004a370f71800f9e1900e733ad8e2f7940fc",
+    "title": "KADIN SUNİ DERİ ÇANTA - CAMMY",
+    "img": [
+      "https://images.jackjones.com.tr/12282653/4823294/001/jackjones-jxcammyshoulderbag-brown.png?v=69546eb2e6c49975d4007040de58e48f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12282653/4823294/001/jackjones-jxcammyshoulderbag-brown.png?v=69546eb2e6c49975d4007040de58e48f&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12282653/4823294/001/jackjones-jxcammyshoulderbag-brown.png?v=69546eb2e6c49975d4007040de58e48f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12282653_279/canta",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.884Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 16,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "suni deri çanta",
+        "floater deri çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "floater deri çanta",
+        "floater",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.790,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1790,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.790,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "3b46f33882e68f7d5e368cef81bcd9be6b7a3f28477d356ffd2a531947c99fde",
+    "title": "KADIN KEMER - SANTAANA",
+    "img": [
+      "https://images.jackjones.com.tr/12281911/4824473/003/jackjones-jxsantaanaaopbeltacc-purple.jpg?v=15111f37fcbe5c4c28f5d337514500bd&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12281911/4824473/003/jackjones-jxsantaanaaopbeltacc-purple.jpg?v=15111f37fcbe5c4c28f5d337514500bd&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12281911/4824473/003/jackjones-jxsantaanaaopbeltacc-purple.jpg?v=15111f37fcbe5c4c28f5d337514500bd&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12281911_2059_1208909/kemerler",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.945Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 17,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "790,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 790,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺790,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "64806c84f4aeb56ad7c3a826c1d02bc66239cbe9caaf62f5686c7e7c71a3737a",
+    "title": "KADIN DENIM ŞAPKA - FRIDA",
+    "img": [
+      "https://images.jackjones.com.tr/12275642/4737563/003/jackjones-jxfridawasheddenimbuckethatacc-blue.jpg?v=068b81917b7df25c6b8f5ce01b35299a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12275642/4737563/003/jackjones-jxfridawasheddenimbuckethatacc-blue.jpg?v=068b81917b7df25c6b8f5ce01b35299a&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12275642/4737563/003/jackjones-jxfridawasheddenimbuckethatacc-blue.jpg?v=068b81917b7df25c6b8f5ce01b35299a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12275642_2116_1180718/sapka",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:11.985Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 18,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "590,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 590,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺590,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "f8f26b44f75dcac4a8119a31cf49fa927de4cd296501e7c0057c3a93a95f8888",
+    "title": "KADIN AYARLANABİLİR ASKILI ÇANTA - ATHENA",
+    "img": [
+      "https://images.jackjones.com.tr/12274399/4717176/003/jackjones-jxathenacrossoverbagacc-black.jpg?v=6eec7660334fbc18747c3be25ed993f0&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12274399/4717176/003/jackjones-jxathenacrossoverbagacc-black.jpg?v=6eec7660334fbc18747c3be25ed993f0&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12274399/4717176/003/jackjones-jxathenacrossoverbagacc-black.jpg?v=6eec7660334fbc18747c3be25ed993f0&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274399_2161/ayarlanabilir-kayis-canta",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:12.021Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 19,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askılı çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askılı çanta",
+        "askılı",
+        "askili",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.790,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1790,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.790,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "22b62a4825d014f98b13fa3210bbb0c0d8982dfe6dd6848e0d6dc012926c2ee2",
+    "title": "KADIN AYARLANABİLİR ASKILI ÇANTA - LEXİNGTON",
+    "img": [
+      "https://images.jackjones.com.tr/12251593/4813120/003/jackjones-jxlexingtonshoulderbagaccnoos-purple.jpg?v=bd300537bb32c42bddf38578cfadb8b7&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12251593/4813120/003/jackjones-jxlexingtonshoulderbagaccnoos-purple.jpg?v=bd300537bb32c42bddf38578cfadb8b7&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12251593/4813120/003/jackjones-jxlexingtonshoulderbagaccnoos-purple.jpg?v=bd300537bb32c42bddf38578cfadb8b7&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12251593_2059_1204773/tek-kol-canta",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:12.056Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 20,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askılı çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askılı çanta",
+        "askılı",
+        "askili",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.390,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1390,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.390,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "18ca0940a93ccf344afe60bd282857e30dc1614862690152d29fdeb1b2887d3f",
+    "title": "KADIN NAKIŞLI ŞAPKA - SUZANNE",
+    "img": [
+      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274657_1242_1175842/kep",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-12-08T05:24:12.091Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 21,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "590,00 TL",
+          "selector": ".product-price__list-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 590,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺590,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "4e1db658bcc7f17b29b09a7403f57ce35a76a11c43502d60a69123778418ba9e",
     "title": "KADIN AYARLANABİLİR ASKILI ÇANTA - LEXİNGTON",
     "img": [
@@ -1141,9 +1737,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.713Z",
-    "processId": "mimpkofn1n2so",
-    "index": 14,
+    "timestamp": "2025-12-08T05:24:12.125Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1221,9 +1817,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.747Z",
-    "processId": "mimpkofn1n2so",
-    "index": 15,
+    "timestamp": "2025-12-08T05:24:12.162Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta"
@@ -1276,14 +1872,14 @@
     }
   },
   {
-    "id": "190f747349ae5d0c805f4cbd9baf83cee492c646dc7e7da117912cd5d65f3bc8",
-    "title": "KADIN LOGO ETİKETLİ BERE - OTHELIA",
+    "id": "904c38a8b7d851457804fca112ed9473776a6f43381dcd58bd98296d60dbd59b",
+    "title": "KADIN ÇAPRAZ ASKILI TEDDY ÇANTA - CHRISTINE",
     "img": [
-      "https://images.jackjones.com.tr/12222919/4810689/003/jackjones-jxotheliaknitbeanieaccsn-turquiose.jpg?v=63278f8ed94f258154a5ca0d20a368a7&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12222919/4810689/003/jackjones-jxotheliaknitbeanieaccsn-turquiose.jpg?v=63278f8ed94f258154a5ca0d20a368a7&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+      "https://images.jackjones.com.tr/12261573/4575646/003/jackjones-jxchristineteddybag-black.jpg?v=7b3db07a7629111e135619f21ec12f39&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12261573/4575646/003/jackjones-jxchristineteddybag-black.jpg?v=7b3db07a7629111e135619f21ec12f39&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
     ],
-    "primaryImg": "https://images.jackjones.com.tr/12222919/4810689/003/jackjones-jxotheliaknitbeanieaccsn-turquiose.jpg?v=63278f8ed94f258154a5ca0d20a368a7&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12222919_8603/kadin-logo-etiketli-bere-othelia",
+    "primaryImg": "https://images.jackjones.com.tr/12261573/4575646/003/jackjones-jxchristineteddybag-black.jpg?v=7b3db07a7629111e135619f21ec12f39&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12261573_2161/canta",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1297,84 +1893,14 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.784Z",
-    "processId": "mimpkofn1n2so",
-    "index": 16,
+    "timestamp": "2025-12-08T05:24:12.198Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 24,
     "categories": {
       "productType": [
-        "none"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "790,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 790,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺790,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "ea56e251db749081c1483a5dba31dfd701fea859a229244b90679529835cfec2",
-    "title": "KADIN ÖRME ÇANTA - IVY",
-    "img": [
-      "https://images.jackjones.com.tr/12274423/4717305/003/jackjones-jxivyknittedbeachbagacc-blue.jpg?v=f07c573b10c3ce57ae591299ec8a5c5d&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12274423/4717305/003/jackjones-jxivyknittedbeachbagacc-blue.jpg?v=f07c573b10c3ce57ae591299ec8a5c5d&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12274423/4717305/003/jackjones-jxivyknittedbeachbagacc-blue.jpg?v=f07c573b10c3ce57ae591299ec8a5c5d&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12274423_1271_1175103/canta",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.813Z",
-    "processId": "mimpkofn1n2so",
-    "index": 17,
-    "categories": {
-      "productType": [
-        "çanta"
+        "çanta",
+        "çapraz çanta",
+        "askılı çanta"
       ],
       "gender": [
         "kadın"
@@ -1386,6 +1912,15 @@
         "çantası",
         "bag",
         "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "askılı çanta",
+        "askılı",
+        "askili",
         "kadın",
         "kadin",
         "bayan",
@@ -1406,232 +1941,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "750,00 TL",
+          "value": "1.490,00 TL",
           "selector": ".product-price__list-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 750,
+          "numericValue": 1490,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺750,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "18ca0940a93ccf344afe60bd282857e30dc1614862690152d29fdeb1b2887d3f",
-    "title": "KADIN NAKIŞLI ŞAPKA - SUZANNE",
-    "img": [
-      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12274657_1242_1175842/kep",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.849Z",
-    "processId": "mimpkofn1n2so",
-    "index": 18,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "590,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 590,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺590,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "88e6fce492cd1e3f9a9af49e279fd37926e21be3af76be25a7146ff84ff9a76d",
-    "title": "KADIN LOGO NAKIŞLI DENIM ŞAPKA - BASIC",
-    "img": [
-      "https://images.jackjones.com.tr/12203700/3811587/003/jackjones-jxbasicbiglogobaseballdenimcapnoos-blue.jpg?v=3b53bde559f2b40d78b0de32c86cc448&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12203700/3811587/003/jackjones-jxbasicbiglogobaseballdenimcapnoos-blue.jpg?v=3b53bde559f2b40d78b0de32c86cc448&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12203700/3811587/003/jackjones-jxbasicbiglogobaseballdenimcapnoos-blue.jpg?v=3b53bde559f2b40d78b0de32c86cc448&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12203700_2114_914084/kadin-logo-nakisli-denim-sapka-basic",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.892Z",
-    "processId": "mimpkofn1n2so",
-    "index": 19,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "590,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 590,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺590,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "3b46f33882e68f7d5e368cef81bcd9be6b7a3f28477d356ffd2a531947c99fde",
-    "title": "KADIN KEMER - SANTAANA",
-    "img": [
-      "https://images.jackjones.com.tr/12281911/4824473/003/jackjones-jxsantaanaaopbeltacc-purple.jpg?v=15111f37fcbe5c4c28f5d337514500bd&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12281911/4824473/003/jackjones-jxsantaanaaopbeltacc-purple.jpg?v=15111f37fcbe5c4c28f5d337514500bd&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12281911/4824473/003/jackjones-jxsantaanaaopbeltacc-purple.jpg?v=15111f37fcbe5c4c28f5d337514500bd&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12281911_2059_1208909/kemerler",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.925Z",
-    "processId": "mimpkofn1n2so",
-    "index": 20,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "790,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 790,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺790,00"
+          "displayPrice": "₺1.490,00"
         }
       ],
       "priceValid": true,
@@ -1661,9 +1980,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.962Z",
-    "processId": "mimpkofn1n2so",
-    "index": 21,
+    "timestamp": "2025-12-08T05:24:12.235Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 25,
     "categories": {
       "productType": [
         "none"
@@ -1712,14 +2031,14 @@
     }
   },
   {
-    "id": "22b62a4825d014f98b13fa3210bbb0c0d8982dfe6dd6848e0d6dc012926c2ee2",
-    "title": "KADIN AYARLANABİLİR ASKILI ÇANTA - LEXİNGTON",
+    "id": "88e6fce492cd1e3f9a9af49e279fd37926e21be3af76be25a7146ff84ff9a76d",
+    "title": "KADIN LOGO NAKIŞLI DENIM ŞAPKA - BASIC",
     "img": [
-      "https://images.jackjones.com.tr/12251593/4813120/003/jackjones-jxlexingtonshoulderbagaccnoos-purple.jpg?v=bd300537bb32c42bddf38578cfadb8b7&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12251593/4813120/003/jackjones-jxlexingtonshoulderbagaccnoos-purple.jpg?v=bd300537bb32c42bddf38578cfadb8b7&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+      "https://images.jackjones.com.tr/12203700/3811587/003/jackjones-jxbasicbiglogobaseballdenimcapnoos-blue.jpg?v=3b53bde559f2b40d78b0de32c86cc448&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12203700/3811587/003/jackjones-jxbasicbiglogobaseballdenimcapnoos-blue.jpg?v=3b53bde559f2b40d78b0de32c86cc448&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
     ],
-    "primaryImg": "https://images.jackjones.com.tr/12251593/4813120/003/jackjones-jxlexingtonshoulderbagaccnoos-purple.jpg?v=bd300537bb32c42bddf38578cfadb8b7&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12251593_2059_1204773/tek-kol-canta",
+    "primaryImg": "https://images.jackjones.com.tr/12203700/3811587/003/jackjones-jxbasicbiglogobaseballdenimcapnoos-blue.jpg?v=3b53bde559f2b40d78b0de32c86cc448&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12203700_2114_914084/kadin-logo-nakisli-denim-sapka-basic",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1733,13 +2052,12 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:22.998Z",
-    "processId": "mimpkofn1n2so",
-    "index": 22,
+    "timestamp": "2025-12-08T05:24:12.270Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 26,
     "categories": {
       "productType": [
-        "çanta",
-        "askılı çanta"
+        "none"
       ],
       "gender": [
         "kadın"
@@ -1747,13 +2065,6 @@
     },
     "seo": {
       "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askılı çanta",
-        "askılı",
-        "askili",
         "kadın",
         "kadin",
         "bayan",
@@ -1774,16 +2085,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.390,00 TL",
+          "value": "590,00 TL",
           "selector": ".product-price__list-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1390,
+          "numericValue": 590,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.390,00"
+          "displayPrice": "₺590,00"
         }
       ],
       "priceValid": true,
@@ -1813,9 +2124,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:23.037Z",
-    "processId": "mimpkofn1n2so",
-    "index": 23,
+    "timestamp": "2025-12-08T05:24:12.307Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 27,
     "categories": {
       "productType": [
         "none"
@@ -1885,9 +2196,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:23.071Z",
-    "processId": "mimpkofn1n2so",
-    "index": 24,
+    "timestamp": "2025-12-08T05:24:12.343Z",
+    "processId": "miwpi9j0t67cp",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -1941,317 +2252,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺990,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "904c38a8b7d851457804fca112ed9473776a6f43381dcd58bd98296d60dbd59b",
-    "title": "KADIN ÇAPRAZ ASKILI TEDDY ÇANTA - CHRISTINE",
-    "img": [
-      "https://images.jackjones.com.tr/12261573/4575646/003/jackjones-jxchristineteddybag-black.jpg?v=7b3db07a7629111e135619f21ec12f39&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12261573/4575646/003/jackjones-jxchristineteddybag-black.jpg?v=7b3db07a7629111e135619f21ec12f39&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12261573/4575646/003/jackjones-jxchristineteddybag-black.jpg?v=7b3db07a7629111e135619f21ec12f39&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12261573_2161/canta",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:23.104Z",
-    "processId": "mimpkofn1n2so",
-    "index": 25,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "askılı çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "askılı çanta",
-        "askılı",
-        "askili",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.490,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1490,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.490,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d2b7054e06a250c4b17748b6e08aa1e2b2c890327863bd755c9aa86cf668eb27",
-    "title": "KADIN KEMER - SANTAANA",
-    "img": [
-      "https://images.jackjones.com.tr/12281911/4813133/003/jackjones-jxsantaanaaopbeltacc-yellow.jpg?v=4e1a350e9787bef4c8d362b7eef6acf9&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12281911/4813133/003/jackjones-jxsantaanaaopbeltacc-yellow.jpg?v=4e1a350e9787bef4c8d362b7eef6acf9&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12281911/4813133/003/jackjones-jxsantaanaaopbeltacc-yellow.jpg?v=4e1a350e9787bef4c8d362b7eef6acf9&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12281911_15_1204785/kemerler",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:23.140Z",
-    "processId": "mimpkofn1n2so",
-    "index": 26,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "790,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 790,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺790,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "f8f26b44f75dcac4a8119a31cf49fa927de4cd296501e7c0057c3a93a95f8888",
-    "title": "KADIN AYARLANABİLİR ASKILI ÇANTA - ATHENA",
-    "img": [
-      "https://images.jackjones.com.tr/12274399/4717176/003/jackjones-jxathenacrossoverbagacc-black.jpg?v=6eec7660334fbc18747c3be25ed993f0&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12274399/4717176/003/jackjones-jxathenacrossoverbagacc-black.jpg?v=6eec7660334fbc18747c3be25ed993f0&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12274399/4717176/003/jackjones-jxathenacrossoverbagacc-black.jpg?v=6eec7660334fbc18747c3be25ed993f0&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12274399_2161/ayarlanabilir-kayis-canta",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:23.177Z",
-    "processId": "mimpkofn1n2so",
-    "index": 27,
-    "categories": {
-      "productType": [
-        "çanta",
-        "askılı çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askılı çanta",
-        "askılı",
-        "askili",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.790,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1790,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.790,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "64806c84f4aeb56ad7c3a826c1d02bc66239cbe9caaf62f5686c7e7c71a3737a",
-    "title": "KADIN DENIM ŞAPKA - FRIDA",
-    "img": [
-      "https://images.jackjones.com.tr/12275642/4737563/003/jackjones-jxfridawasheddenimbuckethatacc-blue.jpg?v=068b81917b7df25c6b8f5ce01b35299a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12275642/4737563/003/jackjones-jxfridawasheddenimbuckethatacc-blue.jpg?v=068b81917b7df25c6b8f5ce01b35299a&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12275642/4737563/003/jackjones-jxfridawasheddenimbuckethatacc-blue.jpg?v=068b81917b7df25c6b8f5ce01b35299a&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12275642_2116_1180718/sapka",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-12-01T05:28:23.217Z",
-    "processId": "mimpkofn1n2so",
-    "index": 28,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "590,00 TL",
-          "selector": ".product-price__list-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 590,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺590,00"
         }
       ],
       "priceValid": true,
