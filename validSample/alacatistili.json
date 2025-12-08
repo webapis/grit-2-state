@@ -1,5 +1,96 @@
 [
   {
+    "id": "a4ee6284447a2627bdab1e8e86f41c80b3acd4468a22ebfb285cece636bdd108",
+    "title": "Kadın Sütlü Kahve Tüylü Suni Kürük Omuz Çantası ALC-X13247",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka--961f-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka--2af7-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka-da68-a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka-d5-cf9.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka--961f-.jpg",
+    "link": "https://www.alacatistili.com/tuylu-suni-kuruk-omuz-cantasi-sutlu-kahve-45258",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
+    "pageURL": "https://www.alacatistili.com/canta-225",
+    "timestamp": "2025-12-08T06:03:42.992Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺657,50",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 657.5,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺657,50"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "605f2b1f2909edf46ca5ef7edf6434f8e61808f97c48c4141b5dddc233d3a902",
     "title": "Kadın Ekru Tüylü Suni Kürük Omuz Çantası ALC-X13247",
     "img": [
@@ -23,9 +114,9 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.390Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 0,
+    "timestamp": "2025-12-08T06:03:43.025Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -107,9 +198,9 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.434Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 1,
+    "timestamp": "2025-12-08T06:03:43.058Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -194,9 +285,9 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.473Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 2,
+    "timestamp": "2025-12-08T06:03:43.088Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -284,9 +375,9 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.508Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 3,
+    "timestamp": "2025-12-08T06:03:43.119Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -383,9 +474,9 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.550Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 4,
+    "timestamp": "2025-12-08T06:03:43.150Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -451,16 +542,15 @@
     }
   },
   {
-    "id": "d16bbe066ea797ef0e6b2115826756d318209bd8089ecee3f3f98473c5e23cd3",
-    "title": "Kadın Ekru Tüylü Suni Kürk Büyük Boy Kol Çantası ALC-X13259",
+    "id": "0d74300d2233dc1c5cf3655ef05bb8edbb9683cb0f43eba07bc2ad9be8cfea25",
+    "title": "Kadın Siyah Deri Kordonlu Mıknatıs Kapamalı Suni Kürk Telefon Çantası ALC-X13249",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-6f125d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-0a1ca8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-b21-42.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-5c0-b6.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/deri-kordonlu-miknatis-kapamali-suni-k-4386-a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/deri-kordonlu-miknatis-kapamali-suni-k-7fe-41.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/deri-kordonlu-miknatis-kapamali-suni-k-8-08da.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-6f125d.jpg",
-    "link": "https://www.alacatistili.com/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-ekru-45462",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/deri-kordonlu-miknatis-kapamali-suni-k-4386-a.jpg",
+    "link": "https://www.alacatistili.com/deri-kordonlu-miknatis-kapamali-suni-kurk-telefon-cantasi-siyah-45393",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -474,106 +564,19 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.599Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 5,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "büyük çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺827,50",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 827.5,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺827,50"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "39eee7ebfc4fe688f8b2b3509047c0898db6786c4cf5b7aab7ff10dadbcaa5db",
-    "title": "Kadın BEJ Renk Bloklu Çift Astarlı El Örgülü Hasır Çanta PRM0939",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--8960-f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--4665c9.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--b08095.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--1e55-c.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--8960-f.jpg",
-    "link": "https://www.alacatistili.com/kadin-bej-renk-bloklu-cift-astarli-el-orgulu-hasir-canta-prm0939-54491",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
-    "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.654Z",
-    "processId": "mimqy0e4sa5fr",
+    "timestamp": "2025-12-08T06:03:43.181Z",
+    "processId": "miwqx30kmbtpv",
     "index": 6,
     "categories": {
       "productType": [
         "çanta",
-        "el çantası",
-        "hasır çanta",
-        "astarlı çanta"
+        "telefon çantası",
+        "deri çanta",
+        "suni deri çanta",
+        "floater deri çanta"
       ],
       "color": [
-        "bej"
+        "siyah"
       ],
       "gender": [
         "kadın"
@@ -585,15 +588,17 @@
         "çantası",
         "bag",
         "çantasi",
-        "el çantası",
-        "el",
-        "hasır çanta",
-        "hasır",
-        "hasir",
-        "astarlı çanta",
-        "astarlı",
-        "bej",
-        "ten",
+        "telefon çantası",
+        "telefon",
+        "deri çanta",
+        "leather",
+        "deri",
+        "suni deri çanta",
+        "suni",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
         "kadın",
         "kadin",
         "bayan",
@@ -614,107 +619,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺809,99",
+          "value": "₺390,00",
           "selector": ".discountPrice .discountPriceSpan",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 809.99,
+          "numericValue": 390,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺809,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a4ee6284447a2627bdab1e8e86f41c80b3acd4468a22ebfb285cece636bdd108",
-    "title": "Kadın Sütlü Kahve Tüylü Suni Kürük Omuz Çantası ALC-X13247",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka--961f-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka--2af7-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka-da68-a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka-d5-cf9.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-omuz-cantasi-sutlu-ka--961f-.jpg",
-    "link": "https://www.alacatistili.com/tuylu-suni-kuruk-omuz-cantasi-sutlu-kahve-45258",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
-    "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.699Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺657,50",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 657.5,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺657,50"
+          "displayPrice": "₺390,00"
         }
       ],
       "priceValid": true,
@@ -745,9 +659,9 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.738Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 8,
+    "timestamp": "2025-12-08T06:03:43.215Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -844,9 +758,9 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.782Z",
-    "processId": "mimqy0e4sa5fr",
-    "index": 9,
+    "timestamp": "2025-12-08T06:03:43.248Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -923,6 +837,94 @@
     }
   },
   {
+    "id": "d16bbe066ea797ef0e6b2115826756d318209bd8089ecee3f3f98473c5e23cd3",
+    "title": "Kadın Ekru Tüylü Suni Kürk Büyük Boy Kol Çantası ALC-X13259",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-6f125d.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-0a1ca8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-b21-42.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-5c0-b6.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-6f125d.jpg",
+    "link": "https://www.alacatistili.com/tuylu-suni-kuruk-buyuk-boy-kol-cantasi-ekru-45462",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
+    "pageURL": "https://www.alacatistili.com/canta-225",
+    "timestamp": "2025-12-08T06:03:43.291Z",
+    "processId": "miwqx30kmbtpv",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "büyük çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺827,50",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 827.5,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺827,50"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "991859316d96dec800d5eb0c5c1fd162e419b608abb1ea673a780d5ffb0f6dea",
     "title": "Kadın Açık Bej Maxi Boy Hasır Plaj Çantası ALC-X14004",
     "img": [
@@ -945,8 +947,8 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.821Z",
-    "processId": "mimqy0e4sa5fr",
+    "timestamp": "2025-12-08T06:03:43.328Z",
+    "processId": "miwqx30kmbtpv",
     "index": 10,
     "categories": {
       "productType": [
@@ -1013,15 +1015,16 @@
     }
   },
   {
-    "id": "0d74300d2233dc1c5cf3655ef05bb8edbb9683cb0f43eba07bc2ad9be8cfea25",
-    "title": "Kadın Siyah Deri Kordonlu Mıknatıs Kapamalı Suni Kürk Telefon Çantası ALC-X13249",
+    "id": "39eee7ebfc4fe688f8b2b3509047c0898db6786c4cf5b7aab7ff10dadbcaa5db",
+    "title": "Kadın BEJ Renk Bloklu Çift Astarlı El Örgülü Hasır Çanta PRM0939",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/deri-kordonlu-miknatis-kapamali-suni-k-4386-a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/deri-kordonlu-miknatis-kapamali-suni-k-7fe-41.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/deri-kordonlu-miknatis-kapamali-suni-k-8-08da.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--8960-f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--4665c9.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--b08095.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--1e55-c.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/deri-kordonlu-miknatis-kapamali-suni-k-4386-a.jpg",
-    "link": "https://www.alacatistili.com/deri-kordonlu-miknatis-kapamali-suni-kurk-telefon-cantasi-siyah-45393",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=85/40672/uploads/urunresimleri/buyuk/kadin-bej-renk-bloklu-cift-astarli-el--8960-f.jpg",
+    "link": "https://www.alacatistili.com/kadin-bej-renk-bloklu-cift-astarli-el-orgulu-hasir-canta-prm0939-54491",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1035,19 +1038,18 @@
     },
     "pageTitle": "ÇANTA | Kadın Giyim Modasının Bu Sezonun En Trend Markası | Alacatısitili.com",
     "pageURL": "https://www.alacatistili.com/canta-225",
-    "timestamp": "2025-12-01T06:06:44.859Z",
-    "processId": "mimqy0e4sa5fr",
+    "timestamp": "2025-12-08T06:03:43.363Z",
+    "processId": "miwqx30kmbtpv",
     "index": 11,
     "categories": {
       "productType": [
         "çanta",
-        "telefon çantası",
-        "deri çanta",
-        "suni deri çanta",
-        "floater deri çanta"
+        "el çantası",
+        "hasır çanta",
+        "astarlı çanta"
       ],
       "color": [
-        "siyah"
+        "bej"
       ],
       "gender": [
         "kadın"
@@ -1059,17 +1061,15 @@
         "çantası",
         "bag",
         "çantasi",
-        "telefon çantası",
-        "telefon",
-        "deri çanta",
-        "leather",
-        "deri",
-        "suni deri çanta",
-        "suni",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
+        "el çantası",
+        "el",
+        "hasır çanta",
+        "hasır",
+        "hasir",
+        "astarlı çanta",
+        "astarlı",
+        "bej",
+        "ten",
         "kadın",
         "kadin",
         "bayan",
@@ -1090,16 +1090,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "₺390,00",
+          "value": "₺809,99",
           "selector": ".discountPrice .discountPriceSpan",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 390,
+          "numericValue": 809.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺390,00"
+          "displayPrice": "₺809,99"
         }
       ],
       "priceValid": true,
