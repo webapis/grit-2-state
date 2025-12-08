@@ -22,8 +22,8 @@
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-12-01T05:24:15.038Z",
-    "processId": "mimpfd3u0bcb2",
+    "timestamp": "2025-12-08T05:18:12.315Z",
+    "processId": "miwpajui780cy",
     "index": 0,
     "categories": {
       "productType": [
@@ -103,8 +103,8 @@
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-12-01T05:24:15.074Z",
-    "processId": "mimpfd3u0bcb2",
+    "timestamp": "2025-12-08T05:18:12.356Z",
+    "processId": "miwpajui780cy",
     "index": 1,
     "categories": {
       "productType": [
@@ -180,8 +180,8 @@
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-12-01T05:24:15.112Z",
-    "processId": "mimpfd3u0bcb2",
+    "timestamp": "2025-12-08T05:18:12.397Z",
+    "processId": "miwpajui780cy",
     "index": 2,
     "categories": {
       "productType": [
@@ -234,79 +234,6 @@
     }
   },
   {
-    "id": "8ce083862d3220872c3d82ba712627fcc156c82a545f7899a64a0c5b353da11d",
-    "title": "Siyah Ekru Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/siyah-ekru-canta-bb85b7.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/siyah-ekru-canta-1a9-9a.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/siyah-ekru-canta-bb85b7.jpg",
-    "link": "https://www.sherin.com.tr/siyah-ekru-canta-3570",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta | Sherin",
-    "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-12-01T05:24:15.150Z",
-    "processId": "mimpfd3u0bcb2",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "€188,44",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "EUR",
-          "numericValue": 188.44,
-          "unsetPrice": false,
-          "convertedPrice": 188.44,
-          "displayPrice": "₺188,44"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "61308ae13a85d71687da63841f52d0979c460549c1888eee2aaa6860a69c2b8d",
     "title": "Lacivert Çanta",
     "img": [
@@ -328,9 +255,9 @@
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-12-01T05:24:15.185Z",
-    "processId": "mimpfd3u0bcb2",
-    "index": 4,
+    "timestamp": "2025-12-08T05:18:12.435Z",
+    "processId": "miwpajui780cy",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -346,80 +273,6 @@
         "bag",
         "çantasi",
         "lacivert"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "€188,44",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "EUR",
-          "numericValue": 188.44,
-          "unsetPrice": false,
-          "convertedPrice": 188.44,
-          "displayPrice": "₺188,44"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b48a8f73a9d7d2657bb2db2a2ba36fbd970abbc7ddc6733089a67555111f9682",
-    "title": "Beyaz Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/beyaz-canta-121f58.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/beyaz-canta-ce-44e.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/beyaz-canta-0d06e7.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/beyaz-canta-121f58.jpg",
-    "link": "https://www.sherin.com.tr/beyaz-canta-3572",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta | Sherin",
-    "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-12-01T05:24:15.224Z",
-    "processId": "mimpfd3u0bcb2",
-    "index": 5,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "beyaz"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "beyaz",
-        "white"
       ]
     },
     "imgValid": true,
@@ -474,9 +327,9 @@
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-12-01T05:24:15.257Z",
-    "processId": "mimpfd3u0bcb2",
-    "index": 6,
+    "timestamp": "2025-12-08T05:18:12.473Z",
+    "processId": "miwpajui780cy",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta"
