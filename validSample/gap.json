@@ -29,8 +29,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:37.768Z",
-    "processId": "mimph66swhudr",
+    "timestamp": "2025-12-08T05:19:29.756Z",
+    "processId": "miwpc9ggttipc",
     "index": 0,
     "categories": {
       "productType": [
@@ -118,8 +118,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:37.834Z",
-    "processId": "mimph66swhudr",
+    "timestamp": "2025-12-08T05:19:29.825Z",
+    "processId": "miwpc9ggttipc",
     "index": 1,
     "categories": {
       "productType": [
@@ -204,8 +204,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:37.911Z",
-    "processId": "mimph66swhudr",
+    "timestamp": "2025-12-08T05:19:29.885Z",
+    "processId": "miwpc9ggttipc",
     "index": 2,
     "categories": {
       "productType": [
@@ -283,8 +283,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:37.955Z",
-    "processId": "mimph66swhudr",
+    "timestamp": "2025-12-08T05:19:29.936Z",
+    "processId": "miwpc9ggttipc",
     "index": 3,
     "categories": {
       "productType": [
@@ -300,6 +300,88 @@
         "çantasi",
         "tote çanta",
         "tote"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.999,95 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "905b55d0a5f5d24f999d083b1c25fdc6fbc2e2dae97c97281825b390b093d5d8",
+    "title": "Vegan Süet Barrel Çanta",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/ba51a093-90e0-4404-9cc1-35978b8f06ef_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/ba51a093-90e0-4404-9cc1-35978b8f06ef_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/ba51a093-90e0-4404-9cc1-35978b8f06ef_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/ba51a093-90e0-4404-9cc1-35978b8f06ef_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/abec9f08-14ce-4017-baa0-f7d6215dc209_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/abec9f08-14ce-4017-baa0-f7d6215dc209_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/abec9f08-14ce-4017-baa0-f7d6215dc209_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/abec9f08-14ce-4017-baa0-f7d6215dc209_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/ba51a093-90e0-4404-9cc1-35978b8f06ef.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/abec9f08-14ce-4017-baa0-f7d6215dc209_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760609/ba51a093-90e0-4404-9cc1-35978b8f06ef_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/vegan-suet-barrel-canta-789158-hardal/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:29.990Z",
+    "processId": "miwpc9ggttipc",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "süet çanta",
+        "vegan çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "süet çanta",
+        "süet",
+        "vegan çanta",
+        "vegan"
       ]
     },
     "imgValid": true,
@@ -357,9 +439,178 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:37.990Z",
-    "processId": "mimph66swhudr",
-    "index": 4,
+    "timestamp": "2025-12-08T05:19:30.036Z",
+    "processId": "miwpc9ggttipc",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.499,95 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2499.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.499,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "7a7cadd2a55a8696755de9cb9bbd734e0a23d8de22361b819de8dc947c2f412a",
+    "title": "Vegan Süet Tote Bag",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/b9018c9e-30a6-44d1-a56b-a081f136d0de_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/b9018c9e-30a6-44d1-a56b-a081f136d0de_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/b9018c9e-30a6-44d1-a56b-a081f136d0de_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/b9018c9e-30a6-44d1-a56b-a081f136d0de_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/94c383df-53a9-442a-bbb0-f47b8a947b2f_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/94c383df-53a9-442a-bbb0-f47b8a947b2f_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/94c383df-53a9-442a-bbb0-f47b8a947b2f_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/94c383df-53a9-442a-bbb0-f47b8a947b2f_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/e3f162d8-6788-4be9-b7a1-c8c7f14d253a_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/e3f162d8-6788-4be9-b7a1-c8c7f14d253a_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/e3f162d8-6788-4be9-b7a1-c8c7f14d253a_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/e3f162d8-6788-4be9-b7a1-c8c7f14d253a_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/7113ab9e-cf49-411c-b55b-5ca4f4bb6ad6_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/7113ab9e-cf49-411c-b55b-5ca4f4bb6ad6_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/7113ab9e-cf49-411c-b55b-5ca4f4bb6ad6_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/7113ab9e-cf49-411c-b55b-5ca4f4bb6ad6_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/b9018c9e-30a6-44d1-a56b-a081f136d0de.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/94c383df-53a9-442a-bbb0-f47b8a947b2f_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/e3f162d8-6788-4be9-b7a1-c8c7f14d253a_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/7113ab9e-cf49-411c-b55b-5ca4f4bb6ad6_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751764/b9018c9e-30a6-44d1-a56b-a081f136d0de_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/vegan-suet-tote-bag-503844-bej/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:30.110Z",
+    "processId": "miwpc9ggttipc",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta",
+        "süet çanta",
+        "vegan çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote",
+        "süet çanta",
+        "süet",
+        "vegan çanta",
+        "vegan"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.299,95 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3299.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.299,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "892cdf08ce7185d275f0e94c43f1781a0f188e47d268f5cab1762ddfa6d6bccc",
+    "title": "Gap Logo Tote Çanta",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749890/5cecc271-456c-432e-8604-856a1d7289e9_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749890/5cecc271-456c-432e-8604-856a1d7289e9_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749890/5cecc271-456c-432e-8604-856a1d7289e9_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749890/5cecc271-456c-432e-8604-856a1d7289e9_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749890/5cecc271-456c-432e-8604-856a1d7289e9.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749890/5cecc271-456c-432e-8604-856a1d7289e9_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-tote-canta-681976-yesil/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:30.150Z",
+    "processId": "miwpc9ggttipc",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -423,6 +674,7 @@
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746069/680b55a1-7625-417c-9531-e868ef4eea3d_size448x640_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746069/680b55a1-7625-417c-9531-e868ef4eea3d_size576x832_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746069/aca0d6f4-bb80-4dec-88df-aef34cd45a6e.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746069/aca0d6f4-bb80-4dec-88df-aef34cd45a6e_size384x544_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746069/a777d0ee-2ea8-4f2a-a2e6-ab0d3a8a22ce_size384x544_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746069/680b55a1-7625-417c-9531-e868ef4eea3d_size384x544_cropCenter.jpg"
     ],
@@ -441,9 +693,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.050Z",
-    "processId": "mimph66swhudr",
-    "index": 5,
+    "timestamp": "2025-12-08T05:19:30.212Z",
+    "processId": "miwpc9ggttipc",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -491,6 +743,97 @@
     }
   },
   {
+    "id": "226bbcd2df3662078f72b030795761aab4686d4bebb71ea56c8110c79b4d97e8",
+    "title": "Gap Logo Sırt Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/cb30243b-2af8-4ae1-a568-b4e2722db205_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/cb30243b-2af8-4ae1-a568-b4e2722db205_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/cb30243b-2af8-4ae1-a568-b4e2722db205_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/cb30243b-2af8-4ae1-a568-b4e2722db205_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/d28bd860-372e-4bd4-8d9c-2154cb2a420b_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/d28bd860-372e-4bd4-8d9c-2154cb2a420b_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/d28bd860-372e-4bd4-8d9c-2154cb2a420b_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/d28bd860-372e-4bd4-8d9c-2154cb2a420b_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/17552255-6821-4edf-9559-411c8e4315f6_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/17552255-6821-4edf-9559-411c8e4315f6_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/17552255-6821-4edf-9559-411c8e4315f6_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/17552255-6821-4edf-9559-411c8e4315f6_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/ccc3962b-9452-47eb-b68f-c6e84003245b_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/ccc3962b-9452-47eb-b68f-c6e84003245b_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/ccc3962b-9452-47eb-b68f-c6e84003245b_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/ccc3962b-9452-47eb-b68f-c6e84003245b_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/cb30243b-2af8-4ae1-a568-b4e2722db205.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/cb30243b-2af8-4ae1-a568-b4e2722db205_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/d28bd860-372e-4bd4-8d9c-2154cb2a420b_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/17552255-6821-4edf-9559-411c8e4315f6_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/ccc3962b-9452-47eb-b68f-c6e84003245b_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746072/cb30243b-2af8-4ae1-a568-b4e2722db205_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-sirt-cantasi-19042-bordo/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:30.285Z",
+    "processId": "miwpc9ggttipc",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.799,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3799.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.799,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "b65ccdacd7b789b0242e645a92fe16c96bc6c941d3a1a859253bc5c0f91f5d39",
     "title": "Gap Logo Omuz Çantası",
     "img": [
@@ -511,6 +854,7 @@
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746071/7fb75a88-c585-42c4-a014-1543aa9324ba_size448x640_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746071/7fb75a88-c585-42c4-a014-1543aa9324ba_size576x832_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746071/aaa6fd6c-7a87-4952-ab96-b7d47100af15.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746071/aaa6fd6c-7a87-4952-ab96-b7d47100af15_size384x544_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746071/25945edd-720a-46e9-b646-bebb19ef62fc_size384x544_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746071/78fd74ed-25ec-493b-884a-2b4fe8ac1a91_size384x544_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746071/7fb75a88-c585-42c4-a014-1543aa9324ba_size384x544_cropCenter.jpg"
@@ -530,9 +874,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.125Z",
-    "processId": "mimph66swhudr",
-    "index": 6,
+    "timestamp": "2025-12-08T05:19:30.370Z",
+    "processId": "miwpc9ggttipc",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -582,32 +926,33 @@
     }
   },
   {
-    "id": "4075109b05fd6a51bb23f977230209e80449b590c87349c848764555648fad34",
-    "title": "Gap Logo Omuz Çantası",
+    "id": "f2e7c27f9b066baa5bf954627ab2ce2d24d904bba44b954f0797cf4fc214ffc2",
+    "title": "Gap Logo Sırt Çanatsı",
     "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size384x544_cropCenter.jpg"
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size384x544_cropCenter.jpg"
     ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-logo-omuz-cantasi-19008-siyah/?prev=/kadin-canta/",
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-sirt-canatsi-19018-haki/?prev=/kadin-canta/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -621,9 +966,91 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.198Z",
-    "processId": "mimph66swhudr",
-    "index": 7,
+    "timestamp": "2025-12-08T05:19:30.447Z",
+    "processId": "miwpc9ggttipc",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": []
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.999,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3999.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.999,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "8568ff7ae5195321b139e791bb1106ac59d4dfd1ceb452ad5b9b9e5b6ec64485",
+    "title": "Gap Logo Omuz Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/432de0cc-a104-4556-89e4-59c65f32c01f_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/432de0cc-a104-4556-89e4-59c65f32c01f_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/432de0cc-a104-4556-89e4-59c65f32c01f_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/432de0cc-a104-4556-89e4-59c65f32c01f_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/4ef270cc-9a98-42b8-a780-0ebd7920635d_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/4ef270cc-9a98-42b8-a780-0ebd7920635d_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/4ef270cc-9a98-42b8-a780-0ebd7920635d_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/4ef270cc-9a98-42b8-a780-0ebd7920635d_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/d1c0e8c7-2c96-4b59-a888-3acf6a9d12cf_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/d1c0e8c7-2c96-4b59-a888-3acf6a9d12cf_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/d1c0e8c7-2c96-4b59-a888-3acf6a9d12cf_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/d1c0e8c7-2c96-4b59-a888-3acf6a9d12cf_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/9521054a-3470-4127-b09a-af9b9c40ff61_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/9521054a-3470-4127-b09a-af9b9c40ff61_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/9521054a-3470-4127-b09a-af9b9c40ff61_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/9521054a-3470-4127-b09a-af9b9c40ff61_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/432de0cc-a104-4556-89e4-59c65f32c01f.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/432de0cc-a104-4556-89e4-59c65f32c01f_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/4ef270cc-9a98-42b8-a780-0ebd7920635d_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/d1c0e8c7-2c96-4b59-a888-3acf6a9d12cf_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/9521054a-3470-4127-b09a-af9b9c40ff61_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746067/432de0cc-a104-4556-89e4-59c65f32c01f_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-omuz-cantasi-19003-acik-gri/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:30.522Z",
+    "processId": "miwpc9ggttipc",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -673,88 +1100,6 @@
     }
   },
   {
-    "id": "f2e7c27f9b066baa5bf954627ab2ce2d24d904bba44b954f0797cf4fc214ffc2",
-    "title": "Gap Logo Sırt Çanatsı",
-    "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/65582b34-253a-4d9c-9e5a-9c202e6d71f1_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/ec1e9914-8468-45d0-971c-d1472f08fea7_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/df64547d-1a53-419c-804e-eb8b2b593619_size384x544_cropCenter.jpg"
-    ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746068/bd4322e0-e96d-4992-9428-9747bd9ba4e9_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-logo-sirt-canatsi-19018-haki/?prev=/kadin-canta/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": ".product-item__info-product-name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
-    "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.272Z",
-    "processId": "mimph66swhudr",
-    "index": 8,
-    "categories": {
-      "productType": [
-        "none"
-      ]
-    },
-    "seo": {
-      "keywords": []
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.999,99 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3999.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.999,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "084c8a0fdf3a39e2ee1f3a0cdfb439ab598c1dddfa632c6c139dd55417483884",
     "title": "Gap Logo Omuz Çantası",
     "img": [
@@ -795,9 +1140,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.348Z",
-    "processId": "mimph66swhudr",
-    "index": 9,
+    "timestamp": "2025-12-08T05:19:30.601Z",
+    "processId": "miwpc9ggttipc",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -847,33 +1192,33 @@
     }
   },
   {
-    "id": "178b4cbc0de54e2fefd3013e1bec1eaa1c3b39087f4d03d0506a578d66f1656a",
+    "id": "40fa4e7b58b1136ea6c19b0a5119899bbc100b0b14c9dc363f7dded35afa1f31",
     "title": "Gap Logo Sırt Çantası",
     "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size384x544_cropCenter.jpg"
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/6129c5e6-a47d-4edd-b9e7-c7fa508ea704_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/6129c5e6-a47d-4edd-b9e7-c7fa508ea704_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/6129c5e6-a47d-4edd-b9e7-c7fa508ea704_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/6129c5e6-a47d-4edd-b9e7-c7fa508ea704_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/249734f5-5360-4831-ae6e-a090111476d5_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/249734f5-5360-4831-ae6e-a090111476d5_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/249734f5-5360-4831-ae6e-a090111476d5_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/249734f5-5360-4831-ae6e-a090111476d5_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/16af9ea8-acca-4238-84c1-09df62fb4ae8_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/16af9ea8-acca-4238-84c1-09df62fb4ae8_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/16af9ea8-acca-4238-84c1-09df62fb4ae8_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/16af9ea8-acca-4238-84c1-09df62fb4ae8_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/a9da4f83-cb5f-4a68-b780-bded4ab20399_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/a9da4f83-cb5f-4a68-b780-bded4ab20399_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/a9da4f83-cb5f-4a68-b780-bded4ab20399_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/a9da4f83-cb5f-4a68-b780-bded4ab20399_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/6129c5e6-a47d-4edd-b9e7-c7fa508ea704.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/6129c5e6-a47d-4edd-b9e7-c7fa508ea704_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/249734f5-5360-4831-ae6e-a090111476d5_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/16af9ea8-acca-4238-84c1-09df62fb4ae8_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/a9da4f83-cb5f-4a68-b780-bded4ab20399_size384x544_cropCenter.jpg"
     ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-logo-sirt-cantasi-19000-gri/?prev=/kadin-canta/",
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733443/6129c5e6-a47d-4edd-b9e7-c7fa508ea704_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-sirt-cantasi-19044-haki/?prev=/kadin-canta/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -887,100 +1232,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.424Z",
-    "processId": "mimph66swhudr",
-    "index": 10,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.899,99 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3899.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.899,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b4bcfc064e79617c156bee4ba6cc0aa85f9ac23e26bf03f52e4c78ee52bed654",
-    "title": "Gap Logo Sırt Çantası",
-    "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size384x544_cropCenter.jpg"
-    ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-logo-sirt-cantasi-19040-lacivert/?prev=/kadin-canta/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": ".product-item__info-product-name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
-    "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.521Z",
-    "processId": "mimph66swhudr",
-    "index": 11,
+    "timestamp": "2025-12-08T05:19:30.677Z",
+    "processId": "miwpc9ggttipc",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1029,28 +1283,33 @@
     }
   },
   {
-    "id": "4b1161c16c2188fbb7e257fd30262b95d5c36adad43b84d12bab2fea157154dc",
-    "title": "Gap × DÔEN Süet Tote Çanta",
+    "id": "638d7202465c55f7be9a70569b1c428928d0062b27c8deea57347ba4e0ec0275",
+    "title": "Gap Logo Omuz Çantası",
     "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size384x544_cropCenter.jpg"
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/42799e58-e028-486a-b620-d19923c900e5_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/42799e58-e028-486a-b620-d19923c900e5_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/42799e58-e028-486a-b620-d19923c900e5_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/42799e58-e028-486a-b620-d19923c900e5_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/c4bdf787-0052-44e2-92f9-94cc224606fa_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/c4bdf787-0052-44e2-92f9-94cc224606fa_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/c4bdf787-0052-44e2-92f9-94cc224606fa_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/c4bdf787-0052-44e2-92f9-94cc224606fa_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/b3887790-7835-4731-ba60-c96dab138835_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/b3887790-7835-4731-ba60-c96dab138835_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/b3887790-7835-4731-ba60-c96dab138835_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/b3887790-7835-4731-ba60-c96dab138835_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/f0822afb-4a52-4a3d-9cca-56afbc5d9db0_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/f0822afb-4a52-4a3d-9cca-56afbc5d9db0_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/f0822afb-4a52-4a3d-9cca-56afbc5d9db0_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/f0822afb-4a52-4a3d-9cca-56afbc5d9db0_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/42799e58-e028-486a-b620-d19923c900e5.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/42799e58-e028-486a-b620-d19923c900e5_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/c4bdf787-0052-44e2-92f9-94cc224606fa_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/b3887790-7835-4731-ba60-c96dab138835_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/f0822afb-4a52-4a3d-9cca-56afbc5d9db0_size384x544_cropCenter.jpg"
     ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-x-doen-suet-tote-canta-475858-lacivert/?prev=/kadin-canta/",
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733440/42799e58-e028-486a-b620-d19923c900e5_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-omuz-cantasi-19032-bordo/?prev=/kadin-canta/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1064,14 +1323,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.588Z",
-    "processId": "mimph66swhudr",
-    "index": 12,
+    "timestamp": "2025-12-08T05:19:30.757Z",
+    "processId": "miwpc9ggttipc",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
-        "tote çanta",
-        "süet çanta"
+        "omuz çantası"
       ]
     },
     "seo": {
@@ -1080,10 +1338,10 @@
         "çantası",
         "bag",
         "çantasi",
-        "tote çanta",
-        "tote",
-        "süet çanta",
-        "süet"
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
       ]
     },
     "imgValid": true,
@@ -1099,52 +1357,1064 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "3.499,95 TL",
+          "value": "3.199,99 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3499.95,
+          "numericValue": 3199.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.499,95"
-        },
+          "displayPrice": "₺3.199,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "b4bcfc064e79617c156bee4ba6cc0aa85f9ac23e26bf03f52e4c78ee52bed654",
+    "title": "Gap Logo Sırt Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/217c73e2-834f-434e-9b6e-f089ac34a9e6_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/91ba68dc-89a4-4fd0-8ee7-216b15fe200d_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/81345f01-3c5a-48ef-a903-ee3582f26f79_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733442/b346972a-488b-4503-9353-946d7e29743e_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-sirt-cantasi-19040-lacivert/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:30.826Z",
+    "processId": "miwpc9ggttipc",
+    "index": 16,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
         {
-          "value": "2.899,99 TL",
+          "value": "3.799,99 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2899.99,
+          "numericValue": 3799.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.899,99"
-        },
+          "displayPrice": "₺3.799,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "333c16c0c1975988b8db7b11a90cd164e2d7fde9e437f849bc6ef18f1fb546dd",
+    "title": "Vegan Süet Barrel Çanta",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/vegan-suet-barrel-canta-789158-kahverengi/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:30.903Z",
+    "processId": "miwpc9ggttipc",
+    "index": 17,
+    "categories": {
+      "productType": [
+        "çanta",
+        "süet çanta",
+        "vegan çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "süet çanta",
+        "süet",
+        "vegan çanta",
+        "vegan"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
         {
-          "value": "3.499,95 TL",
+          "value": "2.999,95 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3499.95,
+          "numericValue": 2999.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.499,95"
-        },
+          "displayPrice": "₺2.999,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "19e1f15e0df2baf7753851bcc001096a66a8d22713f435d1e1e6da39f84eada3",
+    "title": "Vegan Süet Tote Bag",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/vegan-suet-tote-bag-503844-bordo/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:30.959Z",
+    "processId": "miwpc9ggttipc",
+    "index": 18,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta",
+        "süet çanta",
+        "vegan çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote",
+        "süet çanta",
+        "süet",
+        "vegan çanta",
+        "vegan"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
         {
-          "value": "2.029,99 TL",
+          "value": "3.299,95 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2029.99,
+          "numericValue": 3299.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.029,99"
+          "displayPrice": "₺3.299,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "534a8c9f6becca8ca2e14ba0381c895383cc78ef4bbf6026b231f2ecb4d8b35d",
+    "title": "Gap Logo Tote Çanta",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-tote-canta-681976-kirmizi/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.007Z",
+    "processId": "miwpc9ggttipc",
+    "index": 19,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.499,95 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2499.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.499,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "4c153b774ba23a39d0401eac270f4e68a870cabcff87b69443e47f5f1d8488dd",
+    "title": "Gap Logo Tote Çanta",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749905/71d3d899-e4f7-4394-988c-d025a63f5edd_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749905/71d3d899-e4f7-4394-988c-d025a63f5edd_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749905/71d3d899-e4f7-4394-988c-d025a63f5edd_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749905/71d3d899-e4f7-4394-988c-d025a63f5edd_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749905/71d3d899-e4f7-4394-988c-d025a63f5edd.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749905/71d3d899-e4f7-4394-988c-d025a63f5edd_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/11/749905/71d3d899-e4f7-4394-988c-d025a63f5edd_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-tote-canta-681976-mavi/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.053Z",
+    "processId": "miwpc9ggttipc",
+    "index": 20,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.499,95 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2499.95,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.499,95"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "4075109b05fd6a51bb23f977230209e80449b590c87349c848764555648fad34",
+    "title": "Gap Logo Omuz Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/5c993c2d-98b2-4340-a03d-edac8eb9ee09_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/98058215-e81b-4e0c-b2bd-0592979dd4d6_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/59a0b336-06d9-4149-b319-af1ccb3009ba_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/03/746070/39f3bd88-3ef1-4029-9594-d70a76db88b8_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-omuz-cantasi-19008-siyah/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.128Z",
+    "processId": "miwpc9ggttipc",
+    "index": 21,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.499,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3499.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.499,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "178b4cbc0de54e2fefd3013e1bec1eaa1c3b39087f4d03d0506a578d66f1656a",
+    "title": "Gap Logo Sırt Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/48c95d75-9269-4722-89e3-aa14f38b5c1d_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/a36b7568-5106-4de9-bbd8-4ae7af0a214b_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/d2ccff70-c04a-44de-9e7c-7fb0a45c0313_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/02/746059/085e3e9b-adc2-4dc9-8af1-bafa6cf2b0aa_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-sirt-cantasi-19000-gri/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.205Z",
+    "processId": "miwpc9ggttipc",
+    "index": 22,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.899,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3899.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.899,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "c2290a93e71f508d1b691fbd454f5e8226286a6c45fc821809e110bc4373342c",
+    "title": "Gap Logo Bel Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/0b154309-1d18-496c-b1da-e16e3f75feaf_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/0b154309-1d18-496c-b1da-e16e3f75feaf_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/0b154309-1d18-496c-b1da-e16e3f75feaf_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/0b154309-1d18-496c-b1da-e16e3f75feaf_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/a4b52932-c240-4b7f-9791-2c641a3834f5_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/a4b52932-c240-4b7f-9791-2c641a3834f5_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/a4b52932-c240-4b7f-9791-2c641a3834f5_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/a4b52932-c240-4b7f-9791-2c641a3834f5_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/9ab98f70-d1d7-4a9e-96ba-ff1b0ddbce44_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/9ab98f70-d1d7-4a9e-96ba-ff1b0ddbce44_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/9ab98f70-d1d7-4a9e-96ba-ff1b0ddbce44_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/9ab98f70-d1d7-4a9e-96ba-ff1b0ddbce44_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/0b154309-1d18-496c-b1da-e16e3f75feaf.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/0b154309-1d18-496c-b1da-e16e3f75feaf_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/a4b52932-c240-4b7f-9791-2c641a3834f5_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/9ab98f70-d1d7-4a9e-96ba-ff1b0ddbce44_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733441/0b154309-1d18-496c-b1da-e16e3f75feaf_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-bel-cantasi-19033-siyah/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.275Z",
+    "processId": "miwpc9ggttipc",
+    "index": 23,
+    "categories": {
+      "productType": [
+        "çanta",
+        "bel çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "bel çantası",
+        "bel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.699,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2699.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.699,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "cc6eda09191490c42ca305f41c71664d35c54463dfc06f11dab82bf1ae3c0f6f",
+    "title": "Gap Logo Sırt Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/2efce1df-5994-439f-b284-57392dd513a3_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/2efce1df-5994-439f-b284-57392dd513a3_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/2efce1df-5994-439f-b284-57392dd513a3_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/2efce1df-5994-439f-b284-57392dd513a3_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/8f519b99-06c4-4115-9305-097ec2198086_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/8f519b99-06c4-4115-9305-097ec2198086_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/8f519b99-06c4-4115-9305-097ec2198086_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/8f519b99-06c4-4115-9305-097ec2198086_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/1268fcef-33de-4952-ad46-91730ab59e77_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/1268fcef-33de-4952-ad46-91730ab59e77_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/1268fcef-33de-4952-ad46-91730ab59e77_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/1268fcef-33de-4952-ad46-91730ab59e77_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/9e148115-0ba3-4d07-94d1-ab4e6b97901b_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/9e148115-0ba3-4d07-94d1-ab4e6b97901b_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/9e148115-0ba3-4d07-94d1-ab4e6b97901b_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/9e148115-0ba3-4d07-94d1-ab4e6b97901b_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/2efce1df-5994-439f-b284-57392dd513a3.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/2efce1df-5994-439f-b284-57392dd513a3_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/8f519b99-06c4-4115-9305-097ec2198086_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/1268fcef-33de-4952-ad46-91730ab59e77_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/9e148115-0ba3-4d07-94d1-ab4e6b97901b_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733436/2efce1df-5994-439f-b284-57392dd513a3_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-sirt-cantasi-19012-siyah/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.350Z",
+    "processId": "miwpc9ggttipc",
+    "index": 24,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.999,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3999.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.999,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "324fbcfa9d1fb84451a474870a66ed27c75a19c0bc3225dc89590eb6f7fb2c01",
+    "title": "Gap Logo Omuz Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/9579ba2e-0e56-4507-aee9-d999293e5d67_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/9579ba2e-0e56-4507-aee9-d999293e5d67_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/9579ba2e-0e56-4507-aee9-d999293e5d67_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/9579ba2e-0e56-4507-aee9-d999293e5d67_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/747d2d0e-680d-45d7-9d1b-1626181b068d_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/747d2d0e-680d-45d7-9d1b-1626181b068d_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/747d2d0e-680d-45d7-9d1b-1626181b068d_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/747d2d0e-680d-45d7-9d1b-1626181b068d_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/575f1750-432f-499c-b9d0-3782e50f792a_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/575f1750-432f-499c-b9d0-3782e50f792a_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/575f1750-432f-499c-b9d0-3782e50f792a_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/575f1750-432f-499c-b9d0-3782e50f792a_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/09c160eb-350a-4e6c-a69b-2caaffc51505_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/09c160eb-350a-4e6c-a69b-2caaffc51505_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/09c160eb-350a-4e6c-a69b-2caaffc51505_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/09c160eb-350a-4e6c-a69b-2caaffc51505_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/9579ba2e-0e56-4507-aee9-d999293e5d67.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/9579ba2e-0e56-4507-aee9-d999293e5d67_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/747d2d0e-680d-45d7-9d1b-1626181b068d_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/575f1750-432f-499c-b9d0-3782e50f792a_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/09c160eb-350a-4e6c-a69b-2caaffc51505_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733439/9579ba2e-0e56-4507-aee9-d999293e5d67_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-omuz-cantasi-19022-siyah/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.420Z",
+    "processId": "miwpc9ggttipc",
+    "index": 25,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.299,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2299.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.299,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "e44fa89c3cbb48c174b5193e3c60e1cfb19d6a215f4226894be7ecd8579d4361",
+    "title": "Gap Logo Omuz Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2db67c66-1e8e-4e7c-8663-a4098300fcc8_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2db67c66-1e8e-4e7c-8663-a4098300fcc8_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2db67c66-1e8e-4e7c-8663-a4098300fcc8_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2db67c66-1e8e-4e7c-8663-a4098300fcc8_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/e4ee1b32-30b0-4f3e-9636-d974de54f329_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/e4ee1b32-30b0-4f3e-9636-d974de54f329_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/e4ee1b32-30b0-4f3e-9636-d974de54f329_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/e4ee1b32-30b0-4f3e-9636-d974de54f329_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/36b3343a-57de-4f7e-9bcb-5234d6e67eaf_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/36b3343a-57de-4f7e-9bcb-5234d6e67eaf_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/36b3343a-57de-4f7e-9bcb-5234d6e67eaf_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/36b3343a-57de-4f7e-9bcb-5234d6e67eaf_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2f8a26d0-72ae-4762-a1f6-5791e8ea8122_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2f8a26d0-72ae-4762-a1f6-5791e8ea8122_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2f8a26d0-72ae-4762-a1f6-5791e8ea8122_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2f8a26d0-72ae-4762-a1f6-5791e8ea8122_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2db67c66-1e8e-4e7c-8663-a4098300fcc8.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2db67c66-1e8e-4e7c-8663-a4098300fcc8_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/e4ee1b32-30b0-4f3e-9636-d974de54f329_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/36b3343a-57de-4f7e-9bcb-5234d6e67eaf_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2f8a26d0-72ae-4762-a1f6-5791e8ea8122_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733435/2db67c66-1e8e-4e7c-8663-a4098300fcc8_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-omuz-cantasi-19010/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.498Z",
+    "processId": "miwpc9ggttipc",
+    "index": 26,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.299,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3299.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.299,99"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "1136feb135a0fd1878f94a8bed88f29a8996c814eeb725f6fd8d0c7b7b9cacd2",
+    "title": "Gap Logo Bel Çantası",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/0452eb48-0fbc-4cdd-8244-c8ec0d23c523_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/0452eb48-0fbc-4cdd-8244-c8ec0d23c523_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/0452eb48-0fbc-4cdd-8244-c8ec0d23c523_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/0452eb48-0fbc-4cdd-8244-c8ec0d23c523_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/c2af2bb7-634b-44fb-893a-0941658ea36e_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/c2af2bb7-634b-44fb-893a-0941658ea36e_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/c2af2bb7-634b-44fb-893a-0941658ea36e_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/c2af2bb7-634b-44fb-893a-0941658ea36e_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/5213ddba-1eae-46c9-aa6e-fc2fcd6e87c4_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/5213ddba-1eae-46c9-aa6e-fc2fcd6e87c4_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/5213ddba-1eae-46c9-aa6e-fc2fcd6e87c4_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/5213ddba-1eae-46c9-aa6e-fc2fcd6e87c4_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/0452eb48-0fbc-4cdd-8244-c8ec0d23c523.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/0452eb48-0fbc-4cdd-8244-c8ec0d23c523_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/c2af2bb7-634b-44fb-893a-0941658ea36e_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/5213ddba-1eae-46c9-aa6e-fc2fcd6e87c4_size384x544_cropCenter.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/04/24/733438/0452eb48-0fbc-4cdd-8244-c8ec0d23c523_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-bel-cantasi-19021-siyah/?prev=/kadin-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:19:31.562Z",
+    "processId": "miwpc9ggttipc",
+    "index": 27,
+    "categories": {
+      "productType": [
+        "çanta",
+        "bel çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "bel çantası",
+        "bel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "2.599,99 TL",
+          "selector": "pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2599.99,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.599,99"
         }
       ],
       "priceValid": true,
@@ -1193,9 +2463,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.664Z",
-    "processId": "mimph66swhudr",
-    "index": 13,
+    "timestamp": "2025-12-08T05:19:31.641Z",
+    "processId": "miwpc9ggttipc",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -1281,33 +2551,28 @@
     }
   },
   {
-    "id": "239683ab0608646c6c64ebdb1a69755e6dc54e0e1b9a5c5e88fd4dced0ac6cb5",
-    "title": "Gap Logo Kanvas Omuz Çantası",
+    "id": "4b1161c16c2188fbb7e257fd30262b95d5c36adad43b84d12bab2fea157154dc",
+    "title": "Gap × DÔEN Süet Tote Çanta",
     "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size384x544_cropCenter.jpg"
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/1f752e6e-af76-4be5-84b1-d94c66b84f28_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/de7ac6c8-ddb1-4c98-be42-5d6772ca28cd_size384x544_cropCenter.jpg"
     ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-logo-kanvas-omuz-cantasi-15801-gri/?prev=/kadin-canta/",
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676718/72d3cd06-909b-40d9-9244-8bd3fc940eba_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-x-doen-suet-tote-canta-475858-lacivert/?prev=/kadin-canta/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1321,13 +2586,14 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.740Z",
-    "processId": "mimph66swhudr",
-    "index": 14,
+    "timestamp": "2025-12-08T05:19:31.708Z",
+    "processId": "miwpc9ggttipc",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası"
+        "tote çanta",
+        "süet çanta"
       ]
     },
     "seo": {
@@ -1336,10 +2602,10 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
+        "tote çanta",
+        "tote",
+        "süet çanta",
+        "süet"
       ]
     },
     "imgValid": true,
@@ -1355,52 +2621,40 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.499,99 TL",
+          "value": "3.499,95 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2499.99,
+          "numericValue": 3499.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.499,99"
+          "displayPrice": "₺3.499,95"
         },
         {
-          "value": "3.199,99 TL",
+          "value": "2.899,99 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 3199.99,
+          "numericValue": 2899.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺3.199,99"
+          "displayPrice": "₺2.899,99"
         },
         {
-          "value": "1.999,99 TL",
+          "value": "3.499,95 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1999.99,
+          "numericValue": 3499.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.999,99"
-        },
-        {
-          "value": "3.199,99 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3199.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.199,99"
+          "displayPrice": "₺3.499,95"
         }
       ],
       "priceValid": true,
@@ -1449,9 +2703,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.815Z",
-    "processId": "mimph66swhudr",
-    "index": 15,
+    "timestamp": "2025-12-08T05:19:31.785Z",
+    "processId": "miwpc9ggttipc",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -1545,260 +2799,6 @@
     }
   },
   {
-    "id": "333c16c0c1975988b8db7b11a90cd164e2d7fde9e437f849bc6ef18f1fb546dd",
-    "title": "Vegan Süet Barrel Çanta",
-    "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/5f640b29-3079-4bed-adc9-47bbb4576357_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/f986796f-ad74-460f-b322-e0b4fb2d210f_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/79df6b7f-ee13-4e91-b6d3-5d04ce4057cc_size384x544_cropCenter.jpg"
-    ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/10/09/760614/a7c7bf4b-ee6c-4a2c-8002-6f93f6d46ced_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/vegan-suet-barrel-canta-789158-kahverengi/?prev=/kadin-canta/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": ".product-item__info-product-name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
-    "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.887Z",
-    "processId": "mimph66swhudr",
-    "index": 16,
-    "categories": {
-      "productType": [
-        "çanta",
-        "süet çanta",
-        "vegan çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "süet çanta",
-        "süet",
-        "vegan çanta",
-        "vegan"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.999,95 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "19e1f15e0df2baf7753851bcc001096a66a8d22713f435d1e1e6da39f84eada3",
-    "title": "Vegan Süet Tote Bag",
-    "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/08/751765/56987c6d-6ad7-4454-b643-0c8d212abed7_size384x544_cropCenter.jpg"
-    ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/08/28/751765/69733dd1-88a7-487d-8bbb-173fc4a6d036_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/vegan-suet-tote-bag-503844-bordo/?prev=/kadin-canta/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": ".product-item__info-product-name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
-    "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.944Z",
-    "processId": "mimph66swhudr",
-    "index": 17,
-    "categories": {
-      "productType": [
-        "çanta",
-        "tote çanta",
-        "süet çanta",
-        "vegan çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "tote çanta",
-        "tote",
-        "süet çanta",
-        "süet",
-        "vegan çanta",
-        "vegan"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.299,95 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3299.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.299,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "534a8c9f6becca8ca2e14ba0381c895383cc78ef4bbf6026b231f2ecb4d8b35d",
-    "title": "Gap Logo Tote Çanta",
-    "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size384x544_cropCenter.jpg"
-    ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/09/22/755653/e5956e5f-5c3e-47fd-bf43-f782583cb366_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-logo-tote-canta-681976-kirmizi/?prev=/kadin-canta/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": ".product-item__info-product-name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
-    "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:38.989Z",
-    "processId": "mimph66swhudr",
-    "index": 18,
-    "categories": {
-      "productType": [
-        "çanta",
-        "tote çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "tote çanta",
-        "tote"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.499,95 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2499.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.499,95"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "63da30492570bcd6bf6e08b146f16c6211e04e2eb19d1b7c75e412fce3af4a3b",
     "title": "Gap Logo Star Wars™ Desenli Tote Çanta",
     "img": [
@@ -1834,9 +2834,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:39.055Z",
-    "processId": "mimph66swhudr",
-    "index": 19,
+    "timestamp": "2025-12-08T05:19:31.855Z",
+    "processId": "miwpc9ggttipc",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -1912,139 +2912,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺3.799,95"
-        },
-        {
-          "value": "1.599,99 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1599.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.599,99"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "25e0c51a92ca05064cdddf5b8246e19c1f86d11c42eaf950a82bcdfe1d3e5b74",
-    "title": "Gap × DÔEN Logo Tote Çanta",
-    "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size384x544_cropCenter.jpg"
-    ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-x-doen-logo-tote-canta-474278-kirik-beyaz/?prev=/kadin-canta/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": ".product-item__info-product-name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
-    "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:39.120Z",
-    "processId": "mimph66swhudr",
-    "index": 20,
-    "categories": {
-      "productType": [
-        "çanta",
-        "tote çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "tote çanta",
-        "tote"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.499,95 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3499.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.499,95"
-        },
-        {
-          "value": "2.499,99 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2499.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.499,99"
-        },
-        {
-          "value": "3.499,95 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3499.95,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.499,95"
-        },
-        {
-          "value": "1.749,99 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1749.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.749,99"
         }
       ],
       "priceValid": true,
@@ -2093,9 +2960,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:39.195Z",
-    "processId": "mimph66swhudr",
-    "index": 21,
+    "timestamp": "2025-12-08T05:19:31.926Z",
+    "processId": "miwpc9ggttipc",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -2221,9 +3088,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:39.270Z",
-    "processId": "mimph66swhudr",
-    "index": 22,
+    "timestamp": "2025-12-08T05:19:32.006Z",
+    "processId": "miwpc9ggttipc",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta",
@@ -2349,9 +3216,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:39.345Z",
-    "processId": "mimph66swhudr",
-    "index": 23,
+    "timestamp": "2025-12-08T05:19:32.087Z",
+    "processId": "miwpc9ggttipc",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -2477,9 +3344,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:39.428Z",
-    "processId": "mimph66swhudr",
-    "index": 24,
+    "timestamp": "2025-12-08T05:19:32.166Z",
+    "processId": "miwpc9ggttipc",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -2565,33 +3432,33 @@
     }
   },
   {
-    "id": "710ff2cdff4420d4db96f2e81afad48932e9c966ae2f4c1676b78c17cc81403e",
-    "title": "Gap Logo Omuz Çantası",
+    "id": "239683ab0608646c6c64ebdb1a69755e6dc54e0e1b9a5c5e88fd4dced0ac6cb5",
+    "title": "Gap Logo Kanvas Omuz Çantası",
     "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/af4172ce-7ab7-434e-b9b8-77e5196220bc_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/af4172ce-7ab7-434e-b9b8-77e5196220bc_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/af4172ce-7ab7-434e-b9b8-77e5196220bc_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/af4172ce-7ab7-434e-b9b8-77e5196220bc_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/a31fc5b0-aedc-47ca-a12b-6722b1eb2efd_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/a31fc5b0-aedc-47ca-a12b-6722b1eb2efd_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/a31fc5b0-aedc-47ca-a12b-6722b1eb2efd_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/a31fc5b0-aedc-47ca-a12b-6722b1eb2efd_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/6f28438b-e3cd-40f7-8b89-e3d6c7279f27_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/6f28438b-e3cd-40f7-8b89-e3d6c7279f27_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/6f28438b-e3cd-40f7-8b89-e3d6c7279f27_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/6f28438b-e3cd-40f7-8b89-e3d6c7279f27_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/cdf42351-282c-4a32-b39d-3972c36cdce6_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/cdf42351-282c-4a32-b39d-3972c36cdce6_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/cdf42351-282c-4a32-b39d-3972c36cdce6_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/cdf42351-282c-4a32-b39d-3972c36cdce6_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/af4172ce-7ab7-434e-b9b8-77e5196220bc.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/af4172ce-7ab7-434e-b9b8-77e5196220bc_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/a31fc5b0-aedc-47ca-a12b-6722b1eb2efd_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/6f28438b-e3cd-40f7-8b89-e3d6c7279f27_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/cdf42351-282c-4a32-b39d-3972c36cdce6_size384x544_cropCenter.jpg"
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/9436899a-c68c-4774-829d-6cff67fe520d_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/62dbed04-f330-4596-98d4-0dd3259fd7f7_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/0f1744d2-7884-4761-bda0-47d58a6a1bf3_size384x544_cropCenter.jpg"
     ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681808/af4172ce-7ab7-434e-b9b8-77e5196220bc_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-logo-omuz-cantasi-15840-siyah/?prev=/kadin-canta/",
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681806/5a43a816-1e2d-4e68-9272-a79ac0fc4fb8_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-logo-kanvas-omuz-cantasi-15801-gri/?prev=/kadin-canta/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2605,9 +3472,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:39.505Z",
-    "processId": "mimph66swhudr",
-    "index": 25,
+    "timestamp": "2025-12-08T05:19:32.252Z",
+    "processId": "miwpc9ggttipc",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
@@ -2639,28 +3506,28 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.029,99 TL",
+          "value": "2.499,99 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2029.99,
+          "numericValue": 2499.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.029,99"
+          "displayPrice": "₺2.499,99"
         },
         {
-          "value": "2.899,99 TL",
+          "value": "3.199,99 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2899.99,
+          "numericValue": 3199.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.899,99"
+          "displayPrice": "₺3.199,99"
         },
         {
           "value": "1.999,99 TL",
@@ -2675,16 +3542,16 @@
           "displayPrice": "₺1.999,99"
         },
         {
-          "value": "2.899,99 TL",
+          "value": "3.199,99 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2899.99,
+          "numericValue": 3199.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.899,99"
+          "displayPrice": "₺3.199,99"
         }
       ],
       "priceValid": true,
@@ -2693,33 +3560,28 @@
     }
   },
   {
-    "id": "f4e77ca6d7712e3f497f4fc7716628a6758c1c37e8488bfb9c892dee09987af7",
-    "title": "Gap Logo Omuz Çantası",
+    "id": "25e0c51a92ca05064cdddf5b8246e19c1f86d11c42eaf950a82bcdfe1d3e5b74",
+    "title": "Gap × DÔEN Logo Tote Çanta",
     "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/0a2f0173-fad7-4618-b407-d68b38ef7cbe_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/0a2f0173-fad7-4618-b407-d68b38ef7cbe_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/0a2f0173-fad7-4618-b407-d68b38ef7cbe_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/0a2f0173-fad7-4618-b407-d68b38ef7cbe_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/accf2498-09a7-4892-b26d-7939c0556fc3_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/accf2498-09a7-4892-b26d-7939c0556fc3_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/accf2498-09a7-4892-b26d-7939c0556fc3_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/accf2498-09a7-4892-b26d-7939c0556fc3_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/572b1b42-3074-4e20-9192-21f539dee20e_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/572b1b42-3074-4e20-9192-21f539dee20e_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/572b1b42-3074-4e20-9192-21f539dee20e_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/572b1b42-3074-4e20-9192-21f539dee20e_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/613dee03-9705-464b-81ef-504aa26f3f41_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/613dee03-9705-464b-81ef-504aa26f3f41_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/613dee03-9705-464b-81ef-504aa26f3f41_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/613dee03-9705-464b-81ef-504aa26f3f41_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/0a2f0173-fad7-4618-b407-d68b38ef7cbe.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/0a2f0173-fad7-4618-b407-d68b38ef7cbe_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/accf2498-09a7-4892-b26d-7939c0556fc3_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/572b1b42-3074-4e20-9192-21f539dee20e_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/613dee03-9705-464b-81ef-504aa26f3f41_size384x544_cropCenter.jpg"
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/21/676715/6c83a590-2bd6-4c9a-b4be-2409a2bea9fd_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/1dee2035-d830-4c8f-9107-f3139278ee7e_size384x544_cropCenter.jpg"
     ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/07/08/681807/0a2f0173-fad7-4618-b407-d68b38ef7cbe_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/gap-logo-omuz-cantasi-15819-beyaz/?prev=/kadin-canta/",
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2024/06/06/676715/2638c604-c986-46e8-8608-575223979550_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/gap-x-doen-logo-tote-canta-474278-kirik-beyaz/?prev=/kadin-canta/",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2733,13 +3595,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:25:39.587Z",
-    "processId": "mimph66swhudr",
-    "index": 26,
+    "timestamp": "2025-12-08T05:19:32.315Z",
+    "processId": "miwpc9ggttipc",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası"
+        "tote çanta"
       ]
     },
     "seo": {
@@ -2748,10 +3610,8 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
+        "tote çanta",
+        "tote"
       ]
     },
     "imgValid": true,
@@ -2767,52 +3627,40 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "2.029,99 TL",
+          "value": "3.499,95 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2029.99,
+          "numericValue": 3499.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.029,99"
+          "displayPrice": "₺3.499,95"
         },
         {
-          "value": "2.899,99 TL",
+          "value": "2.499,99 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 2899.99,
+          "numericValue": 2499.99,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺2.899,99"
+          "displayPrice": "₺2.499,99"
         },
         {
-          "value": "1.999,99 TL",
+          "value": "3.499,95 TL",
           "selector": "pz-price",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 1999.99,
+          "numericValue": 3499.95,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺1.999,99"
-        },
-        {
-          "value": "2.899,99 TL",
-          "selector": "pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2899.99,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.899,99"
+          "displayPrice": "₺3.499,95"
         }
       ],
       "priceValid": true,
