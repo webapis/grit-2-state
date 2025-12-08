@@ -16,13 +16,13 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.356Z",
-    "processId": "mimphs9e69hwh",
+    "timestamp": "2025-12-08T05:20:19.156Z",
+    "processId": "miwpdaa9dxjqn",
     "index": 0,
     "categories": {
       "productType": [
@@ -64,7 +64,7 @@
       "parsedPrices": [
         {
           "value": "₺ 3.299",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -73,18 +73,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺3.299,00"
-        },
-        {
-          "value": "₺ 2.474,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2474.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.474,25"
         }
       ],
       "priceValid": true,
@@ -109,13 +97,13 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.390Z",
-    "processId": "mimphs9e69hwh",
+    "timestamp": "2025-12-08T05:20:19.194Z",
+    "processId": "miwpdaa9dxjqn",
     "index": 1,
     "categories": {
       "productType": [
@@ -157,7 +145,7 @@
       "parsedPrices": [
         {
           "value": "₺ 1.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -166,18 +154,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.999,00"
-        },
-        {
-          "value": "₺ 1.499,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1499.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.499,25"
         }
       ],
       "priceValid": true,
@@ -201,13 +177,13 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.427Z",
-    "processId": "mimphs9e69hwh",
+    "timestamp": "2025-12-08T05:20:19.227Z",
+    "processId": "miwpdaa9dxjqn",
     "index": 2,
     "categories": {
       "productType": [
@@ -248,7 +224,7 @@
       "parsedPrices": [
         {
           "value": "₺ 1.299",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -257,18 +233,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.299,00"
-        },
-        {
-          "value": "₺ 974,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 974.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺974,25"
         }
       ],
       "priceValid": true,
@@ -293,13 +257,13 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.464Z",
-    "processId": "mimphs9e69hwh",
+    "timestamp": "2025-12-08T05:20:19.265Z",
+    "processId": "miwpdaa9dxjqn",
     "index": 3,
     "categories": {
       "productType": [
@@ -342,7 +306,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -351,110 +315,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b0321aaa2d8b4b282185712d2983f9fca13e92e191822ed69a86751cd686f6f3",
-    "title": "Converse Chuck Taylor Unisex Mavi Sırt Çantası",
-    "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69959/cd0cf40b-e381-4bb6-88ac-0080fa9e0b99_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69959/91b8dff6-02ae-4105-b73d-426f638c3bdb_size338x422.jpg"
-    ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69959/cd0cf40b-e381-4bb6-88ac-0080fa9e0b99_size338x422.jpg",
-    "link": "https://www.converse.com.tr/urun/converse-chuck-taylor-unisex-mavi-sirt-cantasi/10026013-505/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "h2.product-item__name",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.500Z",
-    "processId": "mimphs9e69hwh",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası"
-      ],
-      "color": [
-        "mavi"
-      ],
-      "gender": [
-        "unisex"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "mavi",
-        "unisex"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺ 2.999",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -479,14 +339,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.537Z",
-    "processId": "mimphs9e69hwh",
-    "index": 5,
+    "timestamp": "2025-12-08T05:20:19.299Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -527,7 +387,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -536,18 +396,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -572,14 +420,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.574Z",
-    "processId": "mimphs9e69hwh",
-    "index": 6,
+    "timestamp": "2025-12-08T05:20:19.336Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -621,7 +469,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -630,18 +478,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -666,14 +502,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.610Z",
-    "processId": "mimphs9e69hwh",
-    "index": 7,
+    "timestamp": "2025-12-08T05:20:19.371Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -714,7 +550,7 @@
       "parsedPrices": [
         {
           "value": "₺ 1.799",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -723,18 +559,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.799,00"
-        },
-        {
-          "value": "₺ 1.349,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1349.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.349,25"
         }
       ],
       "priceValid": true,
@@ -746,10 +570,10 @@
     "id": "7167c1328b02be2fd741897e48f3372f66779475485b58db41a0006e06cf40cf",
     "title": "Converse Unisex Gri Sırt Çantası",
     "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/31/86808/404ea5bc-517b-4a3c-a208-36090e67b8dd_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/31/86808/1a793c7c-7916-4c18-865d-b409b6c7fef4_size338x422.jpg"
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/31/86808/1a793c7c-7916-4c18-865d-b409b6c7fef4_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/31/86808/404ea5bc-517b-4a3c-a208-36090e67b8dd_size338x422.jpg"
     ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/31/86808/404ea5bc-517b-4a3c-a208-36090e67b8dd_size338x422.jpg",
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/31/86808/1a793c7c-7916-4c18-865d-b409b6c7fef4_size338x422.jpg",
     "link": "https://www.converse.com.tr/urun/converse-unisex-gri-sirt-cantasi/g3i/",
     "videos": [],
     "productNotInStock": false,
@@ -757,16 +581,16 @@
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".js-product-wrapper.product-item",
       "titleSelectorMatched": "h2.product-item__name",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.649Z",
-    "processId": "mimphs9e69hwh",
-    "index": 8,
+    "timestamp": "2025-12-08T05:20:19.408Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -808,7 +632,7 @@
       "parsedPrices": [
         {
           "value": "₺ 1.799",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -817,18 +641,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.799,00"
-        },
-        {
-          "value": "₺ 1.349,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1349.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.349,25"
         }
       ],
       "priceValid": true,
@@ -851,16 +663,16 @@
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".js-product-wrapper.product-item",
       "titleSelectorMatched": "h2.product-item__name",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.685Z",
-    "processId": "mimphs9e69hwh",
-    "index": 9,
+    "timestamp": "2025-12-08T05:20:19.445Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -901,7 +713,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -910,18 +722,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -946,14 +746,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.723Z",
-    "processId": "mimphs9e69hwh",
-    "index": 10,
+    "timestamp": "2025-12-08T05:20:19.483Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -993,7 +793,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -1002,18 +802,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -1038,14 +826,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.757Z",
-    "processId": "mimphs9e69hwh",
-    "index": 11,
+    "timestamp": "2025-12-08T05:20:19.522Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -1086,7 +874,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -1095,18 +883,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -1131,14 +907,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.793Z",
-    "processId": "mimphs9e69hwh",
-    "index": 12,
+    "timestamp": "2025-12-08T05:20:19.561Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -1178,7 +954,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.499",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -1187,18 +963,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.499,00"
-        },
-        {
-          "value": "₺ 1.874,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1874.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.874,25"
         }
       ],
       "priceValid": true,
@@ -1223,13 +987,89 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta | Converse Türkiye",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:20:19.605Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası"
+      ],
+      "gender": [
+        "unisex"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt",
+        "unisex"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺ 2.999",
+          "selector": ".price.price--discounted .price__old",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "148bc614c31c70682cfa0b7a1dc50ab95778bdc944433f950a98c36798ee79c1",
+    "title": "Converse Unisex Krem Sırt Çantası",
+    "img": [
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/14/86866/82c2f2d8-fa68-469b-b8d9-c4f8c381975d_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/17/86813/21755a7f-cb6f-459c-a775-ba16df118138_size338x422.jpg"
+    ],
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/14/86866/82c2f2d8-fa68-469b-b8d9-c4f8c381975d_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-unisex-krem-sirt-cantasi/w2y/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2.product-item__name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
       "bestPriceSelector": ".price .price__new",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.829Z",
-    "processId": "mimphs9e69hwh",
+    "timestamp": "2025-12-08T05:20:19.647Z",
+    "processId": "miwpdaa9dxjqn",
     "index": 13,
     "categories": {
       "productType": [
@@ -1275,106 +1115,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "148bc614c31c70682cfa0b7a1dc50ab95778bdc944433f950a98c36798ee79c1",
-    "title": "Converse Unisex Krem Sırt Çantası",
-    "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/14/86866/82c2f2d8-fa68-469b-b8d9-c4f8c381975d_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/17/86813/21755a7f-cb6f-459c-a775-ba16df118138_size338x422.jpg"
-    ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/10/14/86866/82c2f2d8-fa68-469b-b8d9-c4f8c381975d_size338x422.jpg",
-    "link": "https://www.converse.com.tr/urun/converse-unisex-krem-sirt-cantasi/w2y/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "h2.product-item__name",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.867Z",
-    "processId": "mimphs9e69hwh",
-    "index": 14,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası"
-      ],
-      "gender": [
-        "unisex"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "unisex"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺ 2.999",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -1397,16 +1137,16 @@
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".js-product-wrapper.product-item",
       "titleSelectorMatched": "h2.product-item__name",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".price .price__new",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.905Z",
-    "processId": "mimphs9e69hwh",
-    "index": 15,
+    "timestamp": "2025-12-08T05:20:19.689Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1455,18 +1195,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.499,00"
-        },
-        {
-          "value": "₺ 1.874,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1874.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.874,25"
         }
       ],
       "priceValid": true,
@@ -1496,9 +1224,9 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.942Z",
-    "processId": "mimphs9e69hwh",
-    "index": 16,
+    "timestamp": "2025-12-08T05:20:19.736Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -1548,18 +1276,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.499,00"
-        },
-        {
-          "value": "₺ 1.874,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1874.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.874,25"
         }
       ],
       "priceValid": true,
@@ -1589,9 +1305,9 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:07.985Z",
-    "processId": "mimphs9e69hwh",
-    "index": 17,
+    "timestamp": "2025-12-08T05:20:19.794Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1639,18 +1355,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.599,00"
-        },
-        {
-          "value": "₺ 1.199,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1199.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.199,25"
         }
       ],
       "priceValid": true,
@@ -1675,14 +1379,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:08.021Z",
-    "processId": "mimphs9e69hwh",
-    "index": 18,
+    "timestamp": "2025-12-08T05:20:19.831Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1723,7 +1427,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -1732,18 +1436,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -1768,14 +1460,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:08.057Z",
-    "processId": "mimphs9e69hwh",
-    "index": 19,
+    "timestamp": "2025-12-08T05:20:19.866Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1816,7 +1508,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -1825,18 +1517,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -1861,14 +1541,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:08.096Z",
-    "processId": "mimphs9e69hwh",
-    "index": 20,
+    "timestamp": "2025-12-08T05:20:19.901Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1908,7 +1588,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -1917,18 +1597,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -1953,14 +1621,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:08.135Z",
-    "processId": "mimphs9e69hwh",
-    "index": 21,
+    "timestamp": "2025-12-08T05:20:19.939Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta"
@@ -1998,7 +1666,7 @@
       "parsedPrices": [
         {
           "value": "₺ 1.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -2007,18 +1675,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.999,00"
-        },
-        {
-          "value": "₺ 1.499,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1499.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.499,25"
         }
       ],
       "priceValid": true,
@@ -2043,14 +1699,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:08.173Z",
-    "processId": "mimphs9e69hwh",
-    "index": 22,
+    "timestamp": "2025-12-08T05:20:19.976Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta"
@@ -2087,7 +1743,7 @@
       "parsedPrices": [
         {
           "value": "₺ 1.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -2096,18 +1752,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.999,00"
-        },
-        {
-          "value": "₺ 1.499,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1499.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.499,25"
         }
       ],
       "priceValid": true,
@@ -2137,9 +1781,9 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/",
-    "timestamp": "2025-12-01T05:26:08.208Z",
-    "processId": "mimphs9e69hwh",
-    "index": 23,
+    "timestamp": "2025-12-08T05:20:20.012Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -2184,18 +1828,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.499,00"
-        },
-        {
-          "value": "₺ 1.874,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1874.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.874,25"
         }
       ],
       "priceValid": true,
@@ -2220,14 +1852,14 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:16.917Z",
-    "processId": "mimphzci7ymjp",
-    "index": 0,
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-12-08T05:20:20.047Z",
+    "processId": "miwpdaa9dxjqn",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -2263,7 +1895,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -2272,18 +1904,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -2308,13 +1928,93 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:16.953Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.528Z",
+    "processId": "miwpdh6nz05d2",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası"
+      ],
+      "color": [
+        "yeşil"
+      ],
+      "gender": [
+        "unisex"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt",
+        "yeşil",
+        "unisex"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺ 2.999",
+          "selector": ".price.price--discounted .price__old",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 2999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺2.999,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "d8c0c400c7fa9535df5c620bc1d5ddad7bb6473816cd5909508a415357e64022",
+    "title": "Converse Floral Square Unisex Yeşil Sırt Çantası",
+    "img": [
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/06/05/70759/8d901793-5391-40c0-a11c-f786518a4fea_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/06/05/70759/a41bea60-184e-4b90-90f8-a5819330d854_size338x422.jpg"
+    ],
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/06/05/70759/8d901793-5391-40c0-a11c-f786518a4fea_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-floral-square-unisex-yesil-sirt-cantasi/10027426-384/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2.product-item__name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta | Converse Türkiye",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
+    "timestamp": "2025-12-08T05:20:28.581Z",
+    "processId": "miwpdh6nz05d2",
     "index": 1,
     "categories": {
       "productType": [
@@ -2355,7 +2055,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -2364,18 +2064,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -2405,8 +2093,8 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:16.989Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.621Z",
+    "processId": "miwpdh6nz05d2",
     "index": 2,
     "categories": {
       "productType": [
@@ -2485,8 +2173,8 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.023Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.662Z",
+    "processId": "miwpdh6nz05d2",
     "index": 3,
     "categories": {
       "productType": [
@@ -2567,8 +2255,8 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.063Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.695Z",
+    "processId": "miwpdh6nz05d2",
     "index": 4,
     "categories": {
       "productType": [
@@ -2646,8 +2334,8 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.102Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.737Z",
+    "processId": "miwpdh6nz05d2",
     "index": 5,
     "categories": {
       "productType": [
@@ -2726,8 +2414,8 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.137Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.775Z",
+    "processId": "miwpdh6nz05d2",
     "index": 6,
     "categories": {
       "productType": [
@@ -2800,13 +2488,13 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.172Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.805Z",
+    "processId": "miwpdh6nz05d2",
     "index": 7,
     "categories": {
       "productType": [
@@ -2847,7 +2535,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.599",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -2856,18 +2544,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.599,00"
-        },
-        {
-          "value": "₺ 1.949,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1949.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.949,25"
         }
       ],
       "priceValid": true,
@@ -2897,8 +2573,8 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.208Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.836Z",
+    "processId": "miwpdh6nz05d2",
     "index": 8,
     "categories": {
       "productType": [
@@ -2973,13 +2649,13 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.243Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.873Z",
+    "processId": "miwpdh6nz05d2",
     "index": 9,
     "categories": {
       "productType": [
@@ -3020,7 +2696,7 @@
       "parsedPrices": [
         {
           "value": "₺ 1.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -3029,18 +2705,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.999,00"
-        },
-        {
-          "value": "₺ 1.499,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1499.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.499,25"
         }
       ],
       "priceValid": true,
@@ -3070,8 +2734,8 @@
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.281Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.914Z",
+    "processId": "miwpdh6nz05d2",
     "index": 10,
     "categories": {
       "productType": [
@@ -3123,18 +2787,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.499,00"
-        },
-        {
-          "value": "₺ 1.874,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1874.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.874,25"
         }
       ],
       "priceValid": true,
@@ -3159,13 +2811,13 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.316Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.952Z",
+    "processId": "miwpdh6nz05d2",
     "index": 11,
     "categories": {
       "productType": [
@@ -3207,7 +2859,7 @@
       "parsedPrices": [
         {
           "value": "₺ 2.999",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -3216,18 +2868,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺2.999,00"
-        },
-        {
-          "value": "₺ 2.249,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2249.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.249,25"
         }
       ],
       "priceValid": true,
@@ -3252,13 +2892,13 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
+      "bestPriceSelector": ".price.price--discounted .price__old",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.356Z",
-    "processId": "mimphzci7ymjp",
+    "timestamp": "2025-12-08T05:20:28.989Z",
+    "processId": "miwpdh6nz05d2",
     "index": 12,
     "categories": {
       "productType": [
@@ -3301,7 +2941,7 @@
       "parsedPrices": [
         {
           "value": "₺ 1.599",
-          "selector": ".price .price__new",
+          "selector": ".price.price--discounted .price__old",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
@@ -3310,111 +2950,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺1.599,00"
-        },
-        {
-          "value": "₺ 1.199,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1199.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.199,25"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d41026ffe4229fd8dec4219691df1dfa124d2f1cba609be298f3d723e3e4d558",
-    "title": "Converse Go 2 Unisex Siyah Sırt Çantası",
-    "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/06/05/3570/fe1f60e3-10f4-4cd4-b731-d5dcc344de2c_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/06/05/3570/598c1de5-ef0e-49ec-a0c0-d92c8438fbdc_size338x422.jpg"
-    ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/06/05/3570/fe1f60e3-10f4-4cd4-b731-d5dcc344de2c_size338x422.jpg",
-    "link": "https://www.converse.com.tr/urun/converse-go-2-unisex-siyah-sirt-cantasi/10020533-001/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "h2.product-item__name",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-12-01T05:26:17.393Z",
-    "processId": "mimphzci7ymjp",
-    "index": 13,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "unisex"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "siyah",
-        "black",
-        "unisex"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺ 2.499",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2499,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.499,00"
-        },
-        {
-          "value": "₺ 1.874,25",
-          "selector": ".price .price__new",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1874.25,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.874,25"
         }
       ],
       "priceValid": true,
