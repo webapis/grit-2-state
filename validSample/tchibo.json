@@ -1,5 +1,140 @@
 [
   {
+    "id": "2f50867ba2bba031dc419980b0e9ab37d0d39415bd8e2d21eb3a819df83f2108",
+    "title": "2'si 1 Arada Akıllı Telefon Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/gQAGCwFW/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gQAGCwFW/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/140011498065/2si-1-arada-akilli-telefon-cantasi?article_id=194782958894",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.882Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "telefon çantası",
+        "akıllı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "telefon çantası",
+        "telefon",
+        "akıllı çanta",
+        "akıllı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": [
+        "https://www.tchibo.com.tr/products/109312919485/2si-1-arada-akilli-telefon-cantasi?article_id=190496215762"
+      ]
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "849,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 849,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "849"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ecbf85c64a6796428bfe8c7fab3bb47d47f9c391c6e2c31f1ab141ce573fd0f0",
+    "title": "Üst Değiştirme Minderi ve Islak Eşya Torbası",
+    "img": [
+      "https://www.tchibo.com.tr/img/ggQGnTDF/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/ggQGnTDF/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/110207789460/ust-degistirme-minderi-ve-islak-esya-torbasi?article_id=116537747995",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.889Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": []
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "719,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 719,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "719"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "9a0b7f30b24d380a815c3dda1069da2869da177b7f281dcb25aadd5866837747",
     "title": "Yalıtımlı Akıllı Telefon Çantası",
     "img": [
@@ -20,9 +155,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.005Z",
-    "processId": "miwqh9gv969xv",
-    "index": 0,
+    "timestamp": "2025-12-15T05:53:34.896Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -94,13 +229,13 @@
     }
   },
   {
-    "id": "f27e6441c2a3337aa324771437c6d34ec25acfdfe491131e828621599173140c",
-    "title": "Outdoor Sırt Çantası",
+    "id": "787f46cf263d5206e62e9b4748fc2ad7840603e8189f7b3332a83050e2e2d68e",
+    "title": "Büzgülü Çanta",
     "img": [
-      "https://www.tchibo.com.tr/img/ggw0W3X6/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/gQAlLlz3/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/ggw0W3X6/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/187617317798/outdoor-sirt-cantasi?article_id=167173576347",
+    "primaryImg": "https://www.tchibo.com.tr/img/gQAlLlz3/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/176686722849/buzgulu-canta?article_id=141509707502",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -114,536 +249,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.012Z",
-    "processId": "miwqh9gv969xv",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası",
-        "outdoor çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "outdoor çanta",
-        "outdoor"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.999,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1999"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "5ca91efe3cbce718e33742e7621a51ab67f55c8be263cdcea408197737035e3a",
-    "title": "Omuz Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/gwQG4Ljv/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gwQG4Ljv/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/103618764164/omuz-cantasi?article_id=114102070557",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.019Z",
-    "processId": "miwqh9gv969xv",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "899"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "03b6ba352137de61e5e811921f81a703d56ebca342c9277f73f71ac3d9a9c9eb",
-    "title": "Tamamı Baskılı Plaj Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/gAAHxvuB/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gAAHxvuB/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/128857171466/tamami-baskili-plaj-cantasi?article_id=159307339244",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.027Z",
-    "processId": "miwqh9gv969xv",
+    "timestamp": "2025-12-15T05:53:34.902Z",
+    "processId": "mj6qn0di7gu1j",
     "index": 3,
-    "categories": {
-      "productType": [
-        "çanta",
-        "plaj çantası",
-        "baskılı çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "plaj çantası",
-        "plaj",
-        "beach",
-        "baskılı çanta",
-        "baskılı",
-        "baskili",
-        "baskı",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.699,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1699,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1699"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d0c8f52d59abd2db64dba998141e65a87329ba9ecd52ec7249fa322753c58511",
-    "title": "Çapraz Askılı Çanta",
-    "img": [
-      "https://www.tchibo.com.tr/img/gQAWvl4o/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gQAWvl4o/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/156604963883/capraz-askili-canta?article_id=125235555120",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.033Z",
-    "processId": "miwqh9gv969xv",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.299,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1299"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "dce68e3a5dbcc163a0c9b0ace5d381947025989f360534e0c1e41a3d8bafb35c",
-    "title": "3 Adet Su Geçirmez Torba",
-    "img": [
-      "https://www.tchibo.com.tr/img/gwQ2IoJ4/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gwQ2IoJ4/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/185812170946/3-adet-su-gecirmez-torba?article_id=143410113394",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.041Z",
-    "processId": "miwqh9gv969xv",
-    "index": 5,
-    "categories": {
-      "productType": [
-        "none"
-      ]
-    },
-    "seo": {
-      "keywords": []
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.049,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1049,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1049"
-        },
-        {
-          "value": "349,67",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 349.67,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "349.67"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "ada973df04629de1cec2dfc719ede4c0125db563664f270d8b25719986d2a861",
-    "title": "Katlanabilen Plaj Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/gAg3Q9vo/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gAg3Q9vo/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/171969895399/katlanabilen-plaj-cantasi?article_id=110703042755",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.048Z",
-    "processId": "miwqh9gv969xv",
-    "index": 6,
-    "categories": {
-      "productType": [
-        "çanta",
-        "plaj çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "plaj çantası",
-        "plaj",
-        "beach"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "999,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "999"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "fde69d9811690d5769e4f90471f2c4b7a1db68606bc6de75a2f06dcd34b1dbee",
-    "title": "Omuz Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/ggQ2d9OW/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/ggQ2d9OW/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/124709807872/omuz-cantasi?article_id=183825579468",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.054Z",
-    "processId": "miwqh9gv969xv",
-    "index": 7,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "899,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "899"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "127eb8b5c5c961decf1ed460a6b88d946f366a2bcfd427b3c2680c0233a6dd8d",
-    "title": "2 Adet Saklama Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/ggw2K6tX/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/ggw2K6tX/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/156314651887/2-adet-saklama-cantasi?article_id=151901813885",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.059Z",
-    "processId": "miwqh9gv969xv",
-    "index": 8,
     "categories": {
       "productType": [
         "çanta"
@@ -670,26 +278,108 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "799,00",
+          "value": "1.199,00",
           "selector": ".tp-price-number",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
-          "numericValue": 799,
+          "numericValue": 1199,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "799"
+          "displayPrice": "1199"
         },
         {
-          "value": "399,50",
+          "value": "899,00",
           "selector": ".tp-price-number",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
-          "numericValue": 399.5,
+          "numericValue": 899,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "399.5"
+          "displayPrice": "899"
+        },
+        {
+          "value": "899,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "899"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "1bd6cdca51eff50e8588e8b52a2afbbf652e94dec6e979908d817a06da37109b",
+    "title": "Yağmura Dayanıklı Omuz Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/gAw3EjSb/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gAw3EjSb/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/137016687152/yagmura-dayanikli-omuz-cantasi?article_id=107665414311",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.909Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "899"
         }
       ],
       "priceValid": true,
@@ -718,9 +408,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.066Z",
-    "processId": "miwqh9gv969xv",
-    "index": 9,
+    "timestamp": "2025-12-15T05:53:34.915Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -789,9 +479,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.073Z",
-    "processId": "miwqh9gv969xv",
-    "index": 10,
+    "timestamp": "2025-12-15T05:53:34.921Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -860,13 +550,13 @@
     }
   },
   {
-    "id": "787f46cf263d5206e62e9b4748fc2ad7840603e8189f7b3332a83050e2e2d68e",
-    "title": "Büzgülü Çanta",
+    "id": "5ca91efe3cbce718e33742e7621a51ab67f55c8be263cdcea408197737035e3a",
+    "title": "Omuz Çantası",
     "img": [
-      "https://www.tchibo.com.tr/img/gQAlLlz3/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/gwQG4Ljv/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gQAlLlz3/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/176686722849/buzgulu-canta?article_id=141509707502",
+    "primaryImg": "https://www.tchibo.com.tr/img/gwQG4Ljv/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/103618764164/omuz-cantasi?article_id=114102070557",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -880,8 +570,301 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.080Z",
-    "processId": "miwqh9gv969xv",
+    "timestamp": "2025-12-15T05:53:34.928Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 7,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "899"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "712891407c49827e3f06cf10ed257ff91cfa0574486263935a638ea1efe15b3c",
+    "title": "2'si 1 Arada Akıllı Telefon Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/gQAGCwFW/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gQAGCwFW/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/109312919485/2si-1-arada-akilli-telefon-cantasi?article_id=190496215762",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.935Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 8,
+    "categories": {
+      "productType": [
+        "çanta",
+        "telefon çantası",
+        "akıllı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "telefon çantası",
+        "telefon",
+        "akıllı çanta",
+        "akıllı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": [
+        "https://www.tchibo.com.tr/products/140011498065/2si-1-arada-akilli-telefon-cantasi?article_id=194782958894"
+      ]
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "999,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "999"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "e25afae3b6ff0efd196f047770afdf10dc01450e5488fdf3b2dff79515cd5fc9",
+    "title": "3 Adet Çanta",
+    "img": [
+      "https://www.tchibo.com.tr/img/gwQWvAZY/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gwQWvAZY/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/100608311025/3-adet-canta?article_id=199778213770",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.940Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "799"
+        },
+        {
+          "value": "266,33",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 266.33,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "266.33"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "f88d582723a955d469496cd98b32d560f0f9691b40bc592b79e9387db728898b",
+    "title": "Spor Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/gQgWvRXh/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gQgWvRXh/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/117126467641/spor-cantasi?article_id=137318990956",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:35.055Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 26,
+    "categories": {
+      "productType": [
+        "çanta",
+        "spor çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "spor çantası",
+        "spor",
+        "sport",
+        "sports"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.299,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 1299,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "1299"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "1f45e4925a3c80f43763100eff93733ebcd5ff13edb541c7f94ca594afbb79e8",
+    "title": "Yağmur Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/gAAmKkGt/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gAAmKkGt/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/106247046136/yagmur-cantasi?article_id=194831878231",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.951Z",
+    "processId": "mj6qn0di7gu1j",
     "index": 11,
     "categories": {
       "productType": [
@@ -901,6 +884,601 @@
     "mediaType": "image",
     "imageAnalysis": {
       "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "799"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "fde69d9811690d5769e4f90471f2c4b7a1db68606bc6de75a2f06dcd34b1dbee",
+    "title": "Omuz Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/ggQ2d9OW/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/ggQ2d9OW/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/124709807872/omuz-cantasi?article_id=183825579468",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.957Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "899,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 899,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "899"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "4f53fc0ad17a3ace02459a41099d595c8b8445284223fea79c89a38010d59da7",
+    "title": "Spor Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/gggmpodt/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gggmpodt/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/133418226003/spor-cantasi?article_id=129251745107",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:35.132Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 37,
+    "categories": {
+      "productType": [
+        "çanta",
+        "spor çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "spor çantası",
+        "spor",
+        "sport",
+        "sports"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "999,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "999"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "d81b566820ab419060a1263f3686f3301fbba29d09331495a81a751eac97be96",
+    "title": "Outdoor Sırt Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/gQAXhwC0/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gQAXhwC0/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/138766413794/outdoor-sirt-cantasi?article_id=166815380304",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:35.139Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 38,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası",
+        "outdoor çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt",
+        "outdoor çanta",
+        "outdoor"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.999,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 1999,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "1999"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a53a160f4a24836126f5ecd9fd107f9ab027565888921c44d9904145ca869c13",
+    "title": "Shopper Çanta",
+    "img": [
+      "https://www.tchibo.com.tr/img/gAg2naDr/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gAg2naDr/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/150660274550/shopper-canta?article_id=161482238452",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:35.083Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 30,
+    "categories": {
+      "productType": [
+        "çanta",
+        "alışveriş çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "alışveriş çantası",
+        "shopper"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.699,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 1699,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "1699"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a90b70738382c1fc26a2aa5643b55ec5bcba4d07ed590a024d58259af895b787",
+    "title": "Mini Çanta",
+    "img": [
+      "https://www.tchibo.com.tr/img/gAQ1egIe/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gAQ1egIe/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/147419848810/mini-canta?article_id=121823361737",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.988Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 16,
+    "categories": {
+      "productType": [
+        "çanta",
+        "mini çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "mini çanta",
+        "mini"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.049,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 1049,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "1049"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "127eb8b5c5c961decf1ed460a6b88d946f366a2bcfd427b3c2680c0233a6dd8d",
+    "title": "2 Adet Saklama Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/ggw2K6tX/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/ggw2K6tX/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/156314651887/2-adet-saklama-cantasi?article_id=151901813885",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:34.995Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 17,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "799,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 799,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "799"
+        },
+        {
+          "value": "399,50",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 399.5,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "399.5"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "27197fdf3a75def18d2278b748fbc024f142aea1354668c5922971e5e7b6d765",
+    "title": "2 Adet Su Geçirmez Torba",
+    "img": [
+      "https://www.tchibo.com.tr/img/gQw295Cg/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/gQw295Cg/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/151419697699/2-adet-su-gecirmez-torba?article_id=117588823742",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:35.105Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 33,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": []
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "599,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 599,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "599"
+        },
+        {
+          "value": "449,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 449,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "449"
+        },
+        {
+          "value": "224,50",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 224.5,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "224.5"
+        },
+        {
+          "value": "449,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 449,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "449"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "fe82eec51596b007e8065d4dd4a6d458b4f154215d6dde8833e4f878cf50033a",
+    "title": "Omuz Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/img/ggA3Q5BI/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/ggA3Q5BI/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/166995385243/omuz-cantasi?article_id=162001982824",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:35.042Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 24,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
       "duplicateOf": []
     },
     "linkValid": true,
@@ -968,9 +1546,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.087Z",
-    "processId": "miwqh9gv969xv",
-    "index": 12,
+    "timestamp": "2025-12-15T05:53:35.112Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -991,7 +1569,7 @@
     "videoValid": false,
     "mediaType": "image",
     "imageAnalysis": {
-      "isDuplicate": false,
+      "isDuplicate": true,
       "duplicateOf": []
     },
     "linkValid": true,
@@ -1017,13 +1595,13 @@
     }
   },
   {
-    "id": "a014a6acfd7fb6e20b741b020b2b26124666b9771529a8fbe10d80a1bf61a2b5",
-    "title": "Cüzdan",
+    "id": "f27e6441c2a3337aa324771437c6d34ec25acfdfe491131e828621599173140c",
+    "title": "Outdoor Sırt Çantası",
     "img": [
-      "https://www.tchibo.com.tr/img/ggA2ljlU/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/ggw0W3X6/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/ggA2ljlU/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/183875824034/cuzdan?article_id=126026507008",
+    "primaryImg": "https://www.tchibo.com.tr/img/ggw0W3X6/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/187617317798/outdoor-sirt-cantasi?article_id=167173576347",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1037,74 +1615,14 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.094Z",
-    "processId": "miwqh9gv969xv",
-    "index": 13,
-    "categories": {
-      "productType": [
-        "none"
-      ]
-    },
-    "seo": {
-      "keywords": []
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.119,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1119,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1119"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d6b9a50415c7453fb6a8e85c5a7916b476bffe81710b6524c3a40d909fd8b6e4",
-    "title": "Kanvas Sırt Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/gAQ3hCAn/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gAQ3hCAn/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/154509269711/kanvas-sirt-cantasi?article_id=184840398113",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.101Z",
-    "processId": "miwqh9gv969xv",
-    "index": 14,
+    "timestamp": "2025-12-15T05:53:35.024Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
-        "sırt çantası"
+        "sırt çantası",
+        "outdoor çanta"
       ]
     },
     "seo": {
@@ -1115,7 +1633,9 @@
         "çantasi",
         "sırt çantası",
         "sırt",
-        "sirt"
+        "sirt",
+        "outdoor çanta",
+        "outdoor"
       ]
     },
     "imgValid": true,
@@ -1140,28 +1660,6 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "1999"
-        },
-        {
-          "value": "1.499,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1499,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1499"
-        },
-        {
-          "value": "1.499,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1499,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1499"
         }
       ],
       "priceValid": true,
@@ -1170,13 +1668,13 @@
     }
   },
   {
-    "id": "fe82eec51596b007e8065d4dd4a6d458b4f154215d6dde8833e4f878cf50033a",
-    "title": "Omuz Çantası",
+    "id": "ada973df04629de1cec2dfc719ede4c0125db563664f270d8b25719986d2a861",
+    "title": "Katlanabilen Plaj Çantası",
     "img": [
-      "https://www.tchibo.com.tr/img/ggA3Q5BI/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/gAg3Q9vo/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/ggA3Q5BI/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/166995385243/omuz-cantasi?article_id=162001982824",
+    "primaryImg": "https://www.tchibo.com.tr/img/gAg3Q9vo/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/171969895399/katlanabilen-plaj-cantasi?article_id=110703042755",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1190,13 +1688,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.108Z",
-    "processId": "miwqh9gv969xv",
-    "index": 15,
+    "timestamp": "2025-12-15T05:53:35.030Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası"
+        "plaj çantası"
       ]
     },
     "seo": {
@@ -1205,10 +1703,9 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
+        "plaj çantası",
+        "plaj",
+        "beach"
       ]
     },
     "imgValid": true,
@@ -1224,37 +1721,15 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.199,00",
+          "value": "999,00",
           "selector": ".tp-price-number",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
-          "numericValue": 1199,
+          "numericValue": 999,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "1199"
-        },
-        {
-          "value": "899,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "899"
-        },
-        {
-          "value": "899,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 899,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "899"
+          "displayPrice": "999"
         }
       ],
       "priceValid": true,
@@ -1263,13 +1738,13 @@
     }
   },
   {
-    "id": "f695023ee0b396ee450ebedeafacfcdb7af80cd5bb08cfe128f7ff6bdf1ce43c",
-    "title": "Spor Kemeri, Leylak",
+    "id": "af2e4ebdd842c6e734e61ecd3d4b3d3472fc580e2fb20f59bbb477dab1572d0f",
+    "title": "Güvenli Göğüs Çantası",
     "img": [
-      "https://www.tchibo.com.tr/img/gQQWy6p0/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/ggw2vS22/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gQQWy6p0/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/189669659639/spor-kemeri?article_id=152556624399",
+    "primaryImg": "https://www.tchibo.com.tr/img/ggw2vS22/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/104556986470/guvenli-gogus-cantasi?article_id=166786770034",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1283,9 +1758,75 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.114Z",
-    "processId": "miwqh9gv969xv",
-    "index": 16,
+    "timestamp": "2025-12-15T05:53:35.038Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 23,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "699,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 699,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "699"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a84b9609cb2fb36e68ceaafb8d039cad79323f0b4c81998bb7a81868eb2e4974",
+    "title": "3 Adet Su Geçirmez Torba",
+    "img": [
+      "https://www.tchibo.com.tr/img/ggQ2f1g0/900/image.jpeg"
+    ],
+    "primaryImg": "https://www.tchibo.com.tr/img/ggQ2f1g0/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/194532421632/3-adet-su-gecirmez-torba?article_id=160152308357",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-12-15T05:53:35.049Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 25,
     "categories": {
       "productType": [
         "none"
@@ -1307,229 +1848,26 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "819,00",
+          "value": "1.049,00",
           "selector": ".tp-price-number",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
-          "numericValue": 819,
+          "numericValue": 1049,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "819"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "e25afae3b6ff0efd196f047770afdf10dc01450e5488fdf3b2dff79515cd5fc9",
-    "title": "3 Adet Çanta",
-    "img": [
-      "https://www.tchibo.com.tr/img/gwQWvAZY/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gwQWvAZY/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/100608311025/3-adet-canta?article_id=199778213770",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.120Z",
-    "processId": "miwqh9gv969xv",
-    "index": 17,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "799,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "799"
+          "displayPrice": "1049"
         },
         {
-          "value": "266,33",
+          "value": "349,67",
           "selector": ".tp-price-number",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
-          "numericValue": 266.33,
+          "numericValue": 349.67,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "266.33"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "1f45e4925a3c80f43763100eff93733ebcd5ff13edb541c7f94ca594afbb79e8",
-    "title": "Yağmur Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/gAAmKkGt/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gAAmKkGt/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/106247046136/yagmur-cantasi?article_id=194831878231",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.128Z",
-    "processId": "miwqh9gv969xv",
-    "index": 18,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "799,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "799"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "beb202fee85ec23c437a721935fcb2b1fff4f351c644cdb64ac08f4d385522a9",
-    "title": "Omuz Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/gwwW0wnf/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gwwW0wnf/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/106323027757/omuz-cantasi?article_id=142738279613",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.136Z",
-    "processId": "miwqh9gv969xv",
-    "index": 19,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.719,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1719,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1719"
+          "displayPrice": "349.67"
         }
       ],
       "priceValid": true,
@@ -1558,9 +1896,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.143Z",
-    "processId": "miwqh9gv969xv",
-    "index": 20,
+    "timestamp": "2025-12-15T05:53:35.062Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -1627,9 +1965,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.153Z",
-    "processId": "miwqh9gv969xv",
-    "index": 21,
+    "timestamp": "2025-12-15T05:53:35.069Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -1678,148 +2016,6 @@
     }
   },
   {
-    "id": "f88d582723a955d469496cd98b32d560f0f9691b40bc592b79e9387db728898b",
-    "title": "Spor Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/gQgWvRXh/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gQgWvRXh/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/117126467641/spor-cantasi?article_id=137318990956",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.160Z",
-    "processId": "miwqh9gv969xv",
-    "index": 22,
-    "categories": {
-      "productType": [
-        "çanta",
-        "spor çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "spor çantası",
-        "spor",
-        "sport",
-        "sports"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.299,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1299,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1299"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "4f53fc0ad17a3ace02459a41099d595c8b8445284223fea79c89a38010d59da7",
-    "title": "Spor Çantası",
-    "img": [
-      "https://www.tchibo.com.tr/img/gggmpodt/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gggmpodt/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/133418226003/spor-cantasi?article_id=129251745107",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.175Z",
-    "processId": "miwqh9gv969xv",
-    "index": 24,
-    "categories": {
-      "productType": [
-        "çanta",
-        "spor çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "spor çantası",
-        "spor",
-        "sport",
-        "sports"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "999,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "999"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "d5877495828f31023c7f8f55104665164fafb74c949ccf1faf5cdcd43e85c3ad",
     "title": "Trekking Sırt Çantası, 40 L",
     "img": [
@@ -1840,9 +2036,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.183Z",
-    "processId": "miwqh9gv969xv",
-    "index": 25,
+    "timestamp": "2025-12-15T05:53:35.076Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -1890,13 +2086,13 @@
     }
   },
   {
-    "id": "1bd6cdca51eff50e8588e8b52a2afbbf652e94dec6e979908d817a06da37109b",
-    "title": "Yağmura Dayanıklı Omuz Çantası",
+    "id": "646191dcb790b717a48de08b0e84a8a0eb2185dc37933201eb8e66292e168cfc",
+    "title": "Katlanabilen Sırt Çantası",
     "img": [
-      "https://www.tchibo.com.tr/img/gAw3EjSb/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/ggAmu0Md/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gAw3EjSb/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/137016687152/yagmura-dayanikli-omuz-cantasi?article_id=107665414311",
+    "primaryImg": "https://www.tchibo.com.tr/img/ggAmu0Md/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/159809858405/katlanabilen-sirt-cantasi?article_id=120479378180",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1910,13 +2106,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.191Z",
-    "processId": "miwqh9gv969xv",
-    "index": 26,
+    "timestamp": "2025-12-15T05:53:35.091Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
-        "omuz çantası"
+        "sırt çantası"
       ]
     },
     "seo": {
@@ -1925,10 +2121,9 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
+        "sırt çantası",
+        "sırt",
+        "sirt"
       ]
     },
     "imgValid": true,
@@ -1961,13 +2156,13 @@
     }
   },
   {
-    "id": "d81b566820ab419060a1263f3686f3301fbba29d09331495a81a751eac97be96",
-    "title": "Outdoor Sırt Çantası",
+    "id": "d6b9a50415c7453fb6a8e85c5a7916b476bffe81710b6524c3a40d909fd8b6e4",
+    "title": "Kanvas Sırt Çantası",
     "img": [
-      "https://www.tchibo.com.tr/img/gQAXhwC0/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/gAQ3hCAn/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gQAXhwC0/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/138766413794/outdoor-sirt-cantasi?article_id=166815380304",
+    "primaryImg": "https://www.tchibo.com.tr/img/gAQ3hCAn/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/154509269711/kanvas-sirt-cantasi?article_id=184840398113",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -1981,14 +2176,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.198Z",
-    "processId": "miwqh9gv969xv",
-    "index": 27,
+    "timestamp": "2025-12-15T05:53:35.098Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
-        "sırt çantası",
-        "outdoor çanta"
+        "sırt çantası"
       ]
     },
     "seo": {
@@ -1999,9 +2193,7 @@
         "çantasi",
         "sırt çantası",
         "sırt",
-        "sirt",
-        "outdoor çanta",
-        "outdoor"
+        "sirt"
       ]
     },
     "imgValid": true,
@@ -2026,75 +2218,28 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "1999"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a90b70738382c1fc26a2aa5643b55ec5bcba4d07ed590a024d58259af895b787",
-    "title": "Mini Çanta",
-    "img": [
-      "https://www.tchibo.com.tr/img/gAQ1egIe/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gAQ1egIe/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/147419848810/mini-canta?article_id=121823361737",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.206Z",
-    "processId": "miwqh9gv969xv",
-    "index": 28,
-    "categories": {
-      "productType": [
-        "çanta",
-        "mini çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "mini çanta",
-        "mini"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
+        },
         {
-          "value": "1.049,00",
+          "value": "1.499,00",
           "selector": ".tp-price-number",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
-          "numericValue": 1049,
+          "numericValue": 1499,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "1049"
+          "displayPrice": "1499"
+        },
+        {
+          "value": "1.499,00",
+          "selector": ".tp-price-number",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "numericValue": 1499,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "1499"
         }
       ],
       "priceValid": true,
@@ -2103,13 +2248,13 @@
     }
   },
   {
-    "id": "a53a160f4a24836126f5ecd9fd107f9ab027565888921c44d9904145ca869c13",
-    "title": "Shopper Çanta",
+    "id": "03b6ba352137de61e5e811921f81a703d56ebca342c9277f73f71ac3d9a9c9eb",
+    "title": "Tamamı Baskılı Plaj Çantası",
     "img": [
-      "https://www.tchibo.com.tr/img/gAg2naDr/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/gAAHxvuB/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gAg2naDr/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/150660274550/shopper-canta?article_id=161482238452",
+    "primaryImg": "https://www.tchibo.com.tr/img/gAAHxvuB/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/128857171466/tamami-baskili-plaj-cantasi?article_id=159307339244",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2123,13 +2268,17 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.213Z",
-    "processId": "miwqh9gv969xv",
-    "index": 29,
+    "timestamp": "2025-12-15T05:53:35.118Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
-        "alışveriş çantası"
+        "plaj çantası",
+        "baskılı çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
       ]
     },
     "seo": {
@@ -2138,8 +2287,21 @@
         "çantası",
         "bag",
         "çantasi",
-        "alışveriş çantası",
-        "shopper"
+        "plaj çantası",
+        "plaj",
+        "beach",
+        "baskılı çanta",
+        "baskılı",
+        "baskili",
+        "baskı",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
       ]
     },
     "imgValid": true,
@@ -2172,13 +2334,13 @@
     }
   },
   {
-    "id": "44f4b19521a949b37e659030b6f368f4a3d7bf8d973bf6084ccb40f70529edd3",
-    "title": "Sepet Çanta",
+    "id": "a5f96d386128b585abfe09ac318f6293f3e9ed42dcdcd5afaf63474548d5bf14",
+    "title": "Mini Çanta",
     "img": [
-      "https://www.tchibo.com.tr/img/gQgWakX7/900/image.jpeg"
+      "https://www.tchibo.com.tr/img/gAwGgI1u/900/image.jpeg"
     ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gQgWakX7/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/151340141731/sepet-canta?article_id=124584684777",
+    "primaryImg": "https://www.tchibo.com.tr/img/gAwGgI1u/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/132627283078/mini-canta?article_id=135648940936",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2192,101 +2354,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.221Z",
-    "processId": "miwqh9gv969xv",
-    "index": 30,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.999,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1999,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1999"
-        },
-        {
-          "value": "1.499,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1499,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1499"
-        },
-        {
-          "value": "1.499,00",
-          "selector": ".tp-price-number",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "numericValue": 1499,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "1499"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "23dca569d972fa1f036c4e9e737ad9e97cddbf32d3dc9ee64d3db9f7ee97e079",
-    "title": "Shopper Çanta",
-    "img": [
-      "https://www.tchibo.com.tr/img/gAA2s8vw/900/image.jpeg"
-    ],
-    "primaryImg": "https://www.tchibo.com.tr/img/gAA2s8vw/900/image.jpeg",
-    "link": "https://www.tchibo.com.tr/products/154386126088/shopper-canta?article_id=181356193872",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.tp-image img')].map...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".tp-price-number",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
-    "timestamp": "2025-12-08T05:51:25.228Z",
-    "processId": "miwqh9gv969xv",
-    "index": 31,
+    "timestamp": "2025-12-15T05:53:35.125Z",
+    "processId": "mj6qn0di7gu1j",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
-        "alışveriş çantası"
+        "mini çanta"
       ]
     },
     "seo": {
@@ -2295,8 +2369,8 @@
         "çantası",
         "bag",
         "çantasi",
-        "alışveriş çantası",
-        "shopper"
+        "mini çanta",
+        "mini"
       ]
     },
     "imgValid": true,
@@ -2312,15 +2386,15 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "1.899,00",
+          "value": "899,00",
           "selector": ".tp-price-number",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
-          "numericValue": 1899,
+          "numericValue": 899,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "1899"
+          "displayPrice": "899"
         }
       ],
       "priceValid": true,
