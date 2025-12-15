@@ -1,11 +1,183 @@
 [
   {
+    "id": "c197b22405365f27b490c7e6e194563ea1da2bd9cd5827b271fd185567d602d2",
+    "title": "Armine 384 Kadın El Çantası Kahve Örgü",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-384-kadin-el-cantasi-kahve-orgu-01f504.jpeg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-384-kadin-el-cantasi-kahve-orgu-01f504.jpeg",
+    "link": "https://www.furkangiyim.com/armine-384-kadin-el-cantasi-kahve-orgu",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-12-15T05:49:02.836Z",
+    "processId": "mj6qh71womxrm",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺550,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 550,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺550,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "cffb610f23a81a4a278c75373dc8db4af09619238c8d58840ed768b7f9acd688",
+    "title": "Armine 384 Kadın El Çantası Taba Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-384-kadin-el-cantasi-taba-pia-90ee3a.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-384-kadin-el-cantasi-taba-pia-90ee3a.jpg",
+    "link": "https://www.furkangiyim.com/armine-384-kadin-el-cantasi-taba-pia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-12-15T05:49:02.870Z",
+    "processId": "mj6qh71womxrm",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺550,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 550,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺550,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "7b77b46bcbf69e5fb6759496e3f8e6badfa88a117ba5a71f3f8c5fa8b42ea5a4",
     "title": "Armine 420 Bayan Çanta Lacivert Pia",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-420-bayan-canta-lacivert-pia-cedd32.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-420-bayan-canta-lacivert-pia-cedd32.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-420-bayan-canta-lacivert-pia-cedd32.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-420-bayan-canta-lacivert-pia-cedd32.jpg",
     "link": "https://www.furkangiyim.com/armine-420-bayan-canta-lacivert-pia",
     "videos": [],
     "productNotInStock": false,
@@ -20,9 +192,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:45.995Z",
-    "processId": "miwqbarerohq5",
-    "index": 0,
+    "timestamp": "2025-12-15T05:49:02.905Z",
+    "processId": "mj6qh71womxrm",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta"
@@ -82,9 +254,9 @@
     "id": "57750d8c2affe395174c0afeeeffccbd9767083c16d39ea6c41e9709a3883251",
     "title": "Armine 365 Bayan Çanta Lacivert",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-365-bayan-canta-lacivert--4f1b-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-365-bayan-canta-lacivert--4f1b-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-365-bayan-canta-lacivert--4f1b-.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-365-bayan-canta-lacivert--4f1b-.jpg",
     "link": "https://www.furkangiyim.com/armine-365-bayan-canta-lacivert",
     "videos": [],
     "productNotInStock": false,
@@ -99,9 +271,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.027Z",
-    "processId": "miwqbarerohq5",
-    "index": 1,
+    "timestamp": "2025-12-15T05:49:02.943Z",
+    "processId": "mj6qh71womxrm",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -161,9 +333,9 @@
     "id": "04563f7dfaa135e491f879bf009065b7279fdd36b0c0c02fa73f19bc0abbe7fc",
     "title": "Armine 381 Renete Kadın Çapraz Çanta Vizon Pia",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-v-2051-c.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-renete-kadin-capraz-canta-v-2051-c.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-v-2051-c.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-renete-kadin-capraz-canta-v-2051-c.jpg",
     "link": "https://www.furkangiyim.com/armine-381-renete-kadin-capraz-canta-vizon-pia",
     "videos": [],
     "productNotInStock": false,
@@ -178,9 +350,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.060Z",
-    "processId": "miwqbarerohq5",
-    "index": 2,
+    "timestamp": "2025-12-15T05:49:02.978Z",
+    "processId": "mj6qh71womxrm",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -247,9 +419,9 @@
     "id": "cf9ba59fa211b1be7bc96d9c9f83418cf03b7d254a5736cebac3547df11a2375",
     "title": "Armine 381 Renete Kadın Çapraz Çanta Taba Pia",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-t-e7d-96.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-renete-kadin-capraz-canta-t-e7d-96.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-t-e7d-96.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-renete-kadin-capraz-canta-t-e7d-96.jpg",
     "link": "https://www.furkangiyim.com/armine-381-renete-kadin-capraz-canta-taba-pia",
     "videos": [],
     "productNotInStock": false,
@@ -264,9 +436,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.092Z",
-    "processId": "miwqbarerohq5",
-    "index": 3,
+    "timestamp": "2025-12-15T05:49:03.013Z",
+    "processId": "mj6qh71womxrm",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -354,9 +526,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.120Z",
-    "processId": "miwqbarerohq5",
-    "index": 4,
+    "timestamp": "2025-12-15T05:49:03.048Z",
+    "processId": "mj6qh71womxrm",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta"
@@ -414,178 +586,6 @@
     }
   },
   {
-    "id": "1dfc29899aa9b7347709662c59c1cf45467bf506d191fbb1c20d77753b94789b",
-    "title": "Armine 381 Renete Kadın Çapraz Çanta Siyah Pia",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-s-b-3e1c.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-s-b-3e1c.jpg",
-    "link": "https://www.furkangiyim.com/armine-381-renete-kadin-capraz-canta-siyah-pia",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
-    "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.150Z",
-    "processId": "miwqbarerohq5",
-    "index": 5,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺500,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 500,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺500,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "679ac8239d6ec680e1740cc4ad0dea127ac1878ff34472e8e872b54d654bdd79",
-    "title": "Armine 423 Bayan Spor Çanta Siyah Noktalı",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-423-bayan-spor-canta-siyah-nokt--4e52-.jpeg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-423-bayan-spor-canta-siyah-nokt--4e52-.jpeg",
-    "link": "https://www.furkangiyim.com/armine-423-bayan-spor-canta-siyah-noktali",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
-    "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.186Z",
-    "processId": "miwqbarerohq5",
-    "index": 6,
-    "categories": {
-      "productType": [
-        "çanta",
-        "spor çantası"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "spor çantası",
-        "spor",
-        "sport",
-        "sports",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺1.300,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1300,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.300,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "d8f349f682d19929e8199bac8cefe6ca5c450d62c259927d20a039b9b1c1309f",
     "title": "Armine 423 Bayan Spor Çanta Kahve Noktalı",
     "img": [
@@ -606,8 +606,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.219Z",
-    "processId": "miwqbarerohq5",
+    "timestamp": "2025-12-15T05:49:03.083Z",
+    "processId": "mj6qh71womxrm",
     "index": 7,
     "categories": {
       "productType": [
@@ -694,8 +694,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.251Z",
-    "processId": "miwqbarerohq5",
+    "timestamp": "2025-12-15T05:49:03.117Z",
+    "processId": "mj6qh71womxrm",
     "index": 8,
     "categories": {
       "productType": [
@@ -777,8 +777,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.289Z",
-    "processId": "miwqbarerohq5",
+    "timestamp": "2025-12-15T05:49:03.153Z",
+    "processId": "mj6qh71womxrm",
     "index": 9,
     "categories": {
       "productType": [
@@ -856,8 +856,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.326Z",
-    "processId": "miwqbarerohq5",
+    "timestamp": "2025-12-15T05:49:03.187Z",
+    "processId": "mj6qh71womxrm",
     "index": 10,
     "categories": {
       "productType": [
@@ -939,8 +939,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.360Z",
-    "processId": "miwqbarerohq5",
+    "timestamp": "2025-12-15T05:49:03.221Z",
+    "processId": "mj6qh71womxrm",
     "index": 11,
     "categories": {
       "productType": [
@@ -959,6 +959,257 @@
         "çantası",
         "bag",
         "çantasi",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.300,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "e236bc8474d3b56e3185a4655166bcdfda629d9fc9af5aa015c34cefd9ef1e6e",
+    "title": "Armine 417 Bayan El Çantası Vizon Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-417-bayan-el-cantasi-vizon-pia--a296-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-417-bayan-el-cantasi-vizon-pia--a296-.jpg",
+    "link": "https://www.furkangiyim.com/armine-417-bayan-el-cantasi-vizon-pia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-12-15T05:49:03.274Z",
+    "processId": "mj6qh71womxrm",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "vizon"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "vizon",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.300,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "586888c697b6c2893af905662e27dfdbeea6b54219e5c658fcd3b4022ce8f060",
+    "title": "Armine 417 Bayan El Çantası Kahverengi Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-417-bayan-el-cantasi-kahverengi-7bc47b.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-417-bayan-el-cantasi-kahverengi-7bc47b.jpg",
+    "link": "https://www.furkangiyim.com/armine-417-bayan-el-cantasi-kahverengi-pia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-12-15T05:49:03.308Z",
+    "processId": "mj6qh71womxrm",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.300,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5621a7eec8df6e8d4ce33971bcea6d509bcd8f4c6a8b98e377873605f5f28449",
+    "title": "Armine 417 Bayan El Çantası Siyah Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-417-bayan-el-cantasi-siyah-pia-4e983d.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-417-bayan-el-cantasi-siyah-pia-4e983d.jpg",
+    "link": "https://www.furkangiyim.com/armine-417-bayan-el-cantasi-siyah-pia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-12-15T05:49:03.343Z",
+    "processId": "mj6qh71womxrm",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
         "siyah",
         "black",
         "kadın",
@@ -1019,9 +1270,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.406Z",
-    "processId": "miwqbarerohq5",
-    "index": 12,
+    "timestamp": "2025-12-15T05:49:03.378Z",
+    "processId": "mj6qh71womxrm",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
@@ -1102,9 +1353,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.439Z",
-    "processId": "miwqbarerohq5",
-    "index": 13,
+    "timestamp": "2025-12-15T05:49:03.407Z",
+    "processId": "mj6qh71womxrm",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta"
@@ -1182,9 +1433,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.472Z",
-    "processId": "miwqbarerohq5",
-    "index": 14,
+    "timestamp": "2025-12-15T05:49:03.442Z",
+    "processId": "mj6qh71womxrm",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta"
@@ -1265,9 +1516,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.506Z",
-    "processId": "miwqbarerohq5",
-    "index": 15,
+    "timestamp": "2025-12-15T05:49:03.477Z",
+    "processId": "mj6qh71womxrm",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta"
@@ -1344,9 +1595,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.536Z",
-    "processId": "miwqbarerohq5",
-    "index": 16,
+    "timestamp": "2025-12-15T05:49:03.510Z",
+    "processId": "mj6qh71womxrm",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta"
@@ -1424,9 +1675,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.566Z",
-    "processId": "miwqbarerohq5",
-    "index": 17,
+    "timestamp": "2025-12-15T05:49:03.545Z",
+    "processId": "mj6qh71womxrm",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1508,9 +1759,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.602Z",
-    "processId": "miwqbarerohq5",
-    "index": 18,
+    "timestamp": "2025-12-15T05:49:03.583Z",
+    "processId": "mj6qh71womxrm",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta"
@@ -1591,9 +1842,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.632Z",
-    "processId": "miwqbarerohq5",
-    "index": 19,
+    "timestamp": "2025-12-15T05:49:03.611Z",
+    "processId": "mj6qh71womxrm",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta"
@@ -1674,9 +1925,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.665Z",
-    "processId": "miwqbarerohq5",
-    "index": 20,
+    "timestamp": "2025-12-15T05:49:03.641Z",
+    "processId": "mj6qh71womxrm",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1757,9 +2008,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.701Z",
-    "processId": "miwqbarerohq5",
-    "index": 21,
+    "timestamp": "2025-12-15T05:49:03.676Z",
+    "processId": "mj6qh71womxrm",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -1845,9 +2096,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.734Z",
-    "processId": "miwqbarerohq5",
-    "index": 22,
+    "timestamp": "2025-12-15T05:49:03.712Z",
+    "processId": "mj6qh71womxrm",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -1926,9 +2177,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.771Z",
-    "processId": "miwqbarerohq5",
-    "index": 23,
+    "timestamp": "2025-12-15T05:49:03.752Z",
+    "processId": "mj6qh71womxrm",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -1998,9 +2249,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.802Z",
-    "processId": "miwqbarerohq5",
-    "index": 24,
+    "timestamp": "2025-12-15T05:49:03.789Z",
+    "processId": "mj6qh71womxrm",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -2075,9 +2326,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.833Z",
-    "processId": "miwqbarerohq5",
-    "index": 25,
+    "timestamp": "2025-12-15T05:49:03.820Z",
+    "processId": "mj6qh71womxrm",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -2151,9 +2402,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.869Z",
-    "processId": "miwqbarerohq5",
-    "index": 26,
+    "timestamp": "2025-12-15T05:49:03.857Z",
+    "processId": "mj6qh71womxrm",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -2217,9 +2468,9 @@
     "id": "55393996c5626893703b27a75696441a5c43ef6aedc38ae240e9940164182911",
     "title": "Levidor Kapitone Zincirli El ve Omuz Çantası Siyah 930582",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-a31fac.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-a31fac.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-a31fac.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-a31fac.jpg",
     "link": "https://www.furkangiyim.com/levidor-kapitone-zincirli-el-ve-omuz-cantasi-siyah-930582",
     "videos": [],
     "productNotInStock": false,
@@ -2232,11 +2483,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
-    "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.903Z",
-    "processId": "miwqbarerohq5",
-    "index": 27,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
+    "timestamp": "2025-12-15T05:49:12.399Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -2301,9 +2552,9 @@
     "id": "b5ff93769f29930f9d3a056d585c4ec372d63d8f6eb0b98da138539a70049fb3",
     "title": "Levidor Kapitone Zincirli El ve Omuz Çantası Vizon 930580",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-6e4761.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-6e4761.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-6e4761.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-6e4761.jpg",
     "link": "https://www.furkangiyim.com/levidor-kapitone-zincirli-el-ve-omuz-cantasi-vizon-930580",
     "videos": [],
     "productNotInStock": false,
@@ -2316,11 +2567,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
-    "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.932Z",
-    "processId": "miwqbarerohq5",
-    "index": 28,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
+    "timestamp": "2025-12-15T05:49:12.428Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -2384,9 +2635,9 @@
     "id": "2104f17917802b42ae4d7f894191d228c9b1c8565c62cb1a501181d49145b872",
     "title": "Levidor Kapitone Zincirli El ve Omuz Çantası Siyah 930580",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-63327e.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-63327e.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-63327e.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/levidor-kapitone-zincirli-el-ve-omuz-c-63327e.jpg",
     "link": "https://www.furkangiyim.com/levidor-kapitone-zincirli-el-ve-omuz-cantasi-siyah-930580",
     "videos": [],
     "productNotInStock": false,
@@ -2399,11 +2650,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
-    "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-12-08T05:46:46.968Z",
-    "processId": "miwqbarerohq5",
-    "index": 29,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
+    "timestamp": "2025-12-15T05:49:12.462Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -2468,9 +2719,9 @@
     "id": "1afc88087ce4941fb0bc8f0f27f2ad48548718c93484c8dc03f270a5e12532d4",
     "title": "Kayra Monogram Desen Baget Çanta Siyah KA-B25-CNT83-12",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/kayra-monogram-desen-baget-canta-siyah-e74057.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/kayra-monogram-desen-baget-canta-siyah-e74057.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/kayra-monogram-desen-baget-canta-siyah-e74057.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/kayra-monogram-desen-baget-canta-siyah-e74057.jpg",
     "link": "https://www.furkangiyim.com/kayra-monogram-desen-baget-canta-siyah-ka-b25-cnt83-12",
     "videos": [],
     "productNotInStock": false,
@@ -2485,9 +2736,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.637Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 0,
+    "timestamp": "2025-12-15T05:49:12.497Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -2543,9 +2794,9 @@
     "id": "f4c6e13876f7af8edcd141d6fed233e27f936c4494cbe17c04fc69a579bfaafb",
     "title": "Armine 385 Bayan Çanta Siyah Noktalı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-385-bayan-canta-siyah-noktali--a207-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-385-bayan-canta-siyah-noktali--a207-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-385-bayan-canta-siyah-noktali--a207-.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-385-bayan-canta-siyah-noktali--a207-.jpg",
     "link": "https://www.furkangiyim.com/armine-385-bayan-canta-siyah-noktali",
     "videos": [],
     "productNotInStock": false,
@@ -2560,9 +2811,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.670Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 1,
+    "timestamp": "2025-12-15T05:49:12.532Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta"
@@ -2623,9 +2874,9 @@
     "id": "8ea14a9f2230264220b382dbcba0418cf137cbe1c4171afb5552430f68a7868d",
     "title": "ARMİNE TREND Fermuarlı El Çantası Baskılı Siyah ARM125",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-trend-fermuarli-el-cantasi-bask-136-8f.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-trend-fermuarli-el-cantasi-bask-136-8f.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-trend-fermuarli-el-cantasi-bask-136-8f.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-trend-fermuarli-el-cantasi-bask-136-8f.jpg",
     "link": "https://www.furkangiyim.com/armine-trend-fermuarli-el-cantasi-baskili-siyah-arm125",
     "videos": [],
     "productNotInStock": false,
@@ -2640,9 +2891,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.706Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 2,
+    "timestamp": "2025-12-15T05:49:12.567Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -2734,9 +2985,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.740Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 3,
+    "timestamp": "2025-12-15T05:49:12.603Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -2810,9 +3061,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.777Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 4,
+    "timestamp": "2025-12-15T05:49:12.638Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -2892,9 +3143,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.815Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 5,
+    "timestamp": "2025-12-15T05:49:12.673Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -2973,9 +3224,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.851Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 6,
+    "timestamp": "2025-12-15T05:49:12.708Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -3062,9 +3313,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.891Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 7,
+    "timestamp": "2025-12-15T05:49:12.741Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta"
@@ -3141,9 +3392,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.929Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 8,
+    "timestamp": "2025-12-15T05:49:12.776Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta"
@@ -3220,9 +3471,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.959Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 9,
+    "timestamp": "2025-12-15T05:49:12.814Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta"
@@ -3283,6 +3534,252 @@
     }
   },
   {
+    "id": "88756ab753059ecb5f7a08f9bc612e96e7ea8f14c6a48e345ea37079f2678c0e",
+    "title": "Armine 406 Bayan Çanta Taba Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-taba-pia-04e2bf.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-taba-pia-04e2bf.jpg",
+    "link": "https://www.furkangiyim.com/armine-406-bayan-canta-taba-pia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
+    "timestamp": "2025-12-15T05:49:12.846Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺550,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 550,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺550,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a88d5f9ad9cf1c4ac69f6ba6254fa6ee9b91aad13b544058dac3179fd560df57",
+    "title": "Armine 384 Kadın El Çantası Siyah Örgü",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-384-kadin-el-cantasi-siyah-orgu-42bf-9.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-384-kadin-el-cantasi-siyah-orgu-42bf-9.jpg",
+    "link": "https://www.furkangiyim.com/armine-384-kadin-el-cantasi-siyah-orgu",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
+    "timestamp": "2025-12-15T05:49:12.882Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺550,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 550,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺550,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "193f75381379f987fcf78261971841a47772693119e8d3d57f3939362341120b",
+    "title": "Armine 406 Bayan Çanta Siyah Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-siyah-pia-3aa03a.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-siyah-pia-3aa03a.jpg",
+    "link": "https://www.furkangiyim.com/armine-406-bayan-canta-siyah-pia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
+    "timestamp": "2025-12-15T05:49:12.919Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 15,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺550,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 550,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺550,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "4f4b2f52fcf02b774d462c696d748f0c3cbc4eaab37b4eb25ea49fc12239e069",
     "title": "Armine 364 Bayan Çanta Bordo Pia",
     "img": [
@@ -3303,9 +3800,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:55.994Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 10,
+    "timestamp": "2025-12-15T05:49:12.954Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta"
@@ -3382,9 +3879,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.028Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 11,
+    "timestamp": "2025-12-15T05:49:13.005Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -3466,9 +3963,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.061Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 12,
+    "timestamp": "2025-12-15T05:49:13.041Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -3527,90 +4024,6 @@
     }
   },
   {
-    "id": "8fbe0d6d72be3d960e0df565624625770522176f227b43c2db9b56621085739b",
-    "title": "Zühre Zincir Aksesuarlı Deri Antrasit Çanta Z0309",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/zuhre-zincir-aksesuarli-deri-antrasit--dbef-4.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/zuhre-zincir-aksesuarli-deri-antrasit--dbef-4.jpg",
-    "link": "https://www.furkangiyim.com/zuhre-zincir-aksesuarli-deri-antrasit-canta-z0309",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.091Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 13,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "zincir askılı çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "antrasit/ kömür grisi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "floater deri çanta",
-        "floater",
-        "antrasit/ kömür grisi",
-        "antrasit",
-        "kömür grisi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺1.100,00",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1100,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.100,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "912ac3dee81021d48c9b1fb1333574b9f2f39be95842f669f22d1243fbbca469",
     "title": "Kayra Metal Aksesuarlı Boncuklu Kapaklı Saten Çanta Krem KA-B25-CNT66",
     "img": [
@@ -3631,9 +4044,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.123Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 14,
+    "timestamp": "2025-12-15T05:49:13.075Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -3706,9 +4119,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.159Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 15,
+    "timestamp": "2025-12-15T05:49:13.112Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -3781,9 +4194,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.197Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 16,
+    "timestamp": "2025-12-15T05:49:13.145Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -3859,9 +4272,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.228Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 17,
+    "timestamp": "2025-12-15T05:49:13.180Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta"
@@ -3938,9 +4351,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.262Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 18,
+    "timestamp": "2025-12-15T05:49:13.213Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta"
@@ -4021,9 +4434,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.291Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 19,
+    "timestamp": "2025-12-15T05:49:13.248Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta"
@@ -4104,9 +4517,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.325Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 20,
+    "timestamp": "2025-12-15T05:49:13.286Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta"
@@ -4183,9 +4596,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.361Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 21,
+    "timestamp": "2025-12-15T05:49:13.319Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta"
@@ -4263,9 +4676,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.397Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 22,
+    "timestamp": "2025-12-15T05:49:13.353Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -4339,9 +4752,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.432Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 23,
+    "timestamp": "2025-12-15T05:49:13.388Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta"
@@ -4418,9 +4831,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.462Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 24,
+    "timestamp": "2025-12-15T05:49:13.423Z",
+    "processId": "mj6qhefmqu8ko",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -4489,9 +4902,9 @@
     "id": "03338ba196b09b81be12b69d29200d3420330e9f059c4231ea497d3145f64675",
     "title": "Armine 381 Renete Kadın Çapraz Çanta Kahve Noktalı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-k-3-b68f.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-renete-kadin-capraz-canta-k-3-b68f.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-k-3-b68f.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-renete-kadin-capraz-canta-k-3-b68f.jpg",
     "link": "https://www.furkangiyim.com/armine-381-renete-kadin-capraz-canta-kahve-noktali",
     "videos": [],
     "productNotInStock": false,
@@ -4504,11 +4917,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.494Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 25,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
+    "timestamp": "2025-12-15T05:49:21.872Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -4579,9 +4992,9 @@
     "id": "f5ad195cf9ad42f8f8ed35b12fbef92150dfb4beb53ef9e6e07a6e3857de0cb1",
     "title": "Armine C12 Bayan Cüzdan Taba Pia",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c12-bayan-cuzdan-taba-pia-3c6-b1.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c12-bayan-cuzdan-taba-pia-3c6-b1.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c12-bayan-cuzdan-taba-pia-3c6-b1.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c12-bayan-cuzdan-taba-pia-3c6-b1.jpg",
     "link": "https://www.furkangiyim.com/armine-c12-bayan-cuzdan-taba-pia",
     "videos": [],
     "productNotInStock": false,
@@ -4594,11 +5007,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.531Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 26,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
+    "timestamp": "2025-12-15T05:49:21.907Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 1,
     "categories": {
       "productType": [
         "none"
@@ -4658,9 +5071,9 @@
     "id": "a18fdc71277ba4041e0c3391bc2c12cc4e8554928764aea7f390bd9649c8a38b",
     "title": "Armine C11 Bayan Cüzdan Vizon Pia",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c11-bayan-cuzdan-vizon-pia-689-30.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c11-bayan-cuzdan-vizon-pia-689-30.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c11-bayan-cuzdan-vizon-pia-689-30.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c11-bayan-cuzdan-vizon-pia-689-30.jpg",
     "link": "https://www.furkangiyim.com/armine-c11-bayan-cuzdan-vizon-pia",
     "videos": [],
     "productNotInStock": false,
@@ -4673,11 +5086,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.568Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 27,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
+    "timestamp": "2025-12-15T05:49:21.945Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 2,
     "categories": {
       "productType": [
         "none"
@@ -4733,9 +5146,9 @@
     "id": "f7719e16bd2571c0ab5e23c9b36eecafdc2b11e6f1a7b42e8379377fc85b5231",
     "title": "Armine 381 Renete Kadın Çapraz Çanta Vizon Noktalı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-v--bbe2-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-renete-kadin-capraz-canta-v--bbe2-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-renete-kadin-capraz-canta-v--bbe2-.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-renete-kadin-capraz-canta-v--bbe2-.jpg",
     "link": "https://www.furkangiyim.com/armine-381-bayan-canta-vizon-noktali-zincirli",
     "videos": [],
     "productNotInStock": false,
@@ -4748,11 +5161,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.604Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 28,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
+    "timestamp": "2025-12-15T05:49:21.976Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -4819,9 +5232,9 @@
     "id": "2749de92b59d32a54310f95cbcbfa07f491cd2352598ed6fb286d97a1be87343",
     "title": "Armine 381 Renete Kadın Çapraz Çanta Gri Noktalı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-bayan-canta-gri-noktali-zin-41a-b1.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-bayan-canta-gri-noktali-zin-41a-b1.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-bayan-canta-gri-noktali-zin-41a-b1.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-bayan-canta-gri-noktali-zin-41a-b1.jpg",
     "link": "https://www.furkangiyim.com/armine-381-bayan-canta-gri-noktali-zincirli",
     "videos": [],
     "productNotInStock": false,
@@ -4834,11 +5247,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 2",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=2",
-    "timestamp": "2025-12-08T05:46:56.631Z",
-    "processId": "miwqbi7tnexgl",
-    "index": 29,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
+    "timestamp": "2025-12-15T05:49:22.008Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -4907,9 +5320,9 @@
     "id": "6b2c2762c27cc602924c8b7df8066689bdcb36bd87a1c9f33f5310d22e7bfab6",
     "title": "Armine 381 Renete Kadın Çapraz Çanta Siyah Noktalı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-bayan-canta-siyah-noktali-z-3a-82b.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-bayan-canta-siyah-noktali-z-3a-82b.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-381-bayan-canta-siyah-noktali-z-3a-82b.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-381-bayan-canta-siyah-noktali-z-3a-82b.jpg",
     "link": "https://www.furkangiyim.com/armine-381-bayan-canta-siyah-noktali-zincirli",
     "videos": [],
     "productNotInStock": false,
@@ -4924,9 +5337,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:04.970Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 0,
+    "timestamp": "2025-12-15T05:49:22.043Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -5011,9 +5424,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.001Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 1,
+    "timestamp": "2025-12-15T05:49:22.076Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta"
@@ -5032,6 +5445,89 @@
         "bag",
         "çantasi",
         "bordo",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.300,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "704e457c2492d2a825fe1cf977b8754b037dd6fd6612b4dced44ea140ebb044b",
+    "title": "Armine 344 Bayan Çanta Taba",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-344-bayan-canta-taba-184-4a.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-344-bayan-canta-taba-184-4a.jpg",
+    "link": "https://www.furkangiyim.com/armine-344-bayan-canta-taba",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
+    "timestamp": "2025-12-15T05:49:22.110Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 7,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
         "kadın",
         "kadin",
         "bayan",
@@ -5090,9 +5586,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.033Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 2,
+    "timestamp": "2025-12-15T05:49:22.145Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 8,
     "categories": {
       "productType": [
         "none"
@@ -5169,9 +5665,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.065Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 3,
+    "timestamp": "2025-12-15T05:49:22.184Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -5251,9 +5747,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.100Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 4,
+    "timestamp": "2025-12-15T05:49:22.217Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 10,
     "categories": {
       "productType": [
         "none"
@@ -5307,6 +5803,86 @@
     }
   },
   {
+    "id": "0ad37964926804965d638cb2a770f797680574cede4c33ee1fdb1de733b9dd60",
+    "title": "Armine 364 Bayan Çanta Siyah Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-364-bayan-canta-siyah-pia--a4034.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-364-bayan-canta-siyah-pia--a4034.jpg",
+    "link": "https://www.furkangiyim.com/armine-364-bayan-canta-siyah-pia",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
+    "timestamp": "2025-12-15T05:49:22.254Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.300,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "1e9ffe804cc9d722262f0fba7469a5287d7071cdef2c9c84f9f14c2ae9fda6be",
     "title": "Armine 266 Bayan Çanta Siyah Pia Çanta",
     "img": [
@@ -5327,9 +5903,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.131Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 5,
+    "timestamp": "2025-12-15T05:49:22.293Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta"
@@ -5407,9 +5983,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.166Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 6,
+    "timestamp": "2025-12-15T05:49:22.324Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 13,
     "categories": {
       "productType": [
         "portföy"
@@ -5484,9 +6060,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.204Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 7,
+    "timestamp": "2025-12-15T05:49:22.360Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -5569,9 +6145,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.242Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 8,
+    "timestamp": "2025-12-15T05:49:22.395Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -5651,9 +6227,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.281Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 9,
+    "timestamp": "2025-12-15T05:49:22.429Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -5737,9 +6313,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.320Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 10,
+    "timestamp": "2025-12-15T05:49:22.463Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -5799,6 +6375,89 @@
     }
   },
   {
+    "id": "fecdc971a4c9c86fa8e5f626be8a81793777ffa13d89794535348bede98eb801",
+    "title": "Armine 384 Kadın El Çantası Siyah",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-384-kadin-el-cantasi-siyah-88b97-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-384-kadin-el-cantasi-siyah-88b97-.jpg",
+    "link": "https://www.furkangiyim.com/armine-384-kadin-el-cantasi-siyah",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
+    "timestamp": "2025-12-15T05:49:22.495Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 18,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺550,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 550,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺550,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "e6739bd6fe93701506e8f7b70320743bfbf434caa50bcc54f6e2c1be8c4a3d25",
     "title": "Armine 384 Kadın El Çantası Krem",
     "img": [
@@ -5819,9 +6478,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.354Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 11,
+    "timestamp": "2025-12-15T05:49:22.528Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -5897,9 +6556,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.394Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 12,
+    "timestamp": "2025-12-15T05:49:22.564Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 20,
     "categories": {
       "productType": [
         "portföy"
@@ -5974,9 +6633,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.433Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 13,
+    "timestamp": "2025-12-15T05:49:22.599Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta"
@@ -6049,9 +6708,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.472Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 14,
+    "timestamp": "2025-12-15T05:49:22.629Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -6137,9 +6796,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.511Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 15,
+    "timestamp": "2025-12-15T05:49:22.667Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -6225,9 +6884,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.543Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 16,
+    "timestamp": "2025-12-15T05:49:22.705Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 24,
     "categories": {
       "productType": [
         "none"
@@ -6296,9 +6955,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.577Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 17,
+    "timestamp": "2025-12-15T05:49:22.740Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 25,
     "categories": {
       "productType": [
         "none"
@@ -6372,9 +7031,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.614Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 18,
+    "timestamp": "2025-12-15T05:49:22.778Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 26,
     "categories": {
       "productType": [
         "none"
@@ -6451,9 +7110,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.651Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 19,
+    "timestamp": "2025-12-15T05:49:22.815Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -6536,9 +7195,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.688Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 20,
+    "timestamp": "2025-12-15T05:49:22.850Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -6621,9 +7280,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.723Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 21,
+    "timestamp": "2025-12-15T05:49:22.886Z",
+    "processId": "mj6qhlqhzur32",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta"
@@ -6683,9 +7342,9 @@
     "id": "8e013dea48a5ec2514c5b3147473ae0d90a354761ca7643789c793b4fc5dda57",
     "title": "Pierre Cardin Kadın Çantası Yenialt 5PC24Y533-MN YALT",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/pierre-cardin-kadin-cantasi-yenialt-5p-702ef-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/pierre-cardin-kadin-cantasi-yenialt-5p-702ef-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/pierre-cardin-kadin-cantasi-yenialt-5p-702ef-.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/pierre-cardin-kadin-cantasi-yenialt-5p-702ef-.jpg",
     "link": "https://www.furkangiyim.com/pierre-cardin-kadin-cantasi-yenialt-5pc24y533-mn-yalt",
     "videos": [],
     "productNotInStock": false,
@@ -6698,11 +7357,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.762Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 22,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:30.930Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta"
@@ -6758,9 +7417,9 @@
     "id": "0e9b7f0b334547be241070f257258c75ff93f6973498f0327b3faa3664a0367b",
     "title": "Pierre Cardin Kadın Çantası Siyah 05PC24Y533-MN S",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/pierre-cardin-kadin-cantasi-siyah-05pc-e29-bf.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/pierre-cardin-kadin-cantasi-siyah-05pc-e29-bf.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/pierre-cardin-kadin-cantasi-siyah-05pc-e29-bf.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/pierre-cardin-kadin-cantasi-siyah-05pc-e29-bf.jpg",
     "link": "https://www.furkangiyim.com/pierre-cardin-kadin-cantasi-siyah-05pc24y533-mn-s",
     "videos": [],
     "productNotInStock": false,
@@ -6773,11 +7432,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.797Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 23,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:30.964Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta"
@@ -6838,9 +7497,9 @@
     "id": "0defbade1558b0b4184d6446ad60e2617522133a840a631686a09fbe383c47e4",
     "title": "Pierre Cardin Kadın Çantası Kemik 05PC24Y533-MN KMK",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/pierre-cardin-kadin-cantasi-kemik-05pc-75828-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/pierre-cardin-kadin-cantasi-kemik-05pc-75828-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/pierre-cardin-kadin-cantasi-kemik-05pc-75828-.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/pierre-cardin-kadin-cantasi-kemik-05pc-75828-.jpg",
     "link": "https://www.furkangiyim.com/pierre-cardin-kadin-cantasi-kemik-05pc24y533-mn-kmk1",
     "videos": [],
     "productNotInStock": false,
@@ -6853,11 +7512,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.832Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 24,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:31.001Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta"
@@ -6913,9 +7572,9 @@
     "id": "ff638957a4207882495bde396f0c8f7017b9e64663d4d2a2a4d19e63310db54c",
     "title": "Pierre Cardin Monogram Dore Kadın Omuz Çantası Altın 05PC24Y509-PMN A",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/pierre-cardin-monogram-dore-kadin-omuz-643-a7.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/pierre-cardin-monogram-dore-kadin-omuz-643-a7.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/pierre-cardin-monogram-dore-kadin-omuz-643-a7.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/pierre-cardin-monogram-dore-kadin-omuz-643-a7.jpg",
     "link": "https://www.furkangiyim.com/pierre-cardin-monogram-dore-kadin-omuz-cantasi-altin-05pc24y509-pmn-a",
     "videos": [],
     "productNotInStock": false,
@@ -6928,11 +7587,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.871Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 25,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:31.035Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -6999,9 +7658,9 @@
     "id": "f7a6613d7f31130ab899609f67fade25833256aa11f7fbd21dae5ec5eccdb13f",
     "title": "Armine 361 Bayan Çanta Kahve",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/5bfb9dfb-6c70-4f74-8e13-2cb6059efaa8-3b-62f.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/5bfb9dfb-6c70-4f74-8e13-2cb6059efaa8-3b-62f.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/5bfb9dfb-6c70-4f74-8e13-2cb6059efaa8-3b-62f.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/5bfb9dfb-6c70-4f74-8e13-2cb6059efaa8-3b-62f.jpg",
     "link": "https://www.furkangiyim.com/armine-361-bayan-canta-kahve",
     "videos": [],
     "productNotInStock": false,
@@ -7014,11 +7673,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.908Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 26,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:31.066Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta"
@@ -7082,9 +7741,9 @@
     "id": "2685ed1fbc04fff497db8ad0560fba2210f6d9c99e1c1d0dedc4af0ff5330aee",
     "title": "Armine 172 Bayan Çanta Siyah Noktalı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/f9e0c8d5-40fb-428c-a4c5-ad33899d280c-f-d531.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/f9e0c8d5-40fb-428c-a4c5-ad33899d280c-f-d531.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/f9e0c8d5-40fb-428c-a4c5-ad33899d280c-f-d531.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/f9e0c8d5-40fb-428c-a4c5-ad33899d280c-f-d531.jpg",
     "link": "https://www.furkangiyim.com/armine-172-bayan-canta-siyah-noktali",
     "videos": [],
     "productNotInStock": false,
@@ -7097,11 +7756,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.943Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 27,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:31.096Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta"
@@ -7177,11 +7836,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:05.981Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 28,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:31.128Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta"
@@ -7256,11 +7915,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 3",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=3",
-    "timestamp": "2025-12-08T05:47:06.018Z",
-    "processId": "miwqbpgksvsk8",
-    "index": 29,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:31.161Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta"
@@ -7341,9 +8000,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.247Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 0,
+    "timestamp": "2025-12-15T05:49:31.196Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta"
@@ -7420,9 +8079,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.282Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 1,
+    "timestamp": "2025-12-15T05:49:31.231Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 9,
     "categories": {
       "productType": [
         "none"
@@ -7496,9 +8155,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.315Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 2,
+    "timestamp": "2025-12-15T05:49:31.267Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta"
@@ -7559,6 +8218,86 @@
     }
   },
   {
+    "id": "b0df4fbf1a89fbabd0d60445254ac4f5f62ad9f049396c84224d1621fdb1c0c2",
+    "title": "Armine 364 Bayan Çanta Siyah Noktalı",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/6876dea5-c8bb-433e-af9c-b991bc5b25fc--196a-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/6876dea5-c8bb-433e-af9c-b991bc5b25fc--196a-.jpg",
+    "link": "https://www.furkangiyim.com/armine-364-bayan-canta-siyah-baskili",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
+    "timestamp": "2025-12-15T05:49:31.302Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.300,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "73870c98bf30b4d7f61f4ee73cdac8a8f1a1333ce930fe7e4dfe3a52fc2f76d6",
     "title": "Armine C11 Bayan Cüzdan Kahve Baskılı",
     "img": [
@@ -7579,9 +8318,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.350Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 3,
+    "timestamp": "2025-12-15T05:49:31.337Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 12,
     "categories": {
       "productType": [
         "none"
@@ -7658,9 +8397,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.387Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 4,
+    "timestamp": "2025-12-15T05:49:31.373Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta"
@@ -7737,9 +8476,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.421Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 5,
+    "timestamp": "2025-12-15T05:49:31.410Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta"
@@ -7817,9 +8556,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.456Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 6,
+    "timestamp": "2025-12-15T05:49:31.445Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
@@ -7900,9 +8639,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.494Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 7,
+    "timestamp": "2025-12-15T05:49:31.479Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta"
@@ -7980,9 +8719,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.531Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 8,
+    "timestamp": "2025-12-15T05:49:31.518Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta"
@@ -8060,9 +8799,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.562Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 9,
+    "timestamp": "2025-12-15T05:49:31.556Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -8155,9 +8894,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.597Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 10,
+    "timestamp": "2025-12-15T05:49:31.591Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -8251,9 +8990,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.631Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 11,
+    "timestamp": "2025-12-15T05:49:31.623Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta"
@@ -8334,9 +9073,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.667Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 12,
+    "timestamp": "2025-12-15T05:49:31.658Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta"
@@ -8417,9 +9156,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.701Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 13,
+    "timestamp": "2025-12-15T05:49:31.692Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -8516,9 +9255,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.736Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 14,
+    "timestamp": "2025-12-15T05:49:31.728Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -8611,9 +9350,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.772Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 15,
+    "timestamp": "2025-12-15T05:49:31.765Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -8707,9 +9446,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.810Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 16,
+    "timestamp": "2025-12-15T05:49:31.799Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta"
@@ -8787,9 +9526,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.845Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 17,
+    "timestamp": "2025-12-15T05:49:31.835Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 26,
     "categories": {
       "productType": [
         "none"
@@ -8863,9 +9602,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.874Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 18,
+    "timestamp": "2025-12-15T05:49:31.869Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 27,
     "categories": {
       "productType": [
         "none"
@@ -8939,9 +9678,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.912Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 19,
+    "timestamp": "2025-12-15T05:49:31.906Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 28,
     "categories": {
       "productType": [
         "none"
@@ -9010,9 +9749,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.951Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 20,
+    "timestamp": "2025-12-15T05:49:31.941Z",
+    "processId": "mj6qhsq0a7mnc",
+    "index": 29,
     "categories": {
       "productType": [
         "none"
@@ -9069,9 +9808,9 @@
     "id": "c30863a75491c8aa81808df7a04634e0ac74d5c595143e01908939e6aec17cd7",
     "title": "Armine C10 Bayan Cüzdan Siyah Lazer",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c10-bayan-cuzdan-siyah-lazer-2fc99a..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c10-bayan-cuzdan-siyah-lazer-2fc99a..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c10-bayan-cuzdan-siyah-lazer-2fc99a..jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c10-bayan-cuzdan-siyah-lazer-2fc99a..jpg",
     "link": "https://www.furkangiyim.com/armine-c10-bayan-cuzdan-siyah-lazer-393",
     "videos": [],
     "productNotInStock": false,
@@ -9084,11 +9823,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:14.984Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 21,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:39.986Z",
+    "processId": "mj6qhzez5riui",
+    "index": 0,
     "categories": {
       "productType": [
         "none"
@@ -9145,9 +9884,9 @@
     "id": "185b0f980d77b2a78f32ab9a3d2cfd570d75f8d3972249526a1fd5bdd0d45c28",
     "title": "Armine C10 Bayan Cüzdan Siyah Baskılı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c10-bayan-cuzdan-siyah-baskili-9792-5..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c10-bayan-cuzdan-siyah-baskili-9792-5..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c10-bayan-cuzdan-siyah-baskili-9792-5..jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c10-bayan-cuzdan-siyah-baskili-9792-5..jpg",
     "link": "https://www.furkangiyim.com/armine-c10-bayan-cuzdan-siyah-baskili-391",
     "videos": [],
     "productNotInStock": false,
@@ -9160,11 +9899,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:15.021Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 22,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.023Z",
+    "processId": "mj6qhzez5riui",
+    "index": 1,
     "categories": {
       "productType": [
         "none"
@@ -9221,9 +9960,9 @@
     "id": "b0950655d91991fba34cd8839758925094c1734eb2c88cbe142f41661a994035",
     "title": "Armine C10 Bayan Cüzdan Kahve Baskılı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c10-bayan-cuzdan-kahve-baskili-4c2f-6..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c10-bayan-cuzdan-kahve-baskili-4c2f-6..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c10-bayan-cuzdan-kahve-baskili-4c2f-6..jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c10-bayan-cuzdan-kahve-baskili-4c2f-6..jpg",
     "link": "https://www.furkangiyim.com/armine-c10-bayan-cuzdan-kahve-baskili-388",
     "videos": [],
     "productNotInStock": false,
@@ -9236,11 +9975,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:15.054Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 23,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.061Z",
+    "processId": "mj6qhzez5riui",
+    "index": 2,
     "categories": {
       "productType": [
         "none"
@@ -9300,9 +10039,9 @@
     "id": "94b329015c621d9c04fb58d9d56cef135e55744d6c0a2b9901396f0b05c7738d",
     "title": "Armine C10 Bayan Cüzdan Vizon Lazer",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c10-bayan-cuzdan-vizon-lazer--99cd-..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c10-bayan-cuzdan-vizon-lazer--99cd-..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c10-bayan-cuzdan-vizon-lazer--99cd-..jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c10-bayan-cuzdan-vizon-lazer--99cd-..jpg",
     "link": "https://www.furkangiyim.com/armine-c10-bayan-cuzdan-vizon-lazer-387",
     "videos": [],
     "productNotInStock": false,
@@ -9315,11 +10054,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:15.090Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 24,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.096Z",
+    "processId": "mj6qhzez5riui",
+    "index": 3,
     "categories": {
       "productType": [
         "none"
@@ -9375,9 +10114,9 @@
     "id": "e15c3371a9ff0f657f9090891eb9480c45f05be2b01d201826ecd46e7a47dd21",
     "title": "Armine C02 Bayan Cüzdan Siyah Baskılı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c02-bayan-cuzdan-siyah-baskili-aab7c0.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c02-bayan-cuzdan-siyah-baskili-aab7c0.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c02-bayan-cuzdan-siyah-baskili-aab7c0.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c02-bayan-cuzdan-siyah-baskili-aab7c0.jpg",
     "link": "https://www.furkangiyim.com/armine-c02-bayan-cuzdan-siyah-baskili-367",
     "videos": [],
     "productNotInStock": false,
@@ -9390,11 +10129,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:15.126Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 25,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.129Z",
+    "processId": "mj6qhzez5riui",
+    "index": 4,
     "categories": {
       "productType": [
         "none"
@@ -9451,9 +10190,9 @@
     "id": "b8c6f397eca9f6aba91676ce052000ebc3c3d533383dda79ce974625ceb1703b",
     "title": "Armine C02 Bayan Cüzdan Vizon Lazer",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c02-bayan-cuzdan-vizon-lazer-e-4f7d..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c02-bayan-cuzdan-vizon-lazer-e-4f7d..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-c02-bayan-cuzdan-vizon-lazer-e-4f7d..jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=0/61458/Uploads/UrunResimleri/buyuk/armine-c02-bayan-cuzdan-vizon-lazer-e-4f7d..jpg",
     "link": "https://www.furkangiyim.com/armine-c02-bayan-cuzdan-vizon-lazer-366",
     "videos": [],
     "productNotInStock": false,
@@ -9466,11 +10205,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:15.161Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 26,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.159Z",
+    "processId": "mj6qhzez5riui",
+    "index": 5,
     "categories": {
       "productType": [
         "none"
@@ -9541,11 +10280,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:15.199Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 27,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.194Z",
+    "processId": "mj6qhzez5riui",
+    "index": 6,
     "categories": {
       "productType": [
         "none"
@@ -9616,11 +10355,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:15.238Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 28,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.229Z",
+    "processId": "mj6qhzez5riui",
+    "index": 7,
     "categories": {
       "productType": [
         "none"
@@ -9692,11 +10431,11 @@
       "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 4",
-    "pageURL": "https://www.furkangiyim.com/canta?sayfa=4",
-    "timestamp": "2025-12-08T05:47:15.274Z",
-    "processId": "miwqbwlo20y5i",
-    "index": 29,
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.265Z",
+    "processId": "mj6qhzez5riui",
+    "index": 8,
     "categories": {
       "productType": [
         "none"
@@ -9769,9 +10508,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.137Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 0,
+    "timestamp": "2025-12-15T05:49:40.301Z",
+    "processId": "mj6qhzez5riui",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -9864,9 +10603,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.173Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 1,
+    "timestamp": "2025-12-15T05:49:40.336Z",
+    "processId": "mj6qhzez5riui",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -9963,9 +10702,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.212Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 2,
+    "timestamp": "2025-12-15T05:49:40.373Z",
+    "processId": "mj6qhzez5riui",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta"
@@ -10038,9 +10777,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.246Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 3,
+    "timestamp": "2025-12-15T05:49:40.408Z",
+    "processId": "mj6qhzez5riui",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta"
@@ -10118,9 +10857,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.283Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 4,
+    "timestamp": "2025-12-15T05:49:40.445Z",
+    "processId": "mj6qhzez5riui",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta"
@@ -10198,9 +10937,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.318Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 5,
+    "timestamp": "2025-12-15T05:49:40.482Z",
+    "processId": "mj6qhzez5riui",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta"
@@ -10277,9 +11016,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.354Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 6,
+    "timestamp": "2025-12-15T05:49:40.516Z",
+    "processId": "mj6qhzez5riui",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta"
@@ -10297,6 +11036,102 @@
         "çantası",
         "bag",
         "çantasi",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺1.300,00",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "08f5c767a49bdafa7ad19e58318b3e362fd62e76b7b93483bf228b0b6b6c3a4d",
+    "title": "Armine 206 Bayan Çanta Siyah Baskılı",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-206-bayan-canta-siyah-baskili-e-824e..jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-206-bayan-canta-siyah-baskili-e-824e..jpg",
+    "link": "https://www.furkangiyim.com/armine-206-bayan-canta-siyah-baskili-185",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
+    "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
+    "timestamp": "2025-12-15T05:49:40.553Z",
+    "processId": "mj6qhzez5riui",
+    "index": 16,
+    "categories": {
+      "productType": [
+        "çanta",
+        "baskılı çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "baskılı çanta",
+        "baskılı",
+        "baskili",
+        "baskı",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
         "siyah",
         "black",
         "kadın",
@@ -10357,9 +11192,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.391Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 7,
+    "timestamp": "2025-12-15T05:49:40.586Z",
+    "processId": "mj6qhzez5riui",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta"
@@ -10436,9 +11271,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim - Sayfa 5",
     "pageURL": "https://www.furkangiyim.com/canta?sayfa=5",
-    "timestamp": "2025-12-08T05:47:24.430Z",
-    "processId": "miwqc3nzvtmgb",
-    "index": 8,
+    "timestamp": "2025-12-15T05:49:40.617Z",
+    "processId": "mj6qhzez5riui",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta"
