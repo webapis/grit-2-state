@@ -20,8 +20,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.200Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.107Z",
+    "processId": "mj6r41e62f2hz",
     "index": 0,
     "categories": {
       "productType": [
@@ -52,16 +52,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "45.69 USD",
+          "value": "44.55 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 45.69,
+          "numericValue": 44.55,
           "unsetPrice": false,
-          "convertedPrice": 45.69,
-          "displayPrice": "₺45,69"
+          "convertedPrice": 44.55,
+          "displayPrice": "₺44,55"
         }
       ],
       "priceValid": true,
@@ -90,8 +90,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.235Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.140Z",
+    "processId": "mj6r41e62f2hz",
     "index": 1,
     "categories": {
       "productType": [
@@ -122,16 +122,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "45.69 USD",
+          "value": "44.55 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 45.69,
+          "numericValue": 44.55,
           "unsetPrice": false,
-          "convertedPrice": 45.69,
-          "displayPrice": "₺45,69"
+          "convertedPrice": 44.55,
+          "displayPrice": "₺44,55"
         }
       ],
       "priceValid": true,
@@ -160,8 +160,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.264Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.180Z",
+    "processId": "mj6r41e62f2hz",
     "index": 2,
     "categories": {
       "productType": [
@@ -192,16 +192,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "45.69 USD",
+          "value": "44.55 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 45.69,
+          "numericValue": 44.55,
           "unsetPrice": false,
-          "convertedPrice": 45.69,
-          "displayPrice": "₺45,69"
+          "convertedPrice": 44.55,
+          "displayPrice": "₺44,55"
         }
       ],
       "priceValid": true,
@@ -230,8 +230,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.292Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.211Z",
+    "processId": "mj6r41e62f2hz",
     "index": 3,
     "categories": {
       "productType": [
@@ -262,16 +262,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "45.69 USD",
+          "value": "44.55 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 45.69,
+          "numericValue": 44.55,
           "unsetPrice": false,
-          "convertedPrice": 45.69,
-          "displayPrice": "₺45,69"
+          "convertedPrice": 44.55,
+          "displayPrice": "₺44,55"
         }
       ],
       "priceValid": true,
@@ -288,20 +288,20 @@
     "primaryImg": "https://image.he-qa.com/-38885-63-B.jpg?width=1200&v2",
     "link": "https://www.he-qa.com/leather-tote-bag-tan",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.334Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.253Z",
+    "processId": "mj6r41e62f2hz",
     "index": 4,
     "categories": {
       "productType": [
@@ -362,20 +362,20 @@
     "primaryImg": "https://image.he-qa.com/-36162-59-B.jpg?width=1200&v2",
     "link": "https://www.he-qa.com/braid-bag-bordeaux",
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.378Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.297Z",
+    "processId": "mj6r41e62f2hz",
     "index": 5,
     "categories": {
       "productType": [
@@ -434,15 +434,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.412Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.347Z",
+    "processId": "mj6r41e62f2hz",
     "index": 6,
     "categories": {
       "productType": [
@@ -478,16 +478,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "19.08 USD",
+          "value": "18.60 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 19.08,
+          "numericValue": 18.6,
           "unsetPrice": false,
-          "convertedPrice": 19.08,
-          "displayPrice": "₺19,08"
+          "convertedPrice": 18.6,
+          "displayPrice": "₺18,60"
         }
       ],
       "priceValid": true,
@@ -509,15 +509,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.456Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.379Z",
+    "processId": "mj6r41e62f2hz",
     "index": 7,
     "categories": {
       "productType": [
@@ -553,16 +553,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "13.59 USD",
+          "value": "13.25 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 13.59,
+          "numericValue": 13.25,
           "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
         }
       ],
       "priceValid": true,
@@ -591,8 +591,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.497Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.407Z",
+    "processId": "mj6r41e62f2hz",
     "index": 8,
     "categories": {
       "productType": [
@@ -658,8 +658,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.539Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.437Z",
+    "processId": "mj6r41e62f2hz",
     "index": 9,
     "categories": {
       "productType": [
@@ -692,16 +692,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "21.54 USD",
+          "value": "21.00 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 21.54,
+          "numericValue": 21,
           "unsetPrice": false,
-          "convertedPrice": 21.54,
-          "displayPrice": "₺21,54"
+          "convertedPrice": 21,
+          "displayPrice": "₺21,00"
         }
       ],
       "priceValid": true,
@@ -730,8 +730,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.591Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.465Z",
+    "processId": "mj6r41e62f2hz",
     "index": 10,
     "categories": {
       "productType": [
@@ -764,16 +764,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "9.15 USD",
+          "value": "8.92 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 9.15,
+          "numericValue": 8.92,
           "unsetPrice": false,
-          "convertedPrice": 9.15,
-          "displayPrice": "₺9,15"
+          "convertedPrice": 8.92,
+          "displayPrice": "₺8,92"
         }
       ],
       "priceValid": true,
@@ -802,8 +802,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.630Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.496Z",
+    "processId": "mj6r41e62f2hz",
     "index": 11,
     "categories": {
       "productType": [
@@ -834,16 +834,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "13.59 USD",
+          "value": "13.25 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 13.59,
+          "numericValue": 13.25,
           "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
         }
       ],
       "priceValid": true,
@@ -872,8 +872,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.669Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.528Z",
+    "processId": "mj6r41e62f2hz",
     "index": 12,
     "categories": {
       "productType": [
@@ -906,16 +906,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "19.04 USD",
+          "value": "18.56 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 19.04,
+          "numericValue": 18.56,
           "unsetPrice": false,
-          "convertedPrice": 19.04,
-          "displayPrice": "₺19,04"
+          "convertedPrice": 18.56,
+          "displayPrice": "₺18,56"
         }
       ],
       "priceValid": true,
@@ -944,8 +944,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.705Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.565Z",
+    "processId": "mj6r41e62f2hz",
     "index": 13,
     "categories": {
       "productType": [
@@ -973,16 +973,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "21.54 USD",
+          "value": "21.00 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 21.54,
+          "numericValue": 21,
           "unsetPrice": false,
-          "convertedPrice": 21.54,
-          "displayPrice": "₺21,54"
+          "convertedPrice": 21,
+          "displayPrice": "₺21,00"
         }
       ],
       "priceValid": true,
@@ -1011,8 +1011,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.742Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.607Z",
+    "processId": "mj6r41e62f2hz",
     "index": 14,
     "categories": {
       "productType": [
@@ -1043,83 +1043,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "19.08 USD",
+          "value": "18.60 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 19.08,
+          "numericValue": 18.6,
           "unsetPrice": false,
-          "convertedPrice": 19.08,
-          "displayPrice": "₺19,08"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "babb6840be7f42dadfc8ee0d3d87c6545849197f4b7af3afcceef29015622fa9",
-    "title": "Rectangular Long Bag Tan",
-    "img": [
-      "https://image.he-qa.com/-39475-63-B.jpg?width=1200&v2"
-    ],
-    "primaryImg": "https://image.he-qa.com/-39475-63-B.jpg?width=1200&v2",
-    "link": "https://www.he-qa.com/rectangular-long-bag-tan",
-    "videos": [],
-    "productNotInStock": true,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".priceWrapper .currentPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "BAG",
-    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.780Z",
-    "processId": "miwr3wtprabzf",
-    "index": 15,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "24.59 USD",
-          "selector": ".priceWrapper .currentPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 24.59,
-          "unsetPrice": false,
-          "convertedPrice": 24.59,
-          "displayPrice": "₺24,59"
+          "convertedPrice": 18.6,
+          "displayPrice": "₺18,60"
         }
       ],
       "priceValid": true,
@@ -1148,9 +1081,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.820Z",
-    "processId": "miwr3wtprabzf",
-    "index": 16,
+    "timestamp": "2025-12-15T06:06:48.637Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -1180,16 +1113,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "13.59 USD",
+          "value": "13.25 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 13.59,
+          "numericValue": 13.25,
           "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
         }
       ],
       "priceValid": true,
@@ -1211,16 +1144,16 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.858Z",
-    "processId": "miwr3wtprabzf",
-    "index": 17,
+    "timestamp": "2025-12-15T06:06:48.669Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1288,8 +1221,78 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.896Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.705Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 17,
+    "categories": {
+      "productType": [
+        "çanta",
+        "mini çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "mini çanta",
+        "mini"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "13.25 USD",
+          "selector": ".priceWrapper .currentPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 13.25,
+          "unsetPrice": false,
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "49bac0bcd69ec8a705f31e47ce2ac878c2556077f7f638c3841fa2204125b2c7",
+    "title": "Mini Drawstring Bag Butter",
+    "img": [
+      "https://image.he-qa.com/-39191-63-B.jpg?width=1200&v2"
+    ],
+    "primaryImg": "https://image.he-qa.com/-39191-63-B.jpg?width=1200&v2",
+    "link": "https://www.he-qa.com/mini-drawstring-bag-butter",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".priceWrapper .currentPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "BAG",
+    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
+    "timestamp": "2025-12-15T06:06:48.735Z",
+    "processId": "mj6r41e62f2hz",
     "index": 18,
     "categories": {
       "productType": [
@@ -1320,86 +1323,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "13.59 USD",
+          "value": "13.25 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 13.59,
+          "numericValue": 13.25,
           "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "49bac0bcd69ec8a705f31e47ce2ac878c2556077f7f638c3841fa2204125b2c7",
-    "title": "Mini Drawstring Bag Butter",
-    "img": [
-      "https://image.he-qa.com/-39191-63-B.jpg?width=1200&v2"
-    ],
-    "primaryImg": "https://image.he-qa.com/-39191-63-B.jpg?width=1200&v2",
-    "link": "https://www.he-qa.com/mini-drawstring-bag-butter",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".priceWrapper .currentPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "BAG",
-    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.933Z",
-    "processId": "miwr3wtprabzf",
-    "index": 19,
-    "categories": {
-      "productType": [
-        "çanta",
-        "mini çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "mini çanta",
-        "mini"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "13.59 USD",
-          "selector": ".priceWrapper .currentPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 13.59,
-          "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
         }
       ],
       "priceValid": true,
@@ -1428,9 +1361,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:00.967Z",
-    "processId": "miwr3wtprabzf",
-    "index": 20,
+    "timestamp": "2025-12-15T06:06:48.764Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1461,16 +1394,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "15.25 USD",
+          "value": "14.87 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 15.25,
+          "numericValue": 14.87,
           "unsetPrice": false,
-          "convertedPrice": 15.25,
-          "displayPrice": "₺15,25"
+          "convertedPrice": 14.87,
+          "displayPrice": "₺14,87"
         }
       ],
       "priceValid": true,
@@ -1499,9 +1432,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.007Z",
-    "processId": "miwr3wtprabzf",
-    "index": 21,
+    "timestamp": "2025-12-15T06:06:48.797Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1536,16 +1469,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "13.59 USD",
+          "value": "13.25 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 13.59,
+          "numericValue": 13.25,
           "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
         }
       ],
       "priceValid": true,
@@ -1574,8 +1507,78 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.043Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:48.827Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 21,
+    "categories": {
+      "productType": [
+        "çanta",
+        "mini çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "mini çanta",
+        "mini"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "18.60 USD",
+          "selector": ".priceWrapper .currentPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 18.6,
+          "unsetPrice": false,
+          "convertedPrice": 18.6,
+          "displayPrice": "₺18,60"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "647bf7db88ca97d892009c41274599704616dd703c874913080cad682f29babc",
+    "title": "Mini Drawstring Bag Gray",
+    "img": [
+      "https://image.he-qa.com/-39699-63-B.jpg?width=1200&v2"
+    ],
+    "primaryImg": "https://image.he-qa.com/-39699-63-B.jpg?width=1200&v2",
+    "link": "https://www.he-qa.com/mini-drawstring-bag-gray",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".priceWrapper .currentPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "BAG",
+    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
+    "timestamp": "2025-12-15T06:06:48.855Z",
+    "processId": "mj6r41e62f2hz",
     "index": 22,
     "categories": {
       "productType": [
@@ -1606,86 +1609,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "19.08 USD",
+          "value": "13.25 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 19.08,
+          "numericValue": 13.25,
           "unsetPrice": false,
-          "convertedPrice": 19.08,
-          "displayPrice": "₺19,08"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "647bf7db88ca97d892009c41274599704616dd703c874913080cad682f29babc",
-    "title": "Mini Drawstring Bag Gray",
-    "img": [
-      "https://image.he-qa.com/-39699-63-B.jpg?width=1200&v2"
-    ],
-    "primaryImg": "https://image.he-qa.com/-39699-63-B.jpg?width=1200&v2",
-    "link": "https://www.he-qa.com/mini-drawstring-bag-gray",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".priceWrapper .currentPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "BAG",
-    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.078Z",
-    "processId": "miwr3wtprabzf",
-    "index": 23,
-    "categories": {
-      "productType": [
-        "çanta",
-        "mini çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "mini çanta",
-        "mini"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "13.59 USD",
-          "selector": ".priceWrapper .currentPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "USD",
-          "numericValue": 13.59,
-          "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
         }
       ],
       "priceValid": true,
@@ -1714,9 +1647,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.113Z",
-    "processId": "miwr3wtprabzf",
-    "index": 24,
+    "timestamp": "2025-12-15T06:06:48.887Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1747,16 +1680,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "15.25 USD",
+          "value": "14.87 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 15.25,
+          "numericValue": 14.87,
           "unsetPrice": false,
-          "convertedPrice": 15.25,
-          "displayPrice": "₺15,25"
+          "convertedPrice": 14.87,
+          "displayPrice": "₺14,87"
         }
       ],
       "priceValid": true,
@@ -1785,9 +1718,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.147Z",
-    "processId": "miwr3wtprabzf",
-    "index": 25,
+    "timestamp": "2025-12-15T06:06:48.918Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -1817,16 +1750,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "13.59 USD",
+          "value": "13.25 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 13.59,
+          "numericValue": 13.25,
           "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
         }
       ],
       "priceValid": true,
@@ -1855,9 +1788,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.183Z",
-    "processId": "miwr3wtprabzf",
-    "index": 26,
+    "timestamp": "2025-12-15T06:06:48.953Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 25,
     "categories": {
       "productType": [
         "none"
@@ -1888,16 +1821,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "4.14 USD",
+          "value": "4.04 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 4.14,
+          "numericValue": 4.04,
           "unsetPrice": false,
-          "convertedPrice": 4.14,
-          "displayPrice": "₺4,14"
+          "convertedPrice": 4.04,
+          "displayPrice": "₺4,04"
         }
       ],
       "priceValid": true,
@@ -1926,9 +1859,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.219Z",
-    "processId": "miwr3wtprabzf",
-    "index": 27,
+    "timestamp": "2025-12-15T06:06:48.980Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 26,
     "categories": {
       "productType": [
         "none"
@@ -1956,16 +1889,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "4.14 USD",
+          "value": "4.04 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 4.14,
+          "numericValue": 4.04,
           "unsetPrice": false,
-          "convertedPrice": 4.14,
-          "displayPrice": "₺4,14"
+          "convertedPrice": 4.04,
+          "displayPrice": "₺4,04"
         }
       ],
       "priceValid": true,
@@ -1994,9 +1927,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.254Z",
-    "processId": "miwr3wtprabzf",
-    "index": 28,
+    "timestamp": "2025-12-15T06:06:49.012Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -2034,16 +1967,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "45.69 USD",
+          "value": "44.55 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 45.69,
+          "numericValue": 44.55,
           "unsetPrice": false,
-          "convertedPrice": 45.69,
-          "displayPrice": "₺45,69"
+          "convertedPrice": 44.55,
+          "displayPrice": "₺44,55"
         }
       ],
       "priceValid": true,
@@ -2072,9 +2005,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.288Z",
-    "processId": "miwr3wtprabzf",
-    "index": 29,
+    "timestamp": "2025-12-15T06:06:49.052Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta"
@@ -2101,16 +2034,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "48.92 USD",
+          "value": "47.70 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 48.92,
+          "numericValue": 47.7,
           "unsetPrice": false,
-          "convertedPrice": 48.92,
-          "displayPrice": "₺48,92"
+          "convertedPrice": 47.7,
+          "displayPrice": "₺47,70"
         }
       ],
       "priceValid": true,
@@ -2139,9 +2072,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.324Z",
-    "processId": "miwr3wtprabzf",
-    "index": 30,
+    "timestamp": "2025-12-15T06:06:49.083Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta"
@@ -2176,16 +2109,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "58.46 USD",
+          "value": "57.00 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 58.46,
+          "numericValue": 57,
           "unsetPrice": false,
-          "convertedPrice": 58.46,
-          "displayPrice": "₺58,46"
+          "convertedPrice": 57,
+          "displayPrice": "₺57,00"
         }
       ],
       "priceValid": true,
@@ -2214,9 +2147,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.361Z",
-    "processId": "miwr3wtprabzf",
-    "index": 31,
+    "timestamp": "2025-12-15T06:06:49.113Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta"
@@ -2243,16 +2176,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "52.61 USD",
+          "value": "51.30 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 52.61,
+          "numericValue": 51.3,
           "unsetPrice": false,
-          "convertedPrice": 52.61,
-          "displayPrice": "₺52,61"
+          "convertedPrice": 51.3,
+          "displayPrice": "₺51,30"
         }
       ],
       "priceValid": true,
@@ -2274,16 +2207,16 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-src]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.399Z",
-    "processId": "miwr3wtprabzf",
-    "index": 32,
+    "timestamp": "2025-12-15T06:06:49.141Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -2318,16 +2251,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "45.69 USD",
+          "value": "44.55 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 45.69,
+          "numericValue": 44.55,
           "unsetPrice": false,
-          "convertedPrice": 45.69,
-          "displayPrice": "₺45,69"
+          "convertedPrice": 44.55,
+          "displayPrice": "₺44,55"
         }
       ],
       "priceValid": true,
@@ -2356,9 +2289,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.437Z",
-    "processId": "miwr3wtprabzf",
-    "index": 33,
+    "timestamp": "2025-12-15T06:06:49.171Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta"
@@ -2390,16 +2323,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "58.46 USD",
+          "value": "57.00 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 58.46,
+          "numericValue": 57,
           "unsetPrice": false,
-          "convertedPrice": 58.46,
-          "displayPrice": "₺58,46"
+          "convertedPrice": 57,
+          "displayPrice": "₺57,00"
         }
       ],
       "priceValid": true,
@@ -2428,9 +2361,9 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.474Z",
-    "processId": "miwr3wtprabzf",
-    "index": 34,
+    "timestamp": "2025-12-15T06:06:49.202Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta"
@@ -2463,16 +2396,83 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "24.59 USD",
+          "value": "23.98 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 24.59,
+          "numericValue": 23.98,
           "unsetPrice": false,
-          "convertedPrice": 24.59,
-          "displayPrice": "₺24,59"
+          "convertedPrice": 23.98,
+          "displayPrice": "₺23,98"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "babb6840be7f42dadfc8ee0d3d87c6545849197f4b7af3afcceef29015622fa9",
+    "title": "Rectangular Long Bag Tan",
+    "img": [
+      "https://image.he-qa.com/-39475-63-B.jpg?width=1200&v2"
+    ],
+    "primaryImg": "https://image.he-qa.com/-39475-63-B.jpg?width=1200&v2",
+    "link": "https://www.he-qa.com/rectangular-long-bag-tan",
+    "videos": [],
+    "productNotInStock": true,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".priceWrapper .currentPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "BAG",
+    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
+    "timestamp": "2025-12-15T06:06:49.229Z",
+    "processId": "mj6r41e62f2hz",
+    "index": 34,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "23.98 USD",
+          "selector": ".priceWrapper .currentPrice",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "USD",
+          "numericValue": 23.98,
+          "unsetPrice": false,
+          "convertedPrice": 23.98,
+          "displayPrice": "₺23,98"
         }
       ],
       "priceValid": true,
@@ -2494,15 +2494,15 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.509Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.258Z",
+    "processId": "mj6r41e62f2hz",
     "index": 35,
     "categories": {
       "productType": [
@@ -2543,16 +2543,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "24.62 USD",
+          "value": "24.00 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 24.62,
+          "numericValue": 24,
           "unsetPrice": false,
-          "convertedPrice": 24.62,
-          "displayPrice": "₺24,62"
+          "convertedPrice": 24,
+          "displayPrice": "₺24,00"
         }
       ],
       "priceValid": true,
@@ -2581,8 +2581,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.543Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.288Z",
+    "processId": "mj6r41e62f2hz",
     "index": 36,
     "categories": {
       "productType": [
@@ -2610,16 +2610,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "24.59 USD",
+          "value": "23.98 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 24.59,
+          "numericValue": 23.98,
           "unsetPrice": false,
-          "convertedPrice": 24.59,
-          "displayPrice": "₺24,59"
+          "convertedPrice": 23.98,
+          "displayPrice": "₺23,98"
         }
       ],
       "priceValid": true,
@@ -2648,8 +2648,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.583Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.317Z",
+    "processId": "mj6r41e62f2hz",
     "index": 37,
     "categories": {
       "productType": [
@@ -2677,16 +2677,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "21.95 USD",
+          "value": "21.40 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 21.95,
+          "numericValue": 21.4,
           "unsetPrice": false,
-          "convertedPrice": 21.95,
-          "displayPrice": "₺21,95"
+          "convertedPrice": 21.4,
+          "displayPrice": "₺21,40"
         }
       ],
       "priceValid": true,
@@ -2715,8 +2715,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.617Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.347Z",
+    "processId": "mj6r41e62f2hz",
     "index": 38,
     "categories": {
       "productType": [
@@ -2744,16 +2744,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "24.59 USD",
+          "value": "23.98 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 24.59,
+          "numericValue": 23.98,
           "unsetPrice": false,
-          "convertedPrice": 24.59,
-          "displayPrice": "₺24,59"
+          "convertedPrice": 23.98,
+          "displayPrice": "₺23,98"
         }
       ],
       "priceValid": true,
@@ -2782,8 +2782,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.654Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.378Z",
+    "processId": "mj6r41e62f2hz",
     "index": 39,
     "categories": {
       "productType": [
@@ -2819,16 +2819,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "21.95 USD",
+          "value": "21.40 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 21.95,
+          "numericValue": 21.4,
           "unsetPrice": false,
-          "convertedPrice": 21.95,
-          "displayPrice": "₺21,95"
+          "convertedPrice": 21.4,
+          "displayPrice": "₺21,40"
         }
       ],
       "priceValid": true,
@@ -2857,8 +2857,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.686Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.410Z",
+    "processId": "mj6r41e62f2hz",
     "index": 40,
     "categories": {
       "productType": [
@@ -2891,16 +2891,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "24.59 USD",
+          "value": "23.98 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 24.59,
+          "numericValue": 23.98,
           "unsetPrice": false,
-          "convertedPrice": 24.59,
-          "displayPrice": "₺24,59"
+          "convertedPrice": 23.98,
+          "displayPrice": "₺23,98"
         }
       ],
       "priceValid": true,
@@ -2929,8 +2929,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.720Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.437Z",
+    "processId": "mj6r41e62f2hz",
     "index": 41,
     "categories": {
       "productType": [
@@ -2958,16 +2958,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "21.95 USD",
+          "value": "21.40 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 21.95,
+          "numericValue": 21.4,
           "unsetPrice": false,
-          "convertedPrice": 21.95,
-          "displayPrice": "₺21,95"
+          "convertedPrice": 21.4,
+          "displayPrice": "₺21,40"
         }
       ],
       "priceValid": true,
@@ -2996,8 +2996,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.749Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.465Z",
+    "processId": "mj6r41e62f2hz",
     "index": 42,
     "categories": {
       "productType": [
@@ -3025,16 +3025,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "21.95 USD",
+          "value": "21.40 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 21.95,
+          "numericValue": 21.4,
           "unsetPrice": false,
-          "convertedPrice": 21.95,
-          "displayPrice": "₺21,95"
+          "convertedPrice": 21.4,
+          "displayPrice": "₺21,40"
         }
       ],
       "priceValid": true,
@@ -3063,8 +3063,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.781Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.495Z",
+    "processId": "mj6r41e62f2hz",
     "index": 43,
     "categories": {
       "productType": [
@@ -3101,16 +3101,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "13.59 USD",
+          "value": "13.25 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 13.59,
+          "numericValue": 13.25,
           "unsetPrice": false,
-          "convertedPrice": 13.59,
-          "displayPrice": "₺13,59"
+          "convertedPrice": 13.25,
+          "displayPrice": "₺13,25"
         }
       ],
       "priceValid": true,
@@ -3139,8 +3139,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.816Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.526Z",
+    "processId": "mj6r41e62f2hz",
     "index": 44,
     "categories": {
       "productType": [
@@ -3180,16 +3180,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "22.09 USD",
+          "value": "21.54 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 22.09,
+          "numericValue": 21.54,
           "unsetPrice": false,
-          "convertedPrice": 22.09,
-          "displayPrice": "₺22,09"
+          "convertedPrice": 21.54,
+          "displayPrice": "₺21,54"
         }
       ],
       "priceValid": true,
@@ -3218,8 +3218,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.854Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.555Z",
+    "processId": "mj6r41e62f2hz",
     "index": 45,
     "categories": {
       "productType": [
@@ -3254,16 +3254,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "22.09 USD",
+          "value": "21.54 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 22.09,
+          "numericValue": 21.54,
           "unsetPrice": false,
-          "convertedPrice": 22.09,
-          "displayPrice": "₺22,09"
+          "convertedPrice": 21.54,
+          "displayPrice": "₺21,54"
         }
       ],
       "priceValid": true,
@@ -3292,8 +3292,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.891Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.583Z",
+    "processId": "mj6r41e62f2hz",
     "index": 46,
     "categories": {
       "productType": [
@@ -3336,16 +3336,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "22.09 USD",
+          "value": "21.54 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 22.09,
+          "numericValue": 21.54,
           "unsetPrice": false,
-          "convertedPrice": 22.09,
-          "displayPrice": "₺22,09"
+          "convertedPrice": 21.54,
+          "displayPrice": "₺21,54"
         }
       ],
       "priceValid": true,
@@ -3374,8 +3374,8 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=4",
-    "timestamp": "2025-12-08T06:09:01.930Z",
-    "processId": "miwr3wtprabzf",
+    "timestamp": "2025-12-15T06:06:49.611Z",
+    "processId": "mj6r41e62f2hz",
     "index": 47,
     "categories": {
       "productType": [
@@ -3410,16 +3410,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "22.09 USD",
+          "value": "21.54 USD",
           "selector": ".priceWrapper .currentPrice",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "USD",
-          "numericValue": 22.09,
+          "numericValue": 21.54,
           "unsetPrice": false,
-          "convertedPrice": 22.09,
-          "displayPrice": "₺22,09"
+          "convertedPrice": 21.54,
+          "displayPrice": "₺21,54"
         }
       ],
       "priceValid": true,
