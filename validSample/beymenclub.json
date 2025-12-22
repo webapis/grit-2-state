@@ -1,95 +1,5 @@
 [
   {
-    "id": "27b59d3b9436d3b32b16f17c6faeb4b9c09858e0433f06f03868bf3df891957f",
-    "title": "Siyah Drop Taşlı Kadın Deri Çanta",
-    "img": [
-      "https://cdn.beymen.com/mnresize/596/830/productimages/dophsxzq.cg3_IMG_01_8683791936493.jpg",
-      "https://cdn.beymen.com/mnresize/596/830/productimages/vzbceigw.d30_IMG_02_8683791936493.jpg",
-      "https://cdn.beymen.com/mnresize/596/830/productimages/2qfmpmfl.4ia_IMG_03_8683791936493.jpg",
-      "https://cdn.beymen.com/mnresize/596/830/productimages/sy1btfbi.x0e_IMG_04_8683791936493.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/596/830/productimages/dophsxzq.cg3_IMG_01_8683791936493.jpg",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-siyah-drop-tasli-kadin-deri-canta_1800663",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.m-productImageList_...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.909Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "12.950 TL",
-          "selector": ".m-productCard__newPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 12950,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺12.950,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "4b622729f1a951d7bfa6e60c0bfbdd45db2935e7da64b993b644d25c5ff6885d",
     "title": "Leopar Kadın Deri Çanta",
     "img": [
@@ -113,9 +23,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.918Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 1,
+    "timestamp": "2025-12-22T05:59:27.509Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -198,9 +108,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.926Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 2,
+    "timestamp": "2025-12-22T05:59:27.517Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta"
@@ -281,9 +191,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.934Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 3,
+    "timestamp": "2025-12-22T05:59:27.526Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta"
@@ -363,9 +273,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.943Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 4,
+    "timestamp": "2025-12-22T05:59:27.534Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -438,9 +348,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.951Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 5,
+    "timestamp": "2025-12-22T05:59:27.542Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 4,
     "categories": {
       "productType": [
         "portföy"
@@ -518,9 +428,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.959Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 6,
+    "timestamp": "2025-12-22T05:59:27.552Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 5,
     "categories": {
       "productType": [
         "portföy"
@@ -597,9 +507,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.964Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 7,
+    "timestamp": "2025-12-22T05:59:27.563Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 6,
     "categories": {
       "productType": [
         "portföy"
@@ -677,9 +587,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.971Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 8,
+    "timestamp": "2025-12-22T05:59:27.572Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -767,9 +677,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.979Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 9,
+    "timestamp": "2025-12-22T05:59:27.581Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 8,
     "categories": {
       "productType": [
         "portföy"
@@ -847,9 +757,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.986Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 10,
+    "timestamp": "2025-12-22T05:59:27.589Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 9,
     "categories": {
       "productType": [
         "portföy"
@@ -926,9 +836,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:46.994Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 11,
+    "timestamp": "2025-12-22T05:59:27.597Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 10,
     "categories": {
       "productType": [
         "portföy"
@@ -1005,9 +915,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.002Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 12,
+    "timestamp": "2025-12-22T05:59:27.606Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 11,
     "categories": {
       "productType": [
         "portföy"
@@ -1084,9 +994,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.009Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 13,
+    "timestamp": "2025-12-22T05:59:27.614Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -1173,9 +1083,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.017Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 14,
+    "timestamp": "2025-12-22T05:59:27.623Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -1262,9 +1172,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.024Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 15,
+    "timestamp": "2025-12-22T05:59:27.631Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1348,9 +1258,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.034Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 16,
+    "timestamp": "2025-12-22T05:59:27.638Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 15,
     "categories": {
       "productType": [
         "portföy"
@@ -1427,9 +1337,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.044Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 17,
+    "timestamp": "2025-12-22T05:59:27.646Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1506,9 +1416,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.052Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 18,
+    "timestamp": "2025-12-22T05:59:27.654Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1586,9 +1496,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.060Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 19,
+    "timestamp": "2025-12-22T05:59:27.662Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1683,9 +1593,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.068Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 20,
+    "timestamp": "2025-12-22T05:59:27.671Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1768,9 +1678,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.075Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 21,
+    "timestamp": "2025-12-22T05:59:27.679Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1857,9 +1767,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.083Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 22,
+    "timestamp": "2025-12-22T05:59:27.688Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1946,9 +1856,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.090Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 23,
+    "timestamp": "2025-12-22T05:59:27.696Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -2042,9 +1952,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.098Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 24,
+    "timestamp": "2025-12-22T05:59:27.705Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -2135,9 +2045,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.107Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 25,
+    "timestamp": "2025-12-22T05:59:27.712Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 24,
     "categories": {
       "productType": [
         "portföy"
@@ -2215,9 +2125,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.111Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 26,
+    "timestamp": "2025-12-22T05:59:27.721Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 25,
     "categories": {
       "productType": [
         "portföy"
@@ -2298,9 +2208,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.117Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 27,
+    "timestamp": "2025-12-22T05:59:27.729Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -2390,9 +2300,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.125Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 28,
+    "timestamp": "2025-12-22T05:59:27.739Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 27,
     "categories": {
       "productType": [
         "portföy"
@@ -2470,9 +2380,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.133Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 29,
+    "timestamp": "2025-12-22T05:59:27.746Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -2559,9 +2469,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.140Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 30,
+    "timestamp": "2025-12-22T05:59:27.754Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -2644,9 +2554,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.148Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 31,
+    "timestamp": "2025-12-22T05:59:27.763Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -2730,9 +2640,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.156Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 32,
+    "timestamp": "2025-12-22T05:59:27.770Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -2815,9 +2725,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.164Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 33,
+    "timestamp": "2025-12-22T05:59:27.778Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -2900,9 +2810,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.171Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 34,
+    "timestamp": "2025-12-22T05:59:27.786Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta",
@@ -2986,9 +2896,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.177Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 35,
+    "timestamp": "2025-12-22T05:59:27.794Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -3076,9 +2986,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.186Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 36,
+    "timestamp": "2025-12-22T05:59:27.802Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -3166,9 +3076,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.194Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 37,
+    "timestamp": "2025-12-22T05:59:27.810Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
@@ -3259,9 +3169,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.199Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 38,
+    "timestamp": "2025-12-22T05:59:27.818Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta",
@@ -3352,9 +3262,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.205Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 39,
+    "timestamp": "2025-12-22T05:59:27.826Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 38,
     "categories": {
       "productType": [
         "çanta",
@@ -3446,9 +3356,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.213Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 40,
+    "timestamp": "2025-12-22T05:59:27.833Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 39,
     "categories": {
       "productType": [
         "portföy"
@@ -3525,9 +3435,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.220Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 41,
+    "timestamp": "2025-12-22T05:59:27.842Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 40,
     "categories": {
       "productType": [
         "portföy"
@@ -3608,9 +3518,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.228Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 42,
+    "timestamp": "2025-12-22T05:59:27.850Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 41,
     "categories": {
       "productType": [
         "çanta",
@@ -3693,9 +3603,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.236Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 43,
+    "timestamp": "2025-12-22T05:59:27.857Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 42,
     "categories": {
       "productType": [
         "çanta",
@@ -3782,9 +3692,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.243Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 44,
+    "timestamp": "2025-12-22T05:59:27.865Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 43,
     "categories": {
       "productType": [
         "çanta",
@@ -3852,99 +3762,6 @@
     }
   },
   {
-    "id": "387c488e7d04f980456c61db605c7ba647cb7e00012623cb32e378d965af3471",
-    "title": "Mini Siyah Kadın Deri Çanta",
-    "img": [
-      "https://cdn.beymen.com/mnresize/596/830/productimages/ufx3uik4.pgt_IMG_01_8683791936943.jpg",
-      "https://cdn.beymen.com/mnresize/596/830/productimages/4lfhsfbv.vkc_IMG_02_8683791936943.jpg",
-      "https://cdn.beymen.com/mnresize/596/830/productimages/gs3zyb45.ych_IMG_03_8683791936943.jpg",
-      "https://cdn.beymen.com/mnresize/596/830/productimages/rclx40ox.gxz_IMG_04_8683791936943.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/596/830/productimages/ufx3uik4.pgt_IMG_01_8683791936943.jpg",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-mini-siyah-kadin-deri-canta_1800635",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('.m-productImageList_...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.251Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 45,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "mini çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "mini çanta",
-        "mini",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "7.950 TL",
-          "selector": ".m-productCard__newPrice",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 7950,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺7.950,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "b40c56eeca2c7d678cfbc509570d7e9cb72a9f4b908c4d8eedfe379c2e95c459",
     "title": "Ekru Kadın El Portföyü",
     "img": [
@@ -3968,9 +3785,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.259Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 46,
+    "timestamp": "2025-12-22T05:59:27.872Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 44,
     "categories": {
       "productType": [
         "portföy"
@@ -4043,9 +3860,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-12-15T06:00:47.267Z",
-    "processId": "mj6qw9t2bgp0q",
-    "index": 47,
+    "timestamp": "2025-12-22T05:59:27.880Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 45,
     "categories": {
       "productType": [
         "portföy"
@@ -4120,11 +3937,11 @@
       "bestPriceSelector": ".m-productCard__newPrice",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.284Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 0,
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-12-22T05:59:27.888Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 46,
     "categories": {
       "productType": [
         "çanta",
@@ -4206,11 +4023,11 @@
       "bestPriceSelector": ".m-productCard__newPrice",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.292Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 1,
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-12-22T05:59:27.896Z",
+    "processId": "mjgqxj8cgs2nt",
+    "index": 47,
     "categories": {
       "productType": [
         "çanta",
@@ -4294,9 +4111,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.300Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 2,
+    "timestamp": "2025-12-22T05:59:36.116Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -4381,9 +4198,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.308Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 3,
+    "timestamp": "2025-12-22T05:59:36.125Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -4471,9 +4288,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.316Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 4,
+    "timestamp": "2025-12-22T05:59:36.133Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -4568,9 +4385,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.324Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 5,
+    "timestamp": "2025-12-22T05:59:36.141Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -4666,9 +4483,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.332Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 6,
+    "timestamp": "2025-12-22T05:59:36.149Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -4758,9 +4575,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.340Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 7,
+    "timestamp": "2025-12-22T05:59:36.157Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -4854,9 +4671,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.348Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 8,
+    "timestamp": "2025-12-22T05:59:36.165Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -4942,9 +4759,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.355Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 9,
+    "timestamp": "2025-12-22T05:59:36.173Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -5038,9 +4855,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.363Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 10,
+    "timestamp": "2025-12-22T05:59:36.180Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta"
@@ -5121,9 +4938,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.371Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 11,
+    "timestamp": "2025-12-22T05:59:36.188Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -5215,9 +5032,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.379Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 12,
+    "timestamp": "2025-12-22T05:59:36.195Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -5302,9 +5119,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.387Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 13,
+    "timestamp": "2025-12-22T05:59:36.203Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -5390,9 +5207,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.395Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 14,
+    "timestamp": "2025-12-22T05:59:36.210Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -5476,9 +5293,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.403Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 15,
+    "timestamp": "2025-12-22T05:59:36.218Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -5563,9 +5380,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.410Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 16,
+    "timestamp": "2025-12-22T05:59:36.225Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -5656,9 +5473,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.418Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 17,
+    "timestamp": "2025-12-22T05:59:36.233Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -5749,9 +5566,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.426Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 18,
+    "timestamp": "2025-12-22T05:59:36.241Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 16,
     "categories": {
       "productType": [
         "portföy"
@@ -5829,9 +5646,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.434Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 19,
+    "timestamp": "2025-12-22T05:59:36.249Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -5914,9 +5731,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.442Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 20,
+    "timestamp": "2025-12-22T05:59:36.257Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 18,
     "categories": {
       "productType": [
         "portföy"
@@ -5994,9 +5811,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Sayfa 2 | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074?sayfa=2",
-    "timestamp": "2025-12-15T06:00:55.451Z",
-    "processId": "mj6qwg4cpo0f9",
-    "index": 21,
+    "timestamp": "2025-12-22T05:59:36.265Z",
+    "processId": "mjgqxpoqwr5po",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
