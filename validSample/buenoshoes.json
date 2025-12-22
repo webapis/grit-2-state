@@ -1,5 +1,83 @@
 [
   {
+    "id": "aa2799e97b883fd6a93f0973afec4029c93a5a40a56b01436d3464d34c565c95",
+    "title": "Siyah Flotter Deri Kadın Sırt Çantası",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/sirt-cantasi-kadin-sirt-cantasi_1611_49034_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/sirt-cantasi-kadin-sirt-cantasi_1611_49034_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/siyah-flotter-deri-kadin-sirt-cantasi-790-1-1611",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.609Z",
+    "processId": "mjgplofnb6sie",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "8addf1e1b5fd8175c91fd36f36bf0fef093e00f5944c970fadf55be093cdd8e8",
     "title": "Siyah Flotter Deri Kadın Sırt Çantası",
     "img": [
@@ -20,9 +98,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.411Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 0,
+    "timestamp": "2025-12-22T05:22:14.616Z",
+    "processId": "mjgplofnb6sie",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -98,86 +176,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.418Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "aa2799e97b883fd6a93f0973afec4029c93a5a40a56b01436d3464d34c565c95",
-    "title": "Siyah Flotter Deri Kadın Sırt Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/sirt-cantasi-kadin-sirt-cantasi_1611_49034_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/sirt-cantasi-kadin-sirt-cantasi_1611_49034_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-flotter-deri-kadin-sirt-cantasi-790-1-1611",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.425Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.624Z",
+    "processId": "mjgplofnb6sie",
     "index": 2,
     "categories": {
       "productType": [
@@ -254,8 +254,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.433Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.631Z",
+    "processId": "mjgplofnb6sie",
     "index": 3,
     "categories": {
       "productType": [
@@ -312,83 +312,6 @@
     }
   },
   {
-    "id": "51849282625967160420afcd8d30e294384e19465938208cd83cd061d4c7f668",
-    "title": "Siyah Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3412_48635_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3412_48635_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-3412",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.439Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "b7ffa81d05a63fa98f86eb6ad2857bda663e7da483ca64687919a40500796d56",
     "title": "Gül Kurusu Flotter Deri Kadın Çapraz Çanta",
     "img": [
@@ -409,9 +332,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.446Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 5,
+    "timestamp": "2025-12-22T05:22:14.639Z",
+    "processId": "mjgplofnb6sie",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -485,8 +408,85 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.453Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.646Z",
+    "processId": "mjgplofnb6sie",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "51849282625967160420afcd8d30e294384e19465938208cd83cd061d4c7f668",
+    "title": "Siyah Deri Kadın El Çantası",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3412_48635_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3412_48635_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-3412",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.653Z",
+    "processId": "mjgplofnb6sie",
     "index": 6,
     "categories": {
       "productType": [
@@ -562,8 +562,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.460Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.660Z",
+    "processId": "mjgplofnb6sie",
     "index": 7,
     "categories": {
       "productType": [
@@ -634,8 +634,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.465Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.667Z",
+    "processId": "mjgplofnb6sie",
     "index": 8,
     "categories": {
       "productType": [
@@ -710,8 +710,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.472Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.674Z",
+    "processId": "mjgplofnb6sie",
     "index": 9,
     "categories": {
       "productType": [
@@ -786,8 +786,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.478Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.680Z",
+    "processId": "mjgplofnb6sie",
     "index": 10,
     "categories": {
       "productType": [
@@ -843,6 +843,485 @@
     }
   },
   {
+    "id": "b33b6332cff163f682c3cacc55c8460507a14019663f5f0caf134bf9e4716123",
+    "title": "Gri Açık Mlc Deri Kadın Omuz Çantası",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/omuz-cantasi-kadin-omuz-cantasi_3144_48173_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/omuz-cantasi-kadin-omuz-cantasi_3144_48173_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/gri-acik-mlc-deri-kadin-omuz-cantasi-6388-1-3144",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.686Z",
+    "processId": "mjgplofnb6sie",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "gri/füme"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "gri/füme",
+        "gri",
+        "füme",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "dc03b82dbdc8c4a5c13c2e575068ef68f93f4f02c91ff5eee6c5295466ea0677",
+    "title": "Siyah Deri Kadın Çapraz Çanta",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_3799_57711_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_3799_57711_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-capraz-canta-791-1-3799",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.692Z",
+    "processId": "mjgplofnb6sie",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "8e0db076f3dca522d4680be8e128117f0d425b55bb5c33b1fb57d22c41cd7c84",
+    "title": "Bej Deri Kadın El Çantası",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2486_39207_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2486_39207_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/bej-deri-kadin-el-cantasi-5453-1-2486",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.698Z",
+    "processId": "mjgplofnb6sie",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "bej"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "bej",
+        "ten",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "99cdb42401dad17436feb30d0c9129e19d094937d0d893e80e436ba0df8576ec",
+    "title": "Pembe Deri Kadın El Çantası",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3301_48268_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3301_48268_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/pembe-deri-kadin-el-cantasi-1032-1-3301",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.706Z",
+    "processId": "mjgplofnb6sie",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "pembe"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "pembe",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "e75727fa0428648e1cb1015a2f5fffe375409279d920f959ce4a76472fa67c90",
+    "title": "Taba Deri-Süet Kadın Çapraz Çanta",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_4142_57360_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_4142_57360_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/taba-deri-suet-kadin-capraz-canta-7982-1-4142",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.716Z",
+    "processId": "mjgplofnb6sie",
+    "index": 15,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "deri çanta",
+        "süet çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "deri çanta",
+        "leather",
+        "deri",
+        "süet çanta",
+        "süet",
+        "floater deri çanta",
+        "floater",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "9b9737efc2153a97c1635a6a1e00f9962be2043b3131346784285c4cff3ef172",
+    "title": "Sarı Deri Kadın Omuz Çantası",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/canta-kadin-kol-cantasi_45_10691_R2.jpg?v=1726"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/canta-kadin-kol-cantasi_45_10691_R2.jpg?v=1726",
+    "link": "https://www.buenoshoes.com.tr/sari-deri-kadin-omuz-cantasi-1022-1-45",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.726Z",
+    "processId": "mjgplofnb6sie",
+    "index": 16,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "sarı"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "sarı",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "398d0eacf7f4bccca97935d0f250b6512ecc75309e2d3c8ce9f5aa0637f46894",
     "title": "Siyah Deri Kadın Portföy Çanta",
     "img": [
@@ -863,9 +1342,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.485Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 11,
+    "timestamp": "2025-12-22T05:22:14.735Z",
+    "processId": "mjgplofnb6sie",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -939,9 +1418,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.491Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 12,
+    "timestamp": "2025-12-22T05:22:14.745Z",
+    "processId": "mjgplofnb6sie",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1021,9 +1500,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.498Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 13,
+    "timestamp": "2025-12-22T05:22:14.755Z",
+    "processId": "mjgplofnb6sie",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1102,9 +1581,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.506Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 14,
+    "timestamp": "2025-12-22T05:22:14.762Z",
+    "processId": "mjgplofnb6sie",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1181,9 +1660,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.512Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 15,
+    "timestamp": "2025-12-22T05:22:14.770Z",
+    "processId": "mjgplofnb6sie",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1261,9 +1740,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.518Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 16,
+    "timestamp": "2025-12-22T05:22:14.778Z",
+    "processId": "mjgplofnb6sie",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1341,9 +1820,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.525Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 17,
+    "timestamp": "2025-12-22T05:22:14.786Z",
+    "processId": "mjgplofnb6sie",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -1422,9 +1901,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.531Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 18,
+    "timestamp": "2025-12-22T05:22:14.795Z",
+    "processId": "mjgplofnb6sie",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -1456,84 +1935,6 @@
         "floater",
         "siyah",
         "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "9b9737efc2153a97c1635a6a1e00f9962be2043b3131346784285c4cff3ef172",
-    "title": "Sarı Deri Kadın Omuz Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/canta-kadin-kol-cantasi_45_10691_R2.jpg?v=1726"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/canta-kadin-kol-cantasi_45_10691_R2.jpg?v=1726",
-    "link": "https://www.buenoshoes.com.tr/sari-deri-kadin-omuz-cantasi-1022-1-45",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.539Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 19,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "sarı"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "sarı",
         "kadın",
         "kadin",
         "bayan",
@@ -1579,9 +1980,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.545Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 20,
+    "timestamp": "2025-12-22T05:22:14.802Z",
+    "processId": "mjgplofnb6sie",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -1638,83 +2039,6 @@
     }
   },
   {
-    "id": "8e0db076f3dca522d4680be8e128117f0d425b55bb5c33b1fb57d22c41cd7c84",
-    "title": "Bej Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2486_39207_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2486_39207_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/bej-deri-kadin-el-cantasi-5453-1-2486",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.552Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 21,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "bej"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "bej",
-        "ten",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "63ff3eda6939a4baf2b5fec88e955fdc5298bc12b334de033c7b1259a3c91514",
     "title": "Sarı Deri Kadın Çapraz Çanta",
     "img": [
@@ -1735,9 +2059,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.559Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 22,
+    "timestamp": "2025-12-22T05:22:14.809Z",
+    "processId": "mjgplofnb6sie",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -1815,9 +2139,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.566Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 23,
+    "timestamp": "2025-12-22T05:22:14.816Z",
+    "processId": "mjgplofnb6sie",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -1894,9 +2218,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.574Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 24,
+    "timestamp": "2025-12-22T05:22:14.823Z",
+    "processId": "mjgplofnb6sie",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -1972,9 +2296,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.581Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 25,
+    "timestamp": "2025-12-22T05:22:14.831Z",
+    "processId": "mjgplofnb6sie",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -2032,13 +2356,13 @@
     }
   },
   {
-    "id": "e75727fa0428648e1cb1015a2f5fffe375409279d920f959ce4a76472fa67c90",
-    "title": "Taba Deri-Süet Kadın Çapraz Çanta",
+    "id": "4282e5dfd516bed0d015c3fe72592c115a173d80c527d3a27ee489c9a5270aea",
+    "title": "Siyah Deri Kadın El Çantası",
     "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_4142_57360_R2.jpg?v=0000"
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3574_50923_R2.jpg?v=0000"
     ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_4142_57360_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/taba-deri-suet-kadin-capraz-canta-7982-1-4142",
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3574_50923_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-3574",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -2052,19 +2376,18 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.588Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 26,
+    "timestamp": "2025-12-22T05:22:14.839Z",
+    "processId": "mjgplofnb6sie",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
-        "çapraz çanta",
+        "el çantası",
         "deri çanta",
-        "süet çanta",
         "floater deri çanta"
       ],
       "color": [
-        "kahverengi"
+        "siyah"
       ],
       "gender": [
         "kadın"
@@ -2076,24 +2399,15 @@
         "çantası",
         "bag",
         "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
+        "el çantası",
+        "el",
         "deri çanta",
         "leather",
         "deri",
-        "süet çanta",
-        "süet",
         "floater deri çanta",
         "floater",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
+        "siyah",
+        "black",
         "kadın",
         "kadin",
         "bayan",
@@ -2139,9 +2453,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.595Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 27,
+    "timestamp": "2025-12-22T05:22:14.845Z",
+    "processId": "mjgplofnb6sie",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -2200,159 +2514,6 @@
     }
   },
   {
-    "id": "4282e5dfd516bed0d015c3fe72592c115a173d80c527d3a27ee489c9a5270aea",
-    "title": "Siyah Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3574_50923_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3574_50923_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-3574",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.602Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 28,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "99cdb42401dad17436feb30d0c9129e19d094937d0d893e80e436ba0df8576ec",
-    "title": "Pembe Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3301_48268_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3301_48268_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/pembe-deri-kadin-el-cantasi-1032-1-3301",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.610Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 29,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "pembe"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "pembe",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "de58dfe7a73588be78701a04d7e1c395463ea71cda3a04230964cc7fb478ae89",
     "title": "Sarı Deri Kadın Çapraz Çanta",
     "img": [
@@ -2373,9 +2534,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.617Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 30,
+    "timestamp": "2025-12-22T05:22:14.852Z",
+    "processId": "mjgplofnb6sie",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -2433,6 +2594,164 @@
     }
   },
   {
+    "id": "b224eedff3f433f75a94043e9d8e19fe4b65b86d19aab517c9001b325e80e903",
+    "title": "Siyah Deri Kadın Çapraz Çanta",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_4144_57364_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_4144_57364_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-capraz-canta-791-1-4144",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.859Z",
+    "processId": "mjgplofnb6sie",
+    "index": 33,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "b28ef311bc9b9ab045df492e5ecffab8075583f0206c65d92e8939b95e875bfa",
+    "title": "Siyah Flotter Deri Kadın El Çantası",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2981_48309_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2981_48309_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/siyah-flotter-deri-kadin-el-cantasi-790-1-2981",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.866Z",
+    "processId": "mjgplofnb6sie",
+    "index": 34,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "11f78200ed396d9c888f1b81267b6edd60c07273cf5efa4e5542854c3343b443",
     "title": "Gri Deri Kadın Omuz Çantası",
     "img": [
@@ -2453,9 +2772,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.624Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 31,
+    "timestamp": "2025-12-22T05:22:14.873Z",
+    "processId": "mjgplofnb6sie",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -2533,9 +2852,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.631Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 32,
+    "timestamp": "2025-12-22T05:22:14.880Z",
+    "processId": "mjgplofnb6sie",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
@@ -2560,244 +2879,6 @@
         "leather",
         "deri",
         "portföy",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b28ef311bc9b9ab045df492e5ecffab8075583f0206c65d92e8939b95e875bfa",
-    "title": "Siyah Flotter Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2981_48309_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2981_48309_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-flotter-deri-kadin-el-cantasi-790-1-2981",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.638Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 33,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b33b6332cff163f682c3cacc55c8460507a14019663f5f0caf134bf9e4716123",
-    "title": "Gri Açık Mlc Deri Kadın Omuz Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/omuz-cantasi-kadin-omuz-cantasi_3144_48173_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/omuz-cantasi-kadin-omuz-cantasi_3144_48173_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/gri-acik-mlc-deri-kadin-omuz-cantasi-6388-1-3144",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.645Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 34,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "gri/füme"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "gri/füme",
-        "gri",
-        "füme",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b224eedff3f433f75a94043e9d8e19fe4b65b86d19aab517c9001b325e80e903",
-    "title": "Siyah Deri Kadın Çapraz Çanta",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_4144_57364_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_4144_57364_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-capraz-canta-791-1-4144",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.652Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 35,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "deri çanta",
-        "leather",
-        "deri",
         "floater deri çanta",
         "floater",
         "siyah",
@@ -2847,9 +2928,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.659Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 36,
+    "timestamp": "2025-12-22T05:22:14.888Z",
+    "processId": "mjgplofnb6sie",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta",
@@ -2925,9 +3006,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.666Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 37,
+    "timestamp": "2025-12-22T05:22:14.894Z",
+    "processId": "mjgplofnb6sie",
+    "index": 38,
     "categories": {
       "productType": [
         "çanta",
@@ -2985,82 +3066,6 @@
     }
   },
   {
-    "id": "758cfe07fba3de8a418929dd661510ae80931749b3edcedaac28b09997a12d59",
-    "title": "Pudra Flotter Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3254_48170_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3254_48170_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/pudra-flotter-deri-kadin-el-cantasi-2999-1-3254",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.673Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 38,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "pudra"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "pudra",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "150a5703053d1d5ea57daabbc53a08d48d5df0abe61a085e7734e7b6b291c6e5",
     "title": "Mavi Koyu Deri Kadın El Çantası",
     "img": [
@@ -3081,8 +3086,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.680Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.902Z",
+    "processId": "mjgplofnb6sie",
     "index": 39,
     "categories": {
       "productType": [
@@ -3157,8 +3162,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.687Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.909Z",
+    "processId": "mjgplofnb6sie",
     "index": 40,
     "categories": {
       "productType": [
@@ -3214,6 +3219,82 @@
     }
   },
   {
+    "id": "758cfe07fba3de8a418929dd661510ae80931749b3edcedaac28b09997a12d59",
+    "title": "Pudra Flotter Deri Kadın El Çantası",
+    "img": [
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3254_48170_R2.jpg?v=0000"
+    ],
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3254_48170_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/pudra-flotter-deri-kadin-el-cantasi-2999-1-3254",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
+    "timestamp": "2025-12-22T05:22:14.916Z",
+    "processId": "mjgplofnb6sie",
+    "index": 41,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "pudra"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "pudra",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "ac2de0157b5aeeeeda31a8f340651367202ac7bbbde22a2c9764a7a2b9acb561",
     "title": "Bej Deri Kadın Deri Portföy",
     "img": [
@@ -3234,9 +3315,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.694Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 41,
+    "timestamp": "2025-12-22T05:22:14.923Z",
+    "processId": "mjgplofnb6sie",
+    "index": 42,
     "categories": {
       "productType": [
         "portföy"
@@ -3298,9 +3379,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.700Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 42,
+    "timestamp": "2025-12-22T05:22:14.929Z",
+    "processId": "mjgplofnb6sie",
+    "index": 43,
     "categories": {
       "productType": [
         "çanta",
@@ -3358,80 +3439,6 @@
     }
   },
   {
-    "id": "267b9a4db302d4ff9691ce552f6d2d57273177fbe67480e23ad06a6f806dc2c1",
-    "title": "Nud Deri Kadın Kol Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/kol-cantasi-kadin-kol-cantasi_3803_56522_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/kol-cantasi-kadin-kol-cantasi_3803_56522_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/nud-deri-kadin-kol-cantasi-7497-1-3803",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.708Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 43,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "9e52cc2a6efa379e1ad3d71b87ed8788f4c049f41128176f6cd5b154db54e26f",
     "title": "Sarı Deri Kadın Çapraz Çanta",
     "img": [
@@ -3452,8 +3459,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.716Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.936Z",
+    "processId": "mjgplofnb6sie",
     "index": 44,
     "categories": {
       "productType": [
@@ -3512,13 +3519,13 @@
     }
   },
   {
-    "id": "dc03b82dbdc8c4a5c13c2e575068ef68f93f4f02c91ff5eee6c5295466ea0677",
-    "title": "Siyah Deri Kadın Çapraz Çanta",
+    "id": "267b9a4db302d4ff9691ce552f6d2d57273177fbe67480e23ad06a6f806dc2c1",
+    "title": "Nud Deri Kadın Kol Çantası",
     "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_3799_57711_R2.jpg?v=0000"
+      "https://www.buenoshoes.com.tr/SFolder/ProductImages/kol-cantasi-kadin-kol-cantasi_3803_56522_R2.jpg?v=0000"
     ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/capraz-canta-kadin-capraz-canta_3799_57711_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-capraz-canta-791-1-3799",
+    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/kol-cantasi-kadin-kol-cantasi_3803_56522_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/nud-deri-kadin-kol-cantasi-7497-1-3803",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -3532,18 +3539,15 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.723Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.943Z",
+    "processId": "mjgplofnb6sie",
     "index": 45,
     "categories": {
       "productType": [
         "çanta",
-        "çapraz çanta",
+        "omuz çantası",
         "deri çanta",
         "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
       ],
       "gender": [
         "kadın"
@@ -3555,19 +3559,15 @@
         "çantası",
         "bag",
         "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
         "deri çanta",
         "leather",
         "deri",
         "floater deri çanta",
         "floater",
-        "siyah",
-        "black",
         "kadın",
         "kadin",
         "bayan",
@@ -3613,8 +3613,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.730Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.951Z",
+    "processId": "mjgplofnb6sie",
     "index": 46,
     "categories": {
       "productType": [
@@ -3695,8 +3695,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.736Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.957Z",
+    "processId": "mjgplofnb6sie",
     "index": 47,
     "categories": {
       "productType": [
@@ -3771,8 +3771,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.743Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.964Z",
+    "processId": "mjgplofnb6sie",
     "index": 48,
     "categories": {
       "productType": [
@@ -3835,8 +3835,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.750Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.971Z",
+    "processId": "mjgplofnb6sie",
     "index": 49,
     "categories": {
       "productType": [
@@ -3900,8 +3900,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.757Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.978Z",
+    "processId": "mjgplofnb6sie",
     "index": 50,
     "categories": {
       "productType": [
@@ -3964,8 +3964,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.765Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.986Z",
+    "processId": "mjgplofnb6sie",
     "index": 51,
     "categories": {
       "productType": [
@@ -4023,8 +4023,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.772Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.992Z",
+    "processId": "mjgplofnb6sie",
     "index": 52,
     "categories": {
       "productType": [
@@ -4082,8 +4082,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.779Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:14.999Z",
+    "processId": "mjgplofnb6sie",
     "index": 53,
     "categories": {
       "productType": [
@@ -4140,8 +4140,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.785Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:15.006Z",
+    "processId": "mjgplofnb6sie",
     "index": 54,
     "categories": {
       "productType": [
@@ -4203,8 +4203,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.792Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:15.013Z",
+    "processId": "mjgplofnb6sie",
     "index": 55,
     "categories": {
       "productType": [
@@ -4270,8 +4270,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.799Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:15.020Z",
+    "processId": "mjgplofnb6sie",
     "index": 56,
     "categories": {
       "productType": [
@@ -4329,8 +4329,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.806Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:15.027Z",
+    "processId": "mjgplofnb6sie",
     "index": 57,
     "categories": {
       "productType": [
@@ -4388,8 +4388,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.814Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:15.034Z",
+    "processId": "mjgplofnb6sie",
     "index": 58,
     "categories": {
       "productType": [
@@ -4452,8 +4452,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.821Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:15.040Z",
+    "processId": "mjgplofnb6sie",
     "index": 59,
     "categories": {
       "productType": [
@@ -4511,8 +4511,8 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.827Z",
-    "processId": "mj6pjixsdjmze",
+    "timestamp": "2025-12-22T05:22:15.047Z",
+    "processId": "mjgplofnb6sie",
     "index": 60,
     "categories": {
       "productType": [
@@ -4556,70 +4556,6 @@
     }
   },
   {
-    "id": "a0d0651556e8a1cf2793e530e06c9036b6228b9afc8c0070e96feb7ef53b9bf3",
-    "title": "Funky Red City Zip S Sırt Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/sirt-cantasi-city-zip-s-sirt-cantasi_3441_49440_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/sirt-cantasi-city-zip-s-sirt-cantasi_3441_49440_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/funky-red-city-zip-s-sirt-cantasi-7334-1-3441",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.835Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 61,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası"
-      ],
-      "color": [
-        "kırmızı"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "f73a786c7766ebd42b643d06e763a65ee0a30d97c64c91669d81c98d3dbaf744",
     "title": "Funky Red Gabbie S Omuz Çantası",
     "img": [
@@ -4640,9 +4576,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.842Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 62,
+    "timestamp": "2025-12-22T05:22:15.054Z",
+    "processId": "mjgplofnb6sie",
+    "index": 61,
     "categories": {
       "productType": [
         "çanta",
@@ -4705,9 +4641,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.849Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 63,
+    "timestamp": "2025-12-22T05:22:15.061Z",
+    "processId": "mjgplofnb6sie",
+    "index": 62,
     "categories": {
       "productType": [
         "çanta",
@@ -4764,9 +4700,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.855Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 64,
+    "timestamp": "2025-12-22T05:22:15.068Z",
+    "processId": "mjgplofnb6sie",
+    "index": 63,
     "categories": {
       "productType": [
         "çanta",
@@ -4823,9 +4759,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.862Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 65,
+    "timestamp": "2025-12-22T05:22:15.075Z",
+    "processId": "mjgplofnb6sie",
+    "index": 64,
     "categories": {
       "productType": [
         "çanta",
@@ -4882,9 +4818,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.869Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 66,
+    "timestamp": "2025-12-22T05:22:15.082Z",
+    "processId": "mjgplofnb6sie",
+    "index": 65,
     "categories": {
       "productType": [
         "çanta",
@@ -4946,9 +4882,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.876Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 67,
+    "timestamp": "2025-12-22T05:22:15.088Z",
+    "processId": "mjgplofnb6sie",
+    "index": 66,
     "categories": {
       "productType": [
         "çanta",
@@ -5005,9 +4941,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.883Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 68,
+    "timestamp": "2025-12-22T05:22:15.095Z",
+    "processId": "mjgplofnb6sie",
+    "index": 67,
     "categories": {
       "productType": [
         "çanta",
@@ -5064,9 +5000,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.890Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 69,
+    "timestamp": "2025-12-22T05:22:15.103Z",
+    "processId": "mjgplofnb6sie",
+    "index": 68,
     "categories": {
       "productType": [
         "none"
@@ -5119,9 +5055,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.897Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 70,
+    "timestamp": "2025-12-22T05:22:15.109Z",
+    "processId": "mjgplofnb6sie",
+    "index": 69,
     "categories": {
       "productType": [
         "none"
@@ -5174,9 +5110,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.904Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 71,
+    "timestamp": "2025-12-22T05:22:15.116Z",
+    "processId": "mjgplofnb6sie",
+    "index": 70,
     "categories": {
       "productType": [
         "none"
@@ -5230,9 +5166,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.911Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 72,
+    "timestamp": "2025-12-22T05:22:15.123Z",
+    "processId": "mjgplofnb6sie",
+    "index": 71,
     "categories": {
       "productType": [
         "none"
@@ -5286,9 +5222,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.918Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 73,
+    "timestamp": "2025-12-22T05:22:15.130Z",
+    "processId": "mjgplofnb6sie",
+    "index": 72,
     "categories": {
       "productType": [
         "none"
@@ -5341,9 +5277,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.925Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 74,
+    "timestamp": "2025-12-22T05:22:15.137Z",
+    "processId": "mjgplofnb6sie",
+    "index": 73,
     "categories": {
       "productType": [
         "none"
@@ -5396,9 +5332,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.932Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 75,
+    "timestamp": "2025-12-22T05:22:15.144Z",
+    "processId": "mjgplofnb6sie",
+    "index": 74,
     "categories": {
       "productType": [
         "çanta",
@@ -5474,9 +5410,9 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.938Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 76,
+    "timestamp": "2025-12-22T05:22:15.151Z",
+    "processId": "mjgplofnb6sie",
+    "index": 75,
     "categories": {
       "productType": [
         "çanta",
@@ -5505,85 +5441,6 @@
         "floater deri çanta",
         "floater",
         "mavi",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "1a19c1045862672069e7958fcd9918ead2e12801abe7c53e75da378814e25e72",
-    "title": "Siyah Deri Kadın Omuz Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3255_48626_R2.jpg?v=0000"
-    ],
-    "primaryImg": "https://www.buenoshoes.com.tr/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3255_48626_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-omuz-cantasi-791-1-3255",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "JavaScript: [...element.querySelectorAll('img.img-responsive')...",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-12-15T05:22:52.945Z",
-    "processId": "mj6pjixsdjmze",
-    "index": 77,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
         "kadın",
         "kadin",
         "bayan",
