@@ -1,84 +1,5 @@
 [
   {
-    "id": "cc3425851763a84941f7fa1ff063f10e3e66fa85d1a9378f87755bc697b75201",
-    "title": "CAMEL SÜET ÇANTA",
-    "img": [
-      "https://c38c9c.cdn.akinoncloud.com/products/2025/09/29/2734530/f506cba7-1078-43c9-b331-1d1c9aa22e64_size800x800_cropCenter.jpg",
-      "https://c38c9c.cdn.akinoncloud.com/products/2025/09/29/2734530/f506cba7-1078-43c9-b331-1d1c9aa22e64_size700x700_cropCenter.jpg"
-    ],
-    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2025/09/29/2734530/f506cba7-1078-43c9-b331-1d1c9aa22e64_size800x800_cropCenter.jpg",
-    "link": "https://www.sandro.com.tr/camel-suet-canta/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
-    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.136Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "süet çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "süet çanta",
-        "süet",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺ 24.950,00",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 24950,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺24.950,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "f78384060b8345102b2accf397d3daacba3a159f46b49708b5a8f484d10fe0e5",
     "title": "SÜET GEÇİŞLİ PÜSKÜLLÜ TANGOSO ÇANTA",
     "img": [
@@ -100,9 +21,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.172Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 1,
+    "timestamp": "2025-12-22T05:46:40.390Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -131,6 +52,18 @@
     "pageTitleValid": true,
     "priceAnalysis": {
       "parsedPrices": [
+        {
+          "value": "₺ 15.648,50",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 15648.5,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺15.648,50"
+        },
         {
           "value": "₺ 22.355,00",
           "selector": ".product-item__price pz-price",
@@ -171,9 +104,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.205Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 2,
+    "timestamp": "2025-12-22T05:46:40.426Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta"
@@ -207,6 +140,18 @@
     "pageTitleValid": true,
     "priceAnalysis": {
       "parsedPrices": [
+        {
+          "value": "₺ 19.278,00",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 19278,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺19.278,00"
+        },
         {
           "value": "₺ 27.540,00",
           "selector": ".product-item__price pz-price",
@@ -247,9 +192,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.242Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 3,
+    "timestamp": "2025-12-22T05:46:40.461Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -326,9 +271,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.276Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 4,
+    "timestamp": "2025-12-22T05:46:40.491Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -394,9 +339,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.314Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 5,
+    "timestamp": "2025-12-22T05:46:40.525Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -425,6 +370,18 @@
     "pageTitleValid": true,
     "priceAnalysis": {
       "parsedPrices": [
+        {
+          "value": "₺ 17.465,00",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 17465,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺17.465,00"
+        },
         {
           "value": "₺ 24.950,00",
           "selector": ".product-item__price pz-price",
@@ -465,9 +422,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.349Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 6,
+    "timestamp": "2025-12-22T05:46:40.560Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -496,6 +453,18 @@
     "pageTitleValid": true,
     "priceAnalysis": {
       "parsedPrices": [
+        {
+          "value": "₺ 14.742,00",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 14742,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺14.742,00"
+        },
         {
           "value": "₺ 21.060,00",
           "selector": ".product-item__price pz-price",
@@ -536,9 +505,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.386Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 7,
+    "timestamp": "2025-12-22T05:46:40.589Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 6,
     "categories": {
       "productType": [
         "çanta",
@@ -572,6 +541,18 @@
     "pageTitleValid": true,
     "priceAnalysis": {
       "parsedPrices": [
+        {
+          "value": "₺ 17.465,00",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 17465,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺17.465,00"
+        },
         {
           "value": "₺ 24.950,00",
           "selector": ".product-item__price pz-price",
@@ -612,9 +593,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.424Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 8,
+    "timestamp": "2025-12-22T05:46:40.627Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -695,9 +676,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.461Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 9,
+    "timestamp": "2025-12-22T05:46:40.663Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 8,
     "categories": {
       "productType": [
         "çanta",
@@ -772,9 +753,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.496Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 10,
+    "timestamp": "2025-12-22T05:46:40.701Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -849,9 +830,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.532Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 11,
+    "timestamp": "2025-12-22T05:46:40.734Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -942,9 +923,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.564Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 12,
+    "timestamp": "2025-12-22T05:46:40.772Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -1037,9 +1018,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.599Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 13,
+    "timestamp": "2025-12-22T05:46:40.805Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -1110,9 +1091,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.632Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 14,
+    "timestamp": "2025-12-22T05:46:40.843Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -1162,6 +1143,74 @@
     }
   },
   {
+    "id": "8151e70826127b6c7832f73b56706233013b1685b6aa4b7da4fbcff4adea5be7",
+    "title": "ZİNCİR AKSESUAR DETAYLI SİYAH ÇANTA",
+    "img": [
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/05/08/2263/148d5b61-dd6c-46b5-84dc-9e9285f8b291_size800x800_cropCenter.jpg",
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/05/08/2263/148d5b61-dd6c-46b5-84dc-9e9285f8b291_size700x700_cropCenter.jpg"
+    ],
+    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2024/05/08/2263/148d5b61-dd6c-46b5-84dc-9e9285f8b291_size800x800_cropCenter.jpg",
+    "link": "https://www.sandro.com.tr/zincir-aksesuar-detayli-siyah-canta/",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
+    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
+    "timestamp": "2025-12-22T05:46:40.875Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "₺ 25.605,00",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 25605,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺25.605,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "bb34ffd61c73872d85402ad3a7fbc6a9f5c1226048da9e92d5b88c0ad64069cc",
     "title": "KARAMEL JANET OMUZ ÇANTASI",
     "img": [
@@ -1183,8 +1232,8 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.669Z",
-    "processId": "mj6qh09ob3dga",
+    "timestamp": "2025-12-22T05:46:40.914Z",
+    "processId": "mjgqh3ok9mmfv",
     "index": 15,
     "categories": {
       "productType": [
@@ -1235,104 +1284,6 @@
     }
   },
   {
-    "id": "9c4dafbacfda23a3ffc7f4d840ca795ab8778169ff590a82dbcdad9daafb65a0",
-    "title": "TABA DERİ KASBAH EL ÇANTASI",
-    "img": [
-      "https://c38c9c.cdn.akinoncloud.com/products/2024/02/23/388290/766ff894-1ea3-42de-983b-2316b4262ae5_size800x800_cropCenter.jpg",
-      "https://c38c9c.cdn.akinoncloud.com/products/2024/02/23/388290/766ff894-1ea3-42de-983b-2316b4262ae5_size700x700_cropCenter.jpg"
-    ],
-    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2024/02/23/388290/766ff894-1ea3-42de-983b-2316b4262ae5_size800x800_cropCenter.jpg",
-    "link": "https://www.sandro.com.tr/taba-deri-kasbah-el-cantasi/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
-    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.711Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 16,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺ 5.851,50",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 5851.5,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺5.851,50"
-        },
-        {
-          "value": "₺ 19.505,00",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 19505,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺19.505,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "07008f5df7bdb014dd12625065a1b3969559d9f3e98dbacaa47ecc47553c7664",
     "title": "PEMBE KAPİTONELİ YZA ÇANTA",
     "img": [
@@ -1354,9 +1305,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.753Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 17,
+    "timestamp": "2025-12-22T05:46:40.960Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta"
@@ -1438,9 +1389,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.784Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 18,
+    "timestamp": "2025-12-22T05:46:41.001Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1529,9 +1480,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.814Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 19,
+    "timestamp": "2025-12-22T05:46:41.038Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -1613,9 +1564,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.845Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 20,
+    "timestamp": "2025-12-22T05:46:41.072Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1647,6 +1598,18 @@
     "pageTitleValid": true,
     "priceAnalysis": {
       "parsedPrices": [
+        {
+          "value": "₺ 17.465,00",
+          "selector": ".product-item__price pz-price",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 17465,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺17.465,00"
+        },
         {
           "value": "₺ 24.950,00",
           "selector": ".product-item__price pz-price",
@@ -1687,9 +1650,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.881Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 21,
+    "timestamp": "2025-12-22T05:46:41.104Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1759,9 +1722,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.918Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 22,
+    "timestamp": "2025-12-22T05:46:41.141Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1838,9 +1801,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.954Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 23,
+    "timestamp": "2025-12-22T05:46:41.176Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta"
@@ -1912,9 +1875,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:54.988Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 24,
+    "timestamp": "2025-12-22T05:46:41.214Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta"
@@ -1976,92 +1939,6 @@
     }
   },
   {
-    "id": "687ce9941f4b92dc2b50d35476cfd4c4df7636a65f69739a8ee74ca7c62444a9",
-    "title": "METALİK GÜMÜŞ DERİ OMUZ ÇANTASI",
-    "img": [
-      "https://c38c9c.cdn.akinoncloud.com/products/2023/05/16/1127/39bfed25-0026-46dc-ac81-d838affc6df6_size800x800_cropCenter.jpg",
-      "https://c38c9c.cdn.akinoncloud.com/products/2023/05/16/1127/39bfed25-0026-46dc-ac81-d838affc6df6_size700x700_cropCenter.jpg"
-    ],
-    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2023/05/16/1127/39bfed25-0026-46dc-ac81-d838affc6df6_size800x800_cropCenter.jpg",
-    "link": "https://www.sandro.com.tr/metalik-gumus-deri-omuz-cantasi/",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
-    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:55.025Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 25,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "gümüş/silver"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "gümüş/silver",
-        "gümüş",
-        "silver"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "₺ 12.635,00",
-          "selector": ".product-item__price pz-price",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 12635,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺12.635,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "72a9970c9a4f3597439429a9a57ed296db9ade1abde582c68bb79655eb216bcf",
     "title": "SİYAH TOKALI KAPAKLI SIRT ÇANTASI",
     "img": [
@@ -2083,9 +1960,9 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-12-15T05:48:55.066Z",
-    "processId": "mj6qh09ob3dga",
-    "index": 26,
+    "timestamp": "2025-12-22T05:46:41.250Z",
+    "processId": "mjgqh3ok9mmfv",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
