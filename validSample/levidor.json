@@ -1,14 +1,1492 @@
 [
   {
+    "id": "860936cf4ddea939d4e102162501c2215fcc1bb33e94f959ebe0cba47152c707",
+    "title": "Haki Metal Örgü Kenar Desen El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorhaki-metal-orgu-kenar-desen-el--8e-465.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-metal-orgu-kenar-desen-el--42909c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-metal-orgu-kenar-desen-el--630-b4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-metal-orgu-kenar-desen-el--6b12ec.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorhaki-metal-orgu-kenar-desen-el--8e-465.jpg",
+    "link": "https://www.levidor.com.tr/haki-metal-orgu-kenar-desen-el-cantasi-51011",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.109Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.380,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3380,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.380,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ef229303e063c71ae9d3fd1bb71cac470df61c79924ff826b6ccf887c36448b5",
+    "title": "Camel Süet Dokulu Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-suet-dokulu-omuz-cantasi-b9c-44.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-suet-dokulu-omuz-cantasi--bb32-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-suet-dokulu-omuz-cantasi-2eb-a2.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-suet-dokulu-omuz-cantasi-ef47-0.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-suet-dokulu-omuz-cantasi-b9c-44.jpg",
+    "link": "https://www.levidor.com.tr/camel-suet-dokulu-omuz-cantasi-50990",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.147Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "okul çantası",
+        "süet çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "okul çantası",
+        "okul",
+        "süet çanta",
+        "süet",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.500,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "a3fde1ef8cdb9c3f8afb7bef1cc30d2b612836f56a97afe5a79855d2e6349497",
+    "title": "Camel Oval Model El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-oval-model-el-cantasi-e1-97f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-oval-model-el-cantasi-0e89ec.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-oval-model-el-cantasi-2c-46d.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-oval-model-el-cantasi-45f0-8.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-oval-model-el-cantasi-e1-97f.jpg",
+    "link": "https://www.levidor.com.tr/camel-oval-model-el-cantasi-51019",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.185Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.380,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3380,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.380,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "fc0b7d060eeb0c5cdc75a6f27d9ad76ff7bb41329430d8965bcc907cf69d4a4d",
+    "title": "Haki Çift Renkli Zincirli El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorhaki-cift-renkli-zincirli-el-ca-b66cb-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-renkli-zincirli-el-ca-68f3f9.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-renkli-zincirli-el-ca-0959c0.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-renkli-zincirli-el-ca-b10605.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorhaki-cift-renkli-zincirli-el-ca-b66cb-.jpg",
+    "link": "https://www.levidor.com.tr/haki-cift-renkli-zincirli-el-cantasi-51023",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.227Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "zincir askılı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.500,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "eb5bd4013c2489707a142233238222bed64b06bb3002a52c4352ab9378bc61df",
+    "title": "Camel Üçgen Form El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-ucgen-form-el-cantasi-9743-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ucgen-form-el-cantasi-5f-995.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ucgen-form-el-cantasi-256-42.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ucgen-form-el-cantasi-a92-41.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-ucgen-form-el-cantasi-9743-4.jpg",
+    "link": "https://www.levidor.com.tr/camel-ucgen-form-el-cantasi-51029",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.268Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.500,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "f7fd324211fc54f565ccbfa40b155688020b063d2a3255b5777c85644e54d8ae",
+    "title": "Kahve Zincir Desenli Geniş Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorkahve-zincir-desenli-genis-omuz-2f00fd.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkahve-zincir-desenli-genis-omuz-f8f94-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkahve-zincir-desenli-genis-omuz-39261a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkahve-zincir-desenli-genis-omuz--06595.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorkahve-zincir-desenli-genis-omuz-2f00fd.jpg",
+    "link": "https://www.levidor.com.tr/kahve-zincir-desenli-genis-omuz-cantasi-51032",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.305Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 5,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.500,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ce5cd76a34caf284d33960d0a6c8e9eee8e9fa065a20566f8922a9da5935b75d",
+    "title": "Haki Şerit Askılı El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-serit-askili-el-cantasi-632-3c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-serit-askili-el-cantasi-2-9122.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-serit-askili-el-cantasi-3-4f56.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-serit-askili-el-cantasi-ef1-68.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-serit-askili-el-cantasi-632-3c.jpg",
+    "link": "https://www.levidor.com.tr/haki-serit-askili-el-cantasi-51049",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.344Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.580,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3580,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.580,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "0d053a49b0a86f7ecc0fdaf3170cb335a13b92a8f68dd18df79791c3769f0c2c",
+    "title": "Camel Düz Kapaklı Kapitone El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-duz-kapakli-kapitone-el-c-7ccf49.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-duz-kapakli-kapitone-el-c-7dff-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-duz-kapakli-kapitone-el-c-f942-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-duz-kapakli-kapitone-el-c-36e982.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-duz-kapakli-kapitone-el-c-7ccf49.jpg",
+    "link": "https://www.levidor.com.tr/camel-duz-kapakli-kapitone-el-cantasi-51040",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.380Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 7,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "Düz çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "düz çanta",
+        "düz",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.380,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3380,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.380,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "4d10c495f367a67747dd0f53a2ca066393e85f82da403e82712578373a361a43",
+    "title": "Siyah Yuvarlak Form El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-form-el-cantasi-5bd997.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-form-el-cantasi-9-443c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-form-el-cantasi-88bc38.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-form-el-cantasi-0bcc66.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-form-el-cantasi-5bd997.jpg",
+    "link": "https://www.levidor.com.tr/siyah-yuvarlak-form-el-cantasi-51041",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.417Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 8,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "siyah",
+        "black"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.300,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3300,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.300,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "7f00a5aba4c89e254ab16edc7a50840eb3662fc1d638b2553100d08ed10bfda0",
+    "title": "Şerit Askılı El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorserit-askili-el-cantasi--0bb47.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorserit-askili-el-cantasi-d0eede.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorserit-askili-el-cantasi-450-b8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorserit-askili-el-cantasi-0f70-e.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorserit-askili-el-cantasi--0bb47.jpg",
+    "link": "https://www.levidor.com.tr/serit-askili-el-cantasi-51046",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.450Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 9,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.580,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3580,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.580,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "dca8b0fc70ca0c49e230f33a03bb0669671777bfc1ee72a2845e7ee57ed8d609",
+    "title": "Yeşil Charmlı Örgü Model El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidoryesil-charmli-orgu-model-el-can-0c-7fa.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidoryesil-charmli-orgu-model-el-can-0-6616.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidoryesil-charmli-orgu-model-el-can-4-2d5e.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidoryesil-charmli-orgu-model-el-can-7f-91e.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidoryesil-charmli-orgu-model-el-can-0c-7fa.jpg",
+    "link": "https://www.levidor.com.tr/yesil-charmli-orgu-model-el-cantasi-51053",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.489Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 10,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "yeşil"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "yeşil"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.200,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3200,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.200,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "0ef22c60dfd4e5cc29615fea5e4c6159e1c2d0310416f295c73b14860c8277b3",
+    "title": "Camel Metal Askılı El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-metal-askili-el-cantasi-b4-b25.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-metal-askili-el-cantasi-95377c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-metal-askili-el-cantasi-d-8d40.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-metal-askili-el-cantasi-c-9b7c.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-metal-askili-el-cantasi-b4-b25.jpg",
+    "link": "https://www.levidor.com.tr/camel-metal-askili-el-cantasi-51066",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.529Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 11,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.500,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "66fb40bc06476d787dc7904a135711b5181a9edd8cb1778582f035569fa4f4c0",
+    "title": "Camel Uzun Zincir Askılı Büyük Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-uzun-zincir-askili-buyuk--1e8a-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-uzun-zincir-askili-buyuk---ab56-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-uzun-zincir-askili-buyuk--6-4d8e.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-uzun-zincir-askili-buyuk--62cc-4.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-uzun-zincir-askili-buyuk--1e8a-4.jpg",
+    "link": "https://www.levidor.com.tr/camel-uzun-zincir-askili-buyuk-omuz-cantasi-51071",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.574Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 12,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "büyük çanta",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "uzun askılı çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "uzun askılı çanta",
+        "uzun",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.580,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3580,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.580,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "58a5f919d4c81a846923c2eec3ba2afcc149cdcdc925a220eb43b7bd7a861823",
+    "title": "KOYU KAHVE Etnik Desenli El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkoyu-kahve-etnik-desenli-el-can-94c4-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkoyu-kahve-etnik-desenli-el-can-f-0fc3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkoyu-kahve-etnik-desenli-el-can-6cf6c1.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkoyu-kahve-etnik-desenli-el-can-d358cb.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkoyu-kahve-etnik-desenli-el-can-4aca-9.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkoyu-kahve-etnik-desenli-el-can-94c4-4.jpg",
+    "link": "https://www.levidor.com.tr/koyu-kahve-etnik-desenli-el-cantasi-50991",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.616Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 13,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.580,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3580,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.580,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5ce8e9c7bf1e38b33a29dd1a7b6db3d756b46c13e97432d0f9a4a83fc4e0795c",
+    "title": "Sarı Örgü Top Aksesuarlı El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsari-orgu-top-aksesuarli-el-can-c-5d3f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsari-orgu-top-aksesuarli-el-can-4120-9.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsari-orgu-top-aksesuarli-el-can-033-c2.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsari-orgu-top-aksesuarli-el-can--1c483.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsari-orgu-top-aksesuarli-el-can-c-5d3f.jpg",
+    "link": "https://www.levidor.com.tr/sari-orgu-top-aksesuarli-el-cantasi-50995",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.660Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 14,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "sarı"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "sarı"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.180,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3180,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.180,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "5c1d96dac1c38b096d64456e549300c718c7d9f2ecae931822f87619ffd91a9c",
+    "title": "Süet Görünümlü Kilitli El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsuet-gorunumlu-kilitli-el-canta-02-8c7.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsuet-gorunumlu-kilitli-el-canta-9028-6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsuet-gorunumlu-kilitli-el-canta-1c6f86.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsuet-gorunumlu-kilitli-el-canta-fd3e5-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsuet-gorunumlu-kilitli-el-canta-02-8c7.jpg",
+    "link": "https://www.levidor.com.tr/suet-gorunumlu-kilitli-el-cantasi-50997",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.706Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 15,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası",
+        "süet çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "süet çanta",
+        "süet"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.500,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "70e9c2da01af7790c8778439a3603d8af1e3a147e9e4b9cfe5910781362de175",
+    "title": "Camel Kelebek Tokalı El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-kelebek-tokali-el-cantasi--e26a-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-kelebek-tokali-el-cantasi-42d-87.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-kelebek-tokali-el-cantasi-a-5539.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-kelebek-tokali-el-cantasi-3e8309.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-kelebek-tokali-el-cantasi--e26a-.jpg",
+    "link": "https://www.levidor.com.tr/camel-kelebek-tokali-el-cantasi-51007",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.747Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 16,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.500,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3500,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.500,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "ac6ea1370b9985e9c7b12aec704bd82827a5fa6d882a796caedbf6901937c2fc",
+    "title": "Krem Metal Örgü Kenar Desen El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-metal-orgu-kenar-desen-el---7b4e-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-metal-orgu-kenar-desen-el--9-d152.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-metal-orgu-kenar-desen-el--c7-410.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-metal-orgu-kenar-desen-el--f0eeae.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-metal-orgu-kenar-desen-el---7b4e-.jpg",
+    "link": "https://www.levidor.com.tr/krem-metal-orgu-kenar-desen-el-cantasi-51010",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:04.780Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 17,
+    "categories": {
+      "productType": [
+        "çanta",
+        "el çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "el çantası",
+        "el"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.380,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3380,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.380,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "f6f38dbe854374c41da1bbc90fe934541c6a06aec20fd31dbfcdcdb61f3218d3",
     "title": "A.Gri Zincirli Kalp Aksesuarlı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidora-2feea3.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidora-d91ef7.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidora-1967c2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidora-4e052c.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidora-2feea3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidora-d91ef7.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidora-1967c2.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidora-4e052c.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidora-2feea3.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidora-2feea3.jpg",
     "link": "https://www.levidor.com.tr/a.gri-zincirli-kalp-aksesuarli-el-cantasi-50327",
     "videos": [],
     "productNotInStock": false,
@@ -23,9 +1501,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.651Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 0,
+    "timestamp": "2025-12-22T05:56:04.818Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 18,
     "categories": {
       "productType": [
         "çanta",
@@ -86,12 +1564,12 @@
     "id": "386a6f4f06b6a89209294c5c4e0a596b801e1838c8d9e8a9d078d3c0db32f08e",
     "title": "Haki Çift Bölmeli Kapitone El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-4853-b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-d5e965.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-1e8a-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-766914.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-4853-b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-d5e965.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-1e8a-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-766914.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-4853-b.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-cift-bolmeli-kapitone-el-c-4853-b.jpg",
     "link": "https://www.levidor.com.tr/haki-cift-bolmeli-kapitone-el-cantasi-50337",
     "videos": [],
     "productNotInStock": false,
@@ -106,9 +1584,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.692Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 1,
+    "timestamp": "2025-12-22T05:56:04.863Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -159,12 +1637,12 @@
     "id": "d0250a4a0db417e953fa7ed151aca1e1cd12b2bb2dcd9ff95769ca64a2c57f0e",
     "title": "Camel İnci Ve Kalp Aksesuar Detaylı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-ed5-96.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-115f0d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-8f-4f7.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-770304.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-ed5-96.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-115f0d.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-8f-4f7.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-770304.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-ed5-96.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-inci-ve-kalp-aksesuar-det-ed5-96.jpg",
     "link": "https://www.levidor.com.tr/camel-inci-ve-kalp-aksesuar-detayli-omuz-cantasi-50340",
     "videos": [],
     "productNotInStock": false,
@@ -179,9 +1657,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.733Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 2,
+    "timestamp": "2025-12-22T05:56:04.909Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -246,12 +1724,12 @@
     "id": "3fddd788beb037fc5c777597c087ae7ad1b35448e2a43a71c8dc576b42f4e018",
     "title": "Gri Cep Fermuar Detaylı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-0-6751.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-0b7-bb.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-19-924.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-2-fcba.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-0-6751.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-0b7-bb.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-19-924.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-2-fcba.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-0-6751.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cep-fermuar-detayli-el-cant-0-6751.jpg",
     "link": "https://www.levidor.com.tr/gri-cep-fermuar-detayli-el-cantasi-50347",
     "videos": [],
     "productNotInStock": false,
@@ -266,9 +1744,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.776Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 3,
+    "timestamp": "2025-12-22T05:56:04.953Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -332,12 +1810,12 @@
     "id": "43d9176c7d3d3bc9cc9a350fed77beab3bf99518f4c3f6c18f027005abcfc5ba",
     "title": "Camel Ayarlanabilir Askılı Kutu Form El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-ee3-cf.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-3-77a7.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-b-a852.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-b21335.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-ee3-cf.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-3-77a7.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-b-a852.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-b21335.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-ee3-cf.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-ayarlanabilir-askili-kutu-ee3-cf.jpg",
     "link": "https://www.levidor.com.tr/camel-ayarlanabilir-askili-kutu-form-el-cantasi-50351",
     "videos": [],
     "productNotInStock": false,
@@ -352,9 +1830,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.817Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 4,
+    "timestamp": "2025-12-22T05:56:04.996Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -424,12 +1902,12 @@
     "id": "eef30b8a56e0c276f85dd6fc70cd812318ce3cb587b037af741f0d9c1e9b201f",
     "title": "Haki Zincir Aksesuarlı Baget Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-7-925c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-6fd1-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-0-4b6d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-cf77-a.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-7-925c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-6fd1-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-0-4b6d.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-cf77-a.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=90,format=webp/59645/Uploads/UrunResimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-7-925c.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorhaki-zincir-aksesuarli-baget-om-7-925c.jpg",
     "link": "https://www.levidor.com.tr/haki-zincir-aksesuarli-baget-omuz-cantasi-50355",
     "videos": [],
     "productNotInStock": false,
@@ -444,9 +1922,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.854Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 5,
+    "timestamp": "2025-12-22T05:56:05.040Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -506,12 +1984,12 @@
     "id": "b4cf89ff5dbd88b932f12d4195ae4cd791275679766fb8cca493f90d467d5cbe",
     "title": "Kırmızı Çoklu Cep Bölmeli Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz--f77-b8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz--24f5-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz---b17a-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz--dbb0-4.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz--f77-b8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz--24f5-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz---b17a-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz--dbb0-4.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz--f77-b8.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-coklu-cep-bolmeli-omuz--f77-b8.jpg",
     "link": "https://www.levidor.com.tr/kirmizi-coklu-cep-bolmeli-omuz-cantasi-50363",
     "videos": [],
     "productNotInStock": false,
@@ -526,9 +2004,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.895Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 6,
+    "timestamp": "2025-12-22T05:56:05.084Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -587,12 +2065,12 @@
     "id": "83eee6f07cad84e1081a3c8c43336697132340133da207f45ffe5476e8c7a11f",
     "title": "Lacivert Mini Boy Deri Kapak Detaylı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de--84ae-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de-0eb6-3.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de-4a-3c0.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de-a5d7-6.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de--84ae-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de-0eb6-3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de-4a-3c0.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de-a5d7-6.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de--84ae-.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-mini-boy-deri-kapak-de--84ae-.jpg",
     "link": "https://www.levidor.com.tr/lacivert-mini-boy-deri-kapak-detayli-el-cantasi-45979",
     "videos": [],
     "productNotInStock": false,
@@ -607,9 +2085,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.937Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 7,
+    "timestamp": "2025-12-22T05:56:05.123Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -678,12 +2156,12 @@
     "id": "dcce8135544558875830f860a6e7e55bf6b2ad063eb8ac69507770a7e1edd010",
     "title": "Siyah Çift Fermuarlı Ayarlanabilir Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-27a6f4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-4ce2c2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-c397eb.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-74b2a4.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-27a6f4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-4ce2c2.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-c397eb.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-74b2a4.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-27a6f4.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-fermuarli-ayarlanabi-27a6f4.jpg",
     "link": "https://www.levidor.com.tr/siyah-cift-fermuarli-ayarlanabilir-omuz-cantasi-47437",
     "videos": [],
     "productNotInStock": false,
@@ -698,9 +2176,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:01.979Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 8,
+    "timestamp": "2025-12-22T05:56:05.166Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -761,12 +2239,12 @@
     "id": "fd747dc50c4c49a7712f1337e48943b6bd60344283763dcc63ab6b7c21f4921e",
     "title": "Gri Çift Bölmeli Kalın Askılı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o-52ed6c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o-794153.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o-8-985f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o--bbcc-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o-52ed6c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o-794153.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o-8-985f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o--bbcc-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o-52ed6c.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorgri-cift-bolmeli-kalin-askili-o-52ed6c.jpg",
     "link": "https://www.levidor.com.tr/gri-cift-bolmeli-kalin-askili-omuz-cantasi-47228",
     "videos": [],
     "productNotInStock": false,
@@ -781,9 +2259,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.021Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 9,
+    "timestamp": "2025-12-22T05:56:05.206Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -853,12 +2331,12 @@
     "id": "60eba960970879c238541fd20c4d0a8540d3804cbf1552028852e621dd87d044",
     "title": "Siyah Zincir Detaylı Trend Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz-fe2991.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz-8-d6d4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz--41db-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz-4c-4f6.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz-fe2991.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz-8-d6d4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz--41db-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz-4c-4f6.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz-fe2991.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-zincir-detayli-trend-omuz-fe2991.jpg",
     "link": "https://www.levidor.com.tr/siyah-inci-zincir-detay-el-cantasi-43892",
     "videos": [],
     "productNotInStock": false,
@@ -873,9 +2351,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.067Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 10,
+    "timestamp": "2025-12-22T05:56:05.245Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -941,12 +2419,12 @@
     "id": "5cd00e5e63d56539e02cdbf5ffdcd246c2bdf6fedada332a414f6ca7e43da0e1",
     "title": "Siyah Deri Kapaklı Uzun Askılı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili--29e1e8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili---4d4c-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili--83-9aa.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili--2b19d2.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili--29e1e8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili---4d4c-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili--83-9aa.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili--2b19d2.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili--29e1e8.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-deri-kapakli-uzun-askili--29e1e8.jpg",
     "link": "https://www.levidor.com.tr/siyah-deri-kapakli-uzun-askili-omuz-cantasi-46355",
     "videos": [],
     "productNotInStock": false,
@@ -961,9 +2439,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.109Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 11,
+    "timestamp": "2025-12-22T05:56:05.287Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -1042,12 +2520,12 @@
     "id": "a6f8ced6edafad48f278bd06bddf2766437203a06050c9a2aed26476ca01e7d4",
     "title": "Camel Mini Boy Deri Kapak Detaylı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-5-7959.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-c10254.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-be-813.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-c521ef.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-5-7959.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-c10254.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-be-813.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-c521ef.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-5-7959.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-mini-boy-deri-kapak-detay-5-7959.jpg",
     "link": "https://www.levidor.com.tr/camel-mini-boy-deri-kapak-detayli-el-cantasi-45988",
     "videos": [],
     "productNotInStock": false,
@@ -1062,9 +2540,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.151Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 12,
+    "timestamp": "2025-12-22T05:56:05.328Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -1137,12 +2615,12 @@
     "id": "5271482caeff56c40d87fab9ad2bee70509cea7991eac2089a84376e7d3fe09c",
     "title": "Siyah Gold Kilit Detaylı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can--e834c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can-f0-69c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can-ddc-a6.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can-e-9ed7.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can--e834c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can-f0-69c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can-ddc-a6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can-e-9ed7.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can--e834c.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-kilit-detayli-el-can--e834c.jpg",
     "link": "https://www.levidor.com.tr/siyah-gold-kilit-detayli-el-cantasi-46413",
     "videos": [],
     "productNotInStock": false,
@@ -1157,9 +2635,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.193Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 13,
+    "timestamp": "2025-12-22T05:56:05.372Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -1223,12 +2701,12 @@
     "id": "e76692664bc2af3f71ac10460dda15a7fb0c1474bf7f3c387247df2c8997f19a",
     "title": "Siyah Mini Boy Deri Kapak Detaylı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay--8ffdc.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay-ffb727.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay-1e20a3.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay-f4f-8b.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay--8ffdc.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay-ffb727.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay-1e20a3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay-f4f-8b.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay--8ffdc.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-boy-deri-kapak-detay--8ffdc.jpg",
     "link": "https://www.levidor.com.tr/siyah-mini-boy-deri-kapak-detayli-el-cantasi-45976",
     "videos": [],
     "productNotInStock": false,
@@ -1243,9 +2721,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.227Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 14,
+    "timestamp": "2025-12-22T05:56:05.412Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -1315,12 +2793,12 @@
     "id": "07cf8218758fdd49b0c9b1ef3b8a719b5f871eac4b66928d7bf8465a2e059ff7",
     "title": "Krem Zincir Detaylı Trend Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--9dc-96.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--30b858.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--c1db09.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--62aa73.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--9dc-96.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--30b858.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--c1db09.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--62aa73.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--9dc-96.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-zincir-detayli-trend-omuz--9dc-96.jpg",
     "link": "https://www.levidor.com.tr/krem-inci-zincir-detay-el-cantasi-43893",
     "videos": [],
     "productNotInStock": false,
@@ -1335,9 +2813,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.274Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 15,
+    "timestamp": "2025-12-22T05:56:05.453Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta",
@@ -1398,12 +2876,12 @@
     "id": "6ed504dd0cb240c23db0146c375883ca54855ae62b726bd0473a6e1447a511ae",
     "title": "Krem Gümüş Kilit Aksesuar Detaylı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay--f8b92.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay-aadbad.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay-a614d4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay-837f-d.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay--f8b92.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay-aadbad.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay-a614d4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay-837f-d.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay--f8b92.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-gumus-kilit-aksesuar-detay--f8b92.jpg",
     "link": "https://www.levidor.com.tr/krem-gumus-kilit-aksesuar-detayli-el-cantasi-46042",
     "videos": [],
     "productNotInStock": false,
@@ -1418,9 +2896,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.313Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 16,
+    "timestamp": "2025-12-22T05:56:05.492Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -1481,12 +2959,12 @@
     "id": "dea2ba83ea968268616b8a746cdc5b2a8644507ca8c99bed6648ffca3dc7bdda",
     "title": "Taba Büzgü Askılı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-e3c-8b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-10a-4e.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-9653-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-599a19.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-e3c-8b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-10a-4e.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-9653-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-599a19.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-e3c-8b.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidortaba-buzgu-askili-omuz-cantasi-e3c-8b.jpg",
     "link": "https://www.levidor.com.tr/taba-buzgu-askili-omuz-cantasi-46748",
     "videos": [],
     "productNotInStock": false,
@@ -1501,9 +2979,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.357Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 17,
+    "timestamp": "2025-12-22T05:56:05.535Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -1575,12 +3053,12 @@
     "id": "d9b49513a63e6afc4c856e67b97fe4a0a1df9f9ec453cfc5e04612298ad8ad72",
     "title": "Siyah Çevirme Kilit Aksesuarlı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli--4a773a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli---4ba1-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli---4d33-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli--155a9-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli--4a773a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli---4ba1-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli---4d33-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli--155a9-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli--4a773a.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cevirme-kilit-aksesuarli--4a773a.jpg",
     "link": "https://www.levidor.com.tr/siyah-cevirme-kilit-aksesuarli-omuz-cantasi-46172",
     "videos": [],
     "productNotInStock": false,
@@ -1595,9 +3073,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.396Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 18,
+    "timestamp": "2025-12-22T05:56:05.576Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
@@ -1652,15 +3130,91 @@
     }
   },
   {
+    "id": "285709b91b230fa5df64e02f21e3438d30d37c4858dd7888f7cb7c5576f885e3",
+    "title": "SİYAH RUGAN Dama Desen Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-rugan-dama-desen-omuz-can-34c6c6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-rugan-dama-desen-omuz-can-873-40.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-rugan-dama-desen-omuz-can-b85-1f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-rugan-dama-desen-omuz-can-930-44.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-rugan-dama-desen-omuz-can-a0d9b6.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-rugan-dama-desen-omuz-can-34c6c6.jpg",
+    "link": "https://www.levidor.com.tr/levidor-siyah-rugan-levidor-canta",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:56:05.627Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 37,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "1.798,00 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 1798,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺1.798,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "d169a93bafd68c829e0eb86575ad01ce2af4f8f7ca738703345689fb2e18e31e",
     "title": "Camel Deri Kapaklı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu-2b0f-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu-e-261a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu-f832-3.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu--4020-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu-2b0f-4.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu-e-261a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu-f832-3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu--4020-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu-2b0f-4.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorcamel-deri-kapak-aksesuarli-omu-2b0f-4.jpg",
     "link": "https://www.levidor.com.tr/camel-deri-kapak-aksesuarli-omuz-cantasi-45966",
     "videos": [],
     "productNotInStock": false,
@@ -1675,9 +3229,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.442Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 19,
+    "timestamp": "2025-12-22T05:56:05.672Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 38,
     "categories": {
       "productType": [
         "çanta",
@@ -1745,12 +3299,12 @@
     "id": "5a6f5e3c5020a2465d5cffed5611b1d7ae8f4df5b1dafed157e20982758e7710",
     "title": "Lacivert Deri Kapaklı Uzun Askılı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-3-6d86.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-9162e0.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-254-b9.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-886d49.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-3-6d86.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-9162e0.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-254-b9.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-886d49.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-3-6d86.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapakli-uzun-aski-3-6d86.jpg",
     "link": "https://www.levidor.com.tr/lacivert-deri-kapakli-uzun-askili-omuz-cantasi-46357",
     "videos": [],
     "productNotInStock": false,
@@ -1765,9 +3319,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.482Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 20,
+    "timestamp": "2025-12-22T05:56:05.713Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 39,
     "categories": {
       "productType": [
         "çanta",
@@ -1845,12 +3399,12 @@
     "id": "b5d5d8b006716dcc1e18f76b8321f1a9071622ebf3f43e33583e8353770ed6aa",
     "title": "Siyah Gümüş Kilit Aksesuar Detaylı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-0f0-ee.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-f198a1.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-b48b-a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-88de-1.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-0f0-ee.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-f198a1.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-b48b-a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-88de-1.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-0f0-ee.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-gumus-kilit-aksesuar-deta-0f0-ee.jpg",
     "link": "https://www.levidor.com.tr/siyah-gumus-kilit-aksesuar-detayli-el-cantasi-46043",
     "videos": [],
     "productNotInStock": false,
@@ -1865,9 +3419,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.523Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 21,
+    "timestamp": "2025-12-22T05:56:05.758Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 40,
     "categories": {
       "productType": [
         "çanta",
@@ -1931,12 +3485,12 @@
     "id": "8a997af36b9bf9ba06a1d005d41e7eb4f13b21f6a066db031936141afcfbe785",
     "title": "Siyah Mini Zincir Aksesuarlı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-513af2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-a49313.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-356a9c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-4831-f.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-513af2.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-a49313.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-356a9c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-4831-f.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-513af2.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-zincir-aksesuarli-el-513af2.jpg",
     "link": "https://www.levidor.com.tr/siyah-mini-zincir-aksesuarli-el-cantasi-45928",
     "videos": [],
     "productNotInStock": false,
@@ -1951,9 +3505,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.568Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 22,
+    "timestamp": "2025-12-22T05:56:05.800Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 41,
     "categories": {
       "productType": [
         "çanta",
@@ -2016,12 +3570,12 @@
     "id": "3f151c0e88bf0d3024d3e062dc079b8c25389a1c3df6ab65e06a244f3ec3979d",
     "title": "Siyah Çift Bölmeli Kalın Askılı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili-64405c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili-468609.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili-4c8e-b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili--bdc5-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili-64405c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili-468609.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili-4c8e-b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili--bdc5-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili-64405c.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-cift-bolmeli-kalin-askili-64405c.jpg",
     "link": "https://www.levidor.com.tr/siyah-cift-bolmeli-kalin-askili-omuz-cantasi-47224",
     "videos": [],
     "productNotInStock": false,
@@ -2036,9 +3590,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.613Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 23,
+    "timestamp": "2025-12-22T05:56:05.840Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 42,
     "categories": {
       "productType": [
         "çanta",
@@ -2107,12 +3661,12 @@
     "id": "c2f40a8c8fe0d67a2e9fd31fe9796940aa17fc1a62066ab0d0767a0f7a5ae845",
     "title": "Krem Mini Boy Deri Kapak Detaylı El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-ec7-47.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-9-6d5b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-82-45f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-280-fc.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-ec7-47.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-9-6d5b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-82-45f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-280-fc.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-ec7-47.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-mini-boy-deri-kapak-detayl-ec7-47.jpg",
     "link": "https://www.levidor.com.tr/krem-mini-boy-deri-kapak-detayli-el-cantasi-45980",
     "videos": [],
     "productNotInStock": false,
@@ -2127,9 +3681,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.651Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 24,
+    "timestamp": "2025-12-22T05:56:05.884Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 43,
     "categories": {
       "productType": [
         "çanta",
@@ -2194,12 +3748,12 @@
     "id": "b9db5fedba4325c145a13ae31ed33de3034d3d7e8164831d7dfba5dcaa9d7e51",
     "title": "Siyah Aksesuar Taş Detaylı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-6-d949.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-c-801b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-98f-9a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-81fe23.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-6-d949.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-c-801b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-98f-9a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-81fe23.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-6-d949.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-tas-detayli-omuz-6-d949.jpg",
     "link": "https://www.levidor.com.tr/siyah-aksesuar-tas-detayli-omuz-cantasi-45715",
     "videos": [],
     "productNotInStock": false,
@@ -2214,9 +3768,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.694Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 25,
+    "timestamp": "2025-12-22T05:56:05.927Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 44,
     "categories": {
       "productType": [
         "çanta",
@@ -2278,12 +3832,12 @@
     "id": "93ae845e71e85554145c917cf793c86b6d5e79b745875d920414af5a6f89d78a",
     "title": "Siyah Fular Detaylı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas-17815b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas--abed-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas-1-2504.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas-40eaae.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas-17815b.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas--abed-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas-1-2504.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas-40eaae.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas-17815b.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-fular-detayli-omuz-cantas-17815b.jpg",
     "link": "https://www.levidor.com.tr/siyah-fular-detayli-omuz-cantasi-47503",
     "videos": [],
     "productNotInStock": false,
@@ -2298,9 +3852,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.739Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 26,
+    "timestamp": "2025-12-22T05:56:05.965Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 45,
     "categories": {
       "productType": [
         "çanta",
@@ -2362,12 +3916,12 @@
     "id": "18e4af2311df069155b3e236090ff7359cec85e93b2d6737104627798c4c01d1",
     "title": "Siyah Kemer Detaylı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas-3bb9bd.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas-e-423f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas-45-40e.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas--fc1b0.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas-3bb9bd.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas-e-423f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas-45-40e.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas--fc1b0.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas-3bb9bd.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kemer-detayli-omuz-cantas-3bb9bd.jpg",
     "link": "https://www.levidor.com.tr/siyah-kemer-detayli-omuz-cantasi-46988",
     "videos": [],
     "productNotInStock": false,
@@ -2382,9 +3936,9 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.779Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 27,
+    "timestamp": "2025-12-22T05:56:06.011Z",
+    "processId": "mjgqt7hitthtu",
+    "index": 46,
     "categories": {
       "productType": [
         "çanta",
@@ -2446,13 +4000,13 @@
     "id": "1d9b0be3ae9fa7ab3e1fe8692963282128d12d2f413eeb921043ccf09c83e793",
     "title": "Siyah Metal Kilit Charmlı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--66-4d2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--8bbe46.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--88-d46.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--616636.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--a278-a.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--66-4d2.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--8bbe46.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--88-d46.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--616636.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--a278-a.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--66-4d2.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=475,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-metal-kilit-charmli-omuz--66-4d2.jpg",
     "link": "https://www.levidor.com.tr/siyah-metal-kilit-charmli-omuz-cantasi-47463",
     "videos": [],
     "productNotInStock": false,
@@ -2467,1594 +4021,16 @@
     },
     "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.822Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 28,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.180,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3180,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.180,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "a487bd7879dd1f522ea6ea19d8fbc47942cd154d97251a1b2eff40f7fdf7251e",
-    "title": "Kırmızı Deri Kapaklı Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-deri-kapak-aksesuarli-o-6-a217.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-deri-kapak-aksesuarli-o-5-b7aa.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-deri-kapak-aksesuarli-o-413-4c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-deri-kapak-aksesuarli-o-5-484a.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkirmizi-deri-kapak-aksesuarli-o-6-a217.jpg",
-    "link": "https://www.levidor.com.tr/kirmizi-deri-kapak-aksesuarli-omuz-cantasi-45959",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.863Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 29,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "kırmızı"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.780,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1780,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.780,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "048f0792ddd3f8a9a5a6fea6e0a1dbf12f66c9dce2cf0e50397dba25eea3ddf4",
-    "title": "Siyah Kilit Kapama Detaylı El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-kapama-detayli-el-c--a3a5c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-kapama-detayli-el-c-d2-432.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-kapama-detayli-el-c--4edb-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-kapama-detayli-el-c-462c-8.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-kapama-detayli-el-c--a3a5c.jpg",
-    "link": "https://www.levidor.com.tr/siyah-kilit-kapama-detayli-el-cantasi-46383",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.901Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 30,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.180,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3180,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.180,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "35d869d4ef07a262a72a09f38519660f8229c249d5bd5d51c7486679f320e3ab",
-    "title": "Siyah Baskı Detaylı Büyük El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-baski-detayli-buyuk-el-ca-0f5f-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-baski-detayli-buyuk-el-ca-795e54.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-baski-detayli-buyuk-el-ca--4895-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-baski-detayli-buyuk-el-ca-97d408.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-baski-detayli-buyuk-el-ca-0f5f-4.jpg",
-    "link": "https://www.levidor.com.tr/siyah-baski-detayli-buyuk-el-cantasi-46336",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.945Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 31,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "baskılı çanta",
-        "büyük çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "baskılı çanta",
-        "baskılı",
-        "baskili",
-        "baskı",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.780,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3780,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.780,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d97943b6475f063a212f3b567e4882914af174a1263aaab12faa27b633b511f5",
-    "title": "Pudra Baskılı Yatay Zincirli Cüzdan",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorpudra-baskili-yatay-zincirli-cu-df3-b8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorpudra-baskili-yatay-zincirli-cu-95-b47.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorpudra-baskili-yatay-zincirli-cu-8351d-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorpudra-baskili-yatay-zincirli-cu-bf6-7b.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorpudra-baskili-yatay-zincirli-cu-df3-b8.jpg",
-    "link": "https://www.levidor.com.tr/pudra-baskili-yatay-zincirli-cuzdan-47136",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:02.991Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 32,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "color": [
-        "pudra"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "pudra"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "349,90 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 349.9,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺349,90"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "4d73d834d3d593c1b4a486bc1cdcdf3bb610a9e6fc62e2677378cd1010bcf4d7",
-    "title": "Lacivert Deri Kapaklı Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapak-aksesuarli--2bbe5c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapak-aksesuarli--af58-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapak-aksesuarli--3-9e6b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapak-aksesuarli---2b07-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-kapak-aksesuarli--2bbe5c.jpg",
-    "link": "https://www.levidor.com.tr/lacivert-deri-kapak-aksesuarli-omuz-cantasi-45957",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.036Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 33,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "lacivert"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "lacivert"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.780,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1780,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.780,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "f4096a0022f425ad65e2ea774e772d82043e12657dcb0b3417183dbd221a7bc9",
-    "title": "Siyah Logo Tokalı Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-logo-tokali-omuz-cantasi-8-9dcb.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-logo-tokali-omuz-cantasi-899-9a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-logo-tokali-omuz-cantasi-ceb-b9.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-logo-tokali-omuz-cantasi-19bfb7.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-logo-tokali-omuz-cantasi-8-9dcb.jpg",
-    "link": "https://www.levidor.com.tr/siyah-logo-tokali-omuz-cantasi-46150",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.080Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 34,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.780,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2780,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.780,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "e20a1f7a2b92f79793124a8a964e6bb6e33ff1f43980ccddf39ce82b39cb714b",
-    "title": "Siyah Yuvarlak Tokalı El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-tokali-el-cantas-c-3385.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-tokali-el-cantas-b-2714.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-tokali-el-cantas-a3581-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-tokali-el-cantas-9d619b.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yuvarlak-tokali-el-cantas-c-3385.jpg",
-    "link": "https://www.levidor.com.tr/siyah-yuvarlak-tokali-el-cantasi-46488",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.125Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 35,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.972,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1972,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.972,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "d8764a8183c374a1a8597c61adfec566698d2d378add6e50ac44fd7a2e3dfbf1",
-    "title": "Siyah Örgü Dokulu El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-orgu-dokulu-el-cantasi-195457.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-orgu-dokulu-el-cantasi--b753-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-orgu-dokulu-el-cantasi--4d5b-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-orgu-dokulu-el-cantasi-e50c66.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-orgu-dokulu-el-cantasi-195457.jpg",
-    "link": "https://www.levidor.com.tr/siyah-orgu-dokulu-el-cantasi-46567",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.160Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 36,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "okul çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "okul çantası",
-        "okul",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.590,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1590,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.590,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "555b759fddaf052febad779b5387852d6f0955c41162553b904f23d291ec53c7",
-    "title": "Krem Çift Fermuarlı Ayarlanabilir Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-cift-fermuarli-ayarlanabil-7be1c8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-cift-fermuarli-ayarlanabil-49d-40.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-cift-fermuarli-ayarlanabil-d5bf2b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-cift-fermuarli-ayarlanabil-bcfc37.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorkrem-cift-fermuarli-ayarlanabil-7be1c8.jpg",
-    "link": "https://www.levidor.com.tr/krem-cift-fermuarli-ayarlanabilir-omuz-cantasi-47438",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.200Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 37,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "fermuarlı çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "fermuarlı çanta",
-        "fermuarlı"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.390,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1390,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.390,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "b99c35570e9ab90eebeeecfb57eb657194f869ab51a3d4ed810113d524952e36",
-    "title": "Siyah Yassı Model El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yassi-model-el-cantasi-0bf413.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yassi-model-el-cantasi-8c8419.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yassi-model-el-cantasi-05ff99.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yassi-model-el-cantasi-15b1ff.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yassi-model-el-cantasi-0bf413.jpg",
-    "link": "https://www.levidor.com.tr/siyah-yassi-model-el-cantasi-47830",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.249Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 38,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.760,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1760,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.760,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "0d6b661b102831dd49f21cd9e2256f42f4e027b31aedcc8c1e2a8dd1e4137b80",
-    "title": "Siyah Büzgü Detay Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-ucgen-kilit-detayli-omuz--f2-499.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-ucgen-kilit-detayli-omuz--f60-99.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-ucgen-kilit-detayli-omuz--d8d48c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-ucgen-kilit-detayli-omuz--818-f1.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-ucgen-kilit-detayli-omuz--1b-a0a.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-ucgen-kilit-detayli-omuz--f2-499.jpg",
-    "link": "https://www.levidor.com.tr/siyah-ucgen-kilit-detayli-omuz-cantasi-38796",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.297Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 39,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.599,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1599,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.599,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "405320c220a1900693c8470923c9cdd59f04843811b01e04c65bd3b6784168be",
-    "title": "Siyah Aksesuar Detaylı Büyük El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-detayli-buyuk-el-71e42c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-detayli-buyuk-el-7ea2-5.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-detayli-buyuk-el--a551a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-detayli-buyuk-el-18afb9.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-detayli-buyuk-el-d98219.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-aksesuar-detayli-buyuk-el-71e42c.jpg",
-    "link": "https://www.levidor.com.tr/siyah-aksesuar-detayli-buyuk-el-cantasi-45252",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.341Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 40,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "büyük çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.580,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3580,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.580,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "2b2d30b7a6b8ea72fd323c3ddc26c9886784b4a8bb0c119fb95fef8ad8ac20fd",
-    "title": "Siyah Kilit Çevirmeli Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-cevirmeli-omuz-cant-70ef46.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-cevirmeli-omuz-cant-4-ae49.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-cevirmeli-omuz-cant--926c-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-cevirmeli-omuz-cant-ba-4c2.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-kilit-cevirmeli-omuz-cant-70ef46.jpg",
-    "link": "https://www.levidor.com.tr/siyah-kilit-cevirmeli-omuz-cantasi-38806",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.387Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 41,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.599,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1599,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.599,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "2b54e0a6330aa865c36b6b5619be76606655206b5cc968b4c0755bf7786a2545",
-    "title": "Siyah Dikey Şerit Detaylı Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-dikey-serit-detatyli-omuz-bd01-9.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-dikey-serit-detatyli-omuz-9adc-f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-dikey-serit-detatyli-omuz-5a-2ed.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-dikey-serit-detatyli-omuz--4962-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-dikey-serit-detatyli-omuz-bd01-9.jpg",
-    "link": "https://www.levidor.com.tr/siyah-dikey-serit-detatyli-omuz-cantasi-44679",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.427Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 42,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "799,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 799,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺799,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "64ca93acc1d16ecef6418288adbef0d3d65d3f869ca9583e7c590d94efb441e1",
-    "title": "Lacivert Deri Askılı Tote Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-askili-tote-omuz--a065-2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-askili-tote-omuz--6-fe23.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-askili-tote-omuz--c38-94.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-askili-tote-omuz--0e4a0-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorlacivert-deri-askili-tote-omuz--a065-2.jpg",
-    "link": "https://www.levidor.com.tr/lacivert-deri-askili-tote-omuz-cantasi-45362",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.464Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 43,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "tote çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "lacivert"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "tote çanta",
-        "tote",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "floater deri çanta",
-        "floater",
-        "lacivert"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.780,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1780,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.780,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "fdd0a59214c1442f98660e5787180cce5660a8e0d14024df6241c98ac555bed6",
-    "title": "Siyah Trend Askılı El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-trend-askili-omuz-cantasi-a51be2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-trend-askili-omuz-cantasi-a7-bc8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-trend-askili-omuz-cantasi-40ea-b.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-trend-askili-omuz-cantasi-5-80b2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-trend-askili-omuz-cantasi-eeeef6.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-trend-askili-omuz-cantasi-a51be2.jpg",
-    "link": "https://www.levidor.com.tr/siyah-trend-askili-omuz-cantasi-32661",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.507Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 44,
-    "categories": {
-      "productType": [
-        "çanta",
-        "el çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "el çantası",
-        "el",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "849,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 849,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺849,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "7fb9154d569cfb810d1f4913e418abd2bfc7ff4cbd811bb689c3f1b86d4ba6f6",
-    "title": "Siyah Benek Detay Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-benek-detay-omuz-cantasi-3763f4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-benek-detay-omuz-cantasi-a17b19.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-benek-detay-omuz-cantasi-1-8fec.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-benek-detay-omuz-cantasi-7bc8ff.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-benek-detay-omuz-cantasi-92-835.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-benek-detay-omuz-cantasi-3763f4.jpg",
-    "link": "https://www.levidor.com.tr/siyah-benek-detay-omuz-cantasi-39063",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.551Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 45,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.300,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3300,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.300,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "657c3e571318f56ca260932fc9570866273b6f4529e8fa2741303ff80c1fa91c",
-    "title": "Siyah Yarım Ay Model Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yarim-ay-model-omuz-canta-0dab3c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yarim-ay-model-omuz-canta-01d601.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yarim-ay-model-omuz-canta-ba4-f4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yarim-ay-model-omuz-canta--b7cb8.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-yarim-ay-model-omuz-canta-0dab3c.jpg",
-    "link": "https://www.levidor.com.tr/siyah-yarim-ay-model-omuz-cantasi-39220",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.595Z",
-    "processId": "mj6qsrjxh9usj",
-    "index": 46,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": false,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.599,00 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1599,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.599,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "e3aef69cbdca7f9405c860013a69abe5fb0e200a279974e3317d6f0ac3eb5f11",
-    "title": "Siyah Büyük Saten Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-buyuk-saten-canta-9dc6-2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-buyuk-saten-canta-3-842c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-buyuk-saten-canta-61805d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-buyuk-saten-canta-b9e4d0.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=855,quality=85/59645/uploads/urunresimleri/buyuk/levidorsiyah-buyuk-saten-canta-9dc6-2.jpg",
-    "link": "https://www.levidor.com.tr/siyah-buyuk-saten-canta-39521",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık ve Modern Kadın Çantaları 2026 - Levidor",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:58:03.642Z",
-    "processId": "mj6qsrjxh9usj",
+    "timestamp": "2025-12-22T05:56:06.051Z",
+    "processId": "mjgqt7hitthtu",
     "index": 47,
     "categories": {
       "productType": [
         "çanta",
-        "büyük çanta"
+        "omuz çantası"
       ],
       "color": [
-        "siyah",
-        "bej"
+        "siyah"
       ]
     },
     "seo": {
@@ -4063,14 +4039,12 @@
         "çantası",
         "bag",
         "çantasi",
-        "büyük çanta",
-        "büyük",
-        "large",
-        "big",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
         "siyah",
-        "black",
-        "bej",
-        "ten"
+        "black"
       ]
     },
     "imgValid": true,
@@ -4086,16 +4060,16 @@
     "priceAnalysis": {
       "parsedPrices": [
         {
-          "value": "999,00 TL",
+          "value": "3.180,00 TL",
           "selector": ".discountPrice .discountPriceSpan",
           "attribute": "textContent",
           "isJavaScript": false,
           "isShadowDOM": false,
           "currency": "TL",
-          "numericValue": 999,
+          "numericValue": 3180,
           "unsetPrice": false,
           "convertedPrice": null,
-          "displayPrice": "₺999,00"
+          "displayPrice": "₺3.180,00"
         }
       ],
       "priceValid": true,
