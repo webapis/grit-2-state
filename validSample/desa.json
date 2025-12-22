@@ -20,8 +20,8 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.308Z",
-    "processId": "mj6pe3pc5vygj",
+    "timestamp": "2025-12-22T05:18:00.529Z",
+    "processId": "mjgpg9yn2vofm",
     "index": 0,
     "categories": {
       "productType": [
@@ -118,8 +118,8 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.344Z",
-    "processId": "mj6pe3pc5vygj",
+    "timestamp": "2025-12-22T05:18:00.567Z",
+    "processId": "mjgpg9yn2vofm",
     "index": 1,
     "categories": {
       "productType": [
@@ -214,8 +214,8 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.380Z",
-    "processId": "mj6pe3pc5vygj",
+    "timestamp": "2025-12-22T05:18:00.603Z",
+    "processId": "mjgpg9yn2vofm",
     "index": 2,
     "categories": {
       "productType": [
@@ -309,8 +309,8 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.409Z",
-    "processId": "mj6pe3pc5vygj",
+    "timestamp": "2025-12-22T05:18:00.639Z",
+    "processId": "mjgpg9yn2vofm",
     "index": 3,
     "categories": {
       "productType": [
@@ -394,6 +394,96 @@
     }
   },
   {
+    "id": "37834a2f15b77d9b5fb2a0135eea251c0485198a54d7989117e8693bbc3eb50c",
+    "title": "Kadın Siyah Deri Hobo Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=1050,quality=88,format=webp/72015/Uploads/UrunResimleri/buyuk/kadin-siyah-deri-hobo-canta-82879a.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=1050,quality=88,format=webp/72015/Uploads/UrunResimleri/buyuk/kadin-siyah-deri-hobo-canta-82879a.jpg",
+    "link": "https://www.desa.com.tr/kadin-siyah-deri-omuz-cantasi-35881",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
+    "pageURL": "https://www.desa.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:18:00.675Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "floater deri çanta",
+        "hobo çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "hobo çanta",
+        "hobo",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "13.990 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 13990,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺13.990,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "cc148dce4be747d61eca75a0ea936770b709e9c24631f438d37271a02201ce4a",
     "title": "Kadın Siyah Omuz Çantası",
     "img": [
@@ -414,9 +504,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.445Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 4,
+    "timestamp": "2025-12-22T05:18:00.710Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 5,
     "categories": {
       "productType": [
         "çanta",
@@ -479,12 +569,59 @@
     }
   },
   {
+    "id": "8684c6b067ccf3d60822fa9c0a29f4080130ae89397b868f6492a12d7fc80d1f",
+    "title": "PRODUCT LIST BANNER",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.desa.com.tr/kadin-ayakkabi",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
+    "pageURL": "https://www.desa.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:18:00.743Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 6,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": []
+    },
+    "imgValid": false,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": false,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [],
+      "priceValid": false,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "bebdc84b4d3e3ba3617da9dff7c93504e1dbbb031d8f3cf901670b82eab3d85b",
     "title": "Kadın Taba Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=1050,quality=88,format=webp/72015/Uploads/UrunResimleri/buyuk/de-sn12480-aw25-kadin-omuz-cantasi--ae9e4.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=932,quality=85/72015/uploads/urunresimleri/buyuk/de-sn12480-aw25-kadin-omuz-cantasi--ae9e4.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=1050,quality=88,format=webp/72015/Uploads/UrunResimleri/buyuk/de-sn12480-aw25-kadin-omuz-cantasi--ae9e4.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=932,quality=85/72015/uploads/urunresimleri/buyuk/de-sn12480-aw25-kadin-omuz-cantasi--ae9e4.jpg",
     "link": "https://www.desa.com.tr/de-sn12480-aw25-kadin-omuz-cantasi-40141",
     "videos": [],
     "productNotInStock": false,
@@ -499,9 +636,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.483Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 5,
+    "timestamp": "2025-12-22T05:18:00.780Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 7,
     "categories": {
       "productType": [
         "çanta",
@@ -567,11 +704,13 @@
     }
   },
   {
-    "id": "8684c6b067ccf3d60822fa9c0a29f4080130ae89397b868f6492a12d7fc80d1f",
-    "title": "PRODUCT LIST BANNER",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.desa.com.tr/kadin-ayakkabi",
+    "id": "983d3d30a9b6412324bdab880789ef47b74c4d8788cdb9c1fa1b4ace51841af8",
+    "title": "Kadın Yeşil Cüzdan Aksesuarlı Deri Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/de-12944-aw25-kadin-omuz-cantasi-9422-9.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/de-12944-aw25-kadin-omuz-cantasi-9422-9.jpg",
+    "link": "https://www.desa.com.tr/de-12944-aw25-kadin-omuz-cantasi-46151",
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -580,35 +719,77 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.515Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 6,
+    "timestamp": "2025-12-22T05:18:00.819Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 8,
     "categories": {
       "productType": [
-        "none"
+        "çanta",
+        "omuz çantası",
+        "deri çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "yeşil"
+      ],
+      "gender": [
+        "kadın"
       ]
     },
     "seo": {
-      "keywords": []
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "deri çanta",
+        "leather",
+        "deri",
+        "floater deri çanta",
+        "floater",
+        "yeşil",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
     },
-    "imgValid": false,
+    "imgValid": true,
     "videoValid": false,
     "mediaType": "image",
     "imageAnalysis": {
-      "isDuplicate": false,
+      "isDuplicate": true,
       "duplicateOf": []
     },
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceAnalysis": {
-      "parsedPrices": [],
-      "priceValid": false,
+      "parsedPrices": [
+        {
+          "value": "13.590 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 13590,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺13.590,00"
+        }
+      ],
+      "priceValid": true,
       "priceisUnset": false,
       "priceScrapeError": false
     }
@@ -617,9 +798,9 @@
     "id": "183583479a7fe838f2ec561496b7d8e1bf79a35518301fea96d1147146c9d236",
     "title": "Kadın Siyah Deri Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=932,quality=85/72015/uploads/urunresimleri/buyuk/de-12938-aw25-kadin-omuz-cantasi-74f282.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/de-12938-aw25-kadin-omuz-cantasi-74f282.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=932,quality=85/72015/uploads/urunresimleri/buyuk/de-12938-aw25-kadin-omuz-cantasi-74f282.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/de-12938-aw25-kadin-omuz-cantasi-74f282.jpg",
     "link": "https://www.desa.com.tr/de-12938-aw25-kadin-omuz-cantasi-46176",
     "videos": [],
     "productNotInStock": false,
@@ -634,9 +815,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.554Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 7,
+    "timestamp": "2025-12-22T05:18:00.857Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 9,
     "categories": {
       "productType": [
         "çanta",
@@ -726,9 +907,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.593Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 8,
+    "timestamp": "2025-12-22T05:18:00.889Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 10,
     "categories": {
       "productType": [
         "çanta",
@@ -821,9 +1002,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.630Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 9,
+    "timestamp": "2025-12-22T05:18:00.925Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 11,
     "categories": {
       "productType": [
         "çanta",
@@ -916,9 +1097,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.667Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 10,
+    "timestamp": "2025-12-22T05:18:00.961Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 12,
     "categories": {
       "productType": [
         "çanta",
@@ -1008,9 +1189,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.702Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 11,
+    "timestamp": "2025-12-22T05:18:00.994Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 13,
     "categories": {
       "productType": [
         "çanta",
@@ -1106,9 +1287,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.738Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 12,
+    "timestamp": "2025-12-22T05:18:01.030Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 14,
     "categories": {
       "productType": [
         "çanta",
@@ -1204,9 +1385,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.774Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 13,
+    "timestamp": "2025-12-22T05:18:01.065Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 15,
     "categories": {
       "productType": [
         "çanta",
@@ -1299,9 +1480,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.809Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 14,
+    "timestamp": "2025-12-22T05:18:01.102Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 16,
     "categories": {
       "productType": [
         "çanta",
@@ -1390,9 +1571,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.847Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 15,
+    "timestamp": "2025-12-22T05:18:01.137Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 17,
     "categories": {
       "productType": [
         "çanta",
@@ -1482,9 +1663,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.883Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 16,
+    "timestamp": "2025-12-22T05:18:01.173Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 18,
     "categories": {
       "productType": [
         "none"
@@ -1550,9 +1731,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.921Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 17,
+    "timestamp": "2025-12-22T05:18:01.205Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 19,
     "categories": {
       "productType": [
         "çanta",
@@ -1643,9 +1824,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.962Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 18,
+    "timestamp": "2025-12-22T05:18:01.241Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 20,
     "categories": {
       "productType": [
         "çanta",
@@ -1736,9 +1917,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:37.999Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 19,
+    "timestamp": "2025-12-22T05:18:01.281Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 21,
     "categories": {
       "productType": [
         "çanta",
@@ -1831,9 +2012,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.034Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 20,
+    "timestamp": "2025-12-22T05:18:01.316Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 22,
     "categories": {
       "productType": [
         "çanta",
@@ -1923,9 +2104,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.070Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 21,
+    "timestamp": "2025-12-22T05:18:01.353Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 23,
     "categories": {
       "productType": [
         "çanta",
@@ -2029,9 +2210,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.106Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 22,
+    "timestamp": "2025-12-22T05:18:01.389Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 24,
     "categories": {
       "productType": [
         "çanta",
@@ -2135,9 +2316,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.142Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 23,
+    "timestamp": "2025-12-22T05:18:01.425Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 25,
     "categories": {
       "productType": [
         "çanta",
@@ -2238,9 +2419,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.178Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 24,
+    "timestamp": "2025-12-22T05:18:01.461Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 26,
     "categories": {
       "productType": [
         "çanta",
@@ -2341,9 +2522,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.218Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 25,
+    "timestamp": "2025-12-22T05:18:01.497Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 27,
     "categories": {
       "productType": [
         "çanta",
@@ -2448,9 +2629,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.253Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 26,
+    "timestamp": "2025-12-22T05:18:01.534Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 28,
     "categories": {
       "productType": [
         "çanta",
@@ -2560,9 +2741,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.286Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 27,
+    "timestamp": "2025-12-22T05:18:01.567Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 29,
     "categories": {
       "productType": [
         "çanta",
@@ -2669,9 +2850,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.322Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 28,
+    "timestamp": "2025-12-22T05:18:01.604Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 30,
     "categories": {
       "productType": [
         "çanta",
@@ -2762,9 +2943,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.359Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 29,
+    "timestamp": "2025-12-22T05:18:01.644Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 31,
     "categories": {
       "productType": [
         "çanta",
@@ -2864,9 +3045,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.397Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 30,
+    "timestamp": "2025-12-22T05:18:01.677Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 32,
     "categories": {
       "productType": [
         "çanta",
@@ -2963,9 +3144,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.435Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 31,
+    "timestamp": "2025-12-22T05:18:01.713Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 33,
     "categories": {
       "productType": [
         "çanta",
@@ -3069,9 +3250,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.470Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 32,
+    "timestamp": "2025-12-22T05:18:01.749Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 34,
     "categories": {
       "productType": [
         "çanta",
@@ -3177,9 +3358,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.507Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 33,
+    "timestamp": "2025-12-22T05:18:01.787Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 35,
     "categories": {
       "productType": [
         "çanta",
@@ -3275,9 +3456,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.542Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 34,
+    "timestamp": "2025-12-22T05:18:01.820Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 36,
     "categories": {
       "productType": [
         "çanta",
@@ -3383,9 +3564,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.580Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 35,
+    "timestamp": "2025-12-22T05:18:01.856Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 37,
     "categories": {
       "productType": [
         "çanta",
@@ -3494,9 +3675,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.611Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 36,
+    "timestamp": "2025-12-22T05:18:01.894Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 38,
     "categories": {
       "productType": [
         "çanta",
@@ -3591,9 +3772,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.653Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 37,
+    "timestamp": "2025-12-22T05:18:01.930Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 39,
     "categories": {
       "productType": [
         "çanta",
@@ -3703,9 +3884,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.690Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 38,
+    "timestamp": "2025-12-22T05:18:01.970Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 40,
     "categories": {
       "productType": [
         "çanta",
@@ -3791,104 +3972,6 @@
     }
   },
   {
-    "id": "8f04b12e95edb31a95ce139728e73c910ce0727d57cbb1bedbf5e4b425c4a7ec",
-    "title": "Kadın Vizon Omuz Askılı El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/ynk-0001-aw25-kadin-omuz-cantasi-64aa46.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/ynk-0001-aw25-kadin-omuz-cantasi-64aa46.jpg",
-    "link": "https://www.desa.com.tr/ynk-0001-aw25-kadin-omuz-cantasi-46545",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
-    "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.723Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 39,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "el çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "vizon"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "el çantası",
-        "el",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "vizon",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "4.190 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 4190,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺4.190,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "0426a76e70718d0db135663352b6d49eb17e27ef7d0aaf3226e0b80fd7d6ace7",
     "title": "Kadın Kahve Omuz Askılı Deri El Çantası",
     "img": [
@@ -3909,9 +3992,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.761Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 40,
+    "timestamp": "2025-12-22T05:18:02.006Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 41,
     "categories": {
       "productType": [
         "çanta",
@@ -3998,91 +4081,6 @@
     }
   },
   {
-    "id": "ad85560fc505deaa87bb11b795c51fae8f14fcc8beeea9f63a1907b39b63087f",
-    "title": "Kadın Siyah Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/brb-2000-aw25-kadin-omuz-cantasi-5d02db.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/brb-2000-aw25-kadin-omuz-cantasi-5d02db.jpg",
-    "link": "https://www.desa.com.tr/brb-2000-aw25-kadin-omuz-cantasi-38116",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
-    "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.798Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 41,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "2.690 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 2690,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺2.690,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "216dec1ca33e63bf36e4efaffcacc9bd1204ce6ffcb4dcab50dc85e8adef693e",
     "title": "Kadın Lacivert Püskül Aksesuarlı Omuz Askılı El Çantası",
     "img": [
@@ -4103,8 +4101,8 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.836Z",
-    "processId": "mj6pe3pc5vygj",
+    "timestamp": "2025-12-22T05:18:02.041Z",
+    "processId": "mjgpg9yn2vofm",
     "index": 42,
     "categories": {
       "productType": [
@@ -4181,206 +4179,6 @@
     }
   },
   {
-    "id": "3f9772a856ea1d80a2635945b71333440be8e1a1249e7a5456d8a051c514d823",
-    "title": "Kadın Vizon Püskül Aksesuarlı Omuz Askılı El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/ynk-0002-aw25-kadin-omuz-cantasi-6-ec89.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/ynk-0002-aw25-kadin-omuz-cantasi-6-ec89.jpg",
-    "link": "https://www.desa.com.tr/ynk-0002-aw25-kadin-omuz-cantasi-46512",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
-    "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.875Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 43,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "el çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "vizon"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "el çantası",
-        "el",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "vizon",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.990 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3990,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.990,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
-    "id": "e3db687324246f960f6da0f8d642d39787c487b22176ad9ec748a91bf0013c05",
-    "title": "Kadın Kahve Püskül Aksesuarlı Omuz Askılı El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/ynk-0002-aw25-kadin-omuz-cantasi-9e9-04.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/ynk-0002-aw25-kadin-omuz-cantasi-9e9-04.jpg",
-    "link": "https://www.desa.com.tr/ynk-0002-aw25-kadin-omuz-cantasi-46513",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
-    "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.912Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 44,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "el çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "el çantası",
-        "el",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "3.990 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 3990,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺3.990,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "ab980fecc6283e3dd77f34ad1be0910348f6a9bbd7c921a194697c7299987a3c",
     "title": "Kadın Siyah Kroko Baskılı Rugan Deri El Çantası",
     "img": [
@@ -4401,9 +4199,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.950Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 45,
+    "timestamp": "2025-12-22T05:18:02.073Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 43,
     "categories": {
       "productType": [
         "çanta",
@@ -4507,9 +4305,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:38.986Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 46,
+    "timestamp": "2025-12-22T05:18:02.108Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 44,
     "categories": {
       "productType": [
         "çanta",
@@ -4619,9 +4417,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.026Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 47,
+    "timestamp": "2025-12-22T05:18:02.143Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 45,
     "categories": {
       "productType": [
         "çanta",
@@ -4712,9 +4510,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.063Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 48,
+    "timestamp": "2025-12-22T05:18:02.178Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 46,
     "categories": {
       "productType": [
         "çanta",
@@ -4811,9 +4609,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.100Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 49,
+    "timestamp": "2025-12-22T05:18:02.213Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 47,
     "categories": {
       "productType": [
         "çanta",
@@ -4895,9 +4693,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.138Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 50,
+    "timestamp": "2025-12-22T05:18:02.249Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 48,
     "categories": {
       "productType": [
         "çanta",
@@ -4985,9 +4783,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.176Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 51,
+    "timestamp": "2025-12-22T05:18:02.289Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 49,
     "categories": {
       "productType": [
         "çanta",
@@ -5080,9 +4878,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.211Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 52,
+    "timestamp": "2025-12-22T05:18:02.324Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 50,
     "categories": {
       "productType": [
         "çanta",
@@ -5168,9 +4966,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.244Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 53,
+    "timestamp": "2025-12-22T05:18:02.358Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 51,
     "categories": {
       "productType": [
         "çanta",
@@ -5253,9 +5051,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.281Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 54,
+    "timestamp": "2025-12-22T05:18:02.397Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 52,
     "categories": {
       "productType": [
         "çanta",
@@ -5348,9 +5146,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.315Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 55,
+    "timestamp": "2025-12-22T05:18:02.436Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 53,
     "categories": {
       "productType": [
         "çanta",
@@ -5426,6 +5224,89 @@
     }
   },
   {
+    "id": "1b96a9eddfe3d448d5674420c270851fabcc88a92bb8d619f2faeafd142fc15e",
+    "title": "Kadın Siyah Postacı Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/kadin-siyah-postaci-cantasi-c-7c83.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/kadin-siyah-postaci-cantasi-c-7c83.jpg",
+    "link": "https://www.desa.com.tr/de-sn12620-ss25-kadin-postaci-cantasi-41239",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
+    "pageURL": "https://www.desa.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:18:02.466Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 54,
+    "categories": {
+      "productType": [
+        "çanta",
+        "postacı çantası"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "postacı çantası",
+        "postacı",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.992 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3992,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.992,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
     "id": "325d6c606b9ead081a6c2c657ff8f592bb4d8ae12c8d33311605647817ec35ec",
     "title": "Kadın Bordo Kroko Baskılı Mini Rugan Deri El Çantası",
     "img": [
@@ -5446,9 +5327,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.352Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 56,
+    "timestamp": "2025-12-22T05:18:02.501Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 55,
     "categories": {
       "productType": [
         "çanta",
@@ -5554,9 +5435,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.387Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 57,
+    "timestamp": "2025-12-22T05:18:02.540Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 56,
     "categories": {
       "productType": [
         "çanta",
@@ -5649,9 +5530,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.423Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 58,
+    "timestamp": "2025-12-22T05:18:02.576Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 57,
     "categories": {
       "productType": [
         "çanta",
@@ -5741,9 +5622,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.462Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 59,
+    "timestamp": "2025-12-22T05:18:02.614Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 58,
     "categories": {
       "productType": [
         "çanta",
@@ -5848,9 +5729,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.503Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 60,
+    "timestamp": "2025-12-22T05:18:02.650Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 59,
     "categories": {
       "productType": [
         "çanta",
@@ -5959,9 +5840,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.538Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 61,
+    "timestamp": "2025-12-22T05:18:02.686Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 60,
     "categories": {
       "productType": [
         "çanta",
@@ -6052,9 +5933,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.578Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 62,
+    "timestamp": "2025-12-22T05:18:02.721Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 61,
     "categories": {
       "productType": [
         "çanta",
@@ -6163,9 +6044,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.615Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 63,
+    "timestamp": "2025-12-22T05:18:02.759Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 62,
     "categories": {
       "productType": [
         "çanta",
@@ -6254,9 +6135,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.649Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 64,
+    "timestamp": "2025-12-22T05:18:02.792Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 63,
     "categories": {
       "productType": [
         "çanta",
@@ -6340,112 +6221,6 @@
     }
   },
   {
-    "id": "c7a542905b46c86f7b509317532039866347ebad1471d05797206a44660499af",
-    "title": "Kadın Siyah Taşlı Gümüş Omuz Askılı Gece El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/sn-dvd18-aw25-kadin-gece-cantasi-665-a6.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/sn-dvd18-aw25-kadin-gece-cantasi-665-a6.jpg",
-    "link": "https://www.desa.com.tr/sn-dvd18-aw25-kadin-gece-cantasi-46648",
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
-    "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.687Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 65,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "el çantası",
-        "gece çantası",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah",
-        "gümüş/silver"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "el çantası",
-        "el",
-        "gece çantası",
-        "gece",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black",
-        "gümüş/silver",
-        "gümüş",
-        "silver",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    },
-    "imgValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "imageAnalysis": {
-      "isDuplicate": true,
-      "duplicateOf": []
-    },
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceAnalysis": {
-      "parsedPrices": [
-        {
-          "value": "1.752 TL",
-          "selector": ".discountPrice .discountPriceSpan",
-          "attribute": "textContent",
-          "isJavaScript": false,
-          "isShadowDOM": false,
-          "currency": "TL",
-          "numericValue": 1752,
-          "unsetPrice": false,
-          "convertedPrice": null,
-          "displayPrice": "₺1.752,00"
-        }
-      ],
-      "priceValid": true,
-      "priceisUnset": false,
-      "priceScrapeError": false
-    }
-  },
-  {
     "id": "0d1110d65355551b9df3d97e6d241aca0e43ed81f207c5dee424df2e1d26ebe7",
     "title": "Kadın Antrasit Taşlı Gold Omuz Askılı Gece El Çantası",
     "img": [
@@ -6466,9 +6241,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.720Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 66,
+    "timestamp": "2025-12-22T05:18:02.828Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 64,
     "categories": {
       "productType": [
         "çanta",
@@ -6573,9 +6348,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.753Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 67,
+    "timestamp": "2025-12-22T05:18:02.867Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 65,
     "categories": {
       "productType": [
         "çanta",
@@ -6668,9 +6443,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.789Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 68,
+    "timestamp": "2025-12-22T05:18:02.901Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 66,
     "categories": {
       "productType": [
         "çanta",
@@ -6774,9 +6549,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.823Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 69,
+    "timestamp": "2025-12-22T05:18:02.937Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 67,
     "categories": {
       "productType": [
         "çanta",
@@ -6877,9 +6652,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.859Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 70,
+    "timestamp": "2025-12-22T05:18:02.976Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 68,
     "categories": {
       "productType": [
         "çanta",
@@ -6980,9 +6755,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.895Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 71,
+    "timestamp": "2025-12-22T05:18:03.010Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 69,
     "categories": {
       "productType": [
         "çanta",
@@ -7070,9 +6845,9 @@
     },
     "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
     "pageURL": "https://www.desa.com.tr/kadin-canta",
-    "timestamp": "2025-12-15T05:18:39.931Z",
-    "processId": "mj6pe3pc5vygj",
-    "index": 72,
+    "timestamp": "2025-12-22T05:18:03.045Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 70,
     "categories": {
       "productType": [
         "çanta",
@@ -7150,6 +6925,179 @@
           "unsetPrice": false,
           "convertedPrice": null,
           "displayPrice": "₺17.290,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "fd30b7da2de5ed9e5706a5bd1450dcf3aa1083484f63bd673d604cdb2f30d0ed",
+    "title": "Kadın Siyah Yıldız / Kalp Charm Aksesuarlı Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/sho-0103-aw25-kadin-postaci-cantasi--c6aa1.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/sho-0103-aw25-kadin-postaci-cantasi--c6aa1.jpg",
+    "link": "https://www.desa.com.tr/sho-0103-aw25-kadin-postaci-cantasi-39050",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
+    "pageURL": "https://www.desa.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:18:03.080Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 71,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.990 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3990,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.990,00"
+        }
+      ],
+      "priceValid": true,
+      "priceisUnset": false,
+      "priceScrapeError": false
+    }
+  },
+  {
+    "id": "c39eab6a9fe9e1e6f921a6fda9cd43ee6221bbd5a3ba52a4a68cd68d80e3e4ed",
+    "title": "Kadın Taba Yıldız / Kalp Charm Aksesuarlı Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/sho-0103-aw25-kadin-postaci-cantasi-09af0b.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=618,quality=85/72015/uploads/urunresimleri/buyuk/sho-0103-aw25-kadin-postaci-cantasi-09af0b.jpg",
+    "link": "https://www.desa.com.tr/sho-0103-aw25-kadin-postaci-cantasi-40159",
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Deri Çanta Modelleri ve Fiyatları | Desa",
+    "pageURL": "https://www.desa.com.tr/kadin-canta",
+    "timestamp": "2025-12-22T05:18:03.115Z",
+    "processId": "mjgpg9yn2vofm",
+    "index": 72,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    },
+    "imgValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "imageAnalysis": {
+      "isDuplicate": true,
+      "duplicateOf": []
+    },
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceAnalysis": {
+      "parsedPrices": [
+        {
+          "value": "3.990 TL",
+          "selector": ".discountPrice .discountPriceSpan",
+          "attribute": "textContent",
+          "isJavaScript": false,
+          "isShadowDOM": false,
+          "currency": "TL",
+          "numericValue": 3990,
+          "unsetPrice": false,
+          "convertedPrice": null,
+          "displayPrice": "₺3.990,00"
         }
       ],
       "priceValid": true,
